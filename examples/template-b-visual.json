@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "id": "b-product-unbox",
+  "topic": "제품 개봉 및 결과 강조",
+  "language": "ko",
+  "platform": "tiktok",
+  "template": "B",
+  "aspect_ratio": "9:16",
+  "duration_sec": 18,
+  "canvas": {
+    "width": 1080, "height": 1920, "fps": 30,
+    "safe_area": { "top": 250, "bottom": 250, "left": 60, "right": 60 }
+  },
+  "hook": { "text": "결과부터 봅니다", "position": "top_safe", "start": 0.0, "end": 1.5, "lines": 1 },
+  "shots": [
+    { "index": 0, "start": 0.0, "end": 1.5, "visual_type": "result", "visual_source": { "kind": "asset", "path": "assets/final_shot.mp4" }, "framing": "closeup", "subject_position": "center", "caption": "완성", "caption_position": "lower_safe", "caption_role": "body_text", "motion": "zoom_in", "transition_in": "cut", "purpose": "hook" },
+    { "index": 1, "start": 1.5, "end": 2.5, "visual_type": "product", "visual_source": { "kind": "asset", "path": "assets/box.mp4" }, "framing": "medium", "subject_position": "center", "caption_position": "none", "motion": "static", "transition_in": "jump_cut", "purpose": "point" },
+    { "index": 2, "start": 2.5, "end": 3.5, "visual_type": "product", "visual_source": { "kind": "asset", "path": "assets/open.mp4" }, "framing": "closeup", "subject_position": "center", "caption_position": "none", "motion": "push", "transition_in": "jump_cut", "purpose": "point" },
+    { "index": 3, "start": 3.5, "end": 4.5, "visual_type": "product", "visual_source": { "kind": "asset", "path": "assets/parts.mp4" }, "framing": "extreme_closeup", "subject_position": "center", "caption_position": "none", "motion": "pan", "transition_in": "cut", "purpose": "point" },
+    { "index": 4, "start": 4.5, "end": 5.5, "visual_type": "broll", "visual_source": { "kind": "asset", "path": "assets/hands.mp4" }, "framing": "closeup", "subject_position": "center", "caption": "조립", "caption_position": "lower_safe", "caption_role": "body_text", "motion": "static", "transition_in": "jump_cut", "purpose": "point" },
+    { "index": 5, "start": 5.5, "end": 7.0, "visual_type": "product", "visual_source": { "kind": "asset", "path": "assets/assemble.mp4", "speed": 2.0 }, "framing": "medium", "subject_position": "center", "caption_position": "none", "motion": "static", "transition_in": "cut", "purpose": "point" },
+    { "index": 6, "start": 7.0, "end": 8.0, "visual_type": "product", "visual_source": { "kind": "asset", "path": "assets/detail.mp4" }, "framing": "extreme_closeup", "subject_position": "center", "caption_position": "none", "motion": "zoom_in", "transition_in": "jump_cut", "purpose": "point" },
+    { "index": 7, "start": 8.0, "end": 9.5, "visual_type": "broll", "visual_source": { "kind": "asset", "path": "assets/angle_change.mp4" }, "framing": "wide", "subject_position": "center", "caption": "각도 전환", "caption_position": "lower_safe", "caption_role": "body_text", "motion": "shake", "transition_in": "whip", "purpose": "interrupt", "pattern_interrupt": true },
+    { "index": 8, "start": 9.5, "end": 11.5, "visual_type": "result", "visual_source": { "kind": "asset", "path": "assets/reveal.mp4" }, "framing": "closeup", "subject_position": "center", "caption": "반전", "caption_position": "lower_safe", "caption_role": "body_text", "motion": "zoom_out", "transition_in": "cut", "purpose": "payoff" },
+    { "index": 9, "start": 11.5, "end": 13.5, "visual_type": "result", "visual_source": { "kind": "asset", "path": "assets/satisfy.mp4" }, "framing": "extreme_closeup", "subject_position": "center", "caption_position": "none", "motion": "push", "transition_in": "cut", "purpose": "payoff" },
+    { "index": 10, "start": 13.5, "end": 15.0, "visual_type": "result", "visual_source": { "kind": "asset", "path": "assets/final_shot.mp4" }, "framing": "medium", "subject_position": "center", "caption_position": "none", "motion": "static", "transition_in": "cut", "purpose": "payoff" },
+    { "index": 11, "start": 15.0, "end": 18.0, "visual_type": "result", "visual_source": { "kind": "asset", "path": "assets/loop_bridge.mp4" }, "framing": "closeup", "subject_position": "center", "caption": "한 번 더 볼 사람", "caption_position": "cta_center", "caption_role": "cta_text", "motion": "zoom_in", "transition_in": "cut", "purpose": "cta" }
+  ],
+  "cta": { "text": "한 번 더 볼 사람", "position": "cta_center", "start": 15.0, "end": 18.0, "action": "comment" },
+  "loop_ending": true,
+  "styles": {
+    "hook": { "font_weight": 900, "font_size": 84, "color": "#FFFFFF", "stroke_width": 6, "scrim": "none", "align": "center" },
+    "caption": { "font_weight": 900, "font_size": 62, "color": "#FFFFFF", "stroke_width": 5, "scrim": "none", "align": "center" },
+    "cta": { "font_weight": 900, "font_size": 70, "color": "#FFFFFF", "stroke_width": 6, "scrim": "none", "align": "center" }
+  },
+  "audio": { "music_style": "punchy percussive", "bpm_hint": 128, "beat_sync_cuts": true, "voiceover": { "enabled": false } }
+}

@@ -1,0 +1,230 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/asmxkey-source/Shortform/schemas/shortform-video.schema.json",
+  "title": "Shortform Video Intermediate Schema",
+  "description": "LLM(대본 생성기)과 비디오 렌더러 사이의 계약. 이 스키마를 통과한 문서는 항상 렌더 가능해야 한다. 의미 규칙(첫 3초 시각변화, CTA 위치 등)은 docs/shortform-screen-layout.md §11 린터가 별도로 검사한다.",
+  "type": "object",
+  "required": ["version", "platform", "template", "canvas", "duration_sec", "hook", "shots", "cta"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "type": "string", "const": "1.0" },
+    "id": { "type": "string", "description": "생성 단위 식별자" },
+    "topic": { "type": "string", "description": "입력 주제. 템플릿 재사용 시 이 값만 바뀐다." },
+    "language": { "type": "string", "enum": ["ko", "en"], "default": "ko" },
+    "platform": { "type": "string", "enum": ["reels", "shorts", "tiktok"] },
+    "template": {
+      "type": "string",
+      "enum": ["A", "B", "C"],
+      "description": "A=설명형, B=시각 몰입형, C=토킹헤드. 검증 규칙 프로파일을 선택한다."
+    },
+    "aspect_ratio": { "type": "string", "const": "9:16" },
+    "duration_sec": { "type": "number", "minimum": 8, "maximum": 60, "default": 22 },
+
+    "canvas": {
+      "type": "object",
+      "required": ["width", "height", "fps", "safe_area"],
+      "additionalProperties": false,
+      "properties": {
+        "width": { "type": "integer", "const": 1080 },
+        "height": { "type": "integer", "const": 1920 },
+        "fps": { "type": "integer", "enum": [24, 30, 60], "default": 30 },
+        "safe_area": {
+          "type": "object",
+          "required": ["top", "bottom", "left", "right"],
+          "additionalProperties": false,
+          "properties": {
+            "top": { "type": "integer", "default": 250 },
+            "bottom": { "type": "integer", "default": 250 },
+            "left": { "type": "integer", "default": 60 },
+            "right": { "type": "integer", "default": 60 }
+          }
+        }
+      }
+    },
+
+    "hook": {
+      "type": "object",
+      "description": "0~2초 안에 보상을 약속하는 상단 텍스트.",
+      "required": ["text", "position", "start", "end"],
+      "additionalProperties": false,
+      "properties": {
+        "text": { "type": "string", "minLength": 1, "maxLength": 60 },
+        "position": { "type": "string", "const": "top_safe" },
+        "start": { "type": "number", "minimum": 0 },
+        "end": { "type": "number", "maximum": 3.0 },
+        "lines": { "type": "integer", "minimum": 1, "maximum": 2, "default": 1 }
+      }
+    },
+
+    "shots": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 30,
+      "items": { "$ref": "#/definitions/shot" }
+    },
+
+    "cta": {
+      "type": "object",
+      "description": "마지막 2~3초. 긴 로고 아웃트로 금지.",
+      "required": ["text", "start", "end"],
+      "additionalProperties": false,
+      "properties": {
+        "text": { "type": "string", "minLength": 1, "maxLength": 40 },
+        "position": { "type": "string", "enum": ["cta_center", "lower_safe"], "default": "cta_center" },
+        "start": { "type": "number", "minimum": 0 },
+        "end": { "type": "number", "minimum": 0 },
+        "action": {
+          "type": "string",
+          "enum": ["save", "comment", "follow", "profile_visit", "next_episode", "none"],
+          "default": "save"
+        }
+      }
+    },
+
+    "loop_ending": {
+      "type": "boolean",
+      "default": false,
+      "description": "true면 마지막 프레임 구도·색조를 첫 샷과 맞춘다. 템플릿 B 권장."
+    },
+
+    "styles": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "hook": { "$ref": "#/definitions/textStyle" },
+        "caption": { "$ref": "#/definitions/textStyle" },
+        "cta": { "$ref": "#/definitions/textStyle" }
+      }
+    },
+
+    "audio": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "music_style": { "type": "string" },
+        "bpm_hint": { "type": "integer", "minimum": 60, "maximum": 200 },
+        "beat_sync_cuts": { "type": "boolean", "default": false },
+        "voiceover": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "enabled": { "type": "boolean", "default": false },
+            "voice": { "type": "string" },
+            "script": { "type": "string" }
+          }
+        }
+      }
+    }
+  },
+
+  "definitions": {
+    "shot": {
+      "type": "object",
+      "required": ["start", "end", "visual_type", "subject_position", "purpose"],
+      "additionalProperties": false,
+      "properties": {
+        "index": { "type": "integer", "minimum": 0 },
+        "start": { "type": "number", "minimum": 0 },
+        "end": { "type": "number", "minimum": 0 },
+
+        "visual_type": {
+          "type": "string",
+          "enum": ["result", "face", "product", "screen", "broll"],
+          "description": "z0 레이어에 채울 내용의 종류."
+        },
+        "visual_source": {
+          "type": "object",
+          "description": "소스 조달 방법. 렌더러가 아니라 조달기가 소비한다.",
+          "required": ["kind"],
+          "additionalProperties": false,
+          "properties": {
+            "kind": {
+              "type": "string",
+              "enum": ["stock", "generate", "asset", "screen_capture", "avatar"]
+            },
+            "query": { "type": "string", "description": "stock 검색어" },
+            "prompt": { "type": "string", "description": "generate용 프롬프트" },
+            "path": { "type": "string", "description": "asset 로컬 경로" },
+            "trim": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "in": { "type": "number", "minimum": 0 },
+                "out": { "type": "number", "minimum": 0 }
+              }
+            },
+            "speed": { "type": "number", "minimum": 0.25, "maximum": 4.0, "default": 1.0 }
+          }
+        },
+
+        "framing": {
+          "type": "string",
+          "enum": ["wide", "medium", "closeup", "extreme_closeup"],
+          "default": "medium"
+        },
+        "subject_position": {
+          "type": "string",
+          "enum": ["center", "upper_center", "lower_center", "left", "right"],
+          "default": "center",
+          "description": "피사체 무게중심. center는 y≈860~960, upper_center는 토킹헤드용(눈높이 y≈672)."
+        },
+
+        "caption": { "type": "string", "maxLength": 120 },
+        "caption_position": {
+          "type": "string",
+          "enum": ["top_safe", "lower_safe", "cta_center", "none"],
+          "default": "lower_safe"
+        },
+        "caption_role": {
+          "type": "string",
+          "enum": ["hook_text", "body_text", "cta_text"],
+          "default": "body_text",
+          "description": "텍스트 3분류. 밴드 매핑을 강제한다(§5.3 / 규칙 C16)."
+        },
+        "caption_lines": { "type": "integer", "minimum": 1, "maximum": 2, "default": 1 },
+        "badge": { "type": "string", "maxLength": 4, "description": "번호형 단계 배지. 예: '1', '②'" },
+
+        "motion": {
+          "type": "string",
+          "enum": ["static", "zoom_in", "zoom_out", "pan", "push", "shake", "jump_cut"],
+          "default": "static"
+        },
+        "transition_in": {
+          "type": "string",
+          "enum": ["cut", "jump_cut", "whip", "dissolve", "none"],
+          "default": "cut"
+        },
+
+        "purpose": {
+          "type": "string",
+          "enum": ["hook", "point", "demo", "interrupt", "payoff", "cta"],
+          "description": "편집 템포와 검증 규칙 분기. hook≤1.0s, point 2~3s, interrupt는 40~60% 구간 전용."
+        },
+        "pattern_interrupt": {
+          "type": "boolean",
+          "default": false,
+          "description": "전체 길이의 40~60% 지점에 정확히 1개(규칙 C14)."
+        }
+      }
+    },
+
+    "textStyle": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "font_family": { "type": "string", "default": "Noto Sans CJK KR" },
+        "font_weight": { "type": "integer", "enum": [400, 700, 900], "default": 900 },
+        "font_size": { "type": "integer", "minimum": 32, "maximum": 120 },
+        "color": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$", "default": "#FFFFFF" },
+        "stroke_width": { "type": "integer", "minimum": 0, "maximum": 12, "default": 6 },
+        "stroke_color": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$", "default": "#000000" },
+        "scrim": {
+          "type": "string",
+          "enum": ["none", "gradient_top", "gradient_bottom", "box"],
+          "default": "gradient_bottom"
+        },
+        "align": { "type": "string", "enum": ["left", "center", "right"], "default": "center" }
+      }
+    }
+  }
+}

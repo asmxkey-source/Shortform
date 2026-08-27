@@ -1,0 +1,114 @@
+{
+  "version": "1.0",
+  "id": "a-safe-area-basics",
+  "topic": "숏폼 안전 영역 잡는 법",
+  "language": "ko",
+  "platform": "reels",
+  "template": "A",
+  "aspect_ratio": "9:16",
+  "duration_sec": 22,
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "safe_area": { "top": 250, "bottom": 250, "left": 60, "right": 60 }
+  },
+  "hook": {
+    "text": "자막이 계속 UI에 가리는 이유",
+    "position": "top_safe",
+    "start": 0.0,
+    "end": 2.0,
+    "lines": 2
+  },
+  "shots": [
+    {
+      "index": 0, "start": 0.0, "end": 1.0,
+      "visual_type": "result", "visual_source": { "kind": "asset", "path": "assets/before_after.mp4" },
+      "framing": "medium", "subject_position": "center",
+      "caption": "가려진 자막", "caption_position": "lower_safe", "caption_role": "body_text", "caption_lines": 1,
+      "motion": "zoom_in", "transition_in": "cut", "purpose": "hook"
+    },
+    {
+      "index": 1, "start": 1.0, "end": 2.0,
+      "visual_type": "screen", "visual_source": { "kind": "screen_capture" },
+      "framing": "closeup", "subject_position": "center",
+      "caption": "안전 영역 1080×1420", "caption_position": "lower_safe", "caption_role": "body_text", "caption_lines": 1,
+      "motion": "jump_cut", "transition_in": "jump_cut", "purpose": "hook"
+    },
+    {
+      "index": 2, "start": 2.0, "end": 4.5,
+      "visual_type": "screen", "visual_source": { "kind": "generate", "prompt": "1080x1920 세로 프레임에 상하 250px 예약 영역 표시" },
+      "framing": "medium", "subject_position": "center",
+      "caption": "상하 250px는 비워 둔다", "caption_position": "lower_safe", "caption_role": "body_text",
+      "badge": "1", "motion": "static", "transition_in": "cut", "purpose": "point"
+    },
+    {
+      "index": 3, "start": 4.5, "end": 7.0,
+      "visual_type": "screen", "visual_source": { "kind": "screen_capture" },
+      "framing": "medium", "subject_position": "center",
+      "caption": "훅은 상단, 자막은 하단", "caption_position": "lower_safe", "caption_role": "body_text",
+      "badge": "2", "motion": "pan", "transition_in": "cut", "purpose": "point"
+    },
+    {
+      "index": 4, "start": 7.0, "end": 9.5,
+      "visual_type": "screen", "visual_source": { "kind": "screen_capture" },
+      "framing": "medium", "subject_position": "center",
+      "caption": "한 샷에 메시지 하나", "caption_position": "lower_safe", "caption_role": "body_text",
+      "badge": "3", "motion": "static", "transition_in": "cut", "purpose": "point"
+    },
+    {
+      "index": 5, "start": 9.5, "end": 12.0,
+      "visual_type": "product", "visual_source": { "kind": "stock", "query": "smartphone held in hand vertical" },
+      "framing": "extreme_closeup", "subject_position": "center",
+      "caption": "실제 기기에서 확인", "caption_position": "lower_safe", "caption_role": "body_text",
+      "motion": "push", "transition_in": "whip", "purpose": "interrupt", "pattern_interrupt": true
+    },
+    {
+      "index": 6, "start": 12.0, "end": 14.5,
+      "visual_type": "screen", "visual_source": { "kind": "asset", "path": "assets/before.png" },
+      "framing": "medium", "subject_position": "center",
+      "caption": "적용 전", "caption_position": "lower_safe", "caption_role": "body_text",
+      "motion": "static", "transition_in": "cut", "purpose": "demo"
+    },
+    {
+      "index": 7, "start": 14.5, "end": 17.0,
+      "visual_type": "screen", "visual_source": { "kind": "asset", "path": "assets/after.png" },
+      "framing": "medium", "subject_position": "center",
+      "caption": "적용 후", "caption_position": "lower_safe", "caption_role": "body_text",
+      "motion": "static", "transition_in": "cut", "purpose": "demo"
+    },
+    {
+      "index": 8, "start": 17.0, "end": 19.0,
+      "visual_type": "result", "visual_source": { "kind": "asset", "path": "assets/final.mp4" },
+      "framing": "medium", "subject_position": "center",
+      "caption": "가림 없는 자막", "caption_position": "lower_safe", "caption_role": "body_text",
+      "motion": "zoom_out", "transition_in": "cut", "purpose": "payoff"
+    },
+    {
+      "index": 9, "start": 19.0, "end": 22.0,
+      "visual_type": "screen", "visual_source": { "kind": "generate", "prompt": "단색 배경 + 체크리스트 요약" },
+      "framing": "medium", "subject_position": "center",
+      "caption": "저장하고 다음 편 보기", "caption_position": "cta_center", "caption_role": "cta_text",
+      "motion": "static", "transition_in": "cut", "purpose": "cta"
+    }
+  ],
+  "cta": {
+    "text": "저장하고 다음 편 보기",
+    "position": "cta_center",
+    "start": 19.0,
+    "end": 22.0,
+    "action": "save"
+  },
+  "loop_ending": false,
+  "styles": {
+    "hook": { "font_family": "Noto Sans CJK KR", "font_weight": 900, "font_size": 80, "color": "#FFFFFF", "stroke_width": 6, "scrim": "gradient_top", "align": "center" },
+    "caption": { "font_family": "Noto Sans CJK KR", "font_weight": 700, "font_size": 58, "color": "#FFFFFF", "stroke_width": 4, "scrim": "gradient_bottom", "align": "center" },
+    "cta": { "font_family": "Noto Sans CJK KR", "font_weight": 900, "font_size": 68, "color": "#FFFFFF", "stroke_width": 0, "scrim": "box", "align": "center" }
+  },
+  "audio": {
+    "music_style": "clean minimal tech",
+    "bpm_hint": 100,
+    "beat_sync_cuts": false,
+    "voiceover": { "enabled": true, "voice": "ko-female-calm", "script": "자막이 계속 가리는 이유는 안전 영역을 안 잡았기 때문입니다." }
+  }
+}
