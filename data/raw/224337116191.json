@@ -1,0 +1,623 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224337116191",
+  "url": "https://m.blog.naver.com/schumpgel/224337116191",
+  "title": "연남동 수제맥주 핫플 러프RUF 크래프트비어 내돈내산 UF Beer 탭비어",
+  "category": "외식 리뷰 ",
+  "tags": [
+    "연남동맥주",
+    "연남동수제맥주",
+    "서울수제맥주",
+    "탭룸맥주",
+    "생맥주가게"
+  ],
+  "component_count": 51,
+  "type_counts": {
+    "text": 22,
+    "image": 18,
+    "quotation": 4,
+    "sticker": 3,
+    "horizontalLine": 1,
+    "map": 1,
+    "imageStrip": 1,
+    "video": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "연남동에서 만나는 수제맥주 전문점_by링키\n연남동에 위치한\n국내 크래프트비어 전문점\n'RUF'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "예전에 안국역 인근 상생상회에서 UF Beer의\n맥주를 사먹은적 있는데 넘 맛있어서\n팔로우 하고 있었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그런데 아뉘 우리동네에 크래프트비어 탭룸을\n만드신다는 소식을 알게됨. 그래서 몇번\n다녀온 후기 알랴드릴게요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "힙한 감성이 가득한 연남동 동진시장 근처에\n위치한 러프는 마포구 동교로 276에 자리 잡고\n있어 대중교통으로도 접근성이 아주 뛰어난\n곳이에요.\n인기가 많아 늘 손님들로 활기차게 북적이지만,\n회전이 비교적 빠른 편이라 오랜 웨이팅 부담 없이 금방 자리를 잡고 즐길 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "러프",
+      "address": "서울특별시 마포구 동교로 276",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n· 홍대입구역 3번출구로부터 703m\n· 연희동 굴다리 근처 연남동\n● 운영시간\n· 월-금 15:00-23:00\n· 토일 14:00-24:00\n· 시즌에 따라서 임시휴무나 추가오픈 가능성이 있으니 자세한 사항은 인스타그램 참고해주세요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs13",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "국내 수제맥주의 매력",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이곳은 충북 음성에서 직접 유명한\n'생극양조(UF beer)'를 운영하시는 대표님이\n2026년 봄에 새로 오픈한 따끈따끈한\n신상 펍이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "수입 맥주 대신 오직 국내 수제맥주만 전문적으로\n취급하며 무려 20종이 넘는 다채로운 맥주 탭을\n완비하고 있답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "오직 한국 수제맥주만",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "메뉴판에는 맥주별 상세한 스타일과\n알코올 도수가 친절하게 안내되어 있어\n수제맥주 초보자부터 마니아층까지 취향대로\n편하게 골라 마시는 재미가 쏠쏠해요.\n메뉴판은 매번 바뀌며 첫번째 장은 생극양조의\n생맥주이고 두번째 장은 러프 사장님이\n셀랙한 다른 양조장의 맥주에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저희는직진바질과\n비카인드IPA를 시켰습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#e3fdc8;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "수제맥주 탭룸 가격 및 이용방법",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "직접 양조장을 운영하는 곳답게 퀄리티 높은\n수제맥주를 한 잔에 6천 원이라는 파격적이고\n합리적인 가격으로 제공해 가성비가 정말 훌륭해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#e3fdc8;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "단골 예상되시거나 친구들과 방문했다면\n칩을 구매하실 수있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "6칩에 33,000원 (잔당 5,500원)\n12칩에 60,000원 (잔당 5,000원)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "전용 칩을 대량으로 구매해 이용하면 훨씬 더\n저렴한 가격에 즐길 수 있는 쏠쏠한 혜택까지\n있어 단골손님들이 끊이지 않는 비결이기도 해요.\n냄새가 넘 심하지 않은 간단한 한주라면\n가져오는 것도 가능합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매장 내부는 편안하면서도 세련된 감성으로\n채워져 있으며, 바 테이블에서 직접 주문하고\n자유롭게 즐기는 감각적인 스탠딩 결합 방식이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "혼술족은 물론 친구들과 가볍게 들러 활기찬\n동네 펍 특유의 분위기를 만끽하기에 제격이랍니다.\n연남동 골목 특유의 젊고 자유로운 감성과\n잘 어우러져 매장 안은 항상 유쾌하고\n생동감 넘치는 에너지가 가득해 마시는 즐거움을 더해줘요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저희는 산책길에 종종 들르거나\n차타고 이동하던 중에 들러서 테이크아웃\n하기도해요. 맥주 좋아하는 친구들이 동네오면\n데리고 가는 집이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "어제는 착석했답니다.\n언제나와 같이 가게 안은 만석이었지만\n자리가 금방 났어요.\n만약에 자리가 가득 찼다면 밖에서도\n자유롭게 드시면 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이날도 러프비어와 함께 자유로운 우릴봐\n자유로와~",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "직진바질- 진짜 바질을 따서 입안에 가득 넣은 맛\n비카인드IPA- IPA를 드래프트 비어로 먹는 장점이 가득한 매려적인 맥주 였습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#e3fdc8;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "간단한게 한잔 호로록~\n거의 올 때마다 맥주 라인업이 달라져서\n같은 맥주를 먹은 적은 없었던 것 같아요.\n다양한 한국 수제맥주를 맛 볼수 있어 좋아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "단순하지만 기분좋은 러프 전용잔\n진짜 어디에 집중하면 될지 놓으면 될지\n잘 설계된 공간이라 즐겨가게 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "밖에 있는 케그통을 봐..\n실제로 매장에 머무는 동안에만 근처 주민으로\n보이는 손님들 여러 명이 맥주를 포장해 가는\n모습을 볼 수 있었답니다. 가격도 동일하게\n합리적이니 날씨가 선선한 날에는 포장해서 근처\n연트럴파크 공원이나 야외에서 감성 가득하게 즐기기에도 참 좋아요.\n연남동 수제맥주 크라프트비어 탭룸으로\n러프 추천!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "연남동에서 만나는 수제맥주 전문점_by링키\n연남동에 위치한\n국내 크래프트비어 전문점\n'RUF'\n\n예전에 안국역 인근 상생상회에서 UF Beer의\n맥주를 사먹은적 있는데 넘 맛있어서\n팔로우 하고 있었어요.\n\n그런데 아뉘 우리동네에 크래프트비어 탭룸을\n만드신다는 소식을 알게됨. 그래서 몇번\n다녀온 후기 알랴드릴게요\n\n힙한 감성이 가득한 연남동 동진시장 근처에\n위치한 러프는 마포구 동교로 276에 자리 잡고\n있어 대중교통으로도 접근성이 아주 뛰어난\n곳이에요.\n인기가 많아 늘 손님들로 활기차게 북적이지만,\n회전이 비교적 빠른 편이라 오랜 웨이팅 부담 없이 금방 자리를 잡고 즐길 수 있어요.\n\n● 위치\n· 홍대입구역 3번출구로부터 703m\n· 연희동 굴다리 근처 연남동\n● 운영시간\n· 월-금 15:00-23:00\n· 토일 14:00-24:00\n· 시즌에 따라서 임시휴무나 추가오픈 가능성이 있으니 자세한 사항은 인스타그램 참고해주세요\n\n국내 수제맥주의 매력\n\n이곳은 충북 음성에서 직접 유명한\n'생극양조(UF beer)'를 운영하시는 대표님이\n2026년 봄에 새로 오픈한 따끈따끈한\n신상 펍이에요.\n\n수입 맥주 대신 오직 국내 수제맥주만 전문적으로\n취급하며 무려 20종이 넘는 다채로운 맥주 탭을\n완비하고 있답니다.\n\n오직 한국 수제맥주만\n\n메뉴판에는 맥주별 상세한 스타일과\n알코올 도수가 친절하게 안내되어 있어\n수제맥주 초보자부터 마니아층까지 취향대로\n편하게 골라 마시는 재미가 쏠쏠해요.\n메뉴판은 매번 바뀌며 첫번째 장은 생극양조의\n생맥주이고 두번째 장은 러프 사장님이\n셀랙한 다른 양조장의 맥주에요.\n\n저희는직진바질과\n비카인드IPA를 시켰습니다.\n\n수제맥주 탭룸 가격 및 이용방법\n\n직접 양조장을 운영하는 곳답게 퀄리티 높은\n수제맥주를 한 잔에 6천 원이라는 파격적이고\n합리적인 가격으로 제공해 가성비가 정말 훌륭해요.\n\n단골 예상되시거나 친구들과 방문했다면\n칩을 구매하실 수있어요.\n\n6칩에 33,000원 (잔당 5,500원)\n12칩에 60,000원 (잔당 5,000원)\n\n전용 칩을 대량으로 구매해 이용하면 훨씬 더\n저렴한 가격에 즐길 수 있는 쏠쏠한 혜택까지\n있어 단골손님들이 끊이지 않는 비결이기도 해요.\n냄새가 넘 심하지 않은 간단한 한주라면\n가져오는 것도 가능합니다.\n\n매장 내부는 편안하면서도 세련된 감성으로\n채워져 있으며, 바 테이블에서 직접 주문하고\n자유롭게 즐기는 감각적인 스탠딩 결합 방식이에요.\n\n혼술족은 물론 친구들과 가볍게 들러 활기찬\n동네 펍 특유의 분위기를 만끽하기에 제격이랍니다.\n연남동 골목 특유의 젊고 자유로운 감성과\n잘 어우러져 매장 안은 항상 유쾌하고\n생동감 넘치는 에너지가 가득해 마시는 즐거움을 더해줘요.\n\n저희는 산책길에 종종 들르거나\n차타고 이동하던 중에 들러서 테이크아웃\n하기도해요. 맥주 좋아하는 친구들이 동네오면\n데리고 가는 집이에요.\n\n어제는 착석했답니다.\n언제나와 같이 가게 안은 만석이었지만\n자리가 금방 났어요.\n만약에 자리가 가득 찼다면 밖에서도\n자유롭게 드시면 됩니다.\n\n이날도 러프비어와 함께 자유로운 우릴봐\n자유로와~\n\n직진바질- 진짜 바질을 따서 입안에 가득 넣은 맛\n비카인드IPA- IPA를 드래프트 비어로 먹는 장점이 가득한 매려적인 맥주 였습니다.\n\n간단한게 한잔 호로록~\n거의 올 때마다 맥주 라인업이 달라져서\n같은 맥주를 먹은 적은 없었던 것 같아요.\n다양한 한국 수제맥주를 맛 볼수 있어 좋아요.\n\n단순하지만 기분좋은 러프 전용잔\n진짜 어디에 집중하면 될지 놓으면 될지\n잘 설계된 공간이라 즐겨가게 됩니다.\n\n밖에 있는 케그통을 봐..\n실제로 매장에 머무는 동안에만 근처 주민으로\n보이는 손님들 여러 명이 맥주를 포장해 가는\n모습을 볼 수 있었답니다. 가격도 동일하게\n합리적이니 날씨가 선선한 날에는 포장해서 근처\n연트럴파크 공원이나 야외에서 감성 가득하게 즐기기에도 참 좋아요.\n연남동 수제맥주 크라프트비어 탭룸으로\n러프 추천!",
+  "char_count": 1909
+}

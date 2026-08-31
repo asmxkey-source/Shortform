@@ -1,0 +1,637 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224191638548",
+  "url": "https://m.blog.naver.com/schumpgel/224191638548",
+  "title": "성수소품샵 서울숲놀거리 '내러티브오브젝트' 도자연개완 득템",
+  "category": "산책, 여행기",
+  "tags": [
+    "성수소품샵",
+    "성수소품샵그릇",
+    "성수소품샵다기",
+    "서울숲소품샵투어",
+    "도자연다기",
+    "도자연찻잔",
+    "개완세트"
+  ],
+  "component_count": 51,
+  "type_counts": {
+    "text": 22,
+    "image": 18,
+    "quotation": 7,
+    "horizontalLine": 1,
+    "map": 1,
+    "oglink": 1,
+    "imageStrip": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "감성 소품을 넘어선 민예 소품샵에 가 _by링키\n성수 서울숲 소품샵\n'내러티브오브젝트'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "성수동에 전시보러 갔다가 오랫동안 궁금했던\n분위기 있는 소품샵에 다녀와서 소개해드리려고 해요.\n바로 '내러티브오브젝트(NARRATIVE OBJECT)'\n라는 민예·리빙 셀렉트 숍인데,\n한국의 전통과 현대가 만나는 독특한 공간이었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "내러티브오브젝트",
+      "address": "서울특별시 성동구 서울숲2길 24-7 포대빌딩 1층",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n· 2호선 뚝섬역 8번출구 도보 7분\n· 수인분당선 서울숲역 5번출구로부터 도보 8분,\n· 서울숲 인근\n● 운영시간\n· 화-토 12:00-18:00\n· 매주 월요일 정기휴무\n·0507-1387-5745\n● 그 외 사항\n·대기공간, 반려동불 동반, 간편결제, 온라인숍 있음, 출입구 휠체어 이용가능\n● 주차\n·가게 앞 주차 불가\n·근처 주차장 : 뚝섬유수지 공영주차장, 성공구민체육센터 주차장, 디타워주차장 등\n● 인스타그램\nhttps://www.instagram.com/narrative.object/",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs13",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "내러티브오브젝트(@narrative.object) • Instagram 사진 및 동영상",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "성수 내러티브오브젝트 어떤 곳일까?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내러티브오브젝트는\n\"From Korean Heritage To Contemporary Folk Art\"라는 콘셉트로 운영되는 곳이에요.\n쉽게 말하면 한국의 전통·민예를 현대적인\n감각으로 재해석한 수공예 생활도구와 리빙\n소품을 큐레이션해서 판매하는 공간이죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "국내 작가들의 테이블웨어, 수공예 인형, 소형 조명,\n의류 등 정말 감각적이고 개성 있는 물건들을\n모아둔 소품샵이에요. 박물관 같은 느낌도 드는데\n보물같은 민예품들을 합리적인 가격대에\n만나볼 수 있어요.\n그냥 흔한 인테리어 소품샵이 아니라, 하나하나\n스토리가 있는 물건들을 모아놓은 느낌이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "위치와 분위기가 정말 좋아요",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내러티브오브젝트는 서울 성동구 서울숲2길 24-7에 위치해 있어요.\n서울숲 바로 옆 붉은 벽돌 건물이 즐비한\n아뜰리에길 라인에 있어서 찾기도 쉽고,\n주변 분위기도 너무 좋아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "가게는 붉은 벽돌 건물에 입점해 있는데, 살짝\n안으로 들어가 있지만 또 그 아늑함이\n잘 보여서 \"어? 여기 뭔가 예쁜데?\" 하고\n자연스럽게 들어가게 되더라고요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내부는 생각보다 넓었는데,알차게 꾸며져 있어서\n조용히 천천히 둘러보며 선물용 아이템을 고르기\n딱 좋은 곳이에요. 주말 오후에 갔는데도\n복잡하지 않아서 여유롭게 구경할 수 있었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "도자원 운석개완, 한눈에 반하다",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "가게 안을 둘러보다가 '도자연'이라는 작가의\n운석개완에 완전히 반해버렸어요.\n운석개완이란 중국식 차도구인 삼재개완\n(받침, 찻잔, 뚜껑)인데 ,이름 그대로 운석처럼\n독특한 질감과 색감을 가진 작품이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "일반 도자기와 달리 표면이 울퉁불퉁하고\n자연스러운 유약의 흐름이 마치 우주의 행성\n같은 느낌을 주더라고요. 하나하나 수작업으로\n만들어져서 세상에 단 하나뿐인 작품이라는 점도\n너무 매력적이었어요.\n이런 작품은 꼭 보고 사야죠. 두 점 중에서도\n왼쪽 자기가 딱 마음에 왔어요.\n가격도 생각보다 부담스럽지 않아서 바로 구매 결정!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "집에 와서 차 내릴 때 보니 정말 만족스러워요.\n매일 볼 때마다 차분하게 명상하는 것을 도와주는\n기물이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "이런 것들도 있어요",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "도자원 운석개완 외에도 정말 다양하고 독특한\n물건들이 많았어요. 한국 전통 느낌을 현대적으로\n풀어낸 테이블웨어, 손으로 직접 만든 듯한\n수공예 인형, 심플하지만 디테일이 살아있는 의류까지.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "국내 스몰 브랜드와 작가들의 작품이 주\n를 이루다\n보니 대형 브랜드 매장에서는 절대 볼 수 없는\n유니크한 아이템들뿐이에요. 선물용으로\n사기에도 정말 좋을 것 같아요. 받는 사람이\n\"어디서 샀어?\" 하고 물어볼 만한 특별한 물건들이 가득하거든요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "포장도 이렇게 예쁘게 해주신답니다.\n포장하는 동안 나만의 엽서를 만들 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "서울숲 놀거리에 꼭 포함하세요.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내러티브오브젝트는 서울숲 바로 옆이라서\n서울숲 산책하고 아뜰리에길 둘러보는 코스에\n함께 들르기 딱 좋아요. 데이트 코스로도 완벽하고,\n친구랑 주말에 느긋하게 나들이 갈 때도 좋을 것 같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저는 취향가옥2 전시보고 들렸었느데\n마음이 부유해진 기분",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "온라인으로도 만나 볼 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "온라인으로도 만나볼 수 있어요\n매장을 직접 방문하기 어려운 분들은\n내러티브오브젝트 공식 사이트나 인스타그램을\n통해서도 제품을 만나볼 수 있어요. 온라인에서도\n스토리가 있는 민예/수공예 제품, 국내 스몰 브랜드 어패럴 등을 꾸준히 소개하고 있더라고요.\n인스타그램을 보면 신제품이나 입고 소식도\n빠르게 확인할 수 있으니까 팔로우 추천드려요!\n매장 분위기도 사진으로 볼 수 있어서 방문 전에\n미리 구경하기도 좋아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "마무리",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "성수동 내러티브오브젝트, 한국의 전통과 현대가\n만나는 정말 특별한 공간이었어요. 그냥 물건을\n파는 곳이 아니라 하나하나 이야기가 있는\n작품들을 큐레이션해놓은 갤러리 같은 느낌이에요.\n도자원 운석개완처럼 마음에 쏙 드는 물건 하나\n발견하는 재미도 있고, 국내 작가들을 응원하는\n의미도 있어서 더 뜻깊은 쇼핑이 되는 것 같아요.\n서울숲 근처 가시면 꼭 한번 들러보세요. 분명 마음에 드는 물건 하나는 발견하실 거예요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "감성 소품을 넘어선 민예 소품샵에 가 _by링키\n성수 서울숲 소품샵\n'내러티브오브젝트'\n\n성수동에 전시보러 갔다가 오랫동안 궁금했던\n분위기 있는 소품샵에 다녀와서 소개해드리려고 해요.\n바로 '내러티브오브젝트(NARRATIVE OBJECT)'\n라는 민예·리빙 셀렉트 숍인데,\n한국의 전통과 현대가 만나는 독특한 공간이었어요.\n\n● 위치\n· 2호선 뚝섬역 8번출구 도보 7분\n· 수인분당선 서울숲역 5번출구로부터 도보 8분,\n· 서울숲 인근\n● 운영시간\n· 화-토 12:00-18:00\n· 매주 월요일 정기휴무\n·0507-1387-5745\n● 그 외 사항\n·대기공간, 반려동불 동반, 간편결제, 온라인숍 있음, 출입구 휠체어 이용가능\n● 주차\n·가게 앞 주차 불가\n·근처 주차장 : 뚝섬유수지 공영주차장, 성공구민체육센터 주차장, 디타워주차장 등\n● 인스타그램\nhttps://www.instagram.com/narrative.object/\n\n성수 내러티브오브젝트 어떤 곳일까?\n\n내러티브오브젝트는\n\"From Korean Heritage To Contemporary Folk Art\"라는 콘셉트로 운영되는 곳이에요.\n쉽게 말하면 한국의 전통·민예를 현대적인\n감각으로 재해석한 수공예 생활도구와 리빙\n소품을 큐레이션해서 판매하는 공간이죠.\n\n국내 작가들의 테이블웨어, 수공예 인형, 소형 조명,\n의류 등 정말 감각적이고 개성 있는 물건들을\n모아둔 소품샵이에요. 박물관 같은 느낌도 드는데\n보물같은 민예품들을 합리적인 가격대에\n만나볼 수 있어요.\n그냥 흔한 인테리어 소품샵이 아니라, 하나하나\n스토리가 있는 물건들을 모아놓은 느낌이에요.\n\n위치와 분위기가 정말 좋아요\n\n내러티브오브젝트는 서울 성동구 서울숲2길 24-7에 위치해 있어요.\n서울숲 바로 옆 붉은 벽돌 건물이 즐비한\n아뜰리에길 라인에 있어서 찾기도 쉽고,\n주변 분위기도 너무 좋아요.\n\n가게는 붉은 벽돌 건물에 입점해 있는데, 살짝\n안으로 들어가 있지만 또 그 아늑함이\n잘 보여서 \"어? 여기 뭔가 예쁜데?\" 하고\n자연스럽게 들어가게 되더라고요.\n\n내부는 생각보다 넓었는데,알차게 꾸며져 있어서\n조용히 천천히 둘러보며 선물용 아이템을 고르기\n딱 좋은 곳이에요. 주말 오후에 갔는데도\n복잡하지 않아서 여유롭게 구경할 수 있었어요.\n\n도자원 운석개완, 한눈에 반하다\n\n가게 안을 둘러보다가 '도자연'이라는 작가의\n운석개완에 완전히 반해버렸어요.\n운석개완이란 중국식 차도구인 삼재개완\n(받침, 찻잔, 뚜껑)인데 ,이름 그대로 운석처럼\n독특한 질감과 색감을 가진 작품이에요.\n\n일반 도자기와 달리 표면이 울퉁불퉁하고\n자연스러운 유약의 흐름이 마치 우주의 행성\n같은 느낌을 주더라고요. 하나하나 수작업으로\n만들어져서 세상에 단 하나뿐인 작품이라는 점도\n너무 매력적이었어요.\n이런 작품은 꼭 보고 사야죠. 두 점 중에서도\n왼쪽 자기가 딱 마음에 왔어요.\n가격도 생각보다 부담스럽지 않아서 바로 구매 결정!\n\n집에 와서 차 내릴 때 보니 정말 만족스러워요.\n매일 볼 때마다 차분하게 명상하는 것을 도와주는\n기물이에요.\n\n이런 것들도 있어요\n\n도자원 운석개완 외에도 정말 다양하고 독특한\n물건들이 많았어요. 한국 전통 느낌을 현대적으로\n풀어낸 테이블웨어, 손으로 직접 만든 듯한\n수공예 인형, 심플하지만 디테일이 살아있는 의류까지.\n\n국내 스몰 브랜드와 작가들의 작품이 주\n를 이루다\n보니 대형 브랜드 매장에서는 절대 볼 수 없는\n유니크한 아이템들뿐이에요. 선물용으로\n사기에도 정말 좋을 것 같아요. 받는 사람이\n\"어디서 샀어?\" 하고 물어볼 만한 특별한 물건들이 가득하거든요.\n\n포장도 이렇게 예쁘게 해주신답니다.\n포장하는 동안 나만의 엽서를 만들 수 있어요.\n\n서울숲 놀거리에 꼭 포함하세요.\n\n내러티브오브젝트는 서울숲 바로 옆이라서\n서울숲 산책하고 아뜰리에길 둘러보는 코스에\n함께 들르기 딱 좋아요. 데이트 코스로도 완벽하고,\n친구랑 주말에 느긋하게 나들이 갈 때도 좋을 것 같아요.\n\n저는 취향가옥2 전시보고 들렸었느데\n마음이 부유해진 기분\n\n온라인으로도 만나 볼 수 있어요.\n\n온라인으로도 만나볼 수 있어요\n매장을 직접 방문하기 어려운 분들은\n내러티브오브젝트 공식 사이트나 인스타그램을\n통해서도 제품을 만나볼 수 있어요. 온라인에서도\n스토리가 있는 민예/수공예 제품, 국내 스몰 브랜드 어패럴 등을 꾸준히 소개하고 있더라고요.\n인스타그램을 보면 신제품이나 입고 소식도\n빠르게 확인할 수 있으니까 팔로우 추천드려요!\n매장 분위기도 사진으로 볼 수 있어서 방문 전에\n미리 구경하기도 좋아요.\n\n마무리\n\n성수동 내러티브오브젝트, 한국의 전통과 현대가\n만나는 정말 특별한 공간이었어요. 그냥 물건을\n파는 곳이 아니라 하나하나 이야기가 있는\n작품들을 큐레이션해놓은 갤러리 같은 느낌이에요.\n도자원 운석개완처럼 마음에 쏙 드는 물건 하나\n발견하는 재미도 있고, 국내 작가들을 응원하는\n의미도 있어서 더 뜻깊은 쇼핑이 되는 것 같아요.\n서울숲 근처 가시면 꼭 한번 들러보세요. 분명 마음에 드는 물건 하나는 발견하실 거예요!",
+  "char_count": 2441
+}

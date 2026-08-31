@@ -1,0 +1,444 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224360413809",
+  "url": "https://m.blog.naver.com/schumpgel/224360413809",
+  "title": "강릉 콩국수 맛집 강릉대관령감자옹심이 내돈내산 메밀콩국수 혼밥 후기!",
+  "category": "외식 리뷰 ",
+  "tags": [
+    "강릉콩국수맛집",
+    "강릉대관령감자옹심이",
+    "강릉대관령옹심이",
+    "강릉혼밥",
+    "강릉메밀콩국수",
+    "강릉내돈내산",
+    "강릉여행맛집",
+    "강릉현지인맛집",
+    "강릉교동맛집",
+    "메밀콩국수",
+    "파김치맛집",
+    "강릉가볼만한곳",
+    "여름별미추천",
+    "강릉혼밥맛집",
+    "속편한음식",
+    "강릉맛집",
+    "강릉맛집현지인",
+    "강릉맛집추천리스트",
+    "강릉맛집추천",
+    "강릉맛집점심",
+    "강릉맛집저녁",
+    "강릉맛집아이랑",
+    "강릉콩국수",
+    "강릉콩국수장칼국수",
+    "강릉콩국수집",
+    "강릉콩국수추천",
+    "강릉콩국수내돈내산",
+    "강릉콩국수포장"
+  ],
+  "component_count": 36,
+  "type_counts": {
+    "text": 15,
+    "image": 11,
+    "quotation": 5,
+    "sectionTitle": 2,
+    "horizontalLine": 2,
+    "map": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "강릉 대관령감자옹심이 솔직 후기_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "구수한 메밀 콩국수와",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "파김치 역대급 조합?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "강릉으로 혼자 여행 갔다가\n옹심이 전문점에서 뜻밖에\n메밀 콩국수를 먹고\n속까지 든든하게 채우고 왔어요.\n현지 어르신들도 즐겨 찾는\n구수한 국물과 소화 잘되는\n메밀면의 조화가 매력적인\n강릉대관령감자옹심이 내돈내산 방문 후기를\n지금 공개할게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "강릉대관령감자옹심이",
+      "address": "강원특별자치도 강릉시 하평길 6",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n· 강릉역에서 차로 5분 (강원 강릉시 하평길 6)\n● 운영시간\n· 화~토 10:30-19:00\n· 일 10:00-17:00\n· 정기휴무 매주 월요일\n· 033-652-6701\n● 주차\n· 매장 앞 주차 가능\n● 그 외 사항\n· 와이파이, 예약, 포장 가능\n· 메인 메뉴 1인 1식 주문 필수",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "매장 분위기 & 영업시간",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "대관령감자옹심이는 외관부터\n동네 맛집 분위기가 물씬 풍기는 듯했어요.\n영업시간은화요일부터 토요일까지는\n오전 10시 30분부터 저녁 7시까지이고,\n일요일은오전 10시부터 오후 5시까지\n운영해요.\n매주 월요일은 정기휴무!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "메인메뉴는 1인 1식 주문이 기본 원칙이고,\n문 즉시 조리가 시작되기 때문에\n15분에서 30분 정도 소요되니\n미리 전화하고 가시거나\n여유를 갖고 기다리시면 좋아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매장 내부 홀이 넓고 잘 정돈되어 있어서\n저처럼 강릉으로 혼자 여행 와서 혼밥\n드시는 분들도 눈치 보지 않고\n편안하게 식사할 수 있는 분위기랍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "혼밥/포장 추천: 새우메밀 김밥\n반줄: 5,000원, 한줄: 9,000원",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "음식 나올때까지 기다리고 있으니,\n테이블에도 메인 메뉴에 김밥 추가하고,\n포장 주문하시는 분들이\n새우메밀김밥을 많이 시키시더라구요.\n이색김밥 찾으신다면\n강릉대관령옹심이에서\n새우메밀김밥도 괜찮을 거 같아요.\n저도 다음에 오면 츄라이 해보려구요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "주문 메뉴: 메밀 콩국수\n가격: 11,000원",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "벽면에 붙은 원산지 표시판을 봤는데요.\n감자, 메밀, 서리태, 백태 등\n핵심 식재료는 국내산으로\n사용하고 있었어요.\n감자옹심이가 대표 메뉴이지만\n여름 계절 별미로 판매하는\n콩국수(11,000원)를 주문했는데\n나름 괜찮은 선택인 것 같았어요.\n일반적인 밀가루 면이 아니라\n구수하고 소화가 잘되는\n메밀면이라 그런지 먹고 나서도\n속이 부대끼지 않아서 좋았어요.\n매장에 오신 동네 어르신 손님들은\n콩국수를 주문해서 드시는 거 보니\n현지 주민들도 좋아하는 곳이구나 싶었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "완벽한 국물 농도와 간맞춤 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "대접에 담겨 나온 메밀 콩국수 비쥬얼 체크!\n상큼한 토마토와 아삭한 오이 고명,\n톡톡 씹히는 검은깨가 솔솔뿌려져 나와\n비주얼이 시원함을 자극하네요.\n콩국물 농도는 너무 진득하거나\n뻑뻑하지도 않고, 그렇다고 묽지도 않아서\n기분 좋게 호로록 마시기\n딱 적당한 묽기랍니다.\n한 입 먹어보면 국물 자체에\n처음부터 기본 간이 되어서\n나오기 때문에 꼭 먼저 맛 보신 후에\n소금을 추가하셔야 해요.\n자극적인 조미료 맛없이\n고소하고 시원한 콩국물이\n부드러운 메밀면발에 배어있어서\n한입, 한입 다 먹게되었답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "셀프바 파김치와 짙은 반찬 맛",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "기본 밑반찬으로는\n빨간 무김치와 열무김치가 나오는데,\n젓갈 향이 짙게 감돌고\n간이 센 편이라 입맛을 끌어올려 줘요.\n단맛도 있는 편이구요.\n그리고 이 집의 숨은 핵심 팁은\n바로 주방 쪽에 마련된셀프코너에 가면\n알싸한 파김치를 직접 가져다\n먹을 수 있다는 건데요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이 파김치는 실제 매장에서\n따로 판매까지 할 정도로 인기있는\n별미 반찬이니 방문하시면\n맛 보시는 걸 추천해 드려요.\n제가 아는 알싸한 파김치 맛보다는\n단맛이 좀 더 있는 느낌이었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "구수하고 담백한 메밀 콩국수 한 젓가락에\n달큰 짭조름한 파김치를 올려 먹으면\n맛의 균형이 들어맞는답니다.\n속 불편함 없이 깔끔한 메밀 콩국수에\n감칠맛 있는 파김치까지 어우러져\n'오늘 한 끼 잘 먹었다'라는 소리가\n나오는 만족스러운 식사였어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "강릉 혼자 여행길에\n색다른 건강 별미 혼밥을 경험하고\n싶다면 강릉대관령감자옹심이를\n추천드려요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "강릉 대관령감자옹심이 솔직 후기_by징키\n\n구수한 메밀 콩국수와\n\n파김치 역대급 조합?\n\n강릉으로 혼자 여행 갔다가\n옹심이 전문점에서 뜻밖에\n메밀 콩국수를 먹고\n속까지 든든하게 채우고 왔어요.\n현지 어르신들도 즐겨 찾는\n구수한 국물과 소화 잘되는\n메밀면의 조화가 매력적인\n강릉대관령감자옹심이 내돈내산 방문 후기를\n지금 공개할게요.\n\n● 위치\n· 강릉역에서 차로 5분 (강원 강릉시 하평길 6)\n● 운영시간\n· 화~토 10:30-19:00\n· 일 10:00-17:00\n· 정기휴무 매주 월요일\n· 033-652-6701\n● 주차\n· 매장 앞 주차 가능\n● 그 외 사항\n· 와이파이, 예약, 포장 가능\n· 메인 메뉴 1인 1식 주문 필수\n\n매장 분위기 & 영업시간\n\n대관령감자옹심이는 외관부터\n동네 맛집 분위기가 물씬 풍기는 듯했어요.\n영업시간은화요일부터 토요일까지는\n오전 10시 30분부터 저녁 7시까지이고,\n일요일은오전 10시부터 오후 5시까지\n운영해요.\n매주 월요일은 정기휴무!\n\n메인메뉴는 1인 1식 주문이 기본 원칙이고,\n문 즉시 조리가 시작되기 때문에\n15분에서 30분 정도 소요되니\n미리 전화하고 가시거나\n여유를 갖고 기다리시면 좋아요.\n\n매장 내부 홀이 넓고 잘 정돈되어 있어서\n저처럼 강릉으로 혼자 여행 와서 혼밥\n드시는 분들도 눈치 보지 않고\n편안하게 식사할 수 있는 분위기랍니다.\n\n혼밥/포장 추천: 새우메밀 김밥\n반줄: 5,000원, 한줄: 9,000원\n\n음식 나올때까지 기다리고 있으니,\n테이블에도 메인 메뉴에 김밥 추가하고,\n포장 주문하시는 분들이\n새우메밀김밥을 많이 시키시더라구요.\n이색김밥 찾으신다면\n강릉대관령옹심이에서\n새우메밀김밥도 괜찮을 거 같아요.\n저도 다음에 오면 츄라이 해보려구요.\n\n주문 메뉴: 메밀 콩국수\n가격: 11,000원\n\n벽면에 붙은 원산지 표시판을 봤는데요.\n감자, 메밀, 서리태, 백태 등\n핵심 식재료는 국내산으로\n사용하고 있었어요.\n감자옹심이가 대표 메뉴이지만\n여름 계절 별미로 판매하는\n콩국수(11,000원)를 주문했는데\n나름 괜찮은 선택인 것 같았어요.\n일반적인 밀가루 면이 아니라\n구수하고 소화가 잘되는\n메밀면이라 그런지 먹고 나서도\n속이 부대끼지 않아서 좋았어요.\n매장에 오신 동네 어르신 손님들은\n콩국수를 주문해서 드시는 거 보니\n현지 주민들도 좋아하는 곳이구나 싶었어요.\n\n완벽한 국물 농도와 간맞춤 팁\n\n대접에 담겨 나온 메밀 콩국수 비쥬얼 체크!\n상큼한 토마토와 아삭한 오이 고명,\n톡톡 씹히는 검은깨가 솔솔뿌려져 나와\n비주얼이 시원함을 자극하네요.\n콩국물 농도는 너무 진득하거나\n뻑뻑하지도 않고, 그렇다고 묽지도 않아서\n기분 좋게 호로록 마시기\n딱 적당한 묽기랍니다.\n한 입 먹어보면 국물 자체에\n처음부터 기본 간이 되어서\n나오기 때문에 꼭 먼저 맛 보신 후에\n소금을 추가하셔야 해요.\n자극적인 조미료 맛없이\n고소하고 시원한 콩국물이\n부드러운 메밀면발에 배어있어서\n한입, 한입 다 먹게되었답니다.\n\n셀프바 파김치와 짙은 반찬 맛\n\n기본 밑반찬으로는\n빨간 무김치와 열무김치가 나오는데,\n젓갈 향이 짙게 감돌고\n간이 센 편이라 입맛을 끌어올려 줘요.\n단맛도 있는 편이구요.\n그리고 이 집의 숨은 핵심 팁은\n바로 주방 쪽에 마련된셀프코너에 가면\n알싸한 파김치를 직접 가져다\n먹을 수 있다는 건데요.\n\n이 파김치는 실제 매장에서\n따로 판매까지 할 정도로 인기있는\n별미 반찬이니 방문하시면\n맛 보시는 걸 추천해 드려요.\n제가 아는 알싸한 파김치 맛보다는\n단맛이 좀 더 있는 느낌이었어요.\n\n구수하고 담백한 메밀 콩국수 한 젓가락에\n달큰 짭조름한 파김치를 올려 먹으면\n맛의 균형이 들어맞는답니다.\n속 불편함 없이 깔끔한 메밀 콩국수에\n감칠맛 있는 파김치까지 어우러져\n'오늘 한 끼 잘 먹었다'라는 소리가\n나오는 만족스러운 식사였어요.\n\n강릉 혼자 여행길에\n색다른 건강 별미 혼밥을 경험하고\n싶다면 강릉대관령감자옹심이를\n추천드려요.",
+  "char_count": 1895
+}

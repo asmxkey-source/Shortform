@@ -1,0 +1,489 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224386137339",
+  "url": "https://m.blog.naver.com/schumpgel/224386137339",
+  "title": "내돈내산 망원동 작업하기 좋은 조용한 카페 물루, '화이트' 라떼, 핸드드립 추천",
+  "category": "외식 리뷰 ",
+  "tags": [
+    "연남동커피",
+    "카페몰루",
+    "몰루카페",
+    "연남동조용한카페",
+    "연남동핸드드립",
+    "연남동라떼",
+    "화이트라떼",
+    "오트밀크라떼",
+    "오트라떼",
+    "내돈내산",
+    "망원동카페추천",
+    "망원동조용한카페",
+    "망원동카페",
+    "망원동카페맛집",
+    "망원동카페공부",
+    "연남동카페",
+    "연남동카페추천",
+    "망원동작업카페"
+  ],
+  "component_count": 44,
+  "type_counts": {
+    "text": 14,
+    "image": 11,
+    "horizontalLine": 8,
+    "quotation": 6,
+    "sectionTitle": 2,
+    "video": 2,
+    "map": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "망원동 조용한 카페 물루_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "카페 물루,",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "조용히 책 읽기 좋은데?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안녕하세요 이웃님들!\n오늘은 망원동에서\n조용히 커피 한 잔 즐기고 싶을 때\n들르기 좋았던\n카페 물루에 다녀온 후기를\n남겨보려고 해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "카페 물루",
+      "address": "서울특별시 마포구 성미산로6길 8 1층",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n·6호선 망원역 1번 출구에서 396m (도보 10분)\n● 운영시간\n· 월~수, 금 09:00~19:00\n· 토, 일, 공휴일 11:00-19:00\n· 정기휴무 매주 목요일\n● 주차\n· 주차 어려움\n● 그 외 사항\n· 메인 메뉴 1인 1식 주문 필수\n· 이용시간:최대 2시간\n· 사진 찍을 때 주의 (디테일은 아래에서 확인)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-ff-system",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "background-color:#ffffff;",
+          "color:#555555;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "카페 물루는\n서울 마포구 성미산로6길 8에 있는\n작은 카페인데요.\n전체적으로 화이트와\n우드 톤이 어우러진 담백한 공간이라\n잠시 앉아 혼자 시간 보내기에\n좋았던 곳이에요.\n평일은 오전 9시부터 오후 7시까지,\n주말과 공휴일은\n오전 11시부터 오후 7시까지 운영하고,\n목요일은 휴무예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "카페 물루 이용 전 참고할 점",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "카페 몰루 이용 시간은\n최대 2시간으로 안내되어 있었어요.\n또한1인 1음료 주문이필요하고\n주차 공간은 따로 마련되어 있지 않아서\n인근 공영주차장이나\n공유 주차장을 이용하셔야 해요.\n혼자 운영하는 공간이라\n상황에 따라\n조금 기다릴 수도 있다는\n안내도 있었는데요.\n여유를 두고 방문하면\n더 편안하게 즐길 수\n있을 것 같았습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "취향 따라 고르는 원두 & 핸드드립",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "카페 물루는 라떼와 에스프레소 메뉴뿐 아니라\n핸드드립 커피도 준비되어 있었어요.\n과테말라, 케냐, 볼리비아, 에콰도르,\n디카페인 에티오피아 등\n여러 원두를 소개하고 있었고,\n원두마다 느낄 수 있는 향미도\n깔끔하게 적혀 있어\n고르는 재미가 있더라고요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "과일의 산뜻한 느낌을 좋아한다면\n과테말라나 에콰도르,\n조금 더 묵직한 초콜릿 계열의 풍미를 선호한다면\n케냐 원두도 잘 어울릴 것 같았어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "디카페인 선택지가 있는 점도\n커피를 좋아하는 분들에게\n반가운 포인트였습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "망원동카페 물루 메뉴\n주문: 화이트 라떼, 오트밀크로 변경 (5,500원)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "주문은 키오스크에서 간편하게 할 수 있었어요.\n제가 고른 메뉴는 카페 몰루의 화이트였는데요.\n화이트는 카페라떼 메뉴였고,\n가격은 5,500원이었어요.\n아이스와 핫 중에서 선택할 수 있고\n우유 선택 옵션도 있어서\n저는 평소 좋아하는\n오트밀크로 변경해 주문했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "화이트 오트밀크 라떼 맛은?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "\"고소하고 깔끔했던 화이트\"\n창가 자리에 앉아 받아본\n화이트 오트밀크 라떼는\n진한 커피와 부드러운\n오트밀크가 층을 이루고 있어\n보기부터 깔끔한 느낌이었어요.\n한 모금 마셔보니\n에스프레소의 진한 풍미는\n살아 있으면서도\n오트밀크 특유의 구수함이\n자연스럽게 더해졌는데요.\n고소한 라떼를\n선호하는 분들이라면\n만족할 만한 조합이었습니다.\n특히 우유 라떼보다 조금 더 묵직하고\n은은한 곡물 느낌의 라떼를 찾는다면\n화이트에 오트밀크 변경을\n추천하고 싶어요.\n얼음이 녹아도 닝닝한 맛이 적고\n라떼 맛을 꽤 오래 유지해서\n좋았어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "또 좋았던 점은\n일반카페는 대체유 변경 시\n500원~1000원의 추가요금이\n있는데 카페 물루는 무료!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "카페물루 디저트",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매장 한쪽에는 원두와 함께\n디저트도 있었어요.\n쿠키류와 구움과자,\n초콜릿 디저트까지 준비되어 있어\n커피 한 잔만 마시기 아쉬운 날\n곁들이기 좋아 보였어요.\n담백한 공간 분위기와\n잘 어울리는 구성이라\n다음에는 핸드드립 커피와\n구움과자 조합으로도\n즐겨보고 싶었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "망원동 조용한 카페 물루 후기",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "카페 몰루는 화려한 분위기보다\n커피와 공간의 균형을\n차분하게 즐기기 좋은\n망원동 카페였어요.\n저도 한시간 동안\n시간 가는 줄 모르고 책 읽다 왔답니다.\n핸드드립 원두 선택지가 다양하고,\n라떼는 오트밀크로 변경해서\n취향에 맞게\n주문하기 좋았던 점도\n마음에 들었습니다.\n망원동에서 커피도 맛있고\n조용한 작업 카페를 찾고 있다면\n카페 물루에 한 번 들러 보세요.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "망원동 조용한 카페 물루_by징키\n\n카페 물루,\n\n조용히 책 읽기 좋은데?\n\n안녕하세요 이웃님들!\n오늘은 망원동에서\n조용히 커피 한 잔 즐기고 싶을 때\n들르기 좋았던\n카페 물루에 다녀온 후기를\n남겨보려고 해요.\n\n● 위치\n·6호선 망원역 1번 출구에서 396m (도보 10분)\n● 운영시간\n· 월~수, 금 09:00~19:00\n· 토, 일, 공휴일 11:00-19:00\n· 정기휴무 매주 목요일\n● 주차\n· 주차 어려움\n● 그 외 사항\n· 메인 메뉴 1인 1식 주문 필수\n· 이용시간:최대 2시간\n· 사진 찍을 때 주의 (디테일은 아래에서 확인)\n\n카페 물루는\n서울 마포구 성미산로6길 8에 있는\n작은 카페인데요.\n전체적으로 화이트와\n우드 톤이 어우러진 담백한 공간이라\n잠시 앉아 혼자 시간 보내기에\n좋았던 곳이에요.\n평일은 오전 9시부터 오후 7시까지,\n주말과 공휴일은\n오전 11시부터 오후 7시까지 운영하고,\n목요일은 휴무예요.\n\n카페 물루 이용 전 참고할 점\n\n카페 몰루 이용 시간은\n최대 2시간으로 안내되어 있었어요.\n또한1인 1음료 주문이필요하고\n주차 공간은 따로 마련되어 있지 않아서\n인근 공영주차장이나\n공유 주차장을 이용하셔야 해요.\n혼자 운영하는 공간이라\n상황에 따라\n조금 기다릴 수도 있다는\n안내도 있었는데요.\n여유를 두고 방문하면\n더 편안하게 즐길 수\n있을 것 같았습니다.\n\n취향 따라 고르는 원두 & 핸드드립\n\n카페 물루는 라떼와 에스프레소 메뉴뿐 아니라\n핸드드립 커피도 준비되어 있었어요.\n과테말라, 케냐, 볼리비아, 에콰도르,\n디카페인 에티오피아 등\n여러 원두를 소개하고 있었고,\n원두마다 느낄 수 있는 향미도\n깔끔하게 적혀 있어\n고르는 재미가 있더라고요.\n\n과일의 산뜻한 느낌을 좋아한다면\n과테말라나 에콰도르,\n조금 더 묵직한 초콜릿 계열의 풍미를 선호한다면\n케냐 원두도 잘 어울릴 것 같았어요.\n\n디카페인 선택지가 있는 점도\n커피를 좋아하는 분들에게\n반가운 포인트였습니다.\n\n망원동카페 물루 메뉴\n주문: 화이트 라떼, 오트밀크로 변경 (5,500원)\n\n주문은 키오스크에서 간편하게 할 수 있었어요.\n제가 고른 메뉴는 카페 몰루의 화이트였는데요.\n화이트는 카페라떼 메뉴였고,\n가격은 5,500원이었어요.\n아이스와 핫 중에서 선택할 수 있고\n우유 선택 옵션도 있어서\n저는 평소 좋아하는\n오트밀크로 변경해 주문했습니다.\n\n화이트 오트밀크 라떼 맛은?\n\n\"고소하고 깔끔했던 화이트\"\n창가 자리에 앉아 받아본\n화이트 오트밀크 라떼는\n진한 커피와 부드러운\n오트밀크가 층을 이루고 있어\n보기부터 깔끔한 느낌이었어요.\n한 모금 마셔보니\n에스프레소의 진한 풍미는\n살아 있으면서도\n오트밀크 특유의 구수함이\n자연스럽게 더해졌는데요.\n고소한 라떼를\n선호하는 분들이라면\n만족할 만한 조합이었습니다.\n특히 우유 라떼보다 조금 더 묵직하고\n은은한 곡물 느낌의 라떼를 찾는다면\n화이트에 오트밀크 변경을\n추천하고 싶어요.\n얼음이 녹아도 닝닝한 맛이 적고\n라떼 맛을 꽤 오래 유지해서\n좋았어요.\n\n또 좋았던 점은\n일반카페는 대체유 변경 시\n500원~1000원의 추가요금이\n있는데 카페 물루는 무료!\n\n카페물루 디저트\n\n매장 한쪽에는 원두와 함께\n디저트도 있었어요.\n쿠키류와 구움과자,\n초콜릿 디저트까지 준비되어 있어\n커피 한 잔만 마시기 아쉬운 날\n곁들이기 좋아 보였어요.\n담백한 공간 분위기와\n잘 어울리는 구성이라\n다음에는 핸드드립 커피와\n구움과자 조합으로도\n즐겨보고 싶었습니다.\n\n망원동 조용한 카페 물루 후기\n\n카페 몰루는 화려한 분위기보다\n커피와 공간의 균형을\n차분하게 즐기기 좋은\n망원동 카페였어요.\n저도 한시간 동안\n시간 가는 줄 모르고 책 읽다 왔답니다.\n핸드드립 원두 선택지가 다양하고,\n라떼는 오트밀크로 변경해서\n취향에 맞게\n주문하기 좋았던 점도\n마음에 들었습니다.\n망원동에서 커피도 맛있고\n조용한 작업 카페를 찾고 있다면\n카페 물루에 한 번 들러 보세요.",
+  "char_count": 1885
+}

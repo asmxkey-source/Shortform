@@ -1,0 +1,527 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224361963405",
+  "url": "https://m.blog.naver.com/schumpgel/224361963405",
+  "title": "합정혼밥점심맛집 서교동 백세식당,  가정식 백반 할머니의 손맛",
+  "category": "외식 리뷰 ",
+  "tags": [
+    "홍대맛집",
+    "합정맛집",
+    "홍대밥집",
+    "합정밥집",
+    "홍대백반맛집",
+    "합정백반",
+    "백만맛집",
+    "백세식당",
+    "합정백세식당"
+  ],
+  "component_count": 41,
+  "type_counts": {
+    "text": 19,
+    "image": 14,
+    "imageStrip": 3,
+    "quotation": 2,
+    "horizontalLine": 1,
+    "map": 1,
+    "sticker": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "합정에서 혼밥하는데 집밥 그리울 때 _by링키\n90세 할머니의 손맛\n정갈하고 맛있는 백반집\n'백세식당'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안녕하세요! 오늘은 마포구 서교동에서\n정말 속 편하고 정성 가득한 한 끼를 먹고 와서\n소개해 드리려고 해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "바로 90세가 넘으신 할머니께서 정성껏 음식을\n차려주시는 백반 맛집, ‘백세식당’입니다.\n매장 내부도 깔끔하고 음식 하나하나에\n정성이 느껴져서 서교동 점심 혼밥맛집을 찾으시는\n분들께 꼭 추천해 드리고 싶어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "백세식당",
+      "address": "서울특별시 마포구 잔다리로 77 1층 102호",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n·합정역 2번 출구에서 523m",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 운영시간\n· 월토 11:00-15:00 (마지막 주문 14:30)\n· 당분간은 점심장사만 하신다합니다.\n· 일요일과 공휴일 휴무\n·0507-1366-7191",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs13",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "입구에서 마늘까며 맞아주셨던\n차씨곰할머니는 이전에도 '어머니와고등어',\n'나물먹는곰'으로 식당을 해오셨고 이번이\n세번째 가게라고 합니다.\n30년생이시면거의 십년전에 돌아가신\n저희 할아버지보다도 3살 누님이세요\n만나이 96세시네요\n아직도 현역에서 활동하시는 것 정말 대단하셔요\n입구에서 한사람 한사람에게 인사해주십니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#c2c2c2;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내부는 홍대혼밥 점심맛집 답게\n깔끔하고 편안한 분위기에요.\n뭔가 뷰좋은 높은 자리도 있고\n내부도 답답하지 않아서 일단 공간은 합격",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "정성과 깊은 맛이 담긴 메뉴",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "서교동 백세식당은 집밥처럼 속 편하면서도\n입맛 당기는 메뉴들이 알차게 준비되어 있어요.\n종이에 손으로 써서 붙인 것 만큼\n그때 그때 제철에 따라 바뀌는 메뉴도 있는 것\n같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "링키징키 주문메뉴\n홍합미역국 11,000\n목살김치찜 12,000",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_postit"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "주문은 상 앞에 붙은 토스큐알로 합니다.\n원래는 백세식당의 시그니처인 '돌솥 가지덮밥'을\n먹으려고 방문했는데요, 아쉽게도 인기가 많아\n이미 품절이었어요!\n역시 서교동 소문난 백반집답더라고요.\n이 날 마침 생일인 김에 미역국 시켜봤습니다.\n오히려 좋아~",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사람 수에 맞춰서 식기와 함께 기본찬이 나왔습니다.\n기본 반찬중에 일부는 셀프바에만 있고\n셀프바에서는 반찬을 리필 할 수 있어요.\n(반찬 상황에 따라 되는 것 있고 안 되는 것 있음)\n메뉴와 반찬이 수시로 솔드아웃되는 거보니\n재고 관리 확실히 하고 계신가보다 싶었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#c2c2c2;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "홍합미역국과 목살김치찜이 나왔습니다.\n반찬이 다양하게 나와 먹을게 많쥬?\n주로 밥을 다 해먹는 제 입맛에는\n반찬이 전반적으로 약간 달았는데\n시판 음식생각하면 단 편은아니에요\n후기보면 오히려 슴슴하다는 표현도 많으니\n참고 부탁드려요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "백세식당 홍합미역국 완전 딱 할머니가\n끓여주신 그 맛~\n홍합 살은 뭔가 새로운 형식으로\n들어 있었던 듯한데 집밥 느낌이었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "집에서 푹 끓여준 것 같은 뽀오얀 국물",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그리고 다음에 가서도 다시 시킬 의향있는\n목살김치찜",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "푹 익은 김치와 두툼하고 부드러운 목살의 조합이\n정말 일품이었어요. 특히 은은하게 풍기는\n생강향이 인상적이었는데요!\n잡내를 싹 잡아주면서도 감칠맛을 깊게\n올려주어서 질리지 않고 끝까지 맛있게 먹었습니다. 밥도둑이 따로 없더라고요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이거 또 생각날 것 같다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "합정에 이런 백반맛집이 있다니!\n96세 할머님의 정기받고 갑니다.\n감사합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "가정식백반이 그리운 홍대합정분들\n혼밥, 친구들이랑 건강한 점심약속\n서교동 백세식당 어때요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffffff;",
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내돈내산~",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "합정에서 혼밥하는데 집밥 그리울 때 _by링키\n90세 할머니의 손맛\n정갈하고 맛있는 백반집\n'백세식당'\n\n안녕하세요! 오늘은 마포구 서교동에서\n정말 속 편하고 정성 가득한 한 끼를 먹고 와서\n소개해 드리려고 해요.\n\n바로 90세가 넘으신 할머니께서 정성껏 음식을\n차려주시는 백반 맛집, ‘백세식당’입니다.\n매장 내부도 깔끔하고 음식 하나하나에\n정성이 느껴져서 서교동 점심 혼밥맛집을 찾으시는\n분들께 꼭 추천해 드리고 싶어요.\n\n● 위치\n·합정역 2번 출구에서 523m\n\n● 운영시간\n· 월토 11:00-15:00 (마지막 주문 14:30)\n· 당분간은 점심장사만 하신다합니다.\n· 일요일과 공휴일 휴무\n·0507-1366-7191\n\n입구에서 마늘까며 맞아주셨던\n차씨곰할머니는 이전에도 '어머니와고등어',\n'나물먹는곰'으로 식당을 해오셨고 이번이\n세번째 가게라고 합니다.\n30년생이시면거의 십년전에 돌아가신\n저희 할아버지보다도 3살 누님이세요\n만나이 96세시네요\n아직도 현역에서 활동하시는 것 정말 대단하셔요\n입구에서 한사람 한사람에게 인사해주십니다.\n\n내부는 홍대혼밥 점심맛집 답게\n깔끔하고 편안한 분위기에요.\n뭔가 뷰좋은 높은 자리도 있고\n내부도 답답하지 않아서 일단 공간은 합격\n\n정성과 깊은 맛이 담긴 메뉴\n\n서교동 백세식당은 집밥처럼 속 편하면서도\n입맛 당기는 메뉴들이 알차게 준비되어 있어요.\n종이에 손으로 써서 붙인 것 만큼\n그때 그때 제철에 따라 바뀌는 메뉴도 있는 것\n같아요.\n\n링키징키 주문메뉴\n홍합미역국 11,000\n목살김치찜 12,000\n\n주문은 상 앞에 붙은 토스큐알로 합니다.\n원래는 백세식당의 시그니처인 '돌솥 가지덮밥'을\n먹으려고 방문했는데요, 아쉽게도 인기가 많아\n이미 품절이었어요!\n역시 서교동 소문난 백반집답더라고요.\n이 날 마침 생일인 김에 미역국 시켜봤습니다.\n오히려 좋아~\n\n사람 수에 맞춰서 식기와 함께 기본찬이 나왔습니다.\n기본 반찬중에 일부는 셀프바에만 있고\n셀프바에서는 반찬을 리필 할 수 있어요.\n(반찬 상황에 따라 되는 것 있고 안 되는 것 있음)\n메뉴와 반찬이 수시로 솔드아웃되는 거보니\n재고 관리 확실히 하고 계신가보다 싶었어요.\n\n홍합미역국과 목살김치찜이 나왔습니다.\n반찬이 다양하게 나와 먹을게 많쥬?\n주로 밥을 다 해먹는 제 입맛에는\n반찬이 전반적으로 약간 달았는데\n시판 음식생각하면 단 편은아니에요\n후기보면 오히려 슴슴하다는 표현도 많으니\n참고 부탁드려요.\n\n백세식당 홍합미역국 완전 딱 할머니가\n끓여주신 그 맛~\n홍합 살은 뭔가 새로운 형식으로\n들어 있었던 듯한데 집밥 느낌이었어요.\n\n집에서 푹 끓여준 것 같은 뽀오얀 국물\n\n그리고 다음에 가서도 다시 시킬 의향있는\n목살김치찜\n\n푹 익은 김치와 두툼하고 부드러운 목살의 조합이\n정말 일품이었어요. 특히 은은하게 풍기는\n생강향이 인상적이었는데요!\n잡내를 싹 잡아주면서도 감칠맛을 깊게\n올려주어서 질리지 않고 끝까지 맛있게 먹었습니다. 밥도둑이 따로 없더라고요.\n\n이거 또 생각날 것 같다.\n\n합정에 이런 백반맛집이 있다니!\n96세 할머님의 정기받고 갑니다.\n감사합니다.\n\n가정식백반이 그리운 홍대합정분들\n혼밥, 친구들이랑 건강한 점심약속\n서교동 백세식당 어때요?\n\n내돈내산~",
+  "char_count": 1559
+}
