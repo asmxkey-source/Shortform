@@ -1,0 +1,468 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224378728543",
+  "url": "https://m.blog.naver.com/schumpgel/224378728543",
+  "title": "여자친구 선물 추천 바로랩 온열찜질기 릴리프벨트 v2",
+  "category": "꿀팁, 체험기",
+  "tags": [
+    "여자친구",
+    "선물",
+    "추천",
+    "여자친구선물추천",
+    "생리통찜질",
+    "생리통심할때완화법"
+  ],
+  "component_count": 37,
+  "type_counts": {
+    "text": 15,
+    "image": 12,
+    "quotation": 5,
+    "imageStrip": 2,
+    "horizontalLine": 1,
+    "video": 1,
+    "oglink": 1
+  },
+  "components": [
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "바로랩 릴리프벨트 V2 솔직 후기_by링키\n그 날을 위한\n센스 있는\n여자친구 선물 추천",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매달 찾아오는 '그날'마다 극심한 생리통이나\n복부 냉증 때문에 일상이 무너지는 경험,\n다들 한 번쯤 있으실 텐데요. 저 역시 생리통과\n배란통이 심한 편이라 배를 따뜻하게 해주는\n온열 아이템을 달고 사는 편이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오늘은 제가 최근에 직접 써보고 삶의 질이\n180도 달라진 온열 아이템이자,\n센스 있는 기념일/서프라이즈 선물로\n강력 추천하고 싶은 꿀템을 소개해 드리려고 합니다.\n바로 '바로랩 릴리프벨트 V2' 온열찜질기입니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "여자친구 선물 추천",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "여자친구에게 기념일이나 생일 선물,\n혹은 갑작스럽게 컨디션이 안 좋아 보일 때\n챙겨줄 서프라이즈 선물을 고민하고 계신가요?\n립스틱이나 향수도 좋지만, \"너 아플 때 이거\n쓰고 덜 힘들었으면 좋겠어\"라는 진심 어린\n마음과 함께 건네는 온열찜질기는 정말 차원이\n다른 감동을 줍니다.\n매달 찾아오는 생리, 배란기간에 실질적으로 고통을\n덜어주는 실용적이면서도 따뜻한 배려가 담겨있기 때문이죠.\n여자친구 선물 추천으로 좋은 제품이죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "감각적인 패키지와 독보적인 디자인",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "택배를 받자마자 패키지부터 감탄이 나왔는데요.\n바로랩이 직접 기획하고 개발한 독자적인\n디자인이라 그런지 시중에 흔히 보이는\n투박한 찜질기와는 차원이 달랐어요.\n세련되고 깔끔한 무드 덕분에 박스를 열자마자 기분이 좋아진답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "‘릴리프벨트 V2’ 업그레이드 포인트",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "워낙 입소문이 자자했던 바로랩 릴리프벨트 V1에서 실제 고객들의 소중한 피드백을 적극 반영해 'V2'로 대폭 업그레이드되었다고 해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 압도적인 배터리 용량:\n완충 시 최대 9시간 연속 사용 가능\n2. 섬세한 5단 온도 조절:\n기존 3단에서 5단계로 확장되어 내 몸 컨디션에 맞춘 미세 온도 설정 가능\n3. 저소음 마사지 설계:\n도서관, 사무실, 대중교통에서도 눈치 보이지 않는 조용한 마사지 진동\n4. 1.5배 넓어진 온열 면적:\n아랫배부터 허리까지 더 넓고 안정적으로 밀착 커버\n5. 맞춤 타이머 기능:\n기존 30분 단일 설정에서 20분 / 30분 / 40분 다단계 설정 가능",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "밀착 착용감, 직관적인 인터페이스",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저는 평소 생리통이 시작되면 허리와 아랫배가\n끊어질 듯 뻐근한 편인데요. 릴리프벨트 V2를\n켜고 복부에 둘러주자마자 은은하고 깊숙한\n온열감이 전달되면서 뭉친 근육과 통증이\n사르르 풀리더라고요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "있는\n사무실에서 일할 때 켜두어도 될 것 같은 정도예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "신축성 좋은 벨트 덕분에 마른 체형부터 통통한\n체형까지 들뜸 없이 착 감기며, 옷 위에 착용해도\n슬림해서 전혀 티가 나지 않습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "유선 제품처럼 콘센트 옆에 묶여있을 필요 없이\n무선으로 자유롭게 집안일을 하거나\n재택근무를 할 수 있다는 점이 가장 만족스러웠어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "릴리프벨트 V2는 무게가 가볍고 부피 차지가\n적어 가방에 쏙 들어갑니다. 생리 기간뿐만\n아니라 겨울철 야외활동, 환절기 냉증, 장시간\n앉아있어 뻐근한 허리 찜질용 등\n사계절 일상 보온 템으로도 활용도가 무궁무진해요.\n진동 소음이 적은편이라 화이트 노이즈가\n있는 공간에서는 착용하고 근무를 해도\n될것같은 정도입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "이런 분들께 강력 추천합니다!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매달 찾아오는 생리통, 배란통,\n복부 냉증으로 고생하시는 여성분\n장시간 앉아서 일하거나 허리가 자주 뻐근하신 분\n집안일, 외출 중에도 제약 없이\n자유롭게 무선 찜질을 즐기고 싶으신 분\n기념일이나 '그날'을 위해 센스 있고\n실용적인 여자친구 선물 추천을 찾고 계신 남성분!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "디자인, 성능, 휴대성까지 무엇 하나 빠지지 않는 인생 온열찜질기! 고민은 배송만 늦출 뿐입니다. 아래 링크에서 더 자세한 정보와 후기를 확인해 보세요. :)\nhttps://zrr.kr/c6vwuOhttps://zrr.kr/c6vwuO",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "[국내 유일] 바로랩 릴리프 벨트 V2 - BAROLAB",
+      "style": {
+        "classes": [
+          "se-l-large_image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "여자친구 선물 추천 바로랩 릴리프 벨트 v2",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "바로랩 릴리프벨트 V2 솔직 후기_by링키\n그 날을 위한\n센스 있는\n여자친구 선물 추천\n\n매달 찾아오는 '그날'마다 극심한 생리통이나\n복부 냉증 때문에 일상이 무너지는 경험,\n다들 한 번쯤 있으실 텐데요. 저 역시 생리통과\n배란통이 심한 편이라 배를 따뜻하게 해주는\n온열 아이템을 달고 사는 편이에요.\n\n오늘은 제가 최근에 직접 써보고 삶의 질이\n180도 달라진 온열 아이템이자,\n센스 있는 기념일/서프라이즈 선물로\n강력 추천하고 싶은 꿀템을 소개해 드리려고 합니다.\n바로 '바로랩 릴리프벨트 V2' 온열찜질기입니다!\n\n여자친구 선물 추천\n\n여자친구에게 기념일이나 생일 선물,\n혹은 갑작스럽게 컨디션이 안 좋아 보일 때\n챙겨줄 서프라이즈 선물을 고민하고 계신가요?\n립스틱이나 향수도 좋지만, \"너 아플 때 이거\n쓰고 덜 힘들었으면 좋겠어\"라는 진심 어린\n마음과 함께 건네는 온열찜질기는 정말 차원이\n다른 감동을 줍니다.\n매달 찾아오는 생리, 배란기간에 실질적으로 고통을\n덜어주는 실용적이면서도 따뜻한 배려가 담겨있기 때문이죠.\n여자친구 선물 추천으로 좋은 제품이죠?\n\n감각적인 패키지와 독보적인 디자인\n\n택배를 받자마자 패키지부터 감탄이 나왔는데요.\n바로랩이 직접 기획하고 개발한 독자적인\n디자인이라 그런지 시중에 흔히 보이는\n투박한 찜질기와는 차원이 달랐어요.\n세련되고 깔끔한 무드 덕분에 박스를 열자마자 기분이 좋아진답니다.\n\n‘릴리프벨트 V2’ 업그레이드 포인트\n\n워낙 입소문이 자자했던 바로랩 릴리프벨트 V1에서 실제 고객들의 소중한 피드백을 적극 반영해 'V2'로 대폭 업그레이드되었다고 해요.\n\n1. 압도적인 배터리 용량:\n완충 시 최대 9시간 연속 사용 가능\n2. 섬세한 5단 온도 조절:\n기존 3단에서 5단계로 확장되어 내 몸 컨디션에 맞춘 미세 온도 설정 가능\n3. 저소음 마사지 설계:\n도서관, 사무실, 대중교통에서도 눈치 보이지 않는 조용한 마사지 진동\n4. 1.5배 넓어진 온열 면적:\n아랫배부터 허리까지 더 넓고 안정적으로 밀착 커버\n5. 맞춤 타이머 기능:\n기존 30분 단일 설정에서 20분 / 30분 / 40분 다단계 설정 가능\n\n밀착 착용감, 직관적인 인터페이스\n\n저는 평소 생리통이 시작되면 허리와 아랫배가\n끊어질 듯 뻐근한 편인데요. 릴리프벨트 V2를\n켜고 복부에 둘러주자마자 은은하고 깊숙한\n온열감이 전달되면서 뭉친 근육과 통증이\n사르르 풀리더라고요.\n\n있는\n사무실에서 일할 때 켜두어도 될 것 같은 정도예요.\n\n신축성 좋은 벨트 덕분에 마른 체형부터 통통한\n체형까지 들뜸 없이 착 감기며, 옷 위에 착용해도\n슬림해서 전혀 티가 나지 않습니다.\n\n유선 제품처럼 콘센트 옆에 묶여있을 필요 없이\n무선으로 자유롭게 집안일을 하거나\n재택근무를 할 수 있다는 점이 가장 만족스러웠어요.\n\n릴리프벨트 V2는 무게가 가볍고 부피 차지가\n적어 가방에 쏙 들어갑니다. 생리 기간뿐만\n아니라 겨울철 야외활동, 환절기 냉증, 장시간\n앉아있어 뻐근한 허리 찜질용 등\n사계절 일상 보온 템으로도 활용도가 무궁무진해요.\n진동 소음이 적은편이라 화이트 노이즈가\n있는 공간에서는 착용하고 근무를 해도\n될것같은 정도입니다.\n\n이런 분들께 강력 추천합니다!\n\n매달 찾아오는 생리통, 배란통,\n복부 냉증으로 고생하시는 여성분\n장시간 앉아서 일하거나 허리가 자주 뻐근하신 분\n집안일, 외출 중에도 제약 없이\n자유롭게 무선 찜질을 즐기고 싶으신 분\n기념일이나 '그날'을 위해 센스 있고\n실용적인 여자친구 선물 추천을 찾고 계신 남성분!\n\n디자인, 성능, 휴대성까지 무엇 하나 빠지지 않는 인생 온열찜질기! 고민은 배송만 늦출 뿐입니다. 아래 링크에서 더 자세한 정보와 후기를 확인해 보세요. :)\nhttps://zrr.kr/c6vwuOhttps://zrr.kr/c6vwuO\n\n여자친구 선물 추천 바로랩 릴리프 벨트 v2",
+  "char_count": 1857
+}

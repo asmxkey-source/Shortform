@@ -1,0 +1,778 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224373901823",
+  "url": "https://m.blog.naver.com/schumpgel/224373901823",
+  "title": "합정역 서교동 맛집, 서교동 평양냉면 서관면옥",
+  "category": "외식 리뷰 ",
+  "tags": [
+    "합정역",
+    "합정역맛집",
+    "서교동맛집",
+    "서교동",
+    "서교동평양냉면",
+    "서관면옥홍대점",
+    "서관면옥홍대",
+    "서관면옥"
+  ],
+  "component_count": 64,
+  "type_counts": {
+    "text": 26,
+    "image": 18,
+    "imageStrip": 9,
+    "quotation": 8,
+    "horizontalLine": 1,
+    "map": 1,
+    "video": 1
+  },
+  "components": [
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "합정역 맛집 블루리본 8년 연속 평냉집?_by링키\n서교동 평양냉면 명가\n'서관면옥 홍대점'\n솔직 방문 후기",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "평양냉면을 좋아하시는 분들이라면\n모를 수 없는 곳이자 2019년부터 2026년까지\n8년 연속 블루리본 서베이에 선정된 평양냉면\n전문점 '서관면옥 홍대점'에 다녀왔습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "서관면옥 홍대점",
+      "address": "서울특별시 마포구 월드컵북로5길 41 106호~107호",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n·홍대입구역 1번 출구: 라인프렌즈 건물 우회전 후 직진 ➔ 메가커피 사거리 신호 건너 직진 ➔ 아만티 호텔 방향 건너 직진 ➔ 누디트 홍대 건물 1층(테라로사 뒤편)\n·합정역 2번 출구: 직진 후 웨딩시그니처 사거리에서 좌회전 ➔ 400m 직진 후 사거리 우측 신호 건너 직진 ➔ 누디트 홍대 건물 1층\n● 운영시간\n· 매일 11:00-21:00 (휴게시간  15:00-17:00)\n· 점심, 저녁 모두 영업종료 30분 전이 마지막 주문\n·0507-1379-5735\n●예약 및 평점\n·예약:캐치테이블, 네이버예약을 통한 간편 예약 가능\n·평점/리뷰:평점 4.7점 / 리뷰 200여 개 이상 (친절한 서비스와 청결한 위생으로 만족도가 높은 곳!)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs13",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "서초 본점의 깊은 맛과 정성을 그대로\n가져오면서도, 홍대만의 감각적이고 세련된\n인테리어와 단체석·테라스석까지 갖춰 가족 외식,\n부모님/손님 대접, 연인과의 데이트 장소로\n정말 제격인 곳이에요.\n서교동 핫플 누디트에 입점되어있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "합정역 맛집 서관면옥 내부",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내부는 생각보다 넓고\n전통적이면서도 현대적인 느낌",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "서관면옥이 고집하는 세가지 특별함",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "식탁에는 서관면옥의 메뉴는 물론\n다양한 팁들과 가게 철학이 담겨있어요.\n옮겨볼게요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "100% 국내산 제주 메밀: 단메밀과 쓴메밀을 최적으로 블렌딩하여 순메밀면 고유의 구수함과 담백함이 살아있습니다.\n매일 아침 맷돌 자가제분 & 자가제면: 매일 아침 3시간 이내 저온·저속으로 제분한 메밀만 사용해 면발의 식감과 향이 남다릅니다.\n초신선 한우 육수: 국내산 한우 암소 양지와 사태를 5시간 동안 정성껏 끓여 기름기를 맑게 제거한 깊고 진한 육향의 육수입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안 그래도 매장 안에 제분소가 있더라고요.\n매일 아침 직접 저온 저속으로 제분한\n메밀 가루로 면을 만든다니!! 찐이다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "서관면옥 메뉴 및 주문",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "불고기, 어복쟁반, 냉면, 사이드로\n구성되어있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "주문메뉴\n한우불고기 단품 32,000원\n서관만두 1판 14,000원\n제주메 순면 선비냉면 17,000원\n제주메밀 순면 맛박이냉면 19,000원",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-quotation_postit"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저희는 합정역맛집 서교동 평양냉면의\n진수를 보기 위해 모든 페이지에서\n고르게 시켜보았어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "주문하고 직접 제작하신 듯한 겨자와\n다시마초 구경중에 냉 율무차가 나왔습니다.\n구수하니 숭늉같고 맛있었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "한우불고기 (단품) / 32,000원",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "지금까지 수많은 외식 매장에서 불고기를\n먹어봤지만, 가게에서 먹은 불고기 중 단연\n제일 맛있었습니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "고기 자체의 퀄리티도 훌륭하고 자작한 국물에\n다양한 채소를 함께 곁들여 먹을 수 있어\n담백하고 깊은 풍미를 제대로 즐겼습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "불고기에 감탄하고 있을 때\n선비냉면과 맛박이 냉면이 나왔어요.\n선비냉면이 비냉, 맛박이냉면이\n고명많은 물냉이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "제주메밀 순면 맛박이냉면 / 19,000원",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "고기와 고명이 잔뜩 올려져 나온 물냉면\n형태의 안주냉면입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "육향 가득한 진한 육수의 풍미가\n느껴지면서도 100% 순메밀면 본연의\n구수한 향을 살려주어 아주 만족스럽게 흡입했씁니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "제주메밀 순면 선비냉면 / 17,000원",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매콤달달한 비빔 양념이 더해진 선비냉면입니다.\n양념 소스의 맛이 잘 느껴지면서도, 신기하게\n메밀 순면 특유의 은은한 향과 감칠맛을\n가리지 않아 끝까지 깔끔하게 먹을 수 있었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "양념이 쉽게 유치해지기 쉬운데\n메밀과 정말 잘 어울렸어요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "서관만두 (1판) / 14,000원",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "군더더기 없이 자극적이지 않고 피와 속이\n어우러지는 깔끔하고 맛있는 정석 만두의\n맛입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "메밀면이나 불고기와 함께 사이드로 곁들이기\n딱 좋았습니다. 반 판도 있으니 만두는 꼭 츄라이",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "반찬도 다 맛있어서\n다양한 조합으로 즐기면서 즐겁게 먹는 중",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "진한 육향과 소스 맛이 훌륭하면서도 순메밀\n고유의 식감과 향을 헤치지 않는 절묘한 균형감이\n인상적이었습니다. 분위기도 정갈해서 부모님을\n모시고 오거나 소중한 손님이 왔을 때 대접하는\n자리에 강력 추천하고 싶은 곳입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "어린이 의자도 있네요 가족손님도 환영!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "주차는 누디트 주차장에 최대 1시간\n가능하다고 합니다. 주차도 가능한 합정역맛집\n귀하다",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "더운 여름 합정역 서교동 맛집\n서교동 평양냉면 서관면옥에서\n시원하고 맛있는 냉면 한사발 어떠세요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "합정역 맛집 블루리본 8년 연속 평냉집?_by링키\n서교동 평양냉면 명가\n'서관면옥 홍대점'\n솔직 방문 후기\n\n평양냉면을 좋아하시는 분들이라면\n모를 수 없는 곳이자 2019년부터 2026년까지\n8년 연속 블루리본 서베이에 선정된 평양냉면\n전문점 '서관면옥 홍대점'에 다녀왔습니다.\n\n● 위치\n·홍대입구역 1번 출구: 라인프렌즈 건물 우회전 후 직진 ➔ 메가커피 사거리 신호 건너 직진 ➔ 아만티 호텔 방향 건너 직진 ➔ 누디트 홍대 건물 1층(테라로사 뒤편)\n·합정역 2번 출구: 직진 후 웨딩시그니처 사거리에서 좌회전 ➔ 400m 직진 후 사거리 우측 신호 건너 직진 ➔ 누디트 홍대 건물 1층\n● 운영시간\n· 매일 11:00-21:00 (휴게시간  15:00-17:00)\n· 점심, 저녁 모두 영업종료 30분 전이 마지막 주문\n·0507-1379-5735\n●예약 및 평점\n·예약:캐치테이블, 네이버예약을 통한 간편 예약 가능\n·평점/리뷰:평점 4.7점 / 리뷰 200여 개 이상 (친절한 서비스와 청결한 위생으로 만족도가 높은 곳!)\n\n서초 본점의 깊은 맛과 정성을 그대로\n가져오면서도, 홍대만의 감각적이고 세련된\n인테리어와 단체석·테라스석까지 갖춰 가족 외식,\n부모님/손님 대접, 연인과의 데이트 장소로\n정말 제격인 곳이에요.\n서교동 핫플 누디트에 입점되어있어요.\n\n합정역 맛집 서관면옥 내부\n\n내부는 생각보다 넓고\n전통적이면서도 현대적인 느낌\n\n서관면옥이 고집하는 세가지 특별함\n\n식탁에는 서관면옥의 메뉴는 물론\n다양한 팁들과 가게 철학이 담겨있어요.\n옮겨볼게요\n\n100% 국내산 제주 메밀: 단메밀과 쓴메밀을 최적으로 블렌딩하여 순메밀면 고유의 구수함과 담백함이 살아있습니다.\n매일 아침 맷돌 자가제분 & 자가제면: 매일 아침 3시간 이내 저온·저속으로 제분한 메밀만 사용해 면발의 식감과 향이 남다릅니다.\n초신선 한우 육수: 국내산 한우 암소 양지와 사태를 5시간 동안 정성껏 끓여 기름기를 맑게 제거한 깊고 진한 육향의 육수입니다.\n\n안 그래도 매장 안에 제분소가 있더라고요.\n매일 아침 직접 저온 저속으로 제분한\n메밀 가루로 면을 만든다니!! 찐이다.\n\n서관면옥 메뉴 및 주문\n\n불고기, 어복쟁반, 냉면, 사이드로\n구성되어있습니다.\n\n주문메뉴\n한우불고기 단품 32,000원\n서관만두 1판 14,000원\n제주메 순면 선비냉면 17,000원\n제주메밀 순면 맛박이냉면 19,000원\n\n저희는 합정역맛집 서교동 평양냉면의\n진수를 보기 위해 모든 페이지에서\n고르게 시켜보았어요.\n\n주문하고 직접 제작하신 듯한 겨자와\n다시마초 구경중에 냉 율무차가 나왔습니다.\n구수하니 숭늉같고 맛있었어요.\n\n한우불고기 (단품) / 32,000원\n\n지금까지 수많은 외식 매장에서 불고기를\n먹어봤지만, 가게에서 먹은 불고기 중 단연\n제일 맛있었습니다!\n\n고기 자체의 퀄리티도 훌륭하고 자작한 국물에\n다양한 채소를 함께 곁들여 먹을 수 있어\n담백하고 깊은 풍미를 제대로 즐겼습니다.\n\n불고기에 감탄하고 있을 때\n선비냉면과 맛박이 냉면이 나왔어요.\n선비냉면이 비냉, 맛박이냉면이\n고명많은 물냉이에요.\n\n제주메밀 순면 맛박이냉면 / 19,000원\n\n고기와 고명이 잔뜩 올려져 나온 물냉면\n형태의 안주냉면입니다.\n\n육향 가득한 진한 육수의 풍미가\n느껴지면서도 100% 순메밀면 본연의\n구수한 향을 살려주어 아주 만족스럽게 흡입했씁니다.\n\n제주메밀 순면 선비냉면 / 17,000원\n\n매콤달달한 비빔 양념이 더해진 선비냉면입니다.\n양념 소스의 맛이 잘 느껴지면서도, 신기하게\n메밀 순면 특유의 은은한 향과 감칠맛을\n가리지 않아 끝까지 깔끔하게 먹을 수 있었습니다.\n\n양념이 쉽게 유치해지기 쉬운데\n메밀과 정말 잘 어울렸어요\n\n서관만두 (1판) / 14,000원\n\n군더더기 없이 자극적이지 않고 피와 속이\n어우러지는 깔끔하고 맛있는 정석 만두의\n맛입니다.\n\n메밀면이나 불고기와 함께 사이드로 곁들이기\n딱 좋았습니다. 반 판도 있으니 만두는 꼭 츄라이\n\n반찬도 다 맛있어서\n다양한 조합으로 즐기면서 즐겁게 먹는 중\n\n진한 육향과 소스 맛이 훌륭하면서도 순메밀\n고유의 식감과 향을 헤치지 않는 절묘한 균형감이\n인상적이었습니다. 분위기도 정갈해서 부모님을\n모시고 오거나 소중한 손님이 왔을 때 대접하는\n자리에 강력 추천하고 싶은 곳입니다.\n\n어린이 의자도 있네요 가족손님도 환영!\n\n주차는 누디트 주차장에 최대 1시간\n가능하다고 합니다. 주차도 가능한 합정역맛집\n귀하다\n\n더운 여름 합정역 서교동 맛집\n서교동 평양냉면 서관면옥에서\n시원하고 맛있는 냉면 한사발 어떠세요?",
+  "char_count": 2203
+}

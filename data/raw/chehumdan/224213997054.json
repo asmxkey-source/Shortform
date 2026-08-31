@@ -1,0 +1,565 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224213997054",
+  "url": "https://m.blog.naver.com/schumpgel/224213997054",
+  "title": "옳곡 피스타치오 카다이프 스프레드 추천, 이거면 두쫀쿠 살 필요 없어!",
+  "category": "간식 리뷰",
+  "tags": [
+    "옳곡피스타치오",
+    "옳곡피스타치오카다이프스프레드",
+    "피스타치오카다이프스프레드",
+    "두쫀쿠",
+    "두바이스타일초코"
+  ],
+  "component_count": 44,
+  "type_counts": {
+    "text": 21,
+    "image": 12,
+    "quotation": 3,
+    "imageStrip": 2,
+    "sticker": 2,
+    "video": 2,
+    "horizontalLine": 1,
+    "oglink": 1
+  },
+  "components": [
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "두바이 초콜릿 스타일을 집에서 _by링키\n옳곡\n'피스타치오 카다이프 스프레드'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "작년에 핫했던 두바이 초콜릿,\n올 겨울 핫 했던 두쫀쿠 다들 드셔보셨나요?\n그 속을 채우는 피스타치오 카다이프 크림을\n집에서 간편하게 즐길 수 있는 제품을 발견했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "바로 옳곡에서 나온 피스타치오 카다이프 스프레드인데, 직접 먹어보니 정말 만족스러워서\n후기 남겨봅니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "옳곡 피스타치오 카다이프 스프레드란?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "옳곡은 건강한 곡물 제품으로 유명한 브랜드인데,\n이번에 프리미엄 피스타치오 스프레드를\n출시했어요. 단순한 피스타치오 크림이 아니라\n구운 카다이프가 들어가 있어서 두바이 스타일\n디저트를 집에서 쉽게 즐길 수 있다는 게 가장\n큰 매력이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "카다이프는 중동 디저트에 사용되는 가는 면\n형태의 반죽인데, 구워서 바삭하게 만든 다음\n피스타치오 크림과 섞으면 그 유명한 두바이\n초콜릿의 그 식감이 완성되는 거죠!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "이 제품의 특별한 점 5가지",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 스위트와 언스위트 1:1 비율로 적당한 당도\n피스타치오 스프레드 스위트 버전과 언스위트\n버전을 1:1로 섞어놔서 너무 달지도 않고,\n그렇다고 밍밍하지도 않아요.\n시중에 파는 초콜릿 스프레드는 대부분\n너무 달아서 한두 스푼 먹으면 물을 찾게 되는데,\n이 제품은 계속 먹어도 부담스럽지 않은 딱\n적당한 단맛이에요.\n2. 피스타치오 54% 함유로 고급스러운 깊은 풍미\n제품 설명을 보니 피스타치오가 54%나 함유되어\n있더라고요. 그래서 그런지 한 입 먹었을 때\n피스타치오 본연의 고소하고 깊은 풍미가 확 느껴져요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 구운 카다이프가 들어가 바삭한 식감\n부드러운 피스타치오 크림과 바삭한 카다이프의 조합이 정말 환상적이에요. 마치 고급 디저트를 먹는 것 같은 텍스처의 변화가 있어서 먹는 재미가 배가 돼요. 이게 바로 두바이 초콜릿의 그 식감이구나 싶더라고요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4. 간편하게 두바이 스타일 재료로 활용 가능\n두바이 초콜릿 만들려면 카다이프 구하고,\n피스타치오 크림 만들고, 초콜릿 템퍼링하고...\n정말 복잡하잖아요. 근데 이 스프레드 하나면\n두바이 스타일 디저트를 정말 간편하게 만들\n수 있어요.\n이건 아래에서 보여드릴게요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5. 피스타치오의 고소함과 달콤한 바닐라향\n맛의 균형이 정말 좋아요. 피스타치오 특유의\n고소함에 은은한 바닐라향이 더해져서 풍미가\n정말 풍부해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저렴한 제품들은 피스타치오 향만 살짝\n실제로는 설탕이 대부분인 경우가 많은데,\n곡 제품은 진짜 피스타치오를 먹는 느낌이에요.\n고급스러운 맛이라고 표현하는 게 딱 맞는 것 같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "내가 먹어본 조합들",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "빵에 얹어먹기\n제일 먼저 시도한 건 바게트에 발라먹기였어요.\n원랜 단골집에서 초코바게트 사오려고했는데, 1시간 뒤에 나온다해서 포기.. 하지만 시콤한 바게트위에 듬뿍 발라서 먹었는데, 정말 맛있더라고요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "빵이 따뜻할 때 발라먹으면 스프레드가\n살짝 녹으면서 더 부드러워지고, 카다이프의\n바삭함은 그대로 유지돼서 식감의 대비가\n정말 좋아요. 이게 한 끼 브런치로 손색없을 정도예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "초콜릿에 얹어먹기\n두 번째로 시도한 건 초콜릿 위에 얹어먹기였어요. 집에 있던 다크초콜릿 위에 옳곡 피스타치오 ;카다이프 스프레드를 올려서 먹었는데,\n와우! 정말 만족스러웠어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "다크초콜릿의 쌉쌀함과 피스타치오 스프레드의\n달콤 고소함이 정말 환상의 조합이더라고요.\n바삭한 카다이프 식감까지 더해져서 그야말로\n프리미엄 디저트 그 자체였어요.\n이게 바로 두바이 초콜릿의 맛이구나 싶었어요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "딸기에 얹어먹기 - 대박 조합 발견!\n그리고 예상치 못한 조합을 발견했는데,\n바로 딸기에 얹어먹기예요! 이건 진짜 대박이었어요.\n신선한 딸기를 반으로 갈라서 위에\n피스타치오 카다이프 스프레드를 듬뿍 올려\n먹었는데, 정말 고급 디저트 그 자체더라고요.\n딸기의 새콤달콤함과 피스타치오의 고소함,\n카다이프의 바삭함이 만나니까 입 안에서 파티가 벌어지는 느낌이에요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "손님 접대용 디저트로 내놔도 손색없을 것 같아요. 비주얼도 예쁘고 맛도 최고예요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "초코바게트에 얹으면 극락일 듯!\n아직 안 먹어봤지만 초코바게트에 얹어먹으면\n진짜 극락일 것 같아요! 상상만 해도 침이 고이는데, 초코바게트의 진한 초콜릿 맛에 피스타치오 카다이프 스프레드를 듬뿍 발라 먹으면...\n초콜릿의 달콤쌉쌀함 + 피스타치오의 고소함 + 바게트의 쫄깃함 + 카다이프의 바삭함 = 완벽한 조합!\n다음에 초코바게트 사면 꼭 시도해볼 생각이에요.\n벌써부터 기대돼요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "어쩔래미 맛있어서 다 비워버린\n옳곡 피스타치오 카다이프 스프레드..\n재주문해야겠네요 ㅋㅋ\nhttps://www.olhgok.com/product/%EC%98%B3%EA%B3%A1-%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4-%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C-200g/14/category/1/display/3/?icid=MAIN.product_listmain_2",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "옳곡 피스타치오 스프레드 200g | 옳곡",
+      "style": {
+        "classes": [
+          "se-l-large_image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    }
+  ],
+  "body_text": "두바이 초콜릿 스타일을 집에서 _by링키\n옳곡\n'피스타치오 카다이프 스프레드'\n\n작년에 핫했던 두바이 초콜릿,\n올 겨울 핫 했던 두쫀쿠 다들 드셔보셨나요?\n그 속을 채우는 피스타치오 카다이프 크림을\n집에서 간편하게 즐길 수 있는 제품을 발견했어요.\n\n바로 옳곡에서 나온 피스타치오 카다이프 스프레드인데, 직접 먹어보니 정말 만족스러워서\n후기 남겨봅니다!\n\n옳곡 피스타치오 카다이프 스프레드란?\n\n옳곡은 건강한 곡물 제품으로 유명한 브랜드인데,\n이번에 프리미엄 피스타치오 스프레드를\n출시했어요. 단순한 피스타치오 크림이 아니라\n구운 카다이프가 들어가 있어서 두바이 스타일\n디저트를 집에서 쉽게 즐길 수 있다는 게 가장\n큰 매력이에요.\n\n카다이프는 중동 디저트에 사용되는 가는 면\n형태의 반죽인데, 구워서 바삭하게 만든 다음\n피스타치오 크림과 섞으면 그 유명한 두바이\n초콜릿의 그 식감이 완성되는 거죠!\n\n이 제품의 특별한 점 5가지\n\n1. 스위트와 언스위트 1:1 비율로 적당한 당도\n피스타치오 스프레드 스위트 버전과 언스위트\n버전을 1:1로 섞어놔서 너무 달지도 않고,\n그렇다고 밍밍하지도 않아요.\n시중에 파는 초콜릿 스프레드는 대부분\n너무 달아서 한두 스푼 먹으면 물을 찾게 되는데,\n이 제품은 계속 먹어도 부담스럽지 않은 딱\n적당한 단맛이에요.\n2. 피스타치오 54% 함유로 고급스러운 깊은 풍미\n제품 설명을 보니 피스타치오가 54%나 함유되어\n있더라고요. 그래서 그런지 한 입 먹었을 때\n피스타치오 본연의 고소하고 깊은 풍미가 확 느껴져요.\n\n3. 구운 카다이프가 들어가 바삭한 식감\n부드러운 피스타치오 크림과 바삭한 카다이프의 조합이 정말 환상적이에요. 마치 고급 디저트를 먹는 것 같은 텍스처의 변화가 있어서 먹는 재미가 배가 돼요. 이게 바로 두바이 초콜릿의 그 식감이구나 싶더라고요!\n\n4. 간편하게 두바이 스타일 재료로 활용 가능\n두바이 초콜릿 만들려면 카다이프 구하고,\n피스타치오 크림 만들고, 초콜릿 템퍼링하고...\n정말 복잡하잖아요. 근데 이 스프레드 하나면\n두바이 스타일 디저트를 정말 간편하게 만들\n수 있어요.\n이건 아래에서 보여드릴게요\n\n5. 피스타치오의 고소함과 달콤한 바닐라향\n맛의 균형이 정말 좋아요. 피스타치오 특유의\n고소함에 은은한 바닐라향이 더해져서 풍미가\n정말 풍부해요.\n\n저렴한 제품들은 피스타치오 향만 살짝\n실제로는 설탕이 대부분인 경우가 많은데,\n곡 제품은 진짜 피스타치오를 먹는 느낌이에요.\n고급스러운 맛이라고 표현하는 게 딱 맞는 것 같아요.\n\n내가 먹어본 조합들\n\n빵에 얹어먹기\n제일 먼저 시도한 건 바게트에 발라먹기였어요.\n원랜 단골집에서 초코바게트 사오려고했는데, 1시간 뒤에 나온다해서 포기.. 하지만 시콤한 바게트위에 듬뿍 발라서 먹었는데, 정말 맛있더라고요!\n\n빵이 따뜻할 때 발라먹으면 스프레드가\n살짝 녹으면서 더 부드러워지고, 카다이프의\n바삭함은 그대로 유지돼서 식감의 대비가\n정말 좋아요. 이게 한 끼 브런치로 손색없을 정도예요.\n\n초콜릿에 얹어먹기\n두 번째로 시도한 건 초콜릿 위에 얹어먹기였어요. 집에 있던 다크초콜릿 위에 옳곡 피스타치오 ;카다이프 스프레드를 올려서 먹었는데,\n와우! 정말 만족스러웠어요.\n\n다크초콜릿의 쌉쌀함과 피스타치오 스프레드의\n달콤 고소함이 정말 환상의 조합이더라고요.\n바삭한 카다이프 식감까지 더해져서 그야말로\n프리미엄 디저트 그 자체였어요.\n이게 바로 두바이 초콜릿의 맛이구나 싶었어요!\n\n딸기에 얹어먹기 - 대박 조합 발견!\n그리고 예상치 못한 조합을 발견했는데,\n바로 딸기에 얹어먹기예요! 이건 진짜 대박이었어요.\n신선한 딸기를 반으로 갈라서 위에\n피스타치오 카다이프 스프레드를 듬뿍 올려\n먹었는데, 정말 고급 디저트 그 자체더라고요.\n딸기의 새콤달콤함과 피스타치오의 고소함,\n카다이프의 바삭함이 만나니까 입 안에서 파티가 벌어지는 느낌이에요!\n\n손님 접대용 디저트로 내놔도 손색없을 것 같아요. 비주얼도 예쁘고 맛도 최고예요!\n\n초코바게트에 얹으면 극락일 듯!\n아직 안 먹어봤지만 초코바게트에 얹어먹으면\n진짜 극락일 것 같아요! 상상만 해도 침이 고이는데, 초코바게트의 진한 초콜릿 맛에 피스타치오 카다이프 스프레드를 듬뿍 발라 먹으면...\n초콜릿의 달콤쌉쌀함 + 피스타치오의 고소함 + 바게트의 쫄깃함 + 카다이프의 바삭함 = 완벽한 조합!\n다음에 초코바게트 사면 꼭 시도해볼 생각이에요.\n벌써부터 기대돼요!\n\n어쩔래미 맛있어서 다 비워버린\n옳곡 피스타치오 카다이프 스프레드..\n재주문해야겠네요 ㅋㅋ\nhttps://www.olhgok.com/product/%EC%98%B3%EA%B3%A1-%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4-%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C-200g/14/category/1/display/3/?icid=MAIN.product_listmain_2",
+  "char_count": 2376
+}

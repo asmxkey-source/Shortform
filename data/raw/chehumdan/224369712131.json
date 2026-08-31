@@ -1,0 +1,524 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224369712131",
+  "url": "https://m.blog.naver.com/schumpgel/224369712131",
+  "title": "건강한 피스타치오스프레드 찾았다! 오트리푸드 스무스고메넛버터",
+  "category": "간식 리뷰",
+  "tags": [
+    "고메넛버터",
+    "피스타치오스프레드",
+    "오트리푸드",
+    "스무스고메넛버터",
+    "피스타치오잼"
+  ],
+  "component_count": 40,
+  "type_counts": {
+    "text": 19,
+    "image": 16,
+    "sticker": 2,
+    "horizontalLine": 1,
+    "video": 1,
+    "oglink": 1
+  },
+  "components": [
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "피스타치오스프레드 추천_by링키\n오트리푸드\n'스무스 고메 넛버터'\n피스타치오90% 마카다미아10%",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs28",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "요즘 건강하면서도 맛있는 간식 찾는 분들\n정말 많으시죠? 저도 평소에 빵이나 과일에\n곁들여 먹을 스프레드를 찾다가 이번에 완전\n취향저격당한 제품을 발견했어요.\n바로 오트리푸드의\n피스타치오 스무스 고메 넛버터입니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "시중에 다양한 견과류 잼이 많지만,\n당류나 첨가물 걱정 없이 먹을 수 있는\n프리미엄 피스타치오스프레드는 찾기 쉽지\n않았는데요.\n고소함과 부드러움의 끝판왕인 이 제품,\n자세히 소개해 드릴게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "우선 패키지부터 깔끔하고 고급스러운 느낌이\n물씬 풍겨요. 오트리푸드의 기술력이 담긴\n피스타치오 스무스 고메 넛버터는 재료부터\n남다른데요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "가장 마음에 들었던 점은 바로 No Sugar!\n설탕이 단 1%도 들어가지 않았다는 거예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "당 걱정 없이 피스타치오 본연의 풍미를 그대로\n느낄 수 있어서 다이어터나 건강 관리하시는\n분들에게 딱입니다.\n여기에 합성 향료나 당류 가공품이 전혀\n들어가지 않은 무첨가 제품이라 아이부터\n어른까지 안심하고 즐길 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "질감을 자세히 보여드릴게요!\n라이트 로스팅 공법을 적용해 원물 특유의\n텁텁함은 싹 잡고 크리미하고 부드러운 맛을\n한껏 살렸답니다.\n잼나이프로 바르는 영상을 보면\n냉장고에서 꺼냈음에도 정말 부드럽게 스르륵\n녹아내리는 걸 확인하실 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "특히피스타치오 90%에 마카다미아 10%라는\n황금 비율 조합으로 만들어져서,\n피스타치오의 쌉싸름하면서도 고소한 풍미에\n마카다미아의 부드러운 유분감이 더해져 퍽퍽함\n없이 슥슥 잘 발립니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처 공홈"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "시중의 인공적인 100% 피스타치오잼 스타일\n제품들과 비교했을 때 훨씬 더 풍부하고\n깔끔한 고소함이 느껴져요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저는 매일 아침 다양한 방법으로\n이 피스타치오스프레드를 활용하고 있어요!\n가장 기본인 바삭한 토스트 위에 스틱으로\n슥 발라주기만 해도 간편하고 근사한 홈카페\n메뉴가 완성됩니다.\n당분이 전혀 없지만 견과류 자체의 자연스러운\n단맛과 고소함이 입안 가득 퍼져서 전혀 밋밋하지 않아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "맛있으니까 많이 바를거다!\n와웅",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "https://smartstore.naver.com/fruithive/products/12343892676",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "오트리 고메 넛버터 피스타치오 스무스 230g, 무설탕, 무첨가 : 오트리푸드",
+      "style": {
+        "classes": [
+          "se-l-large_image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "요기서 구매 가능합니다.\n오트리푸드 인스타그램@otreefoods",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-ff-system",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#333333;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "또 하나의 꿀조합은 바로 과일과의 조화인데요!\n얇게 썬 아삭한 사과나 바나나 위에\n오트리푸드 피스타치오 스무스 고메 넛버터를\n듬뿍 올려 먹으면 상큼함과 고소함이 어우러져\n최고의 건강 간식이 됩니다.\n요거트나 그래놀라 위에 토핑으로\n살짝 얹어 먹어도 정말 잘 어울려요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummyeongjo",
+          "se-ff-system",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#333333;",
+          "color:#333333;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "아침 사과는 먹고 싶은데 당은 빨리 올리고\n싶지않을 때 맛도 영양도 모두 잡은 선택은 바로\n피스타치오스프레드를 얹어먹는 것!\n오늘 아침이었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummyeongjo",
+          "se-ff-system",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#333333;",
+          "color:#333333;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그리고 마지막으로 두바이스타일로도 먹고\n싶어서 바나나+발로나초코파우더+베리로 만든\n입터짐 방지용 홈메이드 초코바에도\n발라먹어봅니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummyeongjo",
+          "se-ff-system",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#333333;",
+          "color:#333333;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "으앙.. 극락이다극락\n이렇게 맛있는데 원재료를 알 수 있는\n음식들 너무나 귀해요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "자연 그대로의 깊은 맛을 가진 건강한\n100% 원물의 피스타치오스프레드를 찾고\n계셨다면, 무설탕·무첨가로 믿고 먹을 수 있는\n오트리푸드 피스타치오 스무스 고메 넛버터를\n꼭 한번 드셔보시길 추천합니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-ff-nanummyeongjo",
+          "se-ff-system",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#333333;",
+          "color:#333333;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "피스타치오스프레드 추천_by링키\n오트리푸드\n'스무스 고메 넛버터'\n피스타치오90% 마카다미아10%\n\n요즘 건강하면서도 맛있는 간식 찾는 분들\n정말 많으시죠? 저도 평소에 빵이나 과일에\n곁들여 먹을 스프레드를 찾다가 이번에 완전\n취향저격당한 제품을 발견했어요.\n바로 오트리푸드의\n피스타치오 스무스 고메 넛버터입니다!\n\n시중에 다양한 견과류 잼이 많지만,\n당류나 첨가물 걱정 없이 먹을 수 있는\n프리미엄 피스타치오스프레드는 찾기 쉽지\n않았는데요.\n고소함과 부드러움의 끝판왕인 이 제품,\n자세히 소개해 드릴게요.\n\n우선 패키지부터 깔끔하고 고급스러운 느낌이\n물씬 풍겨요. 오트리푸드의 기술력이 담긴\n피스타치오 스무스 고메 넛버터는 재료부터\n남다른데요.\n\n가장 마음에 들었던 점은 바로 No Sugar!\n설탕이 단 1%도 들어가지 않았다는 거예요.\n\n당 걱정 없이 피스타치오 본연의 풍미를 그대로\n느낄 수 있어서 다이어터나 건강 관리하시는\n분들에게 딱입니다.\n여기에 합성 향료나 당류 가공품이 전혀\n들어가지 않은 무첨가 제품이라 아이부터\n어른까지 안심하고 즐길 수 있어요.\n\n질감을 자세히 보여드릴게요!\n라이트 로스팅 공법을 적용해 원물 특유의\n텁텁함은 싹 잡고 크리미하고 부드러운 맛을\n한껏 살렸답니다.\n잼나이프로 바르는 영상을 보면\n냉장고에서 꺼냈음에도 정말 부드럽게 스르륵\n녹아내리는 걸 확인하실 수 있어요.\n\n특히피스타치오 90%에 마카다미아 10%라는\n황금 비율 조합으로 만들어져서,\n피스타치오의 쌉싸름하면서도 고소한 풍미에\n마카다미아의 부드러운 유분감이 더해져 퍽퍽함\n없이 슥슥 잘 발립니다.\n\n시중의 인공적인 100% 피스타치오잼 스타일\n제품들과 비교했을 때 훨씬 더 풍부하고\n깔끔한 고소함이 느껴져요.\n\n저는 매일 아침 다양한 방법으로\n이 피스타치오스프레드를 활용하고 있어요!\n가장 기본인 바삭한 토스트 위에 스틱으로\n슥 발라주기만 해도 간편하고 근사한 홈카페\n메뉴가 완성됩니다.\n당분이 전혀 없지만 견과류 자체의 자연스러운\n단맛과 고소함이 입안 가득 퍼져서 전혀 밋밋하지 않아요.\n\n맛있으니까 많이 바를거다!\n와웅\n\nhttps://smartstore.naver.com/fruithive/products/12343892676\n\n요기서 구매 가능합니다.\n오트리푸드 인스타그램@otreefoods\n\n또 하나의 꿀조합은 바로 과일과의 조화인데요!\n얇게 썬 아삭한 사과나 바나나 위에\n오트리푸드 피스타치오 스무스 고메 넛버터를\n듬뿍 올려 먹으면 상큼함과 고소함이 어우러져\n최고의 건강 간식이 됩니다.\n요거트나 그래놀라 위에 토핑으로\n살짝 얹어 먹어도 정말 잘 어울려요.\n\n아침 사과는 먹고 싶은데 당은 빨리 올리고\n싶지않을 때 맛도 영양도 모두 잡은 선택은 바로\n피스타치오스프레드를 얹어먹는 것!\n오늘 아침이었어요.\n\n그리고 마지막으로 두바이스타일로도 먹고\n싶어서 바나나+발로나초코파우더+베리로 만든\n입터짐 방지용 홈메이드 초코바에도\n발라먹어봅니다.\n\n으앙.. 극락이다극락\n이렇게 맛있는데 원재료를 알 수 있는\n음식들 너무나 귀해요\n\n자연 그대로의 깊은 맛을 가진 건강한\n100% 원물의 피스타치오스프레드를 찾고\n계셨다면, 무설탕·무첨가로 믿고 먹을 수 있는\n오트리푸드 피스타치오 스무스 고메 넛버터를\n꼭 한번 드셔보시길 추천합니다!",
+  "char_count": 1586
+}
