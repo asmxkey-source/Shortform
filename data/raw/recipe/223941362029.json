@@ -1,0 +1,544 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223941362029",
+  "url": "https://m.blog.naver.com/schumpgel/223941362029",
+  "title": "무설탕양파초절임 양파피클 레시피, 자연식 당조절 반찬 만들기",
+  "category": "채식 레시피",
+  "tags": [
+    "무설탕피클",
+    "양파피클레시피",
+    "양파피클",
+    "양파피클만들기",
+    "무설탕반찬",
+    "건강피클만들기",
+    "당뇨식단",
+    "비건식단",
+    "홈메이드피클",
+    "홈메이드피클레시피"
+  ],
+  "component_count": 46,
+  "type_counts": {
+    "text": 20,
+    "image": 17,
+    "quotation": 3,
+    "sectionTitle": 1,
+    "horizontalLine": 1,
+    "video": 1,
+    "sticker": 1,
+    "imageStrip": 1,
+    "oglink": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "설탕 한 알 없이도 이렇게 맛있다니!  _by링키",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "자연식, 혈당조절 피클\n무설탕 양파초절임",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "고흥에 계시는 농부님이 고흥마늘과 양파를\n한상자 보내주셨어요!\n장마철에 이거 어떻게 보관하지 고민하다가\n피클을 만들어볼까란 생각이 들었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "신치광이인 저 ..제가 초절임 좋아하는거\n이웃님들은 아시죠?\n예전에 독립하고 첫 주방 갖게되고 냉장고열어보니\n대여섯 가지 피클들이 가득했던 기억이 나요.\n만들때마다 설탕이 훅훅 줄어서 고민하다\n무설탕 피클에 정착하게 되었는데\n오늘은 그 레시피 응용한\n무설탕 양파초절임 소개해볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "자연식물식을 실천하고 계시거나,혈당 관리\n때문에 당분 섭취를 조심하고 계신 분들께\n특히 추천드려요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "설탕 없이도 충분히 맛있고,\n기름진 음식과 환상적인 궁합을 자랑하거든요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[무설탕 양파피클 레시피]\n양파 1개 (440g)\n청양고추 반 개 (생략가능)\n피클링용액\n천일염 1T\n피클링스파이스 1T\n식초 180ml\n물 180ml\n청양고추 반 개\n※ T = 밥숟가락 계량",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "엄청 색이 선명하고 실한 예쁜 적양파입니다.\n하나에 대략 420-440g 정도 됐어요.\n당연히 흰 양파나 작은 양파로도 가능합니다.\n무게 참고해서 만들어주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n양파를 적당한 크기로 썰어주세요.\n어차피 피클이 되며 결결이 떨어질 것이므로\n너무작지 않게 썰어도 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "재료가 준비되었다면\n피클링 용액 만들어봅시다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n소스팬에 천일염 1큰술, 피클링스파이스 1큰술, 물 180ml를 넣고 끓여주세요.\n(식초는 물이 다 끓으면 넣어줄 예정)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n물이 끓으면식초 180ml를 넣고 끓기시작할\n즈음 불을 꺼줍니다.\n처음부터 넣고 끓이면 공기가 많이 매워져요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4.\n소독한 유리명에 양파와 청양고추반개를 넣고\n피클링용액을 부어주면 끝!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완성\n무설탕양파초절임이 완성되었습니다.\n실온에서 1-2일 숙성시킨 다음 냉장\n보관해주세요. 냉장고로 옮긴 후부터 드시면 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "맛은 어떤가요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "기름진 음식과 함께 먹는 오이피클이나 치킨무가\n너무 달다고 느끼셨던 분들이라면 정말 좋아하실\n맛이에요. 기본적인 재료만으로 만들었는데도\n레스토랑에서 나오는 고급 피클 못지않게\n상큼하고 깔끔해요.\n삼겹살, 치킨, 햄버거... 어떤 느끼한 음식과도\n완벽한 맛과 영양의 조화를 이룬답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "무설탕양파피클 레시피 후기 & 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 건강한 반찬이 필요한 모든 분께\n몸에 좋은 적양파를 천일염과 식초만으로 간단하게 조리해서 혈당을 급격히 올리지 않아요. 피클링스파이스가 더해져 더욱 풍부한 향과 맛을 즐길 수 있어서 건강한 재료를 맛있게 먹을 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 간은 취향에 맞게 조절하세요.\n평소에는 대충 감으로 만들던 반찬인데, 소개해드리려고 처음으로 정확히 계량해봤어요. 위 레시피를 기본으로 하시되, 천일염과 식초, 피클링스파이스 양은 입맛에 맞게 조절해주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 피클물 재활용 꿀팁\n피클을 다 먹고 나면 남은 피클물이 아까울 거예요. 저는 양파를 모두 건져낸 후 한 번 끓여서 식초, 천일염, 물을 조금씩 보충해서 계속 사용하거나 식초가들어가는 샐러드 드레싱으로 사용해요. 단, 평소에 깨끗한 젓가락으로 덜어먹어야 피클물이 오염되지 않겠죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "맛과 건강을 동시에 지키는\n무설탕양파초절임레시피\n올해 양파가 풍년이라는데, 양파 너무 많이생겼다면\n이 레시피 꼭 활용해보세요.\nhttps://blog.naver.com/schumpgel/223238070003",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "무설탕 양배추초절임, 양파양배추피클 자연식물식반찬만들기",
+      "style": {
+        "classes": [
+          "se-l-large_image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "무설탕 양배추피클 레시피는 요기!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "설탕 한 알 없이도 이렇게 맛있다니!  _by링키\n\n자연식, 혈당조절 피클\n무설탕 양파초절임\n\n고흥에 계시는 농부님이 고흥마늘과 양파를\n한상자 보내주셨어요!\n장마철에 이거 어떻게 보관하지 고민하다가\n피클을 만들어볼까란 생각이 들었어요.\n\n신치광이인 저 ..제가 초절임 좋아하는거\n이웃님들은 아시죠?\n예전에 독립하고 첫 주방 갖게되고 냉장고열어보니\n대여섯 가지 피클들이 가득했던 기억이 나요.\n만들때마다 설탕이 훅훅 줄어서 고민하다\n무설탕 피클에 정착하게 되었는데\n오늘은 그 레시피 응용한\n무설탕 양파초절임 소개해볼게요.\n\n자연식물식을 실천하고 계시거나,혈당 관리\n때문에 당분 섭취를 조심하고 계신 분들께\n특히 추천드려요.\n\n설탕 없이도 충분히 맛있고,\n기름진 음식과 환상적인 궁합을 자랑하거든요.\n\n재료준비\n[무설탕 양파피클 레시피]\n양파 1개 (440g)\n청양고추 반 개 (생략가능)\n피클링용액\n천일염 1T\n피클링스파이스 1T\n식초 180ml\n물 180ml\n청양고추 반 개\n※ T = 밥숟가락 계량\n\n엄청 색이 선명하고 실한 예쁜 적양파입니다.\n하나에 대략 420-440g 정도 됐어요.\n당연히 흰 양파나 작은 양파로도 가능합니다.\n무게 참고해서 만들어주세요.\n\n1.\n양파를 적당한 크기로 썰어주세요.\n어차피 피클이 되며 결결이 떨어질 것이므로\n너무작지 않게 썰어도 됩니다.\n\n재료가 준비되었다면\n피클링 용액 만들어봅시다.\n\n2.\n소스팬에 천일염 1큰술, 피클링스파이스 1큰술, 물 180ml를 넣고 끓여주세요.\n(식초는 물이 다 끓으면 넣어줄 예정)\n\n3.\n물이 끓으면식초 180ml를 넣고 끓기시작할\n즈음 불을 꺼줍니다.\n처음부터 넣고 끓이면 공기가 많이 매워져요.\n\n4.\n소독한 유리명에 양파와 청양고추반개를 넣고\n피클링용액을 부어주면 끝!\n\n완성\n무설탕양파초절임이 완성되었습니다.\n실온에서 1-2일 숙성시킨 다음 냉장\n보관해주세요. 냉장고로 옮긴 후부터 드시면 됩니다.\n\n맛은 어떤가요?\n\n기름진 음식과 함께 먹는 오이피클이나 치킨무가\n너무 달다고 느끼셨던 분들이라면 정말 좋아하실\n맛이에요. 기본적인 재료만으로 만들었는데도\n레스토랑에서 나오는 고급 피클 못지않게\n상큼하고 깔끔해요.\n삼겹살, 치킨, 햄버거... 어떤 느끼한 음식과도\n완벽한 맛과 영양의 조화를 이룬답니다.\n\n무설탕양파피클 레시피 후기 & 팁\n\n1. 건강한 반찬이 필요한 모든 분께\n몸에 좋은 적양파를 천일염과 식초만으로 간단하게 조리해서 혈당을 급격히 올리지 않아요. 피클링스파이스가 더해져 더욱 풍부한 향과 맛을 즐길 수 있어서 건강한 재료를 맛있게 먹을 수 있어요.\n\n2. 간은 취향에 맞게 조절하세요.\n평소에는 대충 감으로 만들던 반찬인데, 소개해드리려고 처음으로 정확히 계량해봤어요. 위 레시피를 기본으로 하시되, 천일염과 식초, 피클링스파이스 양은 입맛에 맞게 조절해주세요.\n\n3. 피클물 재활용 꿀팁\n피클을 다 먹고 나면 남은 피클물이 아까울 거예요. 저는 양파를 모두 건져낸 후 한 번 끓여서 식초, 천일염, 물을 조금씩 보충해서 계속 사용하거나 식초가들어가는 샐러드 드레싱으로 사용해요. 단, 평소에 깨끗한 젓가락으로 덜어먹어야 피클물이 오염되지 않겠죠?\n\n맛과 건강을 동시에 지키는\n무설탕양파초절임레시피\n올해 양파가 풍년이라는데, 양파 너무 많이생겼다면\n이 레시피 꼭 활용해보세요.\nhttps://blog.naver.com/schumpgel/223238070003\n\n무설탕 양배추피클 레시피는 요기!",
+  "char_count": 1675
+}

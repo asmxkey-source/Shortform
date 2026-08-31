@@ -1,0 +1,395 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223795478214",
+  "url": "https://m.blog.naver.com/schumpgel/223795478214",
+  "title": "저속노화 양배추샐러드 드레싱 빠금장활용 요리 된장라페 (노슈가)",
+  "category": "채식 레시피",
+  "tags": [
+    "빠금장",
+    "된장",
+    "쌈장",
+    "저속노화식단",
+    "저속노화반찬",
+    "양배추요리",
+    "양배추샐러드드레싱",
+    "양배추샐러드"
+  ],
+  "component_count": 33,
+  "type_counts": {
+    "text": 15,
+    "image": 12,
+    "quotation": 3,
+    "sectionTitle": 2,
+    "horizontalLine": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "저속노화 건강반찬 양배추샐러드 _by링키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "영양과 드레싱이 기가막힌",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "양배추샐러드",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안녕하세요, 오늘은 양배추와 빠금장을\n활용한 초간단 양배추샐러드를 소개해드릴게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저는 평소 바쁜 일상 속에서도 건강한\n식탁을 차리고 싶을 때 이 레시피를 자주 활용해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "특히 빠금장은 일반 된장보다 유산균이 훨씬 많고\n조리하지 않아도 먹기 수월해서 접근성이 좋아요.\n양배추의 항산화 성분과 빠금장의 발효 영양소가\n만나 저속노화에 도움을 주는 완벽한 조합이에요.\n바로 무가열 양배추샐러드와 드레싱\n레시피를 알려드릴게요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[양배추샐러드 레시피]\n기본재료\n양배추 3장\n드레싱\n빠금장 1T,\n애플사이다비네거 1.5T,\n생들기름 0.5T\n※ T = 밥숟가락 계량\n제철언니 레시피 변형",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n양배추 잎 3장을 깨끗이 씻어서 물기를\n제거한 후 잘게 채썰어주세요.\n가늘게 채썰면 식감이 더 좋아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n조리볼에빠금장 1스푼, 생들기름 0.5스푼,\n애플사이다비네거(사과식초) 1.5스푼을 넣고\n잘 섞어 드레싱을 만들어주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "양배추빠금장라페 소스를 만들기 위해\n제가 사용한 제품들은 위 사진과 같습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "매헌 - 생들깨기름\n브래그 - 애플사이다비네거\n옥샘정 -빠금장",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_postit"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완성.\n만들어둔 소스에 채썬 양배추를 넣고 골고루\n버무려주면 양배추샐러드 완성!\n간단하죠?\n심심해보이지만 감칠맛은 정말 좋답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저는 요즘 이렇게 먹어요.\n불 한 번 안 켜고 3분이면 완성되는\n저속노화 반찬, 한 번 만들어보세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "양배추샐러드 레시피 후기 & 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 저속노화에 탁월한 건강반찬\n양배추는 비타민C와 항산화물질이 풍부하고, 빠금장은 발효식품으로 장내 유익균을 늘려주어 면역력 강화와 노화방지에 도움을 줍니다. 들기름의 오메가-3 지방산까지 더해져 건강에 삼박자를 갖춘 반찬이에요.\n2. 활용도 높은 만능반찬\n이 반찬은 밥반찬으로 먹어도 좋고, 쌈 채소에 싸서 먹어도 좋아요. 또한 냉장고에 2~3일 보관하면서 드실 수 있는데, 시간이 지날수록 양배추가 숙성되어 또 다른 맛을 즐길 수 있답니다.\n3. 재료는 집에 있는 것들로 호환해보세요\n양배추는 배추나 잎야채들로, 빠금장은 쌈장으로, 애플사이다비네거는 각종 식초로말이에요! 집에 있는 것들 활용해서 즐거운 식탁 차리시길 바래요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "불 안 쓰고, 재료도 간단하고, 만드는 시간도 3분!\n하지만 영양가는 최고인 양배추 빠금장드레싱",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저속노화에 관심 있으신 분들,\n바쁜 일상 속에서도 건강한 식탁을 차리고\n싶으신 분들에게 강추합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "저속노화 건강반찬 양배추샐러드 _by링키\n\n영양과 드레싱이 기가막힌\n\n양배추샐러드\n\n안녕하세요, 오늘은 양배추와 빠금장을\n활용한 초간단 양배추샐러드를 소개해드릴게요.\n\n저는 평소 바쁜 일상 속에서도 건강한\n식탁을 차리고 싶을 때 이 레시피를 자주 활용해요.\n\n특히 빠금장은 일반 된장보다 유산균이 훨씬 많고\n조리하지 않아도 먹기 수월해서 접근성이 좋아요.\n양배추의 항산화 성분과 빠금장의 발효 영양소가\n만나 저속노화에 도움을 주는 완벽한 조합이에요.\n바로 무가열 양배추샐러드와 드레싱\n레시피를 알려드릴게요!\n\n재료준비\n[양배추샐러드 레시피]\n기본재료\n양배추 3장\n드레싱\n빠금장 1T,\n애플사이다비네거 1.5T,\n생들기름 0.5T\n※ T = 밥숟가락 계량\n제철언니 레시피 변형\n\n1.\n양배추 잎 3장을 깨끗이 씻어서 물기를\n제거한 후 잘게 채썰어주세요.\n가늘게 채썰면 식감이 더 좋아요.\n\n2.\n조리볼에빠금장 1스푼, 생들기름 0.5스푼,\n애플사이다비네거(사과식초) 1.5스푼을 넣고\n잘 섞어 드레싱을 만들어주세요.\n\n양배추빠금장라페 소스를 만들기 위해\n제가 사용한 제품들은 위 사진과 같습니다.\n\n매헌 - 생들깨기름\n브래그 - 애플사이다비네거\n옥샘정 -빠금장\n\n완성.\n만들어둔 소스에 채썬 양배추를 넣고 골고루\n버무려주면 양배추샐러드 완성!\n간단하죠?\n심심해보이지만 감칠맛은 정말 좋답니다.\n\n저는 요즘 이렇게 먹어요.\n불 한 번 안 켜고 3분이면 완성되는\n저속노화 반찬, 한 번 만들어보세요!\n\n양배추샐러드 레시피 후기 & 팁\n\n1. 저속노화에 탁월한 건강반찬\n양배추는 비타민C와 항산화물질이 풍부하고, 빠금장은 발효식품으로 장내 유익균을 늘려주어 면역력 강화와 노화방지에 도움을 줍니다. 들기름의 오메가-3 지방산까지 더해져 건강에 삼박자를 갖춘 반찬이에요.\n2. 활용도 높은 만능반찬\n이 반찬은 밥반찬으로 먹어도 좋고, 쌈 채소에 싸서 먹어도 좋아요. 또한 냉장고에 2~3일 보관하면서 드실 수 있는데, 시간이 지날수록 양배추가 숙성되어 또 다른 맛을 즐길 수 있답니다.\n3. 재료는 집에 있는 것들로 호환해보세요\n양배추는 배추나 잎야채들로, 빠금장은 쌈장으로, 애플사이다비네거는 각종 식초로말이에요! 집에 있는 것들 활용해서 즐거운 식탁 차리시길 바래요.\n\n불 안 쓰고, 재료도 간단하고, 만드는 시간도 3분!\n하지만 영양가는 최고인 양배추 빠금장드레싱\n\n저속노화에 관심 있으신 분들,\n바쁜 일상 속에서도 건강한 식탁을 차리고\n싶으신 분들에게 강추합니다.",
+  "char_count": 1210
+}

@@ -1,0 +1,458 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223818263017",
+  "url": "https://m.blog.naver.com/schumpgel/223818263017",
+  "title": "참취나물된장무침레시피 볶음만드는법, 맛보장 꿀팁까지",
+  "category": "채식 레시피",
+  "tags": [
+    "취나물무침",
+    "취나물무침레시피",
+    "취나물",
+    "취나물요리",
+    "취나물효능",
+    "취나물무침만드는법",
+    "취나물된장무침",
+    "취나물된장볶음",
+    "취나물데치기",
+    "취나물무침만들기"
+  ],
+  "component_count": 39,
+  "type_counts": {
+    "text": 17,
+    "image": 8,
+    "horizontalLine": 6,
+    "imageStrip": 6,
+    "quotation": 2
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "된장으로 무친 참취나물볶음 만드는법_by징키\n봄철 밥도둑 등장!\n취나물된장무침 레시피 대공개",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "밥 한 숟가락에 나물 하나 올렸을 뿐인데,\n갑자기 밥이 부족해지는 기적!\n향긋하고 고소하고 짭쪼름~한 봄철\n찐 밥반찬 소개합니다.\n오늘의 주인공, 취나물 된장무침볶음 레시피를\n소개해 드리겠습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[취나물 된장무침볶음 레시피]\n참취나물 220g\n대파 흰부분 한뼘 크기\n된장 1T\n간장 2T\n다진마늘 1T\n들기름 0.5T\n통깨 2T\n소금 한 꼬집(부족한 간 맞추기)\n삶을때\n물 넉넉히, 굵은 소금 1T\n※ T = 밥숟가락 계량",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n누렇게 뜬 잎이나 마른 잎을 제거하고\n깨끗이 손질해 주세요.\n이 때, 질긴 줄기는 제거하고\n먹기 좋은 크기로 썰어 준비 해주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n끓는 물에굵은 소금 1T넣고\n잘 세척한 참취나물을1분 30초 정도 데쳐주세요.\n데친 참취나물은 찬물에 행궈 열기를 빼주고,\n물기를 꼭 짜줍니다.\n뭉쳐진 취나물들을 흐트려 주세요.\n그래야 간이 고르게 잘 베겠죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n이제양념을 준비해 볼까요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "[양념 재료]\n된장 1T, 간장 2T, 다진마늘 1T, 들기름 0.5T,\n소금 한 꼬집, 대파 흰부분 한뼘 크기",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "데친 취나물에 양념과 쫑쫑 썬 대파 흰부분을\n모두 넣고 골고루 버무립니다.\n양념이 잘 베이도록 5분 정도두면 좋습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4.\n된장으로 양념한 취나물을 팬에\n5분 정도 볶아주세요.\n불끄고통깨 2T뿌린 뒤, 잘 섞어 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완성\n참취나물 된장무침볶음이 완성되었습니다.\n봄철 자연의 싱그러움과\n들기름과 나물이 주는 고소함,\n취나물 특유의 기분좋은 들큰한 끝 맛이\n조화로운 맛이랍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "참취나물 된장무침볶음 레시피\n후기 & 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 참기름 보다는 들기름 추천\n들기름은 참기름보다 향이 강하고,\n약간의 허브느낌의 상쾌한 뉘앙스를 지니고 있죠.\n이런 들기름의 향이 취나물의 쌉싸름하면서도\n알싸한 맛을 부드럽게 감싸주고,\n참취나물 특유의 향을 돋보이게 해주기 때문입니다.\n그리고 열에 한 번 볶기 떄문에 고온에서도 비교적 안정적인 들기름을 추천드려요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 밑간 후, 시간을 뒀다 볶아 보세요.\n데친 취나물을 미리 양념에 무친 후\n5~10분 정도 두고 팬에 볶으면\n맛이 더 잘 배어듭답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 너무 오래 데치지 마세요.\n숨 죽을 정도로만 살짝!\n(220g 기준 1분 30초 정도)\n데치는 시간이 식감 살리는 꿀포인트에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "냉장고에 두고 반찬으로 꺼내먹기에도 너무 좋아요.\n봄 나물 즐기고 싶은 분들께\n참취나물된장무침 볶음을 적극 추천드려요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "된장으로 무친 참취나물볶음 만드는법_by징키\n봄철 밥도둑 등장!\n취나물된장무침 레시피 대공개\n\n밥 한 숟가락에 나물 하나 올렸을 뿐인데,\n갑자기 밥이 부족해지는 기적!\n향긋하고 고소하고 짭쪼름~한 봄철\n찐 밥반찬 소개합니다.\n오늘의 주인공, 취나물 된장무침볶음 레시피를\n소개해 드리겠습니다.\n\n재료준비\n[취나물 된장무침볶음 레시피]\n참취나물 220g\n대파 흰부분 한뼘 크기\n된장 1T\n간장 2T\n다진마늘 1T\n들기름 0.5T\n통깨 2T\n소금 한 꼬집(부족한 간 맞추기)\n삶을때\n물 넉넉히, 굵은 소금 1T\n※ T = 밥숟가락 계량\n\n1.\n누렇게 뜬 잎이나 마른 잎을 제거하고\n깨끗이 손질해 주세요.\n이 때, 질긴 줄기는 제거하고\n먹기 좋은 크기로 썰어 준비 해주세요.\n\n2.\n끓는 물에굵은 소금 1T넣고\n잘 세척한 참취나물을1분 30초 정도 데쳐주세요.\n데친 참취나물은 찬물에 행궈 열기를 빼주고,\n물기를 꼭 짜줍니다.\n뭉쳐진 취나물들을 흐트려 주세요.\n그래야 간이 고르게 잘 베겠죠?\n\n3.\n이제양념을 준비해 볼까요?\n\n[양념 재료]\n된장 1T, 간장 2T, 다진마늘 1T, 들기름 0.5T,\n소금 한 꼬집, 대파 흰부분 한뼘 크기\n\n데친 취나물에 양념과 쫑쫑 썬 대파 흰부분을\n모두 넣고 골고루 버무립니다.\n양념이 잘 베이도록 5분 정도두면 좋습니다.\n\n4.\n된장으로 양념한 취나물을 팬에\n5분 정도 볶아주세요.\n불끄고통깨 2T뿌린 뒤, 잘 섞어 주세요.\n\n완성\n참취나물 된장무침볶음이 완성되었습니다.\n봄철 자연의 싱그러움과\n들기름과 나물이 주는 고소함,\n취나물 특유의 기분좋은 들큰한 끝 맛이\n조화로운 맛이랍니다.\n\n참취나물 된장무침볶음 레시피\n후기 & 팁\n\n1. 참기름 보다는 들기름 추천\n들기름은 참기름보다 향이 강하고,\n약간의 허브느낌의 상쾌한 뉘앙스를 지니고 있죠.\n이런 들기름의 향이 취나물의 쌉싸름하면서도\n알싸한 맛을 부드럽게 감싸주고,\n참취나물 특유의 향을 돋보이게 해주기 때문입니다.\n그리고 열에 한 번 볶기 떄문에 고온에서도 비교적 안정적인 들기름을 추천드려요.\n\n2. 밑간 후, 시간을 뒀다 볶아 보세요.\n데친 취나물을 미리 양념에 무친 후\n5~10분 정도 두고 팬에 볶으면\n맛이 더 잘 배어듭답니다.\n\n3. 너무 오래 데치지 마세요.\n숨 죽을 정도로만 살짝!\n(220g 기준 1분 30초 정도)\n데치는 시간이 식감 살리는 꿀포인트에요.\n\n냉장고에 두고 반찬으로 꺼내먹기에도 너무 좋아요.\n봄 나물 즐기고 싶은 분들께\n참취나물된장무침 볶음을 적극 추천드려요!",
+  "char_count": 1221
+}

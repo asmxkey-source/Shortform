@@ -1,0 +1,536 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224344974325",
+  "url": "https://m.blog.naver.com/schumpgel/224344974325",
+  "title": "샐러리잎 맛있게 먹는법? 저칼로리 샐러리무침 다이어트 레시피",
+  "category": "채식 레시피",
+  "tags": [
+    "샐러리먹는법",
+    "샐러리효능",
+    "샐러리",
+    "샐러리잎먹는법",
+    "샐러리잎",
+    "샐러리잎요리",
+    "샐러리잎무침",
+    "샐러리잎사귀",
+    "샐러리이파리활용",
+    "샐러리잎나물",
+    "샐러리잎볶음",
+    "샐러리잎샐러드",
+    "샐러리셀러리",
+    "샐러리요리",
+    "샐러리요리하는법",
+    "샐러리요리추천",
+    "샐러리요리만드는법",
+    "샐러리데치는법",
+    "샐러리데쳐서먹는법"
+  ],
+  "component_count": 45,
+  "type_counts": {
+    "text": 18,
+    "image": 16,
+    "horizontalLine": 6,
+    "sectionTitle": 2,
+    "quotation": 2,
+    "imageStrip": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "저칼로리 샐러리잎무침 레시피_by징키",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "다이어트 만점,",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "샐러리 반찬 만드는법",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안녕하세요?\n오늘은 샐러리잎무침 만드는 법을\n소개해 드리겠습니다.\n이 더운 여름에 요리?\n불없이도 할 수 있는데\n레시피도 무척 쉬우니 따라해 보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "다이어트 효과 불러오는\n셀러리잎무침 레시피!\n만들어 볼까요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[샐러리무침 레시피]\n샐러리 줄기 8개\n(선택) 양배추 3장\n삶을때\n물 넉넉히, 굵은소금 0.5T\n양념장\n소금 0.3T, 간장 0.5T, 참기름 0.5T,\n통깨 넉넉히\n※ T = 밥숟가락 계량",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n샐러리를 데칠거예요.\n더우니까, 가스불 없이 가보자구요!\n커피포트에 물을 끓여 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "물 끓는 동안\n셀러리는 세척 후,\n먹기 좋은 크기로 잘라두세요.\n그리고 굵은 소금 1T 넣어주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n샐러리에 커피포트에서 끓은 물을\n부어 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1분 정도 둡니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "자, 이제\n상대적으로 빨리 데쳐진\n샐러리 잎부터 건져내주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "잎 다 건져내고 난 뒤,\n마지막에 샐러리 줄기를 건져내 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n데친 샐러리는\n찬물 세척 안 할거예요!\n샐러리 잎, 줄기 모두\n건져냈다면, 체반에서 물기 툭툭 털고\n젓가락으로 뒤적여 가면서 열기 빼주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "뜨겁지 않은지 확인 후,\n손으로 물기를 짜주세요.\n으스러지게 꽉~ 짜기보다는\n'화이팅' 외칠 때 주먹 쥐는 정도의\n압력이면 좋을 것 같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4.\n이제 양념을 맛있게 해볼게요!\n소금 0.5T, 간장 0.5T,\n참기름 0.5T, 깨소금 넉넉히",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "소금 넣고 간이 고루 잘 배이도록 무쳐주세요.\n그다음 간을 보고 간장을 넣어주세요.\n또 조물조물 무쳐주세요.\n부족한 간은 소금으로완성해 주시면 되요.\n마지막에 참기름 0.5T와\n통깨 넉넉히뿌려주시면 완성!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완성\n샐러리무침 반찬이 완성되었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "샐러리임무침 레시피 후기 & 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 간을 봤는데 짭다??\n저의 경우, 이 경우에 해당했는데요.\n이 때,'양배추'를 활용하시면 좋아요.\n양배추도 샐러리 데칠때와 마찬가지로\n커피포트에 물 끓여서\n2분 데치고,\n건져내서 물기 없애주고,\n샐러리 무침에 넣고\n같이 버무려 주시면 됩니다.\n이때는 반대로 싱거울 수 있어요.\n그럼, 간장을 조금 넣어보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 샐러리 익히는 방법은 커피포트 추천해요.\n더운 여름에는 가스불 켜는 것 만으로도\n스트레스죠.\n그렇다고 레트로 데워 먹거나\n배달만 해 먹을수도 없죠.\n이 때\n커피포트를 사용해 보세요.\n여름 채소는 단단하지 않아\n커피포트의 끓는 물로도\n왠만한 데치는 요리에 사용할 수 있더라구요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "샐러리 줄기는 먹었는데\n잎은 어떻게 먹어야할지 고민이셨다면,\n커피포트로 데쳐 만드는\n다이어트 샐러리잎나물무침 추천드려요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "저칼로리 샐러리잎무침 레시피_by징키\n\n다이어트 만점,\n\n샐러리 반찬 만드는법\n\n안녕하세요?\n오늘은 샐러리잎무침 만드는 법을\n소개해 드리겠습니다.\n이 더운 여름에 요리?\n불없이도 할 수 있는데\n레시피도 무척 쉬우니 따라해 보세요.\n\n다이어트 효과 불러오는\n셀러리잎무침 레시피!\n만들어 볼까요?\n\n재료준비\n[샐러리무침 레시피]\n샐러리 줄기 8개\n(선택) 양배추 3장\n삶을때\n물 넉넉히, 굵은소금 0.5T\n양념장\n소금 0.3T, 간장 0.5T, 참기름 0.5T,\n통깨 넉넉히\n※ T = 밥숟가락 계량\n\n1.\n샐러리를 데칠거예요.\n더우니까, 가스불 없이 가보자구요!\n커피포트에 물을 끓여 주세요.\n\n물 끓는 동안\n셀러리는 세척 후,\n먹기 좋은 크기로 잘라두세요.\n그리고 굵은 소금 1T 넣어주세요.\n\n2.\n샐러리에 커피포트에서 끓은 물을\n부어 주세요.\n\n1분 정도 둡니다.\n\n자, 이제\n상대적으로 빨리 데쳐진\n샐러리 잎부터 건져내주세요.\n\n잎 다 건져내고 난 뒤,\n마지막에 샐러리 줄기를 건져내 주세요.\n\n3.\n데친 샐러리는\n찬물 세척 안 할거예요!\n샐러리 잎, 줄기 모두\n건져냈다면, 체반에서 물기 툭툭 털고\n젓가락으로 뒤적여 가면서 열기 빼주세요.\n\n뜨겁지 않은지 확인 후,\n손으로 물기를 짜주세요.\n으스러지게 꽉~ 짜기보다는\n'화이팅' 외칠 때 주먹 쥐는 정도의\n압력이면 좋을 것 같아요.\n\n4.\n이제 양념을 맛있게 해볼게요!\n소금 0.5T, 간장 0.5T,\n참기름 0.5T, 깨소금 넉넉히\n\n소금 넣고 간이 고루 잘 배이도록 무쳐주세요.\n그다음 간을 보고 간장을 넣어주세요.\n또 조물조물 무쳐주세요.\n부족한 간은 소금으로완성해 주시면 되요.\n마지막에 참기름 0.5T와\n통깨 넉넉히뿌려주시면 완성!\n\n완성\n샐러리무침 반찬이 완성되었습니다.\n\n샐러리임무침 레시피 후기 & 팁\n\n1. 간을 봤는데 짭다??\n저의 경우, 이 경우에 해당했는데요.\n이 때,'양배추'를 활용하시면 좋아요.\n양배추도 샐러리 데칠때와 마찬가지로\n커피포트에 물 끓여서\n2분 데치고,\n건져내서 물기 없애주고,\n샐러리 무침에 넣고\n같이 버무려 주시면 됩니다.\n이때는 반대로 싱거울 수 있어요.\n그럼, 간장을 조금 넣어보세요.\n\n2. 샐러리 익히는 방법은 커피포트 추천해요.\n더운 여름에는 가스불 켜는 것 만으로도\n스트레스죠.\n그렇다고 레트로 데워 먹거나\n배달만 해 먹을수도 없죠.\n이 때\n커피포트를 사용해 보세요.\n여름 채소는 단단하지 않아\n커피포트의 끓는 물로도\n왠만한 데치는 요리에 사용할 수 있더라구요.\n\n샐러리 줄기는 먹었는데\n잎은 어떻게 먹어야할지 고민이셨다면,\n커피포트로 데쳐 만드는\n다이어트 샐러리잎나물무침 추천드려요!",
+  "char_count": 1285
+}

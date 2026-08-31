@@ -1,0 +1,552 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224342616027",
+  "url": "https://m.blog.naver.com/schumpgel/224342616027",
+  "title": "무수분 초간단 토마토 마녀스프!  위고비 아침식사 대체 | 토달볶 베이스",
+  "category": "채식 레시피",
+  "tags": [
+    "무수분레시피",
+    "무수분",
+    "무수분토마토수프",
+    "토마토수프",
+    "초간단토마토스프",
+    "토마토스프",
+    "아침식사추천",
+    "아침식사대용",
+    "마녀스프레시피",
+    "마녀스프다이어트"
+  ],
+  "component_count": 47,
+  "type_counts": {
+    "text": 21,
+    "image": 18,
+    "quotation": 4,
+    "sectionTitle": 2,
+    "horizontalLine": 1,
+    "imageStrip": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "마녀스프 대용, 토달볶 활용법 _by링키",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "재료 오직 3가지!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "무수분 토마토 스프 요리",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안녕하세요 멋쟁이토마토가 꿈인 링키입니다.\n요즘 날씨도 더워지는데 요리는 하기 싫고\n아침마다 가볍고 따뜻하게 속을 채우고 싶어서\n2달 넘게 아침으로 먹고있는\n정말 초초초간단으로 만드는\n무수분 토마토 스프에\n포옥 빠져있거든요~! 🍅",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "물 한 방울 안 들어가도\n깊은 감칠맛이 폭발하는\n마법 같은 비법을 나눠볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[무수분 토마토스프 레시피]\n토마토 큰거 3-4개\n소금 두꼬집\n올리브오일 1.5T",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "잘익은 토마토 세알을 준비합니다.\n전 좀 방토보다크고 토마토보다 작은 사이즈를\n선호해서 이렇게 준비했어요.\n사실 하시려는 냄비 팟 크게에 맞춰\n준비하심 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그리고 소금과 올리브오일은 다들 가지고 계시죵?!\n재료가 정말 너무 심플해서\n\"어? 이게 끝이야?\" 하고\n놀라실지도 몰라요! 🤭\n따로 육수를 낼 필요도 없이\n토마토 본연의 맛으로만\n완성하는 요리랍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n토마토 껍질 벗기고 그런것 없어요\n웻지 모양으로 썰어줍니다.\n좀 큰 토마토모양이라면 웻지모양으로 썰고\n반으로도 한번 갈라 주세욧.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "뚜껑있는 좁은팟에 토마토를 80% 담아주고",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n소금 두꼬집과\n올리브오일 한바퀴를 둘러줍니다.\n토마토양에 따라 소금, 오일양이 달라지겠죠?\n소금이 있어야 토마토의 감칠맛이\n잘 표현되니 너무 겁내지말고 넣어주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n뚜껑을 닫고1시간 가까이 가장 약한불로 끓이면 되는데\n탈 수도 있으니 40분에 꼭 확인해주세요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "눈깜짝 할 사이에 타버린답니다.\n조심조심",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "부암댁 선생님의 스토리를 보고 만들기\n시작했고, 여름채소 수업에서도 가서 직접\n배워왔어요.\n부암댁선생님은 재료 본연의 맛을 최소한의 조리로\n끌어내는 분으로 유명하시죠!\n쌤의 수업을 정말 좋아해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "맛있는 토마토 우리 같이 다 먹자\n토마토는 오일넣어서 끌일 수록 영양소가 잘 나온대요 이유를 정리해봤어요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "무수분 토마토스프 더 좋은 이유",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 강력한 항산화 성분 '라이코펜' 흡수율 폭발!\n세포벽 분해: 토마토의 핵심 영양소이자 젊음을 유지해 주는 강력한 항산화 성분인 라이코펜(Lycopene)은 생으로 먹을 때 단단한 세포벽에 갇혀 있어 체내 흡수율이 10% 미만으로 매우 낮습니다.\n흡수율 3~4배 증가: 하지만 열을 가해 끓이면 세포벽이 무너지면서 라이코펜이 밖으로 활성화되어, 생으로 먹을 때보다 체내 흡수율이 무려 3~4배 이상 치솟게 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 올리브오일과의 환상적인 영양 시너지\n지용성 영양소의 특징: 라이코펜은 기름에 잘 녹는 지용성 성분입니다.\n최고의 궁합: 이번 레시피처럼 올리브오일을 두르고 약불에 함께 끓여내면, 오일이 라이코펜 성분을 부드럽게 녹여내어 우리 몸에 들어왔을 때 영양소를 스펀지처럼 빨아들이도록 돕습니다.\n3. 아침 공복에도 속 편한 따뜻한 한 끼",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "식이섬유 연화: 토마토를 장시간 끓이면 거친 섬유질이 부드럽게 풀어져 위장에 주는 부담이 획기적으로 줄어듭니다.\n위장 보호: 아침 공복에 차가운 생토마토를 먹으면 특유의 산 성분 때문에 속이 쓰릴 수 있지만, 따뜻하게 끓인 스프는 위벽을 보호하고 신진대사를 깨워 소화를 돕습니다.\n4. 설탕 없이도 깊어지는 천연 감칠맛 (우마미)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "응축되는 당도: 토마토에는 천연 감칠맛을 내는 '글루탐산'이 풍부합니다.\n자연의 단맛: 물 없이 1시간 동안 약불에 졸이면 수분은 날아가고 이 감칠맛 성분과 당도가 엄청나게 농축되어, 설탕을 단 한 꼬집도 넣지 않아도 고급 레스토랑 소스 같은 깊은 풍미가 완성됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "토달볶 버전",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "계란을 스크램블 형태로 만들어서\n토마토스프를 넣으면 깔끔하고 감칠맛 넘치는\n굴소스 안넣어도 되는 토달볶완성!\n저는이것도 귀찮아서 삶은 계란 하나 넣어먹어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "실패없는 무수분토마토스프\n레시피 후기 & 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 좁은 냄비사용, 불 조절은 무조건 최약불로\n물 한 방울 안 들어가는 무수분 요리이기 때문에, 수빈이 지켜지면서 조리가 될 수 있도록 좁은 냄비를 사용하고 가스레인지나 인덕션의 가장 약한 불을 유지해야 해요!\n그래야 토마토 자체 즙이 타지 않고 부드럽게 스르륵 흘러나온답니다.\n2. 40분 타이밍 알람필수\n뭉근하게 1시간 가량 끓여내는 레시피지만, 40분쯤 되었을 때 뚜껑을 꼭 한번 열어서 바닥을 가볍게 저어주세요!\n수분이 졸아들면서 살짝 눌어붙는 것을 완벽하게 막을 수 있거든요. 이 즈음에서 끄셔도 됩니다.\n3. 천연 위고비 아침식사 활용법",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완성된 토마토 스프에 삶은 계란 한 알을 톡 넣어\n든든한 아침으로 즐기시거나, 계란을 스크램블해서\n토달볶 베이스로 활용해 보세요!\n식이섬유와 단백질이 만나 포만감이 정말 오래가는\n최고의 다이어트 식단이 돼요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "유럽 속담에 '토마토가 빨갛게 익어가면\n의사들의 얼굴은 파랗게 질린다'는 말이 있죠?\n하지만 토마토는 '끓이고 오일을 더했을 때'\n비로소 그 진가가 100% 발휘된다는 사실!\n이번 무수분 스프 레시피야말로 토마토를\n가장 맛있게 완벽하게 먹는 방법이랍니다.\n마녀스프대용으로도 좋은 토마토스프\n모두 츄라이~!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "마녀스프 대용, 토달볶 활용법 _by링키\n\n재료 오직 3가지!\n\n무수분 토마토 스프 요리\n\n안녕하세요 멋쟁이토마토가 꿈인 링키입니다.\n요즘 날씨도 더워지는데 요리는 하기 싫고\n아침마다 가볍고 따뜻하게 속을 채우고 싶어서\n2달 넘게 아침으로 먹고있는\n정말 초초초간단으로 만드는\n무수분 토마토 스프에\n포옥 빠져있거든요~! 🍅\n\n물 한 방울 안 들어가도\n깊은 감칠맛이 폭발하는\n마법 같은 비법을 나눠볼게요.\n\n재료준비\n[무수분 토마토스프 레시피]\n토마토 큰거 3-4개\n소금 두꼬집\n올리브오일 1.5T\n\n잘익은 토마토 세알을 준비합니다.\n전 좀 방토보다크고 토마토보다 작은 사이즈를\n선호해서 이렇게 준비했어요.\n사실 하시려는 냄비 팟 크게에 맞춰\n준비하심 됩니다.\n\n그리고 소금과 올리브오일은 다들 가지고 계시죵?!\n재료가 정말 너무 심플해서\n\"어? 이게 끝이야?\" 하고\n놀라실지도 몰라요! 🤭\n따로 육수를 낼 필요도 없이\n토마토 본연의 맛으로만\n완성하는 요리랍니다.\n\n1.\n토마토 껍질 벗기고 그런것 없어요\n웻지 모양으로 썰어줍니다.\n좀 큰 토마토모양이라면 웻지모양으로 썰고\n반으로도 한번 갈라 주세욧.\n\n뚜껑있는 좁은팟에 토마토를 80% 담아주고\n\n2.\n소금 두꼬집과\n올리브오일 한바퀴를 둘러줍니다.\n토마토양에 따라 소금, 오일양이 달라지겠죠?\n소금이 있어야 토마토의 감칠맛이\n잘 표현되니 너무 겁내지말고 넣어주세요.\n\n3.\n뚜껑을 닫고1시간 가까이 가장 약한불로 끓이면 되는데\n탈 수도 있으니 40분에 꼭 확인해주세요\n\n눈깜짝 할 사이에 타버린답니다.\n조심조심\n\n부암댁 선생님의 스토리를 보고 만들기\n시작했고, 여름채소 수업에서도 가서 직접\n배워왔어요.\n부암댁선생님은 재료 본연의 맛을 최소한의 조리로\n끌어내는 분으로 유명하시죠!\n쌤의 수업을 정말 좋아해요.\n\n맛있는 토마토 우리 같이 다 먹자\n토마토는 오일넣어서 끌일 수록 영양소가 잘 나온대요 이유를 정리해봤어요\n\n무수분 토마토스프 더 좋은 이유\n\n1. 강력한 항산화 성분 '라이코펜' 흡수율 폭발!\n세포벽 분해: 토마토의 핵심 영양소이자 젊음을 유지해 주는 강력한 항산화 성분인 라이코펜(Lycopene)은 생으로 먹을 때 단단한 세포벽에 갇혀 있어 체내 흡수율이 10% 미만으로 매우 낮습니다.\n흡수율 3~4배 증가: 하지만 열을 가해 끓이면 세포벽이 무너지면서 라이코펜이 밖으로 활성화되어, 생으로 먹을 때보다 체내 흡수율이 무려 3~4배 이상 치솟게 됩니다.\n\n2. 올리브오일과의 환상적인 영양 시너지\n지용성 영양소의 특징: 라이코펜은 기름에 잘 녹는 지용성 성분입니다.\n최고의 궁합: 이번 레시피처럼 올리브오일을 두르고 약불에 함께 끓여내면, 오일이 라이코펜 성분을 부드럽게 녹여내어 우리 몸에 들어왔을 때 영양소를 스펀지처럼 빨아들이도록 돕습니다.\n3. 아침 공복에도 속 편한 따뜻한 한 끼\n\n식이섬유 연화: 토마토를 장시간 끓이면 거친 섬유질이 부드럽게 풀어져 위장에 주는 부담이 획기적으로 줄어듭니다.\n위장 보호: 아침 공복에 차가운 생토마토를 먹으면 특유의 산 성분 때문에 속이 쓰릴 수 있지만, 따뜻하게 끓인 스프는 위벽을 보호하고 신진대사를 깨워 소화를 돕습니다.\n4. 설탕 없이도 깊어지는 천연 감칠맛 (우마미)\n\n응축되는 당도: 토마토에는 천연 감칠맛을 내는 '글루탐산'이 풍부합니다.\n자연의 단맛: 물 없이 1시간 동안 약불에 졸이면 수분은 날아가고 이 감칠맛 성분과 당도가 엄청나게 농축되어, 설탕을 단 한 꼬집도 넣지 않아도 고급 레스토랑 소스 같은 깊은 풍미가 완성됩니다.\n\n토달볶 버전\n\n계란을 스크램블 형태로 만들어서\n토마토스프를 넣으면 깔끔하고 감칠맛 넘치는\n굴소스 안넣어도 되는 토달볶완성!\n저는이것도 귀찮아서 삶은 계란 하나 넣어먹어요.\n\n실패없는 무수분토마토스프\n레시피 후기 & 팁\n\n1. 좁은 냄비사용, 불 조절은 무조건 최약불로\n물 한 방울 안 들어가는 무수분 요리이기 때문에, 수빈이 지켜지면서 조리가 될 수 있도록 좁은 냄비를 사용하고 가스레인지나 인덕션의 가장 약한 불을 유지해야 해요!\n그래야 토마토 자체 즙이 타지 않고 부드럽게 스르륵 흘러나온답니다.\n2. 40분 타이밍 알람필수\n뭉근하게 1시간 가량 끓여내는 레시피지만, 40분쯤 되었을 때 뚜껑을 꼭 한번 열어서 바닥을 가볍게 저어주세요!\n수분이 졸아들면서 살짝 눌어붙는 것을 완벽하게 막을 수 있거든요. 이 즈음에서 끄셔도 됩니다.\n3. 천연 위고비 아침식사 활용법\n\n완성된 토마토 스프에 삶은 계란 한 알을 톡 넣어\n든든한 아침으로 즐기시거나, 계란을 스크램블해서\n토달볶 베이스로 활용해 보세요!\n식이섬유와 단백질이 만나 포만감이 정말 오래가는\n최고의 다이어트 식단이 돼요.\n\n유럽 속담에 '토마토가 빨갛게 익어가면\n의사들의 얼굴은 파랗게 질린다'는 말이 있죠?\n하지만 토마토는 '끓이고 오일을 더했을 때'\n비로소 그 진가가 100% 발휘된다는 사실!\n이번 무수분 스프 레시피야말로 토마토를\n가장 맛있게 완벽하게 먹는 방법이랍니다.\n마녀스프대용으로도 좋은 토마토스프\n모두 츄라이~!",
+  "char_count": 2432
+}

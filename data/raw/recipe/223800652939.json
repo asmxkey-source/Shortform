@@ -1,0 +1,419 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223800652939",
+  "url": "https://m.blog.naver.com/schumpgel/223800652939",
+  "title": "톳나물두부무침 톳요리 레시피, 데치는 노하우까지",
+  "category": "집밥 레시피",
+  "tags": [
+    "톳나물무침",
+    "톳나물두부무침",
+    "톳나물무침레시피",
+    "두부톳나물",
+    "톳나물효능",
+    "톳나물밥",
+    "톳나물볶음"
+  ],
+  "component_count": 34,
+  "type_counts": {
+    "text": 14,
+    "image": 11,
+    "sectionTitle": 2,
+    "quotation": 2,
+    "imageStrip": 2,
+    "sticker": 2,
+    "horizontalLine": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "두부톳나물무침 톳요리 만드는 법_by징키",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "영양 만점 고소한",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "톳나물두부무침",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안녕하세요~\n오늘은 빈혈 예방에 좋다는 톳나물과\n건강 단백질 음식 두부를 활용한\n톳나물두부무침 만드는 법을 소개해 드리겠습니다.\n특별한 과정 없이도 두부와 톳나물만 있으면\n뚝딱 완성되는\n두부톳나물무침레시피!\n만들어 볼까요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[톳나물두부무침 레시피]\n톳나물 140g\n두부 1/4모\n통깨 1T\n삶을때\n물 넉넉히\n양념장\n다진마늘 1T, (참치 or 멸치)액젓 1T,\n소금 한 꼬집(간 맞추기용)\n※ T = 밥숟가락 계량",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n톳나물을 흐르는 물에 박박 문질러 가면서\n거품기, 소금기를 잘 씻어내 주세요.\n이물질도 잘 제거해 주고요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n소금을 넣고, 뜨거운 물에서 1분 정도 데쳐 줍니다.\n진한 갈색이던 톳나물이 뜨거운 물에 닿는 순간\n싱그러운 초록색으로 변할거예요.\n그러면 바로 꺼내 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n데친 톳은 바로 찬물로 헹궈내 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4.\n찬 물에 헹궈낸 톳나물의 물은 탈탈 털고\n볼에 넣어 주세요.\n그리고 두부 1/4모는 뜨거운 물에 살짝 데친 후\n물기를 탈탈 털어 주세요.\n두부를 한 켠에 두고\n숟가락으로 으깨주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5.\n액젓 1T 넣고 모자란 간은 소금으로 조절해 주세요.\n저는140g 톳과두부 1/4모에\n소금 0.5T넣었더니 간이 잘 맞았어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "두부의 수분을 제거하지 않고 사용했기 떄문에\n시간이 지나면서 물이 생겨요.\n시간을 두고 먹는다고 생각하면\n간간하게 해 두시는 것도 추천합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "6.\n긴 톳은 가위로 먹기 좋게 툭툭 잘라 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완성\n간단하지만 영양가 풍부한\n톳요리 두부톳나물무침이 완성되었습니다.\n담백 고소한 두부맛과 바다 내음이\n기분좋은 건강함을 채워주는 맛이예요.\n액젓은 바다 재료를 다룰 때 사용하면\n풍미를 올려주는 킥이 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "톳나물두부무침 레시피 후기 & 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 두부는 끓는 물에 살짝 데쳐 사용해 주세요.\n두부는 끓는 물에 살짝 데쳐 물기 탈탈 털어준\n후 사용하세요. 두부톳나물무침의 보관 기간을\n신선하게 유지하기 위함예요.\n2. 처음 만들 때 간은 약간 짭짤하게하세요.\n무침을 만들고 나서 시간이 지나면 수분이\n나오면서 간이 싱거워질 수 있어요.\n마무리 간을 보고 약간 짭짤하게 조절하는\n것이 좋아요.\n3. 톳은 데치기 전에 잘 세척하고,\n데칠 때는 소금을 넣어 데쳐주세요.\n톳에 남아있는 소금기, 이물질은 데치기 전에\n꼭 세척 과정을 통해서 잘 제거해 주세요.\n그래야 양념도 잘 베어 든답니다.\n데칠 떄는 끓는 물에 소금을 약간 넣고 데칩니다.\n소금을 넣어 데치면 색감이 살아나고 비린 향을\n잡을 수 있기 떄문예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오늘 메뉴는\n톳의 식이섬유와 두부의 단백질이 만나\n혈당 스파이크를 완화하고 포만감을 유지하는 데\n도움주는 두부톳나물무침 톳요리 어떠세요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "두부톳나물무침 톳요리 만드는 법_by징키\n\n영양 만점 고소한\n\n톳나물두부무침\n\n안녕하세요~\n오늘은 빈혈 예방에 좋다는 톳나물과\n건강 단백질 음식 두부를 활용한\n톳나물두부무침 만드는 법을 소개해 드리겠습니다.\n특별한 과정 없이도 두부와 톳나물만 있으면\n뚝딱 완성되는\n두부톳나물무침레시피!\n만들어 볼까요?\n\n재료준비\n[톳나물두부무침 레시피]\n톳나물 140g\n두부 1/4모\n통깨 1T\n삶을때\n물 넉넉히\n양념장\n다진마늘 1T, (참치 or 멸치)액젓 1T,\n소금 한 꼬집(간 맞추기용)\n※ T = 밥숟가락 계량\n\n1.\n톳나물을 흐르는 물에 박박 문질러 가면서\n거품기, 소금기를 잘 씻어내 주세요.\n이물질도 잘 제거해 주고요.\n\n2.\n소금을 넣고, 뜨거운 물에서 1분 정도 데쳐 줍니다.\n진한 갈색이던 톳나물이 뜨거운 물에 닿는 순간\n싱그러운 초록색으로 변할거예요.\n그러면 바로 꺼내 주세요.\n\n3.\n데친 톳은 바로 찬물로 헹궈내 주세요.\n\n4.\n찬 물에 헹궈낸 톳나물의 물은 탈탈 털고\n볼에 넣어 주세요.\n그리고 두부 1/4모는 뜨거운 물에 살짝 데친 후\n물기를 탈탈 털어 주세요.\n두부를 한 켠에 두고\n숟가락으로 으깨주세요.\n\n5.\n액젓 1T 넣고 모자란 간은 소금으로 조절해 주세요.\n저는140g 톳과두부 1/4모에\n소금 0.5T넣었더니 간이 잘 맞았어요.\n\n두부의 수분을 제거하지 않고 사용했기 떄문에\n시간이 지나면서 물이 생겨요.\n시간을 두고 먹는다고 생각하면\n간간하게 해 두시는 것도 추천합니다.\n\n6.\n긴 톳은 가위로 먹기 좋게 툭툭 잘라 주세요.\n\n완성\n간단하지만 영양가 풍부한\n톳요리 두부톳나물무침이 완성되었습니다.\n담백 고소한 두부맛과 바다 내음이\n기분좋은 건강함을 채워주는 맛이예요.\n액젓은 바다 재료를 다룰 때 사용하면\n풍미를 올려주는 킥이 됩니다.\n\n톳나물두부무침 레시피 후기 & 팁\n\n1. 두부는 끓는 물에 살짝 데쳐 사용해 주세요.\n두부는 끓는 물에 살짝 데쳐 물기 탈탈 털어준\n후 사용하세요. 두부톳나물무침의 보관 기간을\n신선하게 유지하기 위함예요.\n2. 처음 만들 때 간은 약간 짭짤하게하세요.\n무침을 만들고 나서 시간이 지나면 수분이\n나오면서 간이 싱거워질 수 있어요.\n마무리 간을 보고 약간 짭짤하게 조절하는\n것이 좋아요.\n3. 톳은 데치기 전에 잘 세척하고,\n데칠 때는 소금을 넣어 데쳐주세요.\n톳에 남아있는 소금기, 이물질은 데치기 전에\n꼭 세척 과정을 통해서 잘 제거해 주세요.\n그래야 양념도 잘 베어 든답니다.\n데칠 떄는 끓는 물에 소금을 약간 넣고 데칩니다.\n소금을 넣어 데치면 색감이 살아나고 비린 향을\n잡을 수 있기 떄문예요.\n\n오늘 메뉴는\n톳의 식이섬유와 두부의 단백질이 만나\n혈당 스파이크를 완화하고 포만감을 유지하는 데\n도움주는 두부톳나물무침 톳요리 어떠세요?",
+  "char_count": 1345
+}

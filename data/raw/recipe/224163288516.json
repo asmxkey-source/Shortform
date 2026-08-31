@@ -1,0 +1,312 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224163288516",
+  "url": "https://m.blog.naver.com/schumpgel/224163288516",
+  "title": "아재맹수 임짱 임성근쉐프 무조림레시피 직접해봄 남대문갈치조림 딱 그맛",
+  "category": "집밥 레시피",
+  "tags": [
+    "아재맹수",
+    "임짱",
+    "임짱TV",
+    "임짱무조림",
+    "임짱생선조림레시피",
+    "임짱생선조림"
+  ],
+  "component_count": 23,
+  "type_counts": {
+    "text": 11,
+    "image": 7,
+    "quotation": 3,
+    "sectionTitle": 1,
+    "horizontalLine": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "임짱 임성근셰프 무조림 직접해 봄 _by링키",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "집에서 남대문 갈치조림맛을 낼 수 있다면?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "요즘 유튜브에서 핫한 임성근 셰프(임짱TV)의 만능 무조림 레시피, 드디어 도전해봤습니다!\n이 레시피 하나면 무조림부터 갈치조림,\n고등어조림등등 각종 생선조림 야채조림까지\n다 해먹을 수 있다고 해서 설레는 마음으로 시작했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "아재맹수 무조림 레시피!\n만들어 볼까요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[아재맹수 무조림 프랩 레시피]\n무 1.5kg\n양념장\n맛술 250g\n진간장 380g\n물엿 250g\n설탕 60g\n다진 마늘 60g\n다진 생강 10g\n다시다 50g\n미원·후추 각 반 큰술\n고추기름 50g\n굵은 고춧가루 300g\n생수 3L\n청양고추 1개, 파 1개 (나중에 추가)\n참기름·깨 각 1T (마무리용)\n양념장\n다진마늘\n※ T = 밥숟가락 계량\n임짱TV",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n무를 5~6cm 길이, 2cm 두께로 썰어줍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n양념장 중에 고춧가루 빼고 나머지 다 넣고\n25분끓입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n고춧가루 뜨거운양념물 넣어 개서 넣고\n5분끓이면 완성.\n이때 고등어, 꽁치, 갈치 등 생선 넣으시면\n간단하게 생선조림으로 업그레이드\n자취생의 친구 참치캔 하나 넣어주셔도 좋아요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완성\n아재맹수 임짱 무조림레시피가 완성되었습니다.\n신기하게도 정말 남대문 갈치조림 맛이\n나더라고요. 다시다를 반만 넣고 미원도\n뺐는데 이 정도면 정말 대성공 아닌가요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매콤하면서도 단짠의 균형이 딱 맞고,\n무는 양념이 깊숙이 배어서 밥도둑이 따로\n없었어요. 시판 조림보다 훨씬 맛있고\n건강하게 먹을 수 있어서 만족스러웠습니다.\n다만 소스양이 정말 많아서\n이 부분은 아래에서 추가로 설명할게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "임짱 무조림레시피 후기 & 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 내용물을 추가하면 얼마든지 응용가능\n한번 무조림과 소스를 프랩해두면, 야채, 생선등을 추가해서 매끼니 새로운 음식을 할 수 있어요.\n2. 남대문갈치조림처럼 간이 상당히 있는 편입니다.\n조미료를 덜어내도 충분히 자극적인 맛이었어요. 포스팅하다보니 고추 넣지 않는 것도 알게됐어요. 고추 넣지않아도 충분히 칼칼하니 감안해서 조리하세요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 임짱 TV레시피는 양이 무척 많습니다. 가정집이라도 1/3, 1/4로 줄여 하시는 것을 추천합니다.\n저는 가지고 있는 무 양에 따라 레시피의 반 양만 해야겠다 했는데에도 집에있는 제일 큰 양수냄비 두개를 썼어야 했고, 보관도 스텐 김치통에 했어야 해서 당황했었습니다. 꼭 레시피를 줄여서 시도해보세요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[아재맹수 무조림 컴팩트 버전]\n무 380g\n양념장\n맛술 62.5g (약 4T)\n진간장 95g (약 6T)\n물엿 62.5g (약 4T)\n설탕 15g (약 1T)\n다진 마늘 15g (약 1T)\n다진 생강 2.5g (약 1/2t)\n다시다 12.5g (약 1T)\n미원·후추 각 1/8 큰술 (한 꼬집 정도)\n고추기름 12.5g (약 1T)\n굵은 고춧가루 75g (약 1컵)\n물 750ml (3컵 반)\n청양고추 1/2, 파 반개 (나중에 추가)\n참기름·깨 각 1/2T (마무리용)\n양념장\n다진마늘\n※ T = 밥숟가락 계량\nt = 티스푼 계량\n임짱TV 레시피 수정",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "임짱 셰프 무조림 레시피, 정말 최고의\n만능 양념장이에요. 남대문 갈치조림 맛을\n집에서 구현할 수 있다는 게 신기하고,\n무엇보다 여러 요리에 활용할 수 있어서\n실용적입니다. 요리 초보자도 쉽게 따라\n할 수 있으니 꼭 한번 도전해보세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "임짱 임성근셰프 무조림 직접해 봄 _by링키\n\n집에서 남대문 갈치조림맛을 낼 수 있다면?\n\n요즘 유튜브에서 핫한 임성근 셰프(임짱TV)의 만능 무조림 레시피, 드디어 도전해봤습니다!\n이 레시피 하나면 무조림부터 갈치조림,\n고등어조림등등 각종 생선조림 야채조림까지\n다 해먹을 수 있다고 해서 설레는 마음으로 시작했어요.\n\n아재맹수 무조림 레시피!\n만들어 볼까요?\n\n재료준비\n[아재맹수 무조림 프랩 레시피]\n무 1.5kg\n양념장\n맛술 250g\n진간장 380g\n물엿 250g\n설탕 60g\n다진 마늘 60g\n다진 생강 10g\n다시다 50g\n미원·후추 각 반 큰술\n고추기름 50g\n굵은 고춧가루 300g\n생수 3L\n청양고추 1개, 파 1개 (나중에 추가)\n참기름·깨 각 1T (마무리용)\n양념장\n다진마늘\n※ T = 밥숟가락 계량\n임짱TV\n\n1.\n무를 5~6cm 길이, 2cm 두께로 썰어줍니다.\n\n2.\n양념장 중에 고춧가루 빼고 나머지 다 넣고\n25분끓입니다.\n\n3.\n고춧가루 뜨거운양념물 넣어 개서 넣고\n5분끓이면 완성.\n이때 고등어, 꽁치, 갈치 등 생선 넣으시면\n간단하게 생선조림으로 업그레이드\n자취생의 친구 참치캔 하나 넣어주셔도 좋아요\n\n완성\n아재맹수 임짱 무조림레시피가 완성되었습니다.\n신기하게도 정말 남대문 갈치조림 맛이\n나더라고요. 다시다를 반만 넣고 미원도\n뺐는데 이 정도면 정말 대성공 아닌가요?\n\n매콤하면서도 단짠의 균형이 딱 맞고,\n무는 양념이 깊숙이 배어서 밥도둑이 따로\n없었어요. 시판 조림보다 훨씬 맛있고\n건강하게 먹을 수 있어서 만족스러웠습니다.\n다만 소스양이 정말 많아서\n이 부분은 아래에서 추가로 설명할게요.\n\n임짱 무조림레시피 후기 & 팁\n\n1. 내용물을 추가하면 얼마든지 응용가능\n한번 무조림과 소스를 프랩해두면, 야채, 생선등을 추가해서 매끼니 새로운 음식을 할 수 있어요.\n2. 남대문갈치조림처럼 간이 상당히 있는 편입니다.\n조미료를 덜어내도 충분히 자극적인 맛이었어요. 포스팅하다보니 고추 넣지 않는 것도 알게됐어요. 고추 넣지않아도 충분히 칼칼하니 감안해서 조리하세요\n\n3. 임짱 TV레시피는 양이 무척 많습니다. 가정집이라도 1/3, 1/4로 줄여 하시는 것을 추천합니다.\n저는 가지고 있는 무 양에 따라 레시피의 반 양만 해야겠다 했는데에도 집에있는 제일 큰 양수냄비 두개를 썼어야 했고, 보관도 스텐 김치통에 했어야 해서 당황했었습니다. 꼭 레시피를 줄여서 시도해보세요\n\n재료준비\n[아재맹수 무조림 컴팩트 버전]\n무 380g\n양념장\n맛술 62.5g (약 4T)\n진간장 95g (약 6T)\n물엿 62.5g (약 4T)\n설탕 15g (약 1T)\n다진 마늘 15g (약 1T)\n다진 생강 2.5g (약 1/2t)\n다시다 12.5g (약 1T)\n미원·후추 각 1/8 큰술 (한 꼬집 정도)\n고추기름 12.5g (약 1T)\n굵은 고춧가루 75g (약 1컵)\n물 750ml (3컵 반)\n청양고추 1/2, 파 반개 (나중에 추가)\n참기름·깨 각 1/2T (마무리용)\n양념장\n다진마늘\n※ T = 밥숟가락 계량\nt = 티스푼 계량\n임짱TV 레시피 수정\n\n임짱 셰프 무조림 레시피, 정말 최고의\n만능 양념장이에요. 남대문 갈치조림 맛을\n집에서 구현할 수 있다는 게 신기하고,\n무엇보다 여러 요리에 활용할 수 있어서\n실용적입니다. 요리 초보자도 쉽게 따라\n할 수 있으니 꼭 한번 도전해보세요!",
+  "char_count": 1630
+}

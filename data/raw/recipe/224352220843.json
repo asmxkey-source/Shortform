@@ -1,0 +1,577 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224352220843",
+  "url": "https://m.blog.naver.com/schumpgel/224352220843",
+  "title": "혼자 알기 아까운 쫀득 식감, 맛 보장 가지구이무침 양념 레시피",
+  "category": "채식 레시피",
+  "tags": [
+    "가지무침",
+    "가지무침레시피",
+    "가지무침양념장",
+    "가지무침하는법",
+    "구운가지무침",
+    "아기가지무침",
+    "가지구이",
+    "가지구이레시피",
+    "가지구이양념장",
+    "가지구이무침",
+    "가지구이덮밥",
+    "가지구이양념",
+    "가지구이소스",
+    "가지구이요리",
+    "가지구이무침요리",
+    "제철음식",
+    "7월제철음식"
+  ],
+  "component_count": 47,
+  "type_counts": {
+    "text": 19,
+    "image": 14,
+    "horizontalLine": 9,
+    "sectionTitle": 2,
+    "quotation": 2,
+    "sticker": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "가지구이무침 양념 레시피_by장키",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "가지구이 한다면",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "이 레시피 꼭 챙기세요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "대표적인 여름 채소 중 하나인 가지!\n그동안 가지구이무침하면\n물컹한 가지의 식감은\n어쩔 수 없다고 생각했는데요.\n아니었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "얼마전 부암댁 선생님께 배우면서\n가지를 잘 모르고\n요리했던 거구나 싶었는데요.\n@https://www.instagram.com/buam_life?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\n오늘은 배운 후\n집에서 다시 만들어 본\n가지구이무침  만드는법을 소개해 볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[가지구이무침 레시피]\n가지 3개\n오이/풋 고추 8개 또는\n꽈리고추 15개\n(선택) 파프리카 또는 피망 1개\n가지 절일 때\n소금 1T\n양념장\n간장 2T, 식초 2T\n※ T = 밥숟가락 계량",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n가지는 검지 손가락 길이 정도로 썰고\n소금 1T 넣고 절여 주세요.\n언제까지?\n20분 정도는 절여주세요.\n소금 넣고 그냥 두면되나요?\n뒤적이면서 소금이\n고루 배이도록 해주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n절여진 가지의 물기를 가볍게 짜주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n기름 두른 팬에 물기 뺀\n소금에 절인 가지를 올리고 굽습니다.\n가지 껍질이 아니라,\n가지 흰 부분이 팬을 향하도록놓아주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4.\n가지의 흰 속이\n노릇노릇해질 때까지\n요리 조리 구워주세요.\n다 구워졌으면 빈 볼에 담아 두시면 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5.\n자, 가지를 다 구웠으니\n이제고추를 구워줄 차례예요.\n고추가 없으면 피망 쓰셔도 좋아요.\n저는 고추와 파프리카 둘 다 사용했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "고추의 씨는 제거하고\n먹기 좋은 크기로 썰어주세요.\n가지와 비슷한 길이로요.\n고추나 피망 구울 때는 속이 아닌\n겉면을 노릇하게구워 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "6.\n굽히는 동안\n양념장 만들어요.\n재료에 양념장 바로 넣지말고,\n빈 그릇에 따로만들거예요.\n간장 2T, 식초 2T\n고추도 다 구워졌으면\n구운 가지 담아 둔 볼에\n고추 넣고 양념장 넣고\n고루 섞어 주세요.\n양념은 처음부터\n다 붓지 말고,\n반 넣고 뒤적여서 간 보고\n부족하면 더 넣어주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완성\n식감 좋고 맛은 더 좋은\n가지구이무침이 완성되었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "가지구이무침 레시피 후기 & 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 가지 요리는 절여야 제맛!\n가지는 소금에 충분히 잘 절여 주세요.\n맛, 식감, 조리 과정의 효율성까지\n모두 이 절이기에 의해 결정되기 때문예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1) 쓴맛과 수분 제거\n가지 단면을 보면 작은 구멍이 뚫려 있는\n미세한 스폰지 구조로 되어 있어요.\n소금에 가지를 절이면\n가지 내부의 수분이\n밖으로 빠져 나오는데요.\n이때 수분과 함께 가지 특유의 아린 맛과\n쓴맛을 내는 성분(솔라닌 등)이\n같이 배출되어 훨씬 부드럽고\n달큰한 맛을 끌어 올릴 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2) 기름 흡수 방지\n생가지를 그대로 기름에 볶으면,\n공기로 가득 찬 구조의 가지가\n기름을 바로 흡수해 버립니다.\n소금에 절여 수분을 빼내면\n세포 조직이 꽉 채워지면서\n단단하게 밀도가 높아져\n깔끔한 가지구이가 될 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3) 쫄깃한 식감 좌우\n안 절이고 바로 굽거나 찌면\n순식간에 물러져 흐물거릴 수 밖에 없어요.\n수분을 한 번 빼주는 이 과정이\n쫄깃한 식감유지에 중요한 포인트예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 가지는 꼭 노릇하게 구워주세요.\n가지 속의 흰 부분이 없도록\n노릇하게 꼭 구워주세요.\n여름이라 덥긴한데,\n이 과정만 지나면\n진짜 맛있는 가지구이무침을\n맛볼 수 있답니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "제철 가지를 보신다면,\n쫄깃한 식감에 입맛 도는\n맛보장 가지구이무침 어떠세요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "가지구이무침 양념 레시피_by장키\n\n가지구이 한다면\n\n이 레시피 꼭 챙기세요\n\n대표적인 여름 채소 중 하나인 가지!\n그동안 가지구이무침하면\n물컹한 가지의 식감은\n어쩔 수 없다고 생각했는데요.\n아니었어요.\n\n얼마전 부암댁 선생님께 배우면서\n가지를 잘 모르고\n요리했던 거구나 싶었는데요.\n@https://www.instagram.com/buam_life?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\n오늘은 배운 후\n집에서 다시 만들어 본\n가지구이무침  만드는법을 소개해 볼게요.\n\n재료준비\n[가지구이무침 레시피]\n가지 3개\n오이/풋 고추 8개 또는\n꽈리고추 15개\n(선택) 파프리카 또는 피망 1개\n가지 절일 때\n소금 1T\n양념장\n간장 2T, 식초 2T\n※ T = 밥숟가락 계량\n\n1.\n가지는 검지 손가락 길이 정도로 썰고\n소금 1T 넣고 절여 주세요.\n언제까지?\n20분 정도는 절여주세요.\n소금 넣고 그냥 두면되나요?\n뒤적이면서 소금이\n고루 배이도록 해주세요.\n\n2.\n절여진 가지의 물기를 가볍게 짜주세요.\n\n3.\n기름 두른 팬에 물기 뺀\n소금에 절인 가지를 올리고 굽습니다.\n가지 껍질이 아니라,\n가지 흰 부분이 팬을 향하도록놓아주세요.\n\n4.\n가지의 흰 속이\n노릇노릇해질 때까지\n요리 조리 구워주세요.\n다 구워졌으면 빈 볼에 담아 두시면 됩니다.\n\n5.\n자, 가지를 다 구웠으니\n이제고추를 구워줄 차례예요.\n고추가 없으면 피망 쓰셔도 좋아요.\n저는 고추와 파프리카 둘 다 사용했어요.\n\n고추의 씨는 제거하고\n먹기 좋은 크기로 썰어주세요.\n가지와 비슷한 길이로요.\n고추나 피망 구울 때는 속이 아닌\n겉면을 노릇하게구워 주세요.\n\n6.\n굽히는 동안\n양념장 만들어요.\n재료에 양념장 바로 넣지말고,\n빈 그릇에 따로만들거예요.\n간장 2T, 식초 2T\n고추도 다 구워졌으면\n구운 가지 담아 둔 볼에\n고추 넣고 양념장 넣고\n고루 섞어 주세요.\n양념은 처음부터\n다 붓지 말고,\n반 넣고 뒤적여서 간 보고\n부족하면 더 넣어주세요.\n\n완성\n식감 좋고 맛은 더 좋은\n가지구이무침이 완성되었습니다.\n\n가지구이무침 레시피 후기 & 팁\n\n1. 가지 요리는 절여야 제맛!\n가지는 소금에 충분히 잘 절여 주세요.\n맛, 식감, 조리 과정의 효율성까지\n모두 이 절이기에 의해 결정되기 때문예요.\n\n1) 쓴맛과 수분 제거\n가지 단면을 보면 작은 구멍이 뚫려 있는\n미세한 스폰지 구조로 되어 있어요.\n소금에 가지를 절이면\n가지 내부의 수분이\n밖으로 빠져 나오는데요.\n이때 수분과 함께 가지 특유의 아린 맛과\n쓴맛을 내는 성분(솔라닌 등)이\n같이 배출되어 훨씬 부드럽고\n달큰한 맛을 끌어 올릴 수 있어요.\n\n2) 기름 흡수 방지\n생가지를 그대로 기름에 볶으면,\n공기로 가득 찬 구조의 가지가\n기름을 바로 흡수해 버립니다.\n소금에 절여 수분을 빼내면\n세포 조직이 꽉 채워지면서\n단단하게 밀도가 높아져\n깔끔한 가지구이가 될 수 있어요.\n\n3) 쫄깃한 식감 좌우\n안 절이고 바로 굽거나 찌면\n순식간에 물러져 흐물거릴 수 밖에 없어요.\n수분을 한 번 빼주는 이 과정이\n쫄깃한 식감유지에 중요한 포인트예요.\n\n2. 가지는 꼭 노릇하게 구워주세요.\n가지 속의 흰 부분이 없도록\n노릇하게 꼭 구워주세요.\n여름이라 덥긴한데,\n이 과정만 지나면\n진짜 맛있는 가지구이무침을\n맛볼 수 있답니다!\n\n제철 가지를 보신다면,\n쫄깃한 식감에 입맛 도는\n맛보장 가지구이무침 어떠세요?",
+  "char_count": 1669
+}
