@@ -1,0 +1,817 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223310315688",
+  "url": "https://m.blog.naver.com/schumpgel/223310315688",
+  "title": "프사오 F45합정 가격, 후기 ~1/6 소프트오픈 중 방문 느낀점 다 푼다",
+  "published": "2024. 1. 2. 17:50",
+  "category": "움직임 워크샵 후기",
+  "category_no": "",
+  "tags": [
+    "F45",
+    "프사오",
+    "F45합정",
+    "F45가격",
+    "F45후기"
+  ],
+  "component_count": 65,
+  "type_counts": {
+    "text": 27,
+    "image": 18,
+    "quotation": 10,
+    "horizontalLine": 6,
+    "map": 1,
+    "oglink": 1,
+    "imageStrip": 1,
+    "video": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "프사오가 합정에 소프트오픈했대 _by링키\n'F45합정 소프트오픈'\n신문물 체험",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "연말에 운동인들과 같이 송년회를 하다가\n그 유명한F45(일명 프사오)가 합정에\n생긴다는 이야기를 들었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs28",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1/6일까지 소프트 오픈이니 다들 체험\n다녀와보자는 이야기가 나와서 저도 앱을 깔고\n가입했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "F45합정 소프트오픈 일정",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "소프트 오픈은\n23.12.26 -24.01.16\n이 주간 진행됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_corner"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "소프트오픈 마지막날인 1/6 그랜드오픈을하고\n정식 오픈은 1/8일부터입니다.\n저는1/2 화요일 12:00PM 수업을 다녀왔어요.\n오늘 겪고 오늘 쓰는 포스팅\n완전 따끈따끈하죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "F45 합정",
+      "address": "서울특별시 마포구 양화로 85 지하2층",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n· 합정역 1번 출구 직선거리 도보 1분\n· 지하 2층\n● 운영시간\n· 월-금 06:30-21:30 (토 08:00-13:00)\n· 일요일 정기휴무\n·0507-1425-7507\n● 그 외 사항\n·탈의실, 샤워실 같은 층에 있음.\n● 인스타그램\nhttps://www.instagram.com/f45_hapjeong/",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs13",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "F45 합정 | NEW OPEN🤍(@f45_hapjeong) • Instagram 사진 및 동영상",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "같은 건물 지하 1층에 복싱, 주짓수, 헬스장이\n있어서 운동하시는 분들이 주로 지하로\n내려가시더라고요 ㅎㅎ",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "엘레베이터나 계단을 이용해 지하2층까지\n내려가면파란, 흰색 라커가 보이고 오른편에\n프사오합정이보입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "프사오합정 내부 및 방식",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내부는 남, 녀 탈의실/샤워실 외에 통으로 되어\n있습니다. 내부 기둥을 기준으로 세 가지\n구역으로 나뉘는데 이 구역이 중요한 의미를\n가지는 것 같습니다.\n센터마다 약간의 변형은 있겠지만\n한 존의 3가지 운동을 35초 운동 25초 휴식을\n반복하며 2세트 수행하고 옆의 다른 존으로\n이어가는 방식으로 45분이 진행됩니다.\n(제가 체험한 ROMAN 수업을\n기준으로 작성했습니다)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "F45 이용순서",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 앱으로 운동 예약\n2. 센터에 방문하여 패드로 출석체크\n3. 운동복으로 환복",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5. 코치의 안내에 따른 스트레칭\n4. 코치 두 분이 9가지 (+a) 운동을 가볍게\n1-2세트씩 보여주십니다.\n6. 앞에 있는 모니터를 보며 35/25 운동\n1존X 2세트씩 3존까지 운동수행",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "7. 모여서 사진 찍고\n8. 마무리 스트레칭",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5-6번이 운동 수행하는 부분이라는\n생각이 드실 텐데요. 실제 45분 운동하는 시간은\n6번에 해당합니다. 이완 부분을 앞뒤로 빼서\n운동시간을 딱 정한 것은 좋았어요.\n점심 12시 클래스는 고정 클래스라던데\n정말 근처 직장인분들이 점심때 운동하고\n가실 수 있으실 것 같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "트레이너님들 수는 적고 사람은 많고\n운동 가짓수는 많아서 막상 내 차례에\n무슨 운동을 해야 할지 모를 수 있는데요\n각 존 앞에 타이머 겸용 운동 동작을 안내해 주는\n모니터가 있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이걸 보고 수행하고 있다 보면\n트레이너 두 분이 돌아다니시면서\n운동하는 것을 봐주세요.\n동시에 포토를 찍어주시는 스텝도 한 분\n계시며 수업이 끝나면 바로 구글드라이브에\n사진이 업로드됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "초행자, 초심자를 위한 파란팔찌",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "여러 명의 사람들이 꽉 짜인 타임테이블에의해\n돌아가는 상황이다 보니 저처럼 처음 간\n사람들은 어리둥절할 수 있어요.\n웜업 할 때 안내받은 파란팔찌를 카운터에서\n받아서 차고 있으면 코치분들께서\n좀 더 케어해주시는 것 같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "F45트레이드마크",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "수업끝내고 벽 앞에서 찍는 단체사진 같아요.\n처음 간 사람도 오래 다니던 사람도\n수업에 참여한 전원이 모두 이 벽 앞에서\n사진 찍는 문화가 있는 것 같습니다.\n이런 식으로 소속감을 쌓아나가는 것 같습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "프사오 특징",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이 메인캐치프레이즈를 바탕으로\n팀트레이닝을 메인으로 하고 있는 F45를\n드디어 체험해 보았습니다.\n제가 제일 많이 느낀 점은\n1.  운영자의 입장에서 최고로\n효율적, 경제적인 시스템이다는 것이었습니다.\n이미 미리 짜인 프로그램과 적은 수의 코치로\n한 번에 많은 회원을 받을 있다는 점이\n수익적으로좋아 보였습니다.\n(참고로 특정 일자의 프로그램은 전 세계적으로\n동일하게 운영된다고 합니다.)\n운동 구성에 대해서 고민하는 부분,\n트레이너의 수를 정하는 부분에 있어서\n많은 고민을 이미 해결한 비즈니스 모델 같죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#9c9c9c;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "운동하는 소비자의 입장에서 느낀 것은\n2. 크로스핏보다 낮은 강도로 팀 트레이닝을\n경험할 수 있다는 것입니다.\n운동은 해야 하는데 헬스장에서 혼자 쇠질\n하는 건정말 못하겠다! 사람이 할 짓이 아니다!\n하시는 분들이 대부분이실 거예요.\n그런 분들이시라면 따로 또 같이\n군중 속에서 적당히 연결된 느낌이 들면서도\n익명성을 지키면서 운동을 할 수 있는\n구조라고 생각됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "장점이자 단점인 것을 이야기해 볼게요\n3. 프로그램이 고정, 적은 코치 수로\n운동강도에 대한 자율권이 높다는 것입니다.\n각 운동하는 곳에 무게가 다양하게 놓여있어\n자기 능력과 컨디션에 맞는 도구를 선택할 수\n있습니다. 하지만, 이것도자신의 몸에 대한\n이해가 있어야 가능 한 것이라고 생각합니다.\n저는 운동 경험이 꽤 있는 편이라 어느 파트에\n가도제 신체능력에 맞는 도구와 자세를\n선택할 수있었는데요. 초심자이시라면\n겉모습으로 동작을따라 하다 다치거나,\n너무 빈 바를 들고 시간 채우고\n넘어가기에 급급해서 별로 운동한 효과가 없다\n느낄 수 있을 것 같습니다. 그러다 보니\n초심자가 본인 몸에 대해 이해할 틈이\n적어 보이는 것은 좀 아쉬웠습니다.\n여행 갔는데, 출장 갔는데 근처에 F45가 있고\n나는 몸을 좀 풀고 싶다 하면 저는 들릴 의사가\n있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "저의 개인적인 생각으론\n초심자이시라면\n1년은 개인 혹은 소규모 PT를\n받으며 운동 기초를 쌓고\nF45 하시는 것이\n제일 효율적이라 생각됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_corner"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "내가 생각하는 프사오 아쉬운 점",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "본사가 외국에 있다 해도 그렇지\n너무나 앱이 영어 베이스이고 안내 메일도\n영어로 옵니다.\n뭐 못 읽을 어려운 영어도 없고,\n영어 읽기 싫으면 번역기 돌리면야 되지만\n굳이 이럴 필요가 있었을까요?\n적어도 한국에서 영업하는 이상\n한글과 영문을 병기해 주었으면 참 좋았을 텐데요\n참으로 의아한 부분이었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "수업 부분은 모두 영문인데,\n결제 부분만 한글입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "F45 가격 _ 합정 오픈할인가",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "금액에 관한 부분은 웹에서도 앱에서도\n찾을 수가없었는데, 오픈 특가로 되어있는\n부분 매장에서안내되어 있어서 궁금하실\n분들 참고하시라고공유드립니다.\n할인 없는 금액을 보니\n1개월 무제한이 348,000원\n인가 봐요.\n(저것은 오픈 특가 아니 참고만 해주세요)\n나 왕년에 운동 좀 했었는데,\n이제 새해맞이 다시 해봐야겠다\n하시는 분들에게 추천드려봅니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs30",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#9c9c9c;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "제가 들어가며 찍은 내부 영상이랑\n(그 이후엔 폰을 락커에 둬서 못찍음)\n드라이브로 공유해 주신 제 운동 영상을\n올려봅니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "새해에 다짐한 것들 적지 않으시죠?\n운동도 한 꼭지 들어가 있지 않으실까 싶은데요\n모두들 즐거운 운동되세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    }
+  ],
+  "body_text": "프사오가 합정에 소프트오픈했대 _by링키\n'F45합정 소프트오픈'\n신문물 체험\n\n연말에 운동인들과 같이 송년회를 하다가\n그 유명한F45(일명 프사오)가 합정에\n생긴다는 이야기를 들었어요.\n\n1/6일까지 소프트 오픈이니 다들 체험\n다녀와보자는 이야기가 나와서 저도 앱을 깔고\n가입했습니다.\n\nF45합정 소프트오픈 일정\n\n소프트 오픈은\n23.12.26 -24.01.16\n이 주간 진행됩니다.\n\n소프트오픈 마지막날인 1/6 그랜드오픈을하고\n정식 오픈은 1/8일부터입니다.\n저는1/2 화요일 12:00PM 수업을 다녀왔어요.\n오늘 겪고 오늘 쓰는 포스팅\n완전 따끈따끈하죠?\n\n● 위치\n· 합정역 1번 출구 직선거리 도보 1분\n· 지하 2층\n● 운영시간\n· 월-금 06:30-21:30 (토 08:00-13:00)\n· 일요일 정기휴무\n·0507-1425-7507\n● 그 외 사항\n·탈의실, 샤워실 같은 층에 있음.\n● 인스타그램\nhttps://www.instagram.com/f45_hapjeong/\n\n같은 건물 지하 1층에 복싱, 주짓수, 헬스장이\n있어서 운동하시는 분들이 주로 지하로\n내려가시더라고요 ㅎㅎ\n\n엘레베이터나 계단을 이용해 지하2층까지\n내려가면파란, 흰색 라커가 보이고 오른편에\n프사오합정이보입니다.\n\n프사오합정 내부 및 방식\n\n내부는 남, 녀 탈의실/샤워실 외에 통으로 되어\n있습니다. 내부 기둥을 기준으로 세 가지\n구역으로 나뉘는데 이 구역이 중요한 의미를\n가지는 것 같습니다.\n센터마다 약간의 변형은 있겠지만\n한 존의 3가지 운동을 35초 운동 25초 휴식을\n반복하며 2세트 수행하고 옆의 다른 존으로\n이어가는 방식으로 45분이 진행됩니다.\n(제가 체험한 ROMAN 수업을\n기준으로 작성했습니다)\n\nF45 이용순서\n\n1. 앱으로 운동 예약\n2. 센터에 방문하여 패드로 출석체크\n3. 운동복으로 환복\n\n5. 코치의 안내에 따른 스트레칭\n4. 코치 두 분이 9가지 (+a) 운동을 가볍게\n1-2세트씩 보여주십니다.\n6. 앞에 있는 모니터를 보며 35/25 운동\n1존X 2세트씩 3존까지 운동수행\n\n7. 모여서 사진 찍고\n8. 마무리 스트레칭\n\n5-6번이 운동 수행하는 부분이라는\n생각이 드실 텐데요. 실제 45분 운동하는 시간은\n6번에 해당합니다. 이완 부분을 앞뒤로 빼서\n운동시간을 딱 정한 것은 좋았어요.\n점심 12시 클래스는 고정 클래스라던데\n정말 근처 직장인분들이 점심때 운동하고\n가실 수 있으실 것 같아요.\n\n트레이너님들 수는 적고 사람은 많고\n운동 가짓수는 많아서 막상 내 차례에\n무슨 운동을 해야 할지 모를 수 있는데요\n각 존 앞에 타이머 겸용 운동 동작을 안내해 주는\n모니터가 있습니다.\n\n이걸 보고 수행하고 있다 보면\n트레이너 두 분이 돌아다니시면서\n운동하는 것을 봐주세요.\n동시에 포토를 찍어주시는 스텝도 한 분\n계시며 수업이 끝나면 바로 구글드라이브에\n사진이 업로드됩니다.\n\n초행자, 초심자를 위한 파란팔찌\n\n여러 명의 사람들이 꽉 짜인 타임테이블에의해\n돌아가는 상황이다 보니 저처럼 처음 간\n사람들은 어리둥절할 수 있어요.\n웜업 할 때 안내받은 파란팔찌를 카운터에서\n받아서 차고 있으면 코치분들께서\n좀 더 케어해주시는 것 같아요.\n\nF45트레이드마크\n\n수업끝내고 벽 앞에서 찍는 단체사진 같아요.\n처음 간 사람도 오래 다니던 사람도\n수업에 참여한 전원이 모두 이 벽 앞에서\n사진 찍는 문화가 있는 것 같습니다.\n이런 식으로 소속감을 쌓아나가는 것 같습니다.\n\n프사오 특징\n\n이 메인캐치프레이즈를 바탕으로\n팀트레이닝을 메인으로 하고 있는 F45를\n드디어 체험해 보았습니다.\n제가 제일 많이 느낀 점은\n1.  운영자의 입장에서 최고로\n효율적, 경제적인 시스템이다는 것이었습니다.\n이미 미리 짜인 프로그램과 적은 수의 코치로\n한 번에 많은 회원을 받을 있다는 점이\n수익적으로좋아 보였습니다.\n(참고로 특정 일자의 프로그램은 전 세계적으로\n동일하게 운영된다고 합니다.)\n운동 구성에 대해서 고민하는 부분,\n트레이너의 수를 정하는 부분에 있어서\n많은 고민을 이미 해결한 비즈니스 모델 같죠?\n\n운동하는 소비자의 입장에서 느낀 것은\n2. 크로스핏보다 낮은 강도로 팀 트레이닝을\n경험할 수 있다는 것입니다.\n운동은 해야 하는데 헬스장에서 혼자 쇠질\n하는 건정말 못하겠다! 사람이 할 짓이 아니다!\n하시는 분들이 대부분이실 거예요.\n그런 분들이시라면 따로 또 같이\n군중 속에서 적당히 연결된 느낌이 들면서도\n익명성을 지키면서 운동을 할 수 있는\n구조라고 생각됩니다.\n\n장점이자 단점인 것을 이야기해 볼게요\n3. 프로그램이 고정, 적은 코치 수로\n운동강도에 대한 자율권이 높다는 것입니다.\n각 운동하는 곳에 무게가 다양하게 놓여있어\n자기 능력과 컨디션에 맞는 도구를 선택할 수\n있습니다. 하지만, 이것도자신의 몸에 대한\n이해가 있어야 가능 한 것이라고 생각합니다.\n저는 운동 경험이 꽤 있는 편이라 어느 파트에\n가도제 신체능력에 맞는 도구와 자세를\n선택할 수있었는데요. 초심자이시라면\n겉모습으로 동작을따라 하다 다치거나,\n너무 빈 바를 들고 시간 채우고\n넘어가기에 급급해서 별로 운동한 효과가 없다\n느낄 수 있을 것 같습니다. 그러다 보니\n초심자가 본인 몸에 대해 이해할 틈이\n적어 보이는 것은 좀 아쉬웠습니다.\n여행 갔는데, 출장 갔는데 근처에 F45가 있고\n나는 몸을 좀 풀고 싶다 하면 저는 들릴 의사가\n있습니다.\n\n저의 개인적인 생각으론\n초심자이시라면\n1년은 개인 혹은 소규모 PT를\n받으며 운동 기초를 쌓고\nF45 하시는 것이\n제일 효율적이라 생각됩니다.\n\n내가 생각하는 프사오 아쉬운 점\n\n본사가 외국에 있다 해도 그렇지\n너무나 앱이 영어 베이스이고 안내 메일도\n영어로 옵니다.\n뭐 못 읽을 어려운 영어도 없고,\n영어 읽기 싫으면 번역기 돌리면야 되지만\n굳이 이럴 필요가 있었을까요?\n적어도 한국에서 영업하는 이상\n한글과 영문을 병기해 주었으면 참 좋았을 텐데요\n참으로 의아한 부분이었습니다.\n\n수업 부분은 모두 영문인데,\n결제 부분만 한글입니다.\n\nF45 가격 _ 합정 오픈할인가\n\n금액에 관한 부분은 웹에서도 앱에서도\n찾을 수가없었는데, 오픈 특가로 되어있는\n부분 매장에서안내되어 있어서 궁금하실\n분들 참고하시라고공유드립니다.\n할인 없는 금액을 보니\n1개월 무제한이 348,000원\n인가 봐요.\n(저것은 오픈 특가 아니 참고만 해주세요)\n나 왕년에 운동 좀 했었는데,\n이제 새해맞이 다시 해봐야겠다\n하시는 분들에게 추천드려봅니다.\n\n제가 들어가며 찍은 내부 영상이랑\n(그 이후엔 폰을 락커에 둬서 못찍음)\n드라이브로 공유해 주신 제 운동 영상을\n올려봅니다.\n\n새해에 다짐한 것들 적지 않으시죠?\n운동도 한 꼭지 들어가 있지 않으실까 싶은데요\n모두들 즐거운 운동되세요!",
+  "char_count": 3244
+}

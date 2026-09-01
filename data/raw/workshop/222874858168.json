@@ -1,0 +1,470 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "222874858168",
+  "url": "https://m.blog.naver.com/schumpgel/222874858168",
+  "title": "\"8톤트럭 언니들을 마주할 날을 준비하며\" 서울여자풋살팀, 상암정의걸즈FC",
+  "published": "2022. 9. 14. 23:23",
+  "category": "움직임 워크샵 후기",
+  "category_no": "",
+  "tags": [
+    "서울여자축구",
+    "여자풋살",
+    "여자축구",
+    "서울여자풋살",
+    "마포여자축구",
+    "상암정의걸즈fc",
+    "정의걸즈fc",
+    "풋살재밌어",
+    "운동하는여자",
+    "다덤벼",
+    "8톤트럭",
+    "2종면허"
+  ],
+  "component_count": 42,
+  "type_counts": {
+    "text": 20,
+    "image": 8,
+    "sticker": 5,
+    "imageStrip": 5,
+    "quotation": 2,
+    "sectionTitle": 1,
+    "horizontalLine": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "요즘 풋살 중인 이야기 _by징키",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "결전의 날을 위하여",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "미라클풋살에 30분이나 지각했지만\n모닝풋살이 가능한 이번주 상암정의걸즈FC\n여자풋살에도 출석 잘 하고 왔습니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이번주 상암정의걸즈FC 여자풋살은\n좀 특별했습니다.\n바로바로바로\n다음주에다른 팀과 경기가 있기 때문이죠.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그래서 그런지 징키도 쪼메 긴장되고\n상암정의걸즈FC도 들뜨듯 기분 좋은\n긴장감이 감도는 듯한 기분입니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "함께 경기할 팀은\nFC 8톤트럭입니다.\n(찐 8t트럭 운전수분들의 축구 모임?!)\n정말 그래서 팀 이름이 그런 거라면...\n2종 보통 운전자 징키에게\n8톤트럭 자체만으로 큰 존재감 👍",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "때가 때인 만큼\n개인 연습 시간에 감독님의 특별 코칭이 있었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "막을 자 없다,\n알고도 당하는 2인 패스",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "패스 받은 공을 몰고 간다\n(수비가 날 따라오겠지?)\n이때, 대각선에서 달려오고 있는\n우리 팀에 패스한다",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "(설명) 수비는 공 받은 우리 팀을 쫓아 가지만\n이미 추진력 달고 뛰어가는 사람을\n수비는 다시 쫓아 가야 되는 상황.\n때문에 아무리 빠른 사람이라도 당해낼 자가 없다.\n또, 아무리 느린 사람이라도 수비보다 먼저 뛰고 있기 때문에 무조건 수비보다 한 걸음 앞설 수밖에 없다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "(감독님) 알겠어? 이해했어?\n(징키) 네!! 아닌가...\n머리에서 팔다리로 내용 전달하기까지\n시간이 필요할 것 같아요 (머쓱 😂)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "입맛에 맞는 패스 노노 ☝️\n공간 이용한 패스하기",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "4명이 원을 만든다\n좌우로 움직이며\n패스 받을 사람과의 간격을 살펴\n움직일 공간을 예상해서 패스한다",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "마치공차며둥글게 둥글게를 하는 것 같습니다.\n끝나지 않는 둥글게에.. 우리는 좀 어지럽습니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "맞춤형 개인 연습 후 조회시간을 가집니다.\n상암정의걸즈FC에 신입 2분이 오셨습니다 👏👏",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "상암정의걸즈FC 참석이래, 처음 보는 광경인데\n다음주 경기를 앞두고 작전~한 회의가 이뤄졌습니다.\n감독님의 검은색, 빨간색 마카가 종이를 빠르게 채웁니다.\n상암정의걸즈FC 모두 진지함에 진심인 순간입니다.\n이론들아, 몸에서 실체가 되어라, 뿅뿅 ✨️✨️",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "조회 후, 4팀으로 나눠 경기를 진행했어요.\n중간중간에도 감독님의 순간 코칭이 이루어졌습니다.\n어떡해, 꼭 이겨야 할 것 같잖아요",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#b7b7b7;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "상암정의걸즈FC의 에이스님들은\n오늘 배운\n\"알고도 당하는 2인 패스\"를 바로 적용해서\n골도 넣으셨어요 👍\n마치 책 속 활자(이론)가 튀어나와\n눈앞에서 촤라락 모여 재현해 내는 느낌",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "징키가 찍은 오른쪽으로 갈수록 발이 잘린 사진"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "다음주 경기에 불참, 참석 여부를 떠나\n더운 날에도\n전략적이고 밀도 있는 연습에 최선을 다 한\n상암정의걸즈FC와 감독님, 민코치님\n모두 멋졌습니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "요즘 풋살 중인 이야기 _by징키\n\n결전의 날을 위하여\n\n미라클풋살에 30분이나 지각했지만\n모닝풋살이 가능한 이번주 상암정의걸즈FC\n여자풋살에도 출석 잘 하고 왔습니다.\n\n이번주 상암정의걸즈FC 여자풋살은\n좀 특별했습니다.\n바로바로바로\n다음주에다른 팀과 경기가 있기 때문이죠.\n\n그래서 그런지 징키도 쪼메 긴장되고\n상암정의걸즈FC도 들뜨듯 기분 좋은\n긴장감이 감도는 듯한 기분입니다.\n\n함께 경기할 팀은\nFC 8톤트럭입니다.\n(찐 8t트럭 운전수분들의 축구 모임?!)\n정말 그래서 팀 이름이 그런 거라면...\n2종 보통 운전자 징키에게\n8톤트럭 자체만으로 큰 존재감 👍\n\n때가 때인 만큼\n개인 연습 시간에 감독님의 특별 코칭이 있었습니다.\n\n막을 자 없다,\n알고도 당하는 2인 패스\n\n패스 받은 공을 몰고 간다\n(수비가 날 따라오겠지?)\n이때, 대각선에서 달려오고 있는\n우리 팀에 패스한다\n\n(설명) 수비는 공 받은 우리 팀을 쫓아 가지만\n이미 추진력 달고 뛰어가는 사람을\n수비는 다시 쫓아 가야 되는 상황.\n때문에 아무리 빠른 사람이라도 당해낼 자가 없다.\n또, 아무리 느린 사람이라도 수비보다 먼저 뛰고 있기 때문에 무조건 수비보다 한 걸음 앞설 수밖에 없다.\n\n(감독님) 알겠어? 이해했어?\n(징키) 네!! 아닌가...\n머리에서 팔다리로 내용 전달하기까지\n시간이 필요할 것 같아요 (머쓱 😂)\n\n입맛에 맞는 패스 노노 ☝️\n공간 이용한 패스하기\n\n4명이 원을 만든다\n좌우로 움직이며\n패스 받을 사람과의 간격을 살펴\n움직일 공간을 예상해서 패스한다\n\n마치공차며둥글게 둥글게를 하는 것 같습니다.\n끝나지 않는 둥글게에.. 우리는 좀 어지럽습니다.\n\n맞춤형 개인 연습 후 조회시간을 가집니다.\n상암정의걸즈FC에 신입 2분이 오셨습니다 👏👏\n\n상암정의걸즈FC 참석이래, 처음 보는 광경인데\n다음주 경기를 앞두고 작전~한 회의가 이뤄졌습니다.\n감독님의 검은색, 빨간색 마카가 종이를 빠르게 채웁니다.\n상암정의걸즈FC 모두 진지함에 진심인 순간입니다.\n이론들아, 몸에서 실체가 되어라, 뿅뿅 ✨️✨️\n\n조회 후, 4팀으로 나눠 경기를 진행했어요.\n중간중간에도 감독님의 순간 코칭이 이루어졌습니다.\n어떡해, 꼭 이겨야 할 것 같잖아요\n\n상암정의걸즈FC의 에이스님들은\n오늘 배운\n\"알고도 당하는 2인 패스\"를 바로 적용해서\n골도 넣으셨어요 👍\n마치 책 속 활자(이론)가 튀어나와\n눈앞에서 촤라락 모여 재현해 내는 느낌\n\n다음주 경기에 불참, 참석 여부를 떠나\n더운 날에도\n전략적이고 밀도 있는 연습에 최선을 다 한\n상암정의걸즈FC와 감독님, 민코치님\n모두 멋졌습니다.",
+  "char_count": 1264
+}

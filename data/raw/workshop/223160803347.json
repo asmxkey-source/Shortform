@@ -1,0 +1,661 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223160803347",
+  "url": "https://m.blog.naver.com/schumpgel/223160803347",
+  "title": "리추얼라이프 뜻과 무기력극복을 위한 매일운동챌린지 시작",
+  "published": "2023. 7. 19. 19:31",
+  "category": "움직임 워크샵 후기",
+  "category_no": "",
+  "tags": [
+    "달리운동장",
+    "링키징키",
+    "매일운동챌린지",
+    "매운챌",
+    "오하운",
+    "리추얼뜻",
+    "리추얼라이프",
+    "미라클모닝",
+    "무기력극복"
+  ],
+  "component_count": 60,
+  "type_counts": {
+    "text": 29,
+    "image": 11,
+    "quotation": 8,
+    "sticker": 6,
+    "sectionTitle": 2,
+    "horizontalLine": 2,
+    "oglink": 1,
+    "imageStrip": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "리추얼라이프? 뜻이 뭐야? _by링키징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "달리x링키징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "매일운동챌린지 시작!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안녕하세요, 링키징키입니다.\n오늘은 건강한 식생활을 위해\n달리X링키징키 콜라보로 진행된\n습관형성 리추얼라이프,\n매일운동챌린지(매운챌)\nD+5일째 입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "도전에 대해 궁금하실 것 같아, 소식 전해드립니다.\n남은 날이 더 많지만,\n기분좋은 내용들을 공유하며\n요즘 유행하는 단어인 리추얼라이프?\n리추얼뜻에 대해서도 알려드릴게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "리추얼 뜻?!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "리추얼(Ritual)은 영어단어이며\n사전적 의미는 규칙적인 의식, 종교의식(절차)와\n같은 의미입니다.\n코로나 이후 전국민이 평균 몸무게가 늘었다죠?\n갑자기 바뀐 생활환경 속에서도\n건강한 삶을 위한 좋은 습관을\n만들어가는 모든 루틴, 의식을 리추얼이라고 해요.\n대표적인 예로는 미라클 모닝이 있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "Image by Iqbal Nuril Anwar from Pixabay"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사실 몸에 좋은건 뻔하잖아요.\n다들 알면서도 못하는거죠.\n이걸 같이 해보기위해\n달리운동장과 링키징키는 콜라보로\n매일운동챌린지를 열었어요.\nhttps://blog.naver.com/schumpgel/223155599459",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "습관형성 리추얼모집 매일운동챌린지(매운챌), 달리x링키징키",
+      "style": {
+        "classes": [
+          "se-l-large_image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "첫 날, 어땠어요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "63일 매운챌 여정은 \"여진쌤\"의 요가특강(Zoom)으로 시작되었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "40분 넘는 시간동안 정확한 티칭과\n섬세한 코칭으로 매운챌\n열기를 더한 시간이었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "참여하지 못한 분들을 위해 녹화본을\n공유드렸는데, 이후에도 녹화본을 복습하면서\n내 몸을 알아가는 시간을 갖는\n매운챌 크루분들도 계셨습니다.\n너무 멋진일 아닌가요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "힘든점 없었어요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매운챌에서는인증 기록을\n하루에 무려 4개나 해야 합니다.\n게다가 식단인증(타임스탬프),\n운동인증(나이키 러닝) 사용 어플이 다릅니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "진짜 습관을 내 몸에 새기기 위한 리추얼\n4가지 인증 리스트",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_underline"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1️⃣매일 식단 모두 기록(식이 제한 없이 먹은 것 그대로 기록) : 타임스탬프 기록\n2️⃣마인드풀 러닝 5분이상(우천 시 실내운동으로 대체. 쉬는 날 없음 😅) : 나이키 러닝 어플 기록\n3️⃣나만의 약점 보강 운동: 동영상 기록\n4️⃣하루 마감 일기: 운동 후, 하루 식사 마감 후 몸의 감각, 마음의 감정 기록",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line1"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이 모든걸 인증방에 올려야 인정!\n사실 시작하면서도 이렇게 까다로운데\n누가 하겠나싶었습니다.\n그보다 먼저'내가 할 수 있을까...'생각했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "괜한 걱정이었습니다.\n30명 선발인데 모집인원 꽉 채운거 있죠?\n건강한 식생활을 위해서는 우리에게 어느정도의 강제성은 필요했나 봅니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "매운챌 크루들의 공통 반응?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매일 저녁 인증기록 올리면서\n다른 매운챌 크루분들의 인증 내용도\n살펴보게 됩니다.\n공통점이 발견됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "1. 그럼에도, 매운챌을 한다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "\"바쁘지만, 컨디션이 좋지 않지만,\n갑작스런 어려운 상황이지만,\n그럼에도 불구하고 지금 할 수 있는\n나만의 매운챌을 한다.\"는 점이었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "기분이 나빠서, 컨디션이 안 좋아서,\n갑자기 약속이 생겨서 등등\n제일 중요한 우리 몸 돌보는 일에\n우리는 생각보다 친절하지 않습니다.\n그러니 이런 공통점을\n기존 식생활 습관이 알면 놀랄 일 아닌가요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "2. 여기가 아팠던가? 왜 이렇게 당겨!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "매운챌에서는 운동후,\n단순히 동영상을 올린다고 끝이 아닙니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매운챌 인증 리스트 중 하나가\n'운동 후 몸의 감각'에 대한 기록입니다.\n한 줄이라도 적어야하다 보니,\n단순 동작에도 내 몸의 감각에 집중하게 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "어디가 불편한지,\n어제보다 오늘은 어떤지 살펴보게 됩니다.\n어제는 잘했는데 오늘은 왜 잘 안될까?하는\n궁금함도 가져봅니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내몸이 무엇을 말하는지 이해하기 위한\n언어를 새롭게 배우는 기분입니다.\n소중하고 꼭 필요한 그 말에 매운챌 크루분들이\n귀 기울이며 한 걸음씩 나아가고 있었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "3. 나의 미운점이 보인다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "'운동 후, 하루 식사 마감 후\n몸의 감각, 마음의 감정'에 대한 하루 마감 일기 내용을 살펴봤습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "\"다운독 자세가 아직 볼품 없음, 간식 없으면 힘듦, 간식 참으려다 더 많이 먹음, 왜 코어 운동은 안될까, 식단 인증 자꾸 잊어버림\" 등\n못한 부분에 대한\n아쉬움, 답답함에 대한 기록이 많이 보였습니다.\n자기 관찰을 통해 자신이\n어떤 자동적 사고를 하는지 발견 중인\n단계가 아닐까 생각합니다.\n의심없이 믿고 지내는 것들에 대한 무의식을\n자세히 살펴볼 기회는 잘 없는 것 같습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "왜 그런 생각이, 감정이 들었는지 질문하면서\n불안, 슬픔, 분노, 흥분 등의 감정들을\n잘 컨트롤해 나갈 수 있는 근육까지 키워가는\n매운챌 과정이길 기대해 봅니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "우리는 느낍니다.\n매운챌 크루님들도,\n잠시 이 글을 보시는 분들도\n기분 좋은 변화가 이미 시작되었다는 것을요.\n남이 아닌 나의 시선으로\n소중한 내 몸을 돌보는\n하루 챙기셨으면 좋겠습니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매일운동챌린지 시작하며 분위기 공유합니다.\n무기력극복하기 위한 리추얼라이프, 리추얼뜻도 알아봤어요.\n앞으로 저희의 63일 여정도 기대해주세요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "리추얼라이프? 뜻이 뭐야? _by링키징키\n\n달리x링키징키\n\n매일운동챌린지 시작!\n\n안녕하세요, 링키징키입니다.\n오늘은 건강한 식생활을 위해\n달리X링키징키 콜라보로 진행된\n습관형성 리추얼라이프,\n매일운동챌린지(매운챌)\nD+5일째 입니다.\n\n도전에 대해 궁금하실 것 같아, 소식 전해드립니다.\n남은 날이 더 많지만,\n기분좋은 내용들을 공유하며\n요즘 유행하는 단어인 리추얼라이프?\n리추얼뜻에 대해서도 알려드릴게요.\n\n리추얼 뜻?!\n\n리추얼(Ritual)은 영어단어이며\n사전적 의미는 규칙적인 의식, 종교의식(절차)와\n같은 의미입니다.\n코로나 이후 전국민이 평균 몸무게가 늘었다죠?\n갑자기 바뀐 생활환경 속에서도\n건강한 삶을 위한 좋은 습관을\n만들어가는 모든 루틴, 의식을 리추얼이라고 해요.\n대표적인 예로는 미라클 모닝이 있습니다.\n\n사실 몸에 좋은건 뻔하잖아요.\n다들 알면서도 못하는거죠.\n이걸 같이 해보기위해\n달리운동장과 링키징키는 콜라보로\n매일운동챌린지를 열었어요.\nhttps://blog.naver.com/schumpgel/223155599459\n\n첫 날, 어땠어요?\n\n63일 매운챌 여정은 \"여진쌤\"의 요가특강(Zoom)으로 시작되었습니다.\n\n40분 넘는 시간동안 정확한 티칭과\n섬세한 코칭으로 매운챌\n열기를 더한 시간이었습니다.\n\n참여하지 못한 분들을 위해 녹화본을\n공유드렸는데, 이후에도 녹화본을 복습하면서\n내 몸을 알아가는 시간을 갖는\n매운챌 크루분들도 계셨습니다.\n너무 멋진일 아닌가요?\n\n힘든점 없었어요?\n\n매운챌에서는인증 기록을\n하루에 무려 4개나 해야 합니다.\n게다가 식단인증(타임스탬프),\n운동인증(나이키 러닝) 사용 어플이 다릅니다.\n\n진짜 습관을 내 몸에 새기기 위한 리추얼\n4가지 인증 리스트\n\n1️⃣매일 식단 모두 기록(식이 제한 없이 먹은 것 그대로 기록) : 타임스탬프 기록\n2️⃣마인드풀 러닝 5분이상(우천 시 실내운동으로 대체. 쉬는 날 없음 😅) : 나이키 러닝 어플 기록\n3️⃣나만의 약점 보강 운동: 동영상 기록\n4️⃣하루 마감 일기: 운동 후, 하루 식사 마감 후 몸의 감각, 마음의 감정 기록\n\n이 모든걸 인증방에 올려야 인정!\n사실 시작하면서도 이렇게 까다로운데\n누가 하겠나싶었습니다.\n그보다 먼저'내가 할 수 있을까...'생각했습니다.\n\n괜한 걱정이었습니다.\n30명 선발인데 모집인원 꽉 채운거 있죠?\n건강한 식생활을 위해서는 우리에게 어느정도의 강제성은 필요했나 봅니다.\n\n매운챌 크루들의 공통 반응?\n\n매일 저녁 인증기록 올리면서\n다른 매운챌 크루분들의 인증 내용도\n살펴보게 됩니다.\n공통점이 발견됩니다.\n\n1. 그럼에도, 매운챌을 한다.\n\n\"바쁘지만, 컨디션이 좋지 않지만,\n갑작스런 어려운 상황이지만,\n그럼에도 불구하고 지금 할 수 있는\n나만의 매운챌을 한다.\"는 점이었습니다.\n\n기분이 나빠서, 컨디션이 안 좋아서,\n갑자기 약속이 생겨서 등등\n제일 중요한 우리 몸 돌보는 일에\n우리는 생각보다 친절하지 않습니다.\n그러니 이런 공통점을\n기존 식생활 습관이 알면 놀랄 일 아닌가요?\n\n2. 여기가 아팠던가? 왜 이렇게 당겨!\n\n매운챌에서는 운동후,\n단순히 동영상을 올린다고 끝이 아닙니다.\n\n매운챌 인증 리스트 중 하나가\n'운동 후 몸의 감각'에 대한 기록입니다.\n한 줄이라도 적어야하다 보니,\n단순 동작에도 내 몸의 감각에 집중하게 됩니다.\n\n어디가 불편한지,\n어제보다 오늘은 어떤지 살펴보게 됩니다.\n어제는 잘했는데 오늘은 왜 잘 안될까?하는\n궁금함도 가져봅니다.\n\n내몸이 무엇을 말하는지 이해하기 위한\n언어를 새롭게 배우는 기분입니다.\n소중하고 꼭 필요한 그 말에 매운챌 크루분들이\n귀 기울이며 한 걸음씩 나아가고 있었습니다.\n\n3. 나의 미운점이 보인다.\n\n'운동 후, 하루 식사 마감 후\n몸의 감각, 마음의 감정'에 대한 하루 마감 일기 내용을 살펴봤습니다.\n\n\"다운독 자세가 아직 볼품 없음, 간식 없으면 힘듦, 간식 참으려다 더 많이 먹음, 왜 코어 운동은 안될까, 식단 인증 자꾸 잊어버림\" 등\n못한 부분에 대한\n아쉬움, 답답함에 대한 기록이 많이 보였습니다.\n자기 관찰을 통해 자신이\n어떤 자동적 사고를 하는지 발견 중인\n단계가 아닐까 생각합니다.\n의심없이 믿고 지내는 것들에 대한 무의식을\n자세히 살펴볼 기회는 잘 없는 것 같습니다.\n\n왜 그런 생각이, 감정이 들었는지 질문하면서\n불안, 슬픔, 분노, 흥분 등의 감정들을\n잘 컨트롤해 나갈 수 있는 근육까지 키워가는\n매운챌 과정이길 기대해 봅니다.\n\n우리는 느낍니다.\n매운챌 크루님들도,\n잠시 이 글을 보시는 분들도\n기분 좋은 변화가 이미 시작되었다는 것을요.\n남이 아닌 나의 시선으로\n소중한 내 몸을 돌보는\n하루 챙기셨으면 좋겠습니다!\n\n매일운동챌린지 시작하며 분위기 공유합니다.\n무기력극복하기 위한 리추얼라이프, 리추얼뜻도 알아봤어요.\n앞으로 저희의 63일 여정도 기대해주세요",
+  "char_count": 2350
+}

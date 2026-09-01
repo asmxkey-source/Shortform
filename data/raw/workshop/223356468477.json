@@ -1,0 +1,649 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223356468477",
+  "url": "https://m.blog.naver.com/schumpgel/223356468477",
+  "title": "일반인마라톤준비 런콥 러닝클래스 달리기초보 후기 (신촌)",
+  "published": "2024. 2. 17. 14:18",
+  "category": "움직임 워크샵 후기",
+  "category_no": "",
+  "tags": [
+    "러닝",
+    "마라톤",
+    "달리기",
+    "러닝클래스",
+    "데상트러닝",
+    "달리기클럽",
+    "달리기초보"
+  ],
+  "component_count": 51,
+  "type_counts": {
+    "text": 23,
+    "image": 14,
+    "quotation": 8,
+    "horizontalLine": 2,
+    "imageStrip": 2,
+    "video": 1,
+    "map": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "달리기초보의 러닝클래스 후기 _by링키\n일반인마라톤준비는?\n'런콥 러닝클래스'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "날이 슬슬 따뜻해지고, 발목도 많이 회복됐으니\n다시 달리기를 해볼까? 란 생각이 들었습니다.\n물론 저는 일반인마라톤준비 해본적 없고\n그냥 동네에서 천천히 뛰는 수준이지만\n배워서 뛰면 좋으니까! 동네에서 러닝클래스\n하는 곳이 있다고 해서 신청해 봤습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "런콥 러닝클래스 신촌지부는\n연세대학교 대운동장 트랙에서 진행됩니다.\n늘 차나 도보로만 지나다녔는데\n이렇게 직접 운동장을 와보긴 처음이었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "대운동장인 만큼 다양한 운동을 할 수 있는\n환경이에요. 농구, 축구, 풋살, 러닝 등\n운동하는 다양한 사람들을 보니 같이\n건강해지는 느낌이 듭니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "연세대학교 신촌캠퍼스대운동장",
+      "address": "서울특별시 서대문구 연희동 27",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n· 2호선 신촌역 도보 15분,\n· 연세대 정문에서 연희동 방향에 있는 대운동장\n● 운영시간\n· 화요일 19:30-21:00\n· 외부 훈련으로 날씨에 따라 변경될 수 있음(단톡방 확인요)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "늘 실내운동만 하던 터라 약간 긴장했는데\n다행히 그리 춥지 않은 밤이었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "[훈련 순서]\n1. 체조\n2. 워밍업 조깅\n3. 400m 인터벌\n4. 쿨다운 조깅\n5. 정리운동\n6. 단체사진 및 질의응답",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_postit"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "보통은 이렇게 진행되는데,\n초보자나 부상자가 많으면 조율해서 진행됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이미 일반인마라톤준비 하고 계신 분들이 많았어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저는 모이기로 한 구령대로 먼저 갔습니다.\n다들 이미 매주 만나서 최소 6개월 이상\n훈련하는 사이이다 보니 분위기가 좋았습니다.\n제가 신참인 걸 바로 아시더라고요.\n코치님이 오셔서 달리기 경력이나 아픈 곳\n등등을 물어보셨습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "1.체조",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "7시 30분 정시가 되자\n코치님의 지도하에 운동장의 한 곳에서\n체조를 합니다.\n매일 운동하는 저는 몸을 움직이는 건\n편안했지만,  인조잔디 위에서 뭔가 해본 적이\n없어서 생경했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "2.워밍업조깅",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "천천히 워밍업으로 조깅을 합니다.\n달리기초보인 저에겐 워밍업부터 쉽지 않았어요.\n400m를 7바퀴 도는 거라니..!\n하지만 아무도 강요하지 않아요. 걷뛰걷뛰\n하셔도 되고요. 두 바퀴 뛰고 한 바퀴 쉬고\n이런 식으로내 체력과 컨디션에 맞게\n움직이시면 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "같이 달리니까 그래도 훨씬 더\n힘이 나는 게 있더라고요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "3. 단체 러닝트레이닝",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "워밍업 조깅으로 몸을 푼 문들은 모두 다시\n운동장으로 모여서 코치님의 안내 하에\n러닝에 도움 되는 스텝을 밟습니다.\n이 부분은 처음 해보는 거라 좀 생경했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "4. 인터벌트레이닝 (초보자개인훈련)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그러고 나서 다른 분들은 인터벌을 뛰러\n가셨어요.각자의 컨디션과 기존 기록에 따라서\n목표를 세워주시면, 각자 와치를 켜고\n열심히 달리십니다.\n저는 너무 달리기초보자라서\n아까 했던 스텝들, 발을 차는 법, 손을 치는 법\n등등을 아예 따로 1:1로 지도해 주셨어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 0,
+      "captions": [
+        "지도 받기 전이라 폼이 좀.. ㅋㅋ"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "막 내달리는 건 아니지만,\n계속 뛰는 동작을 하기 때문에\n정강이랑 종아리가 꽤나 뻐근합니다.\n코치님이 친절하고 상세하게 안내해 주셔서\n감사했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "5.정리운동",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "어라 이건 사진이 없네요 ㅎㅎ\n다시 동그랗게 모여서 코치님 지도하에\n몸을 푸는 동작을 합니다.\n온몸에 피가 찌르르 도는 느낌이 나요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "6.단체사진 및 질의응답",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "어느덧 불 꺼진 운동장 그래도 오늘\n런콥 러닝클래스 신촌지부 달리기훈련한\n사람들 모두 모여 단체사진을 찍습니다.\n옷을 정말 얇게 입고 있었는데에도\n전혀 춥지 않아서 신기했어요.\n그만큼 운동량이 많았던 거겠죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "질의응답시간에 제주에서 귀성하신\n팀원분이 치즈케이크를 나눠주셔서\n너무 기쁜 마음으로 먹었습니다.\n그리고 집까지 쭈욱 한참을 걸어갔어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "런콥 러닝클래스 장점",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "달리기 외로운 운동이라고 생각했는데\n이렇게 같이 훈련하고 연습하면\n더욱더 오래 즐겁게 할 수 있을 것 같습니다.\n물론 부상의 위험도 줄일 수 있고요\n일반인마라톤준비로 런콥 러닝클래스\n추천합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "신촌 아니어도잠실, 여의도, 성수, 성남, 안양,\n산본,일산, 올림픽공원, 하남, 강남, 부천,\n수원, 과천,광명, 용인, 목동, 대구, 그리고\n합동훈련이 있으니근처 계신 분들\n참여해보세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "일반인마라톤준비\n런콥 러닝클래스 달리기초보 후기 (신촌지부)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    }
+  ],
+  "body_text": "달리기초보의 러닝클래스 후기 _by링키\n일반인마라톤준비는?\n'런콥 러닝클래스'\n\n날이 슬슬 따뜻해지고, 발목도 많이 회복됐으니\n다시 달리기를 해볼까? 란 생각이 들었습니다.\n물론 저는 일반인마라톤준비 해본적 없고\n그냥 동네에서 천천히 뛰는 수준이지만\n배워서 뛰면 좋으니까! 동네에서 러닝클래스\n하는 곳이 있다고 해서 신청해 봤습니다.\n\n런콥 러닝클래스 신촌지부는\n연세대학교 대운동장 트랙에서 진행됩니다.\n늘 차나 도보로만 지나다녔는데\n이렇게 직접 운동장을 와보긴 처음이었어요.\n\n대운동장인 만큼 다양한 운동을 할 수 있는\n환경이에요. 농구, 축구, 풋살, 러닝 등\n운동하는 다양한 사람들을 보니 같이\n건강해지는 느낌이 듭니다.\n\n● 위치\n· 2호선 신촌역 도보 15분,\n· 연세대 정문에서 연희동 방향에 있는 대운동장\n● 운영시간\n· 화요일 19:30-21:00\n· 외부 훈련으로 날씨에 따라 변경될 수 있음(단톡방 확인요)\n\n늘 실내운동만 하던 터라 약간 긴장했는데\n다행히 그리 춥지 않은 밤이었습니다.\n\n[훈련 순서]\n1. 체조\n2. 워밍업 조깅\n3. 400m 인터벌\n4. 쿨다운 조깅\n5. 정리운동\n6. 단체사진 및 질의응답\n\n보통은 이렇게 진행되는데,\n초보자나 부상자가 많으면 조율해서 진행됩니다.\n\n이미 일반인마라톤준비 하고 계신 분들이 많았어요.\n\n저는 모이기로 한 구령대로 먼저 갔습니다.\n다들 이미 매주 만나서 최소 6개월 이상\n훈련하는 사이이다 보니 분위기가 좋았습니다.\n제가 신참인 걸 바로 아시더라고요.\n코치님이 오셔서 달리기 경력이나 아픈 곳\n등등을 물어보셨습니다.\n\n1.체조\n\n7시 30분 정시가 되자\n코치님의 지도하에 운동장의 한 곳에서\n체조를 합니다.\n매일 운동하는 저는 몸을 움직이는 건\n편안했지만,  인조잔디 위에서 뭔가 해본 적이\n없어서 생경했어요.\n\n2.워밍업조깅\n\n천천히 워밍업으로 조깅을 합니다.\n달리기초보인 저에겐 워밍업부터 쉽지 않았어요.\n400m를 7바퀴 도는 거라니..!\n하지만 아무도 강요하지 않아요. 걷뛰걷뛰\n하셔도 되고요. 두 바퀴 뛰고 한 바퀴 쉬고\n이런 식으로내 체력과 컨디션에 맞게\n움직이시면 됩니다.\n\n같이 달리니까 그래도 훨씬 더\n힘이 나는 게 있더라고요.\n\n3. 단체 러닝트레이닝\n\n워밍업 조깅으로 몸을 푼 문들은 모두 다시\n운동장으로 모여서 코치님의 안내 하에\n러닝에 도움 되는 스텝을 밟습니다.\n이 부분은 처음 해보는 거라 좀 생경했어요.\n\n4. 인터벌트레이닝 (초보자개인훈련)\n\n그러고 나서 다른 분들은 인터벌을 뛰러\n가셨어요.각자의 컨디션과 기존 기록에 따라서\n목표를 세워주시면, 각자 와치를 켜고\n열심히 달리십니다.\n저는 너무 달리기초보자라서\n아까 했던 스텝들, 발을 차는 법, 손을 치는 법\n등등을 아예 따로 1:1로 지도해 주셨어요.\n\n막 내달리는 건 아니지만,\n계속 뛰는 동작을 하기 때문에\n정강이랑 종아리가 꽤나 뻐근합니다.\n코치님이 친절하고 상세하게 안내해 주셔서\n감사했습니다.\n\n5.정리운동\n\n어라 이건 사진이 없네요 ㅎㅎ\n다시 동그랗게 모여서 코치님 지도하에\n몸을 푸는 동작을 합니다.\n온몸에 피가 찌르르 도는 느낌이 나요.\n\n6.단체사진 및 질의응답\n\n어느덧 불 꺼진 운동장 그래도 오늘\n런콥 러닝클래스 신촌지부 달리기훈련한\n사람들 모두 모여 단체사진을 찍습니다.\n옷을 정말 얇게 입고 있었는데에도\n전혀 춥지 않아서 신기했어요.\n그만큼 운동량이 많았던 거겠죠?\n\n질의응답시간에 제주에서 귀성하신\n팀원분이 치즈케이크를 나눠주셔서\n너무 기쁜 마음으로 먹었습니다.\n그리고 집까지 쭈욱 한참을 걸어갔어요.\n\n런콥 러닝클래스 장점\n\n달리기 외로운 운동이라고 생각했는데\n이렇게 같이 훈련하고 연습하면\n더욱더 오래 즐겁게 할 수 있을 것 같습니다.\n물론 부상의 위험도 줄일 수 있고요\n일반인마라톤준비로 런콥 러닝클래스\n추천합니다.\n\n신촌 아니어도잠실, 여의도, 성수, 성남, 안양,\n산본,일산, 올림픽공원, 하남, 강남, 부천,\n수원, 과천,광명, 용인, 목동, 대구, 그리고\n합동훈련이 있으니근처 계신 분들\n참여해보세요!\n\n일반인마라톤준비\n런콥 러닝클래스 달리기초보 후기 (신촌지부)",
+  "char_count": 1991
+}

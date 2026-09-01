@@ -1,0 +1,691 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223155599459",
+  "url": "https://m.blog.naver.com/schumpgel/223155599459",
+  "title": "습관형성 리추얼모집 매일운동챌린지(매운챌), 달리x링키징키",
+  "published": "2023. 7. 14. 0:19",
+  "category": "움직임 워크샵 후기",
+  "category_no": "",
+  "tags": [
+    "리추얼",
+    "습관형성",
+    "갓생",
+    "갓생러",
+    "오하운",
+    "운동루틴",
+    "마이루틴",
+    "챌린지",
+    "달리운동장",
+    "링키징키",
+    "달리쌤"
+  ],
+  "component_count": 55,
+  "type_counts": {
+    "text": 24,
+    "image": 11,
+    "sticker": 7,
+    "quotation": 7,
+    "horizontalLine": 3,
+    "imageStrip": 2,
+    "video": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "리추얼 '매일운동챌린지' 모집중 _by링키징키\n달리운동장 x 링키징키 콜라보\n매일운동챌린지",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs28",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "내 몸을 잘 알고 쉽게, 즐겁게 운동하는 공간인\n합정 운동 핫플 \"달리운동장&짐\"과\n링키징키가\n매운챌(매일운동챌린지) 콜라보를 시작합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#444444;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "왜 하는 거죠?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "정도의 차이는 있지만,\n대상화된 여성으로서 몸을 가꿔야 한다는\n사회적 요구는 모든 여성이\n받고 있다고 생각합니다.\n이제는 여성들에게 다른 시각을 제안하고 싶어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오호라?\n저 뿐만 아니라 모두들 관심을 갖고 있었어요.\n저의 운동 멘토 달리쌤에게 이 내용을\n공유하는 과정 속에 우리는 자연스레",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "\"함께\"를 떠올리게 됐어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그래서 기획하게 된\n달리운동장 x 링키징키\n매(일)운(동)챌린지\n얼마나 매운지 보러 갈까요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-fs-fs28",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#9c9c9c;background-color:#ffffff;",
+          "color:#ba0000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "매운챌에서는 무얼 하죠?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "📍63일 매일 운동 및 기록 인증을 합니다.\n1️⃣ 마인드풀러닝 5분 이상\n(우천 시 실내운동으로 대체)\n2️⃣ 나만의 약점 보강 운동\n(운동 평가 및 가이드 영상 제공)\n3️⃣ 매일 식단 기록\n(식이 제한 없음 먹은 것 그대로 기록)\n4️⃣ 하루 마감 일기\n(몸의 감각, 마음의 감정)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-fs-fs19",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#9c9c9c;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "얼마나 해야 하나요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "63일!\n습관을 바꾸는데 21일의 시간이\n필요하다고 합니다.\n매(일)운(동)챌린지를 함께하면서\n건강한 습관형성이 이루어지는 21일을\n3번의 라운드로 '함께' 하게 됩니다.\n✔️기간:7/15 – 9/15(총 63일)\n세포가 바뀌는 시간 21일*3라운드",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "저도 신청할 수 있나요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "✔️대상:30명 선발\nonly 달리 수강 이력이 있는 분들 대상\nbut 링키징키 추천인은 신청 가능합니다.\n✔️비용:무료\n✔️신청:7/14일 오후 3시 반까지\n댓글남겨주시면 신청링크 알려드립니다.\n자세한 가이드는 7/15일 오전에\n최종 선발 결과와 함께 전달드립니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#93338f;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "실시간 추가되는 챌린지 베네핏✨",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "알찬 특강",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매운챌 챌린지의 취지에 공감하는\n선생님들께서 챌린지 중에 참여자분들 대상으로\n특강을 해주시기로 했어요.\n✔️여진쌤요가특강 3회\n@recoverybalance_jinny\n✔️리사쌤월경파워특강\n@holisatic_care",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매운챌 챌린저 분들에게는 여성의 몸과 마음에\n진심이 선생님들의 특강을 받으실 수 있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "완주자 선물",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "달리x링키징키의 챌린지를 응원하며\n63일 매운챌 챌린지 여정을 함께하기 위해\n건강과 재료에 진심인 두 브랜드에서\n협찬의뢰가 들어왔어요!\n✔️고마워서그래\n@thank.you_2020\n✔️폴베리\n@polveri.by.nino",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완주자분들에게는 위 두 브랜드에서 준비한\n소정의 선물이 기다리고 있습니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저희 챌린지와 뜻이 통하고 결이 비슷한\n협찬과 콜라보는 언제나 환영합니다.\n(문의 - schumpgel@naver.com )",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line1"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "📍주의사항 :\n- 무료 프로그램이나, 진지하게 일상의 우선순위를 바꿔보고 싶은 분들의 참여를 기다립니다.\n- 챌린지 진행 내용들은 익명 하에 달리와 링키징키 SNS에 공유될 수 있으니 동의 부탁드립니다.\n- 3회 인증 누락 시 이유 불문 바로 참여 불가 되오니 참고 부탁드립니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저의 셀프 챌린지를 기록하는 디데이 앱을\n켜봤어요. 이제는 함께하는 크루들이\n생길 거라 생각하니 무척 두근두근합니다.\n관심 있으신 분들! 링키징키 지인 찬스로\n신청할 수 있으니\n14일 목요일 3시 30분 까지\n댓글달아주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "평생 하나의 푸쉬업도 못했던 과거\n저의 1일 차부터 50여일 차\n푸쉬업(팔굽혀펴기) 챌린지 기록 영상\n보고 가세요!\n여러분들도 할 수 있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "다들 매운챌로 만나 습관형성하게 되기를 빌며!\n저는 오늘의 푸쉬업을 하러 갈게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "리추얼 '매일운동챌린지' 모집중 _by링키징키\n달리운동장 x 링키징키 콜라보\n매일운동챌린지\n\n내 몸을 잘 알고 쉽게, 즐겁게 운동하는 공간인\n합정 운동 핫플 \"달리운동장&짐\"과\n링키징키가\n매운챌(매일운동챌린지) 콜라보를 시작합니다.\n\n왜 하는 거죠?\n\n정도의 차이는 있지만,\n대상화된 여성으로서 몸을 가꿔야 한다는\n사회적 요구는 모든 여성이\n받고 있다고 생각합니다.\n이제는 여성들에게 다른 시각을 제안하고 싶어요.\n\n오호라?\n저 뿐만 아니라 모두들 관심을 갖고 있었어요.\n저의 운동 멘토 달리쌤에게 이 내용을\n공유하는 과정 속에 우리는 자연스레\n\n\"함께\"를 떠올리게 됐어요.\n\n그래서 기획하게 된\n달리운동장 x 링키징키\n매(일)운(동)챌린지\n얼마나 매운지 보러 갈까요?\n\n매운챌에서는 무얼 하죠?\n\n📍63일 매일 운동 및 기록 인증을 합니다.\n1️⃣ 마인드풀러닝 5분 이상\n(우천 시 실내운동으로 대체)\n2️⃣ 나만의 약점 보강 운동\n(운동 평가 및 가이드 영상 제공)\n3️⃣ 매일 식단 기록\n(식이 제한 없음 먹은 것 그대로 기록)\n4️⃣ 하루 마감 일기\n(몸의 감각, 마음의 감정)\n\n얼마나 해야 하나요?\n\n63일!\n습관을 바꾸는데 21일의 시간이\n필요하다고 합니다.\n매(일)운(동)챌린지를 함께하면서\n건강한 습관형성이 이루어지는 21일을\n3번의 라운드로 '함께' 하게 됩니다.\n✔️기간:7/15 – 9/15(총 63일)\n세포가 바뀌는 시간 21일*3라운드\n\n저도 신청할 수 있나요?\n\n✔️대상:30명 선발\nonly 달리 수강 이력이 있는 분들 대상\nbut 링키징키 추천인은 신청 가능합니다.\n✔️비용:무료\n✔️신청:7/14일 오후 3시 반까지\n댓글남겨주시면 신청링크 알려드립니다.\n자세한 가이드는 7/15일 오전에\n최종 선발 결과와 함께 전달드립니다.\n\n실시간 추가되는 챌린지 베네핏✨\n\n알찬 특강\n\n매운챌 챌린지의 취지에 공감하는\n선생님들께서 챌린지 중에 참여자분들 대상으로\n특강을 해주시기로 했어요.\n✔️여진쌤요가특강 3회\n@recoverybalance_jinny\n✔️리사쌤월경파워특강\n@holisatic_care\n\n매운챌 챌린저 분들에게는 여성의 몸과 마음에\n진심이 선생님들의 특강을 받으실 수 있습니다.\n\n완주자 선물\n\n달리x링키징키의 챌린지를 응원하며\n63일 매운챌 챌린지 여정을 함께하기 위해\n건강과 재료에 진심인 두 브랜드에서\n협찬의뢰가 들어왔어요!\n✔️고마워서그래\n@thank.you_2020\n✔️폴베리\n@polveri.by.nino\n\n완주자분들에게는 위 두 브랜드에서 준비한\n소정의 선물이 기다리고 있습니다!\n\n저희 챌린지와 뜻이 통하고 결이 비슷한\n협찬과 콜라보는 언제나 환영합니다.\n(문의 - schumpgel@naver.com )\n\n📍주의사항 :\n- 무료 프로그램이나, 진지하게 일상의 우선순위를 바꿔보고 싶은 분들의 참여를 기다립니다.\n- 챌린지 진행 내용들은 익명 하에 달리와 링키징키 SNS에 공유될 수 있으니 동의 부탁드립니다.\n- 3회 인증 누락 시 이유 불문 바로 참여 불가 되오니 참고 부탁드립니다.\n\n저의 셀프 챌린지를 기록하는 디데이 앱을\n켜봤어요. 이제는 함께하는 크루들이\n생길 거라 생각하니 무척 두근두근합니다.\n관심 있으신 분들! 링키징키 지인 찬스로\n신청할 수 있으니\n14일 목요일 3시 30분 까지\n댓글달아주세요.\n\n평생 하나의 푸쉬업도 못했던 과거\n저의 1일 차부터 50여일 차\n푸쉬업(팔굽혀펴기) 챌린지 기록 영상\n보고 가세요!\n여러분들도 할 수 있습니다.\n\n다들 매운챌로 만나 습관형성하게 되기를 빌며!\n저는 오늘의 푸쉬업을 하러 갈게요.",
+  "char_count": 1733
+}

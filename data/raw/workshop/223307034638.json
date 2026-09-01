@@ -1,0 +1,787 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223307034638",
+  "url": "https://m.blog.naver.com/schumpgel/223307034638",
+  "title": "홍대헬스장 합정PT, SNPE '달리운동장' 4년차 회원 찐후기",
+  "published": "2023. 12. 29. 23:27",
+  "category": "움직임 워크샵 후기",
+  "category_no": "",
+  "tags": [
+    "달리운동장",
+    "달리짐",
+    "달리운동장_자랑대회",
+    "오늘도성장한나",
+    "일상이된운동",
+    "일상이된루틴",
+    "합정pt",
+    "dalliplayground"
+  ],
+  "component_count": 71,
+  "type_counts": {
+    "text": 30,
+    "image": 16,
+    "quotation": 9,
+    "oglink": 6,
+    "sectionTitle": 2,
+    "horizontalLine": 2,
+    "sticker": 2,
+    "imageStrip": 2,
+    "video": 1,
+    "map": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "달리운동장 만3년 5개월 다닌 사람 바로 나 _by링키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "목어깨 통증으로 시작한",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "나의 달리운동장",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "12월 말은 회고하기 딱 좋은 달이죠!\n제가 종종 운동 사진이나 영상을 올리곤 하는데\n다들 제가 원래 운동하는 사람인 줄 아시더라고요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그래서 오늘은 제 운동센터인\n'달리운동장'을\n소개하며 운동썰 좀 풀어보려고 합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "철저한 내돈내산리뷰",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "21년 8월부터 23년 12월까지 끊임없이\n수강권 구매해서 다녔고, 다닌 지 일 년 차부터\n지금까지 대여섯 명은 소개한 것 같아요 ^^\n그 친구들 또한 이탈 없이 계속 다니고 있고\n각자 자기 지인들 소개해서\n끝없는 굴레의 그 곳ㅋㅋ",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "달리운동장 선택 이유",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "21년 8월, 목어깨 통증으로 주말마다\n마사지샵, 정형외과 한의원을 전전하다가\n가계부 월말 정산을 하는데 몇 달간 치료비를\n비교하면서 이건 진짜 아니지 않나 싶어서\n일 년 동안 인스타로 봐오던 달리운동장에\n방문했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "원장선생님인 달리선생님께서 상담해주셨는데,\n펫 셰이밍 안 하는 분위기,\n여성 대표 + 여성코치진이 다수라는 라는 점,\nsnpe와 웨이트, 요가등등 가능한 점이 이 저에게 많은 어필이 되었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "달리운동장 다니기 전/후 컨디션",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "Before",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저는 목 어깨가 많이 아프고 시도 때도 없이\n담에 들어서 나중엔 담앤싹이라는 근육이완제를\n달고 살아야 할 정도였어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이전에도 운동을 안 했던 것은 아니지만\n제 신체구조를 고려하지 않은 무리한 운동으로\n1:1 PT 4년 차동안 다양한 관절들 다친 경험이\n있고, 다시 운동하면 자꾸 통증이 올라와서\n웨이트를 다시 시작하는 것은 꿈도 못 꾸는\n상황이었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "After",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "초반에 10개월은 snpe로 몸을 이완하고\n안전하게코어를 강화하며 뭉친 부위를 풀고,\n신체 다루는 법을 배우며 마사지, 정형외과,\n목어깨 침치료를 모두 받지 않게 되었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그 이후부터는 달리짐(gym)에서 웨이트를\n병행하며다치지 않게 몸쓰는 법을 배웠어요.\n어디서 웨이트를 하든지 1-2회 만에 재부상이\n있었는데, 여기에선 부상을 컨트롤하면서도\n좀 더 능동적으로 근력을 키우며 신체능력을\n확장해 가는 경험을 했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "선생님들이 공부를 굉장히 많이 하시는 게\n정말 느껴졌어요. 회원의 체형마다 부상마다\n다르게 운동에 접근할 수 있게 도와주셨거든요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "추천 클래스",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사실 거의 모든 수업을 좋아합니다 ㅎㅎ\n오죽하면 3년 반에 가까운 시간 동안 다녔겠어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "특히 인상 깊었던 수업은'런&요가'\n달리선생님과 30분 러닝하고 여진선생님과\n요가로 깊은 이완하는 시간을 참 사랑했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그리고 제 안의 불꽃과 다름없는 수업은\n'스트롱우먼'반 입니다.\n여성은 웨이트를 해도 바디쉐잎에 집중하기\n마련이며 고중량이나 3대 운동 측정에 집중\n되지 않는 경향이 많은데, 강한 여성이 될 수\n있도록 최고의 코치진이 매진하는 그룹PT입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "부담없는 가격에 높은 수준의 합정그룹PT를\n경험할 수 있는 최고의 클래스라 생각합니다.\n(제가 친구들 진짜 많이 불러왔어요.. ㅋㅋ)\n그 외에 snpe 수업들이나 선생님들이 통증에\n관련한 세미나 열어주시는 것 정말 유익했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "추천 선생님",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "Suji Lee(@dalli_abighello) • Instagram 사진 및 동영상",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "달리선생님- 달리운동장 원장선생님\n모든 수업을 에너지와 열정으로 몰입시키는\n열정왕 운동왕 성장왕 킹왕짱맨\n달리선생님의 수업에 들어가면  헤어 나오지\n못하게 되실 겁니다.\n나이키 스트렝스 코치로도 활동하고 계세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "합정SNPE 합정PT 달리운동장 보통(@dalli_botong) • Instagram 사진 및 동영상",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "보통선생님- 달리쌤이 에너 발산왕이라면\n보통선생님은 수렴을 담당하시는 것 같아요.\n부드러우면서 단단하고 알찬 카리스마를\n보여주시는 보통쌤을 보기만 해도 항상\n안심되는 느낌입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "(@rebalance_jinny) • Instagram 사진 및 동영상",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "여진선생님- 요가에 대한 좋은 경험을\n하게 해주신 선생님이에요. 단단하고 따뜻한\n여진쌤의 요가수업을 듣기 위해 연차까지 내곤\n했었는데 선생님의 요가철학에 자연스레\n스며들어이젠 제가 요가인이 됐네요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "조유성(@choyousung) • Instagram 사진 및 동영상",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "유성선생님- 달리짐에서 최고의 그룹PT\n수업을 해주시고 계시는 선생님입니다.\n웨이트 선생님을 여성선생님을 선호하는\n저임에도 불구하고 굉장히 안전하다는\n느낌으로 웨이트에 접근할 수 있게 해주셔서\n참으로 감사해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "SNPE 기초케어의 정석 | 원스텝! 원스타쌤!(@snpe_onestar) • Instagram 사진 및 동영상",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "한별선생님- 똑소리하면 원스타 한별쌤이죠\n끊이지 않는 공부와 연구로 snpe의 기초를\n새롭게다지는 수업을 늘 준비해 주십니다.\n운동뿐만 아니라 운동 강사로서의 모습도\n많은 귀감이 되고 있는 멋진 분이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "일상에 변화가 있었나?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "예전엔 주 2회 운동이 목표였다면 이젠\n매일 스스로 움직이는 사람이 되었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "요가가 지도자과정을 밟게 된 것도\n달리에서의 경험이 무엇보다 크다고 생각합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "달리운동장에 한마디 한다면?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안전하게 같이 강해질 수 있는 곳이라서\n애정 합니다.\n근처로 집까지 구했으니 책임지세요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#9c9c9c;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "나에게 운동은 뭘까?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "나에게 운동은'잘 살고 있음'\n그 자체입니다.\n주어진 이 삶을 조금 더 능동적으로\n살아보고자 운동합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "몸이 쾌적하면 짜증이 나지 않아요.\n마음이 쉽게 위축되지 않아요.\n그리고 뭐든 할 수 있을 것 같은 마음이 듭니다.\n제가 저에게 줄 수 있는 가장 큰 선물이라고\n생각합니다. 그래서 잘 살기 위해서\n오늘도 움직입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "달리운동장 & 달리짐",
+      "address": "서울특별시 마포구 월드컵로3길 31-31 네오빌딩 B1,3층",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "저에게 이런 좋은 운동의 장소,\n운동커뮤니티를 만들어준\n달리운동장의 모든 관계자분들에게\n다시 한번 이 자리를 빌려 감사의 말씀을\n전해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "합정 달리운동장&짐(@dalliplayground) • Instagram 사진 및 동영상",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "달리운동장 만3년 5개월 다닌 사람 바로 나 _by링키\n\n목어깨 통증으로 시작한\n\n나의 달리운동장\n\n12월 말은 회고하기 딱 좋은 달이죠!\n제가 종종 운동 사진이나 영상을 올리곤 하는데\n다들 제가 원래 운동하는 사람인 줄 아시더라고요\n\n그래서 오늘은 제 운동센터인\n'달리운동장'을\n소개하며 운동썰 좀 풀어보려고 합니다.\n\n철저한 내돈내산리뷰\n\n21년 8월부터 23년 12월까지 끊임없이\n수강권 구매해서 다녔고, 다닌 지 일 년 차부터\n지금까지 대여섯 명은 소개한 것 같아요 ^^\n그 친구들 또한 이탈 없이 계속 다니고 있고\n각자 자기 지인들 소개해서\n끝없는 굴레의 그 곳ㅋㅋ\n\n달리운동장 선택 이유\n\n21년 8월, 목어깨 통증으로 주말마다\n마사지샵, 정형외과 한의원을 전전하다가\n가계부 월말 정산을 하는데 몇 달간 치료비를\n비교하면서 이건 진짜 아니지 않나 싶어서\n일 년 동안 인스타로 봐오던 달리운동장에\n방문했어요.\n\n원장선생님인 달리선생님께서 상담해주셨는데,\n펫 셰이밍 안 하는 분위기,\n여성 대표 + 여성코치진이 다수라는 라는 점,\nsnpe와 웨이트, 요가등등 가능한 점이 이 저에게 많은 어필이 되었습니다.\n\n달리운동장 다니기 전/후 컨디션\n\nBefore\n\n저는 목 어깨가 많이 아프고 시도 때도 없이\n담에 들어서 나중엔 담앤싹이라는 근육이완제를\n달고 살아야 할 정도였어요.\n\n이전에도 운동을 안 했던 것은 아니지만\n제 신체구조를 고려하지 않은 무리한 운동으로\n1:1 PT 4년 차동안 다양한 관절들 다친 경험이\n있고, 다시 운동하면 자꾸 통증이 올라와서\n웨이트를 다시 시작하는 것은 꿈도 못 꾸는\n상황이었습니다.\n\nAfter\n\n초반에 10개월은 snpe로 몸을 이완하고\n안전하게코어를 강화하며 뭉친 부위를 풀고,\n신체 다루는 법을 배우며 마사지, 정형외과,\n목어깨 침치료를 모두 받지 않게 되었습니다.\n\n그 이후부터는 달리짐(gym)에서 웨이트를\n병행하며다치지 않게 몸쓰는 법을 배웠어요.\n어디서 웨이트를 하든지 1-2회 만에 재부상이\n있었는데, 여기에선 부상을 컨트롤하면서도\n좀 더 능동적으로 근력을 키우며 신체능력을\n확장해 가는 경험을 했습니다.\n\n선생님들이 공부를 굉장히 많이 하시는 게\n정말 느껴졌어요. 회원의 체형마다 부상마다\n다르게 운동에 접근할 수 있게 도와주셨거든요.\n\n추천 클래스\n\n사실 거의 모든 수업을 좋아합니다 ㅎㅎ\n오죽하면 3년 반에 가까운 시간 동안 다녔겠어요.\n\n특히 인상 깊었던 수업은'런&요가'\n달리선생님과 30분 러닝하고 여진선생님과\n요가로 깊은 이완하는 시간을 참 사랑했습니다.\n\n그리고 제 안의 불꽃과 다름없는 수업은\n'스트롱우먼'반 입니다.\n여성은 웨이트를 해도 바디쉐잎에 집중하기\n마련이며 고중량이나 3대 운동 측정에 집중\n되지 않는 경향이 많은데, 강한 여성이 될 수\n있도록 최고의 코치진이 매진하는 그룹PT입니다.\n\n부담없는 가격에 높은 수준의 합정그룹PT를\n경험할 수 있는 최고의 클래스라 생각합니다.\n(제가 친구들 진짜 많이 불러왔어요.. ㅋㅋ)\n그 외에 snpe 수업들이나 선생님들이 통증에\n관련한 세미나 열어주시는 것 정말 유익했어요.\n\n추천 선생님\n\n달리선생님- 달리운동장 원장선생님\n모든 수업을 에너지와 열정으로 몰입시키는\n열정왕 운동왕 성장왕 킹왕짱맨\n달리선생님의 수업에 들어가면  헤어 나오지\n못하게 되실 겁니다.\n나이키 스트렝스 코치로도 활동하고 계세요!\n\n보통선생님- 달리쌤이 에너 발산왕이라면\n보통선생님은 수렴을 담당하시는 것 같아요.\n부드러우면서 단단하고 알찬 카리스마를\n보여주시는 보통쌤을 보기만 해도 항상\n안심되는 느낌입니다.\n\n여진선생님- 요가에 대한 좋은 경험을\n하게 해주신 선생님이에요. 단단하고 따뜻한\n여진쌤의 요가수업을 듣기 위해 연차까지 내곤\n했었는데 선생님의 요가철학에 자연스레\n스며들어이젠 제가 요가인이 됐네요.\n\n유성선생님- 달리짐에서 최고의 그룹PT\n수업을 해주시고 계시는 선생님입니다.\n웨이트 선생님을 여성선생님을 선호하는\n저임에도 불구하고 굉장히 안전하다는\n느낌으로 웨이트에 접근할 수 있게 해주셔서\n참으로 감사해요.\n\n한별선생님- 똑소리하면 원스타 한별쌤이죠\n끊이지 않는 공부와 연구로 snpe의 기초를\n새롭게다지는 수업을 늘 준비해 주십니다.\n운동뿐만 아니라 운동 강사로서의 모습도\n많은 귀감이 되고 있는 멋진 분이에요.\n\n일상에 변화가 있었나?\n\n예전엔 주 2회 운동이 목표였다면 이젠\n매일 스스로 움직이는 사람이 되었습니다.\n\n요가가 지도자과정을 밟게 된 것도\n달리에서의 경험이 무엇보다 크다고 생각합니다.\n\n달리운동장에 한마디 한다면?\n\n안전하게 같이 강해질 수 있는 곳이라서\n애정 합니다.\n근처로 집까지 구했으니 책임지세요\n\n나에게 운동은 뭘까?\n\n나에게 운동은'잘 살고 있음'\n그 자체입니다.\n주어진 이 삶을 조금 더 능동적으로\n살아보고자 운동합니다.\n\n몸이 쾌적하면 짜증이 나지 않아요.\n마음이 쉽게 위축되지 않아요.\n그리고 뭐든 할 수 있을 것 같은 마음이 듭니다.\n제가 저에게 줄 수 있는 가장 큰 선물이라고\n생각합니다. 그래서 잘 살기 위해서\n오늘도 움직입니다.\n\n저에게 이런 좋은 운동의 장소,\n운동커뮤니티를 만들어준\n달리운동장의 모든 관계자분들에게\n다시 한번 이 자리를 빌려 감사의 말씀을\n전해요.",
+  "char_count": 2530
+}

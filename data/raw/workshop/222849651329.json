@@ -1,0 +1,316 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "222849651329",
+  "url": "https://m.blog.naver.com/schumpgel/222849651329",
+  "title": "여자축구후기 평일풋살 / 상암 여자풋살팀 상암정의걸즈FC",
+  "published": "2022. 8. 16. 12:30",
+  "category": "움직임 워크샵 후기",
+  "category_no": "",
+  "tags": [
+    "여자축구",
+    "여자풋살",
+    "평일풋살",
+    "주말풋살",
+    "여자풋살팀",
+    "상암풋살",
+    "상암축구",
+    "운동하는여자",
+    "여자축구후기",
+    "운동좋다"
+  ],
+  "component_count": 26,
+  "type_counts": {
+    "text": 13,
+    "image": 5,
+    "sticker": 3,
+    "imageStrip": 2,
+    "sectionTitle": 1,
+    "horizontalLine": 1,
+    "quotation": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "요즘 풋살하는 이야기 _by징키",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "망설인 평일 풋살,",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "결과는 개운한 몸과 맘",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "징키가 드.디.어.\n평일 목요 풋살을 다녀왔습니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "상암정의걸즈FC의 많은 분들이 열정 있는 노력파 시지만\n징키는 일요일에 하는 정기 풋살이면 만족하는 스타일.\n그것도 보통 4시간 하는데,\n오전 대관 1타임 놓치면 2시간만 하게 되는데\n음.. 나름 깔끔하게 운동한 맛이 난다고 할까요.\n그런 징키가 정퇴를 하고 평일 풋살을 갔단 말이죠.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "대체 어떤 심경의 변화가 있었냐!!\n까지는 아니고,\n실력을 좀 향상시키고 싶은데 방법은 뭐다?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "만고의 진리, 시간 투자",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그래서 몇 주를 망설이다 발을 내딛게 되었습니다.\n링키랑 저녁시간 보내지 못한 아쉬움\n100만 톤을 뒤로한 채 파이팅 외치고 나섰습니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "민 코치님의 맞춤식, 열정식 코칭이 메인이 되는\n평일 목요풋살",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "코칭이 없는 사람은 일요 정기풋살에서 배운 내용들을\n복습해 봅니다.\n그러다 모르면 민 코치님께 노하우 전수받아\n조금씩 몸에 익히는 연습을 했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "볕이 쨍쨍할 때 진행하는 일요 정기풋살을 하다가\n달빛이 쨍쨍한 목요 평일풋살을 하니,\n뭔가 특훈 하는 느낌입니다.\n위치가 다리 밑이라 그런가 싶기도.. 하네요",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "한 시간 조금 넘게 개인 연습을 한 뒤,\n게임을 진행했어요.\n10분씩 3회\n10 분한 거 맞아? 숨이 터질 거 같아\n덥고습해서 그..럴거야",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#b7b7b7;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이런 육체적 한계를 예상하시고\n얼마 전 베트남 여행 다녀온 회원님께서\n당 충전 과자를 항~금(=많이) 가져오셨어요.\n선견~하신 경O님 최고 👍\n훈훈한 상암정의걸즈FC의 목요일 밤입니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#b7b7b7;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "당 충전했으니, 또 열심히 뛰어봅니다.\n그리고 헥헥, 벤치에 벌러덩~ 했는데\n대왕 나방과 모기 때문에 벌떡 일어났습니다.\n달 빛 아래서 땀으로 샤워 촥~하고 나니\n갈까 말까 망설인 시간도 모두 씻긴 기분입니다.\n이상,\n오붓한 상암정의걸즈FC의 평일 목요풋살였습니다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#b7b7b7;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "요즘 풋살하는 이야기 _by징키\n\n망설인 평일 풋살,\n\n결과는 개운한 몸과 맘\n\n징키가 드.디.어.\n평일 목요 풋살을 다녀왔습니다.\n\n상암정의걸즈FC의 많은 분들이 열정 있는 노력파 시지만\n징키는 일요일에 하는 정기 풋살이면 만족하는 스타일.\n그것도 보통 4시간 하는데,\n오전 대관 1타임 놓치면 2시간만 하게 되는데\n음.. 나름 깔끔하게 운동한 맛이 난다고 할까요.\n그런 징키가 정퇴를 하고 평일 풋살을 갔단 말이죠.\n\n대체 어떤 심경의 변화가 있었냐!!\n까지는 아니고,\n실력을 좀 향상시키고 싶은데 방법은 뭐다?\n\n만고의 진리, 시간 투자\n\n그래서 몇 주를 망설이다 발을 내딛게 되었습니다.\n링키랑 저녁시간 보내지 못한 아쉬움\n100만 톤을 뒤로한 채 파이팅 외치고 나섰습니다.\n\n민 코치님의 맞춤식, 열정식 코칭이 메인이 되는\n평일 목요풋살\n\n코칭이 없는 사람은 일요 정기풋살에서 배운 내용들을\n복습해 봅니다.\n그러다 모르면 민 코치님께 노하우 전수받아\n조금씩 몸에 익히는 연습을 했습니다.\n\n볕이 쨍쨍할 때 진행하는 일요 정기풋살을 하다가\n달빛이 쨍쨍한 목요 평일풋살을 하니,\n뭔가 특훈 하는 느낌입니다.\n위치가 다리 밑이라 그런가 싶기도.. 하네요\n\n한 시간 조금 넘게 개인 연습을 한 뒤,\n게임을 진행했어요.\n10분씩 3회\n10 분한 거 맞아? 숨이 터질 거 같아\n덥고습해서 그..럴거야\n\n이런 육체적 한계를 예상하시고\n얼마 전 베트남 여행 다녀온 회원님께서\n당 충전 과자를 항~금(=많이) 가져오셨어요.\n선견~하신 경O님 최고 👍\n훈훈한 상암정의걸즈FC의 목요일 밤입니다.\n\n당 충전했으니, 또 열심히 뛰어봅니다.\n그리고 헥헥, 벤치에 벌러덩~ 했는데\n대왕 나방과 모기 때문에 벌떡 일어났습니다.\n달 빛 아래서 땀으로 샤워 촥~하고 나니\n갈까 말까 망설인 시간도 모두 씻긴 기분입니다.\n이상,\n오붓한 상암정의걸즈FC의 평일 목요풋살였습니다.",
+  "char_count": 925
+}
