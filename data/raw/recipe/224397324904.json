@@ -1,0 +1,732 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224397324904",
+  "url": "https://m.blog.naver.com/schumpgel/224397324904",
+  "title": "오크라 데치는법, 커피포트 물로 2분이면 안 물러져요!",
+  "published": "1분 전",
+  "category": "집밥 레시피",
+  "category_no": "",
+  "tags": [
+    "오크라",
+    "오크라데치는법",
+    "오크라데치기시간",
+    "오크라손질하는법",
+    "오크라먹는법",
+    "오크라요리법",
+    "오크라효능",
+    "오크라무침",
+    "레드오크라",
+    "가쓰오부시",
+    "여름반찬",
+    "집밥반찬"
+  ],
+  "component_count": 60,
+  "type_counts": {
+    "text": 25,
+    "image": 16,
+    "horizontalLine": 11,
+    "quotation": 7,
+    "imageGroup": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "안 물러지게 데치는 오크라무침_by징키\n데치기 2분이면 되는\n오크라무침 레시피",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오크라 한 봉지 사놓고\n어떻게 먹어야 할지 몰라\n시들린 적 있으신가요.\n커피포트에 끓인 물로 2분 데쳐서\n무치면 되는 15분 반찬이에요.\n어려운 건 물러지지 않게\n데치는 것 하나뿐이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "재료준비\n[오크라무침 레시피]\n오크라 10개 (그린, 레드 섞어서)\n양파 1/4개 (주먹만한 것)\n가쓰오부시 한 줌\n삶을때\n커피포트에 끓인 물 넉넉히\n굵은소금 1T\n양념장\n된장 1T\n쌈장 1T\n참기름 1T\n※ 된장, 쌈장은 1T씩 넣고\n간을 본 뒤 더해 주세요\n※ T = 밥숟가락 계량",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-quotation_postit"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff5f45;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n오크라는 흐르는 물에\n깨끗이 씻어 주세요.\n꼭지는 아직 자르지 마세요.\n그대로 두셔야 해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "오크라 데치기 시간,\n몇 분이 맞을까요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "1분 30초~2분입니다.\n단, 불 위에 올리지 마시고\n커피포트에 끓인 물을 부어\n2분 두는 방식이에요.\n건졌는데 딱딱하다 싶으면\n조금 더 두시면 돼요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n커피포트에 물을 끓여 주세요.\n냄비의 끓는 물에 넣고 데치면\n2분을 못 버티고 물러져요.\n오크라를 담은 볼에\n굵은소금 1T를 넣고\n끓인 물을 부어주세요.\n소금을 넣으면 색감이 살아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "초록 오크라는 익었는지\n눈으로 어떻게 아나요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "붉은 오크라를 하나 섞어두세요.\n생것일 때 자주색에 가깝던 껍질이\n데치면 색이 연해져요.\n그게 다 데쳐졌다는 신호예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "초록 오크라만 넣으면\n색 변화가 거의 없어서\n건질 때를 잡기가 어렵거든요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "'오크라 꼭지'는 언제 자르나요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "데친 뒤에 자르세요.\n데치기 전에 잘라내면\n그 단면으로 영양분이\n빠져나가요.\n씻을 때도 꼭지는\n그대로 두시면 돼요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n데친 오크라는 찬물에 헹궈\n열기를 빼 주세요.\n그다음 꼭지 바로 아래를\n가로로 잘라내 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4.\n주먹만한 크기의\n양파 1/4개를 잘게 다져주세요.\n익히지 않고 생으로 넣어야\n아삭한 맛과 매운향이 살아서\n오크라와 잘 어울려요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5.\n오크라는 잘게 썰어 주세요.\n씨는 빼지 않고 그대로 두세요.\n굵은 오크라는\n세로로 반 가른 다음\n썰어주시면 식감이 좋아요.\n다진 양파와 함께\n볼에 담아 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "imageGroup",
+      "count": 2,
+      "style": {
+        "classes": [
+          "se-l-collage"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "6.\n된장 1T, 쌈장 1T를 넣고\n조물조물 무쳐 주세요.\n그다음 간을 보세요.\n싱거우면 조금씩 더해 주세요.\n장은 제품마다 짠맛이 달라서\n한 번에 많이 넣으면\n되돌릴 수가 없어요.\n간이 맞으면참기름 1T를\n둘러 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "7.\n마지막에가쓰오부시를\n한 줌 올려 주세요.\n숨이 죽으면서 감칠맛이\n전체에 퍼져요.\n가볍게 한 번 더 섞어 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완성\n오크라무침이 완성되었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "오크라무침 레시피 후기 & 팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 데칠 물은 커피포트로\n불 위에서 계속 끓으면서 익히면\n2분을 못 버티고 물러져요.\n온도가 서서히 내려가는 쪽이\n훨씬 안전합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 굵은소금은 데치는 물에\n잔털 문지르는 용도가 아니라\n색을 살리는 용도예요.\n1T면 충분합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 꼭지는 데친 뒤에\n잘린 단면으로 영양분이\n빠져나가기 때문이에요.\n씻을 때도 그대로 두세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "오크라는 어떤 채소인가요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "오크라는 아욱과에 속하는\n아열대 채소예요.\n국내에서는7~9월이 제철이에요.\n자를 때 나오는 미끈한 점액은\n수용성 식이섬유예요.\n상한 게 아니니\n그대로 드셔도 돼요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "오크라, 데치면\n영양이 달라지나요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "비타민 C는 줄고,\n식이섬유는 줄지 않아요.\n농촌진흥청 국가표준식품성분표에\n오크라가 생것과 데친것으로\n따로 올라와 있어서\n같이 비교해 봤어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "[오크라 100g 기준]\n에너지\n생것 26kcal → 데친것 29kcal\n총 식이섬유\n생것 5g → 데친것 5.2g\n그중 수용성 식이섬유는\n1.4g → 1.6g\n비타민 C\n생것 11mg → 데친것 7mg\n칼륨\n생것 260mg → 데친것 280mg",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "데치면 수분이 조금 빠져요.\n같은 100g으로 놓고 보면\n열량과 식이섬유가 조금 올라가요.\n반대로비타민 C는 물에 녹아나가서\n줄어들어요.\n그래서데치는 시간을 짧게잡는 게\n맛으로도, 영양으로도 좋아요.\n오크라의 그 미끈한 점액,\n수용성 식이섬유는\n데쳐도 줄지 않았어요.\n※ 출처\n농촌진흥청 국가표준식품성분표\n국가표준식품성분 DB 10.4 (2026년)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#777777;",
+          "color:#ff9300;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오크라는 데치는 법만 알면\n영양가 많은 채소예요.\n여름 반찬 필요하실 때\n가볍게 만들어 보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "안 물러지게 데치는 오크라무침_by징키\n데치기 2분이면 되는\n오크라무침 레시피\n\n오크라 한 봉지 사놓고\n어떻게 먹어야 할지 몰라\n시들린 적 있으신가요.\n커피포트에 끓인 물로 2분 데쳐서\n무치면 되는 15분 반찬이에요.\n어려운 건 물러지지 않게\n데치는 것 하나뿐이에요.\n\n재료준비\n[오크라무침 레시피]\n오크라 10개 (그린, 레드 섞어서)\n양파 1/4개 (주먹만한 것)\n가쓰오부시 한 줌\n삶을때\n커피포트에 끓인 물 넉넉히\n굵은소금 1T\n양념장\n된장 1T\n쌈장 1T\n참기름 1T\n※ 된장, 쌈장은 1T씩 넣고\n간을 본 뒤 더해 주세요\n※ T = 밥숟가락 계량\n\n1.\n오크라는 흐르는 물에\n깨끗이 씻어 주세요.\n꼭지는 아직 자르지 마세요.\n그대로 두셔야 해요.\n\n오크라 데치기 시간,\n몇 분이 맞을까요?\n\n1분 30초~2분입니다.\n단, 불 위에 올리지 마시고\n커피포트에 끓인 물을 부어\n2분 두는 방식이에요.\n건졌는데 딱딱하다 싶으면\n조금 더 두시면 돼요.\n\n2.\n커피포트에 물을 끓여 주세요.\n냄비의 끓는 물에 넣고 데치면\n2분을 못 버티고 물러져요.\n오크라를 담은 볼에\n굵은소금 1T를 넣고\n끓인 물을 부어주세요.\n소금을 넣으면 색감이 살아요.\n\n초록 오크라는 익었는지\n눈으로 어떻게 아나요?\n\n붉은 오크라를 하나 섞어두세요.\n생것일 때 자주색에 가깝던 껍질이\n데치면 색이 연해져요.\n그게 다 데쳐졌다는 신호예요.\n\n초록 오크라만 넣으면\n색 변화가 거의 없어서\n건질 때를 잡기가 어렵거든요.\n\n'오크라 꼭지'는 언제 자르나요?\n\n데친 뒤에 자르세요.\n데치기 전에 잘라내면\n그 단면으로 영양분이\n빠져나가요.\n씻을 때도 꼭지는\n그대로 두시면 돼요.\n\n3.\n데친 오크라는 찬물에 헹궈\n열기를 빼 주세요.\n그다음 꼭지 바로 아래를\n가로로 잘라내 주세요.\n\n4.\n주먹만한 크기의\n양파 1/4개를 잘게 다져주세요.\n익히지 않고 생으로 넣어야\n아삭한 맛과 매운향이 살아서\n오크라와 잘 어울려요.\n\n5.\n오크라는 잘게 썰어 주세요.\n씨는 빼지 않고 그대로 두세요.\n굵은 오크라는\n세로로 반 가른 다음\n썰어주시면 식감이 좋아요.\n다진 양파와 함께\n볼에 담아 주세요.\n\n6.\n된장 1T, 쌈장 1T를 넣고\n조물조물 무쳐 주세요.\n그다음 간을 보세요.\n싱거우면 조금씩 더해 주세요.\n장은 제품마다 짠맛이 달라서\n한 번에 많이 넣으면\n되돌릴 수가 없어요.\n간이 맞으면참기름 1T를\n둘러 주세요.\n\n7.\n마지막에가쓰오부시를\n한 줌 올려 주세요.\n숨이 죽으면서 감칠맛이\n전체에 퍼져요.\n가볍게 한 번 더 섞어 주세요.\n\n완성\n오크라무침이 완성되었습니다.\n\n오크라무침 레시피 후기 & 팁\n\n1. 데칠 물은 커피포트로\n불 위에서 계속 끓으면서 익히면\n2분을 못 버티고 물러져요.\n온도가 서서히 내려가는 쪽이\n훨씬 안전합니다.\n\n2. 굵은소금은 데치는 물에\n잔털 문지르는 용도가 아니라\n색을 살리는 용도예요.\n1T면 충분합니다.\n\n3. 꼭지는 데친 뒤에\n잘린 단면으로 영양분이\n빠져나가기 때문이에요.\n씻을 때도 그대로 두세요.\n\n오크라는 어떤 채소인가요?\n\n오크라는 아욱과에 속하는\n아열대 채소예요.\n국내에서는7~9월이 제철이에요.\n자를 때 나오는 미끈한 점액은\n수용성 식이섬유예요.\n상한 게 아니니\n그대로 드셔도 돼요.\n\n오크라, 데치면\n영양이 달라지나요?\n\n비타민 C는 줄고,\n식이섬유는 줄지 않아요.\n농촌진흥청 국가표준식품성분표에\n오크라가 생것과 데친것으로\n따로 올라와 있어서\n같이 비교해 봤어요.\n\n[오크라 100g 기준]\n에너지\n생것 26kcal → 데친것 29kcal\n총 식이섬유\n생것 5g → 데친것 5.2g\n그중 수용성 식이섬유는\n1.4g → 1.6g\n비타민 C\n생것 11mg → 데친것 7mg\n칼륨\n생것 260mg → 데친것 280mg\n\n데치면 수분이 조금 빠져요.\n같은 100g으로 놓고 보면\n열량과 식이섬유가 조금 올라가요.\n반대로비타민 C는 물에 녹아나가서\n줄어들어요.\n그래서데치는 시간을 짧게잡는 게\n맛으로도, 영양으로도 좋아요.\n오크라의 그 미끈한 점액,\n수용성 식이섬유는\n데쳐도 줄지 않았어요.\n※ 출처\n농촌진흥청 국가표준식품성분표\n국가표준식품성분 DB 10.4 (2026년)\n\n오크라는 데치는 법만 알면\n영양가 많은 채소예요.\n여름 반찬 필요하실 때\n가볍게 만들어 보세요.",
+  "char_count": 2054
+}
