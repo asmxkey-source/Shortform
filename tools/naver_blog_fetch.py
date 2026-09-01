@@ -57,6 +57,12 @@ def script_var(html: str, name: str) -> str:
     return raw.replace('\\"', '"').replace("\\\\", "\\")
 
 
+def _num_var(html: str, name: str) -> str:
+    """`var gsCategoryNo = 29;` 처럼 따옴표 없는 값."""
+    m = re.search(rf"var\s+{name}\s*=\s*'?\"?(\d+)", html)
+    return m.group(1) if m else ""
+
+
 def text_of(node) -> str:
     """SE 텍스트 컴포넌트를 줄 단위로. 빈 줄은 유지하지 않는다."""
     lines = []
@@ -167,12 +173,17 @@ def parse(html: str, blog_id: str, log_no: str) -> dict:
         c["text"] for c in components if c.get("text")
     )
 
+    date_el = soup.select_one(".se_publishDate, .blog_date, .date")
+    published = date_el.get_text(strip=True) if date_el else ""
+
     return {
         "blog_id": blog_id,
         "log_no": log_no,
         "url": f"https://m.blog.naver.com/{blog_id}/{log_no}",
         "title": title,
+        "published": published,
         "category": script_var(html, "gsCategoryName"),
+        "category_no": script_var(html, "gsCategoryNo") or _num_var(html, "gsCategoryNo"),
         "tags": tags,
         "component_count": len(components),
         "type_counts": _counts(components),
