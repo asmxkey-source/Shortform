@@ -26,6 +26,10 @@ UA = (
 
 
 def parse_url(url: str) -> tuple[str, str]:
+    """blog.naver.com/{id}/{logNo} 와 PostView.naver?blogId=&logNo= 둘 다 받는다."""
+    m = re.search(r"[?&]blogId=([^&]+).*?[?&]logNo=(\d+)", url)
+    if m:
+        return m.group(1), m.group(2)
     m = re.search(r"blog\.naver\.com/([^/?]+)/(\d+)", url)
     if not m:
         raise ValueError(f"blogId/logNo를 찾을 수 없는 URL: {url}")

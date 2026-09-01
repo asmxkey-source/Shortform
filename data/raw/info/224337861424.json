@@ -1,0 +1,511 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224337861424",
+  "url": "https://m.blog.naver.com/schumpgel/224337861424",
+  "title": "부추전 잘못 먹으면 영양소 제로? 5배 살리는 공식!",
+  "category": "제철 식재료",
+  "tags": [
+    "부추요리",
+    "부추효능",
+    "영양부추전",
+    "부추전",
+    "영양부추효능",
+    "부추효능간",
+    "부추효능먹는법",
+    "부추효능부작용",
+    "부추부작용",
+    "부추전레시피",
+    "부추전바삭하게",
+    "부추전만들기",
+    "해물부추전",
+    "새우부추전",
+    "오징어부추전",
+    "감자부추전",
+    "호박부추전",
+    "부추효능신장",
+    "부추효능당뇨",
+    "부추효능남자",
+    "부추효능및부작용",
+    "부추효능성질"
+  ],
+  "component_count": 41,
+  "type_counts": {
+    "text": 16,
+    "image": 10,
+    "horizontalLine": 8,
+    "quotation": 5,
+    "sectionTitle": 2
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "부추 효능과 부작용 총정리_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "나만 몰랐던",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "부추의 배신",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "기력이 떨어질 때마다\n뜨끈한 국밥에 듬뿍 넣어 먹거나\n새콤달콤하게 무쳐서 식탁에 올리는\n'천연 기력 보충제' 부추!\n하지만 아무리 몸에 좋은 부추라도\n잘못 먹으면 위장과 신장을\n망가뜨릴 수 있다는 사실,\n혹시 알고 계셨나요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "여름 부추 효능 TOP 3",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 활력 충전 & 원기 회복\n부추는성질이 따뜻해서\n혈액 순환을 원활하게 돕고\n몸속의 냉기를 몰아내는\n대표적인 '보양 채소'예요.\n부추 특유의 매운맛을 내는\n'황화아릴' 성분이\n비타민 B1과 결합하면\n체내 흡수율이 크게 높아져,\n만성 피로를 싹~ 날려주고\n하체와 관절의 기력을 꽉 채워 준답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 혈관 청소 & 혈전 예방\n피를 맑게 하고 혈관을\n깨끗하게 청소해 주는\n효능이 있어요.\n부추에 풍부한베타카로틴과\n비타민 C, E 등 강력한 항산화 성분이\n혈관 내 만성 염증을 억제하고,\n혈액순환을 개선해 줍니다.\n덕분에 고혈압이나 동맥경화 같은\n심혈관 질환 예방에\n도움을 주죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 천연 간 해독제 (활성산소 제거)\n동의보감에서 부추는\n'간의 채소'라 불릴 만큼\n간 기능을 강화하는 데 탁월해요.\n간 대사 활동을 돕고 해독 작용을 촉진해\n몸속 노폐물과 독소를 배출해 주고,\n피로 물질이 쌓이는 것을 막아\n지친 간을 편안하게 지켜 줍답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "부추 효능 200% 끌어 올리는 꿀팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 돼지고기 & 달걀과의 환상 궁합\n부추는 따뜻하다 못해\n뜨거운 성질을 가지고 있어요.\n이 맹렬한 열기를 차분하게 내려주는\n서늘한 돼지고기와 함께먹으면,\n음양의 조화가 완벽해진답니다.\n또, 맑은 달걀 단백질과 함께 먹으면\n부추가 위벽을 헐지 않게\n달걀이 부드럽게 코팅해 줘서\n위장이 약하신 분들도\n속 편안하게 영양을 흡수할 수 있답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 영양 폭발 '부추전' 황금 공식\n부추에 가득한 베타카로틴과 비타민 E는\n대표적인 지용성(기름에 녹는) 성분이라,\n기름에 부쳐 냈을 때\n체내 흡수율이 생으로 먹는 것보다\n3~5배 이상 껑충 뛰어오른답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "TIP.\n반죽은 부추가 엉겨 붙을 정도로만\n아주 얇게묻히고,\n약불이 아닌 중강불에서\n단시간에 휘리릭 부쳐내서\n열 접촉 시간을 줄여주세요.\n여기에 차가운 성질의\n해산물(오징어, 조개 등)을\n곁들이면 차가운 성질과 따뜻한 성질이\n조화를 이뤄서\n피로 해소 시너지까지 낼 수 있답니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "신선한 제철 부추 고르는 법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "잎의 색이 선명하고 진한 녹색을 띠고,\n끝이 마르거나 누렇게 변하지\n않은 것이 신선해요.\n줄기를 가볍게 만졌을 때\n너무 억세지 않고 연하고,\n뿌리 쪽 흰 부분의 길이는\n일정하고 깨끗한 것을 고르는 것이\n맛있답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "부추 신선 보관법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "부추는 수분에 닿으면 순식간에\n진물러 버리는 아주 예민한 채소예요.\n1. 물기 닿지 않게 준비\n씻지 않은 상태의 부추를 준비합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 다회용 면보, 신문으로 감싸기\n다회용 면보, 신문, 마른 천으로\n부추를 가볍게 감싸 줍니다.\n수분을 흡수해 진무르는 것을\n막아주기 위함예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 다회용 용기에 세워 냉장 보관\n감싼 부추를 다회용 밀폐 용기에 담아\n냉장고 채소칸에 뿌리가 아래로 가도록\n세워서 보관해 주세요.\n열흘 정도는 싱싱하게 드실 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "부추 부작용 주의사항!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 평소 몸에 열이 많고, 위궤양 있는 경우\n부추는 매운 성질과\n따뜻한 기운이 강한 식재료예요.\n평소 몸에 열이 유독 많아\n인삼이 잘 안 맞거나,\n위궤양을 앓고 있는 사람이\n생부추를 과다 섭취하면,\n위점막이 자극을 받아 속이 쓰리거나\n복통을 겪을 수 있으니\n익혀서 소량씩드세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 신장(콩팥) 기능이 많이 약한 경우\n칼륨 배출 주의!\n부추에는 피를 맑게 하고,\n노폐물을 배출하는'칼륨' 성분이\n풍부해요.\n건강한 사람에겐 이보다 더 좋을 수 없지만,\n신장 여과 기능이 크게 떨어져\n만성 신장 질환이 있는 사람은\n칼륨이 몸 밖으로 잘 나가지 못해\n신장에 큰 무리를 줄 수 있습니다.\n특히 기력 보충을 위해\n아침마다 부추를 생으로 갈아\n즙을 내어 드시는 것은\n신장 필터를 망가뜨릴 수 있으니\n피하셔야 해요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오늘 저녁은 최고 궁합들과 함께\n바삭하고 고소한 해물 부추전으로\n지친 기력을 채워 보시는 건 어떨까요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "부추 효능과 부작용 총정리_by징키\n\n나만 몰랐던\n\n부추의 배신\n\n기력이 떨어질 때마다\n뜨끈한 국밥에 듬뿍 넣어 먹거나\n새콤달콤하게 무쳐서 식탁에 올리는\n'천연 기력 보충제' 부추!\n하지만 아무리 몸에 좋은 부추라도\n잘못 먹으면 위장과 신장을\n망가뜨릴 수 있다는 사실,\n혹시 알고 계셨나요?\n\n여름 부추 효능 TOP 3\n\n1. 활력 충전 & 원기 회복\n부추는성질이 따뜻해서\n혈액 순환을 원활하게 돕고\n몸속의 냉기를 몰아내는\n대표적인 '보양 채소'예요.\n부추 특유의 매운맛을 내는\n'황화아릴' 성분이\n비타민 B1과 결합하면\n체내 흡수율이 크게 높아져,\n만성 피로를 싹~ 날려주고\n하체와 관절의 기력을 꽉 채워 준답니다.\n\n2. 혈관 청소 & 혈전 예방\n피를 맑게 하고 혈관을\n깨끗하게 청소해 주는\n효능이 있어요.\n부추에 풍부한베타카로틴과\n비타민 C, E 등 강력한 항산화 성분이\n혈관 내 만성 염증을 억제하고,\n혈액순환을 개선해 줍니다.\n덕분에 고혈압이나 동맥경화 같은\n심혈관 질환 예방에\n도움을 주죠.\n\n3. 천연 간 해독제 (활성산소 제거)\n동의보감에서 부추는\n'간의 채소'라 불릴 만큼\n간 기능을 강화하는 데 탁월해요.\n간 대사 활동을 돕고 해독 작용을 촉진해\n몸속 노폐물과 독소를 배출해 주고,\n피로 물질이 쌓이는 것을 막아\n지친 간을 편안하게 지켜 줍답니다.\n\n부추 효능 200% 끌어 올리는 꿀팁\n\n1. 돼지고기 & 달걀과의 환상 궁합\n부추는 따뜻하다 못해\n뜨거운 성질을 가지고 있어요.\n이 맹렬한 열기를 차분하게 내려주는\n서늘한 돼지고기와 함께먹으면,\n음양의 조화가 완벽해진답니다.\n또, 맑은 달걀 단백질과 함께 먹으면\n부추가 위벽을 헐지 않게\n달걀이 부드럽게 코팅해 줘서\n위장이 약하신 분들도\n속 편안하게 영양을 흡수할 수 있답니다.\n\n2. 영양 폭발 '부추전' 황금 공식\n부추에 가득한 베타카로틴과 비타민 E는\n대표적인 지용성(기름에 녹는) 성분이라,\n기름에 부쳐 냈을 때\n체내 흡수율이 생으로 먹는 것보다\n3~5배 이상 껑충 뛰어오른답니다.\n\nTIP.\n반죽은 부추가 엉겨 붙을 정도로만\n아주 얇게묻히고,\n약불이 아닌 중강불에서\n단시간에 휘리릭 부쳐내서\n열 접촉 시간을 줄여주세요.\n여기에 차가운 성질의\n해산물(오징어, 조개 등)을\n곁들이면 차가운 성질과 따뜻한 성질이\n조화를 이뤄서\n피로 해소 시너지까지 낼 수 있답니다!\n\n신선한 제철 부추 고르는 법?\n\n잎의 색이 선명하고 진한 녹색을 띠고,\n끝이 마르거나 누렇게 변하지\n않은 것이 신선해요.\n줄기를 가볍게 만졌을 때\n너무 억세지 않고 연하고,\n뿌리 쪽 흰 부분의 길이는\n일정하고 깨끗한 것을 고르는 것이\n맛있답니다.\n\n부추 신선 보관법?\n\n부추는 수분에 닿으면 순식간에\n진물러 버리는 아주 예민한 채소예요.\n1. 물기 닿지 않게 준비\n씻지 않은 상태의 부추를 준비합니다.\n\n2. 다회용 면보, 신문으로 감싸기\n다회용 면보, 신문, 마른 천으로\n부추를 가볍게 감싸 줍니다.\n수분을 흡수해 진무르는 것을\n막아주기 위함예요.\n\n3. 다회용 용기에 세워 냉장 보관\n감싼 부추를 다회용 밀폐 용기에 담아\n냉장고 채소칸에 뿌리가 아래로 가도록\n세워서 보관해 주세요.\n열흘 정도는 싱싱하게 드실 수 있어요.\n\n부추 부작용 주의사항!\n\n1. 평소 몸에 열이 많고, 위궤양 있는 경우\n부추는 매운 성질과\n따뜻한 기운이 강한 식재료예요.\n평소 몸에 열이 유독 많아\n인삼이 잘 안 맞거나,\n위궤양을 앓고 있는 사람이\n생부추를 과다 섭취하면,\n위점막이 자극을 받아 속이 쓰리거나\n복통을 겪을 수 있으니\n익혀서 소량씩드세요.\n\n2. 신장(콩팥) 기능이 많이 약한 경우\n칼륨 배출 주의!\n부추에는 피를 맑게 하고,\n노폐물을 배출하는'칼륨' 성분이\n풍부해요.\n건강한 사람에겐 이보다 더 좋을 수 없지만,\n신장 여과 기능이 크게 떨어져\n만성 신장 질환이 있는 사람은\n칼륨이 몸 밖으로 잘 나가지 못해\n신장에 큰 무리를 줄 수 있습니다.\n특히 기력 보충을 위해\n아침마다 부추를 생으로 갈아\n즙을 내어 드시는 것은\n신장 필터를 망가뜨릴 수 있으니\n피하셔야 해요!\n\n오늘 저녁은 최고 궁합들과 함께\n바삭하고 고소한 해물 부추전으로\n지친 기력을 채워 보시는 건 어떨까요?",
+  "char_count": 2018
+}

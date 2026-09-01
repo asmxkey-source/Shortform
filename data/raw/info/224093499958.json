@@ -1,0 +1,630 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224093499958",
+  "url": "https://m.blog.naver.com/schumpgel/224093499958",
+  "title": "GS아트센터 할인가능 역삼일식맛집 진가와 한국본점, 재방문의사 많음",
+  "category": "외식 리뷰 ",
+  "tags": [
+    "진가와",
+    "역삼일식맛집",
+    "gs아트센터"
+  ],
+  "component_count": 52,
+  "type_counts": {
+    "text": 21,
+    "image": 16,
+    "quotation": 8,
+    "imageStrip": 3,
+    "horizontalLine": 1,
+    "map": 1,
+    "sticker": 1,
+    "video": 1
+  },
+  "components": [
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "연말모임과 문화생활의 완벽한 조합_by링키\n역삼역가면 꼭 요기감\n'진가와 한국본점'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "역삼에 가면 제가 꼭 들리는 곳이 있습니다.\n이번에 겨울특선 메뉴가 나왔다고 해서\n다녀왔습니다. 몰랐던 GS아트센터 할인도\n알게되었으니 소개해볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "진가와는360년 전통을 자랑하는 일본 장인\n진가와 토시오의 면을 항공으로 직수입해\n현지 그대로의 맛을 선보이는 일본면\n요리 전문점으로 역삼점이 한국본점입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "진가와 한국본점",
+      "address": "서울특별시 강남구 논현로94길 25-3",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n· 2호선 역삼역 7번출구로부터 도보 8분",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 운영시간\n·월~금 11:30-22:00(휴게시간14:30-17:00)\n·토-일12:00-21:30 (휴게시간 15:00-17:00)\n마지막주문 평일14:00/21:00*주말14:30/20:30\n·0507-1421-8553\n● 그 외 사항\n·예약, 단체이용가능, 무선인터넷, 남녀화장실 구분, 콜키지 무료이용가능, GS아트센터 공연 10% 할인가능",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs13",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "진가와 실내",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "홀은 혼밥도 가능한 입구의 바 자리와\n테이블 좌석이 있고 룸도 마련되어있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "마침 비어있던 룸이 하나 있어서 찍어왔어요.\n완전 모임하기 좋겠죠?\n와인 콜키지 프리와 프라이빗 룸(최대 26인 수용)\n운영으로 연말 회식 장소로 손색이 없습니다.\n아늑하고 품격 있는 분위기의 독립 공간에서\n부담 없이 준비한 와인과 함께 특별한 모임을\n가질 수 있어, 상견례나 중요한 접대 자리에도\n제격입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "역삼일식맛집 진가와 메뉴",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "보통 코스메뉴를 많이 시키실 거예요.\n대표 코스메뉴 찍어왔습니다\n궁금하신 분들은 사진 속 내용확인하세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "링키징키 주문메뉴\n사시미&스시정식\n트러플 대방어 세비체\n석화\n진가와 도자기 기린 생맥주",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-quotation_postit"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저희가 주문한 메뉴는 위와 같습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "진가와 도자기 기린생맥주",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "역시 맥주부터 빠르게 나왔습니다.\n모양만 도자기 인 것 이 아니라 맥주를 끝까지\n다 마실때까지 맥주의 온도가 유지되고\n잔도 아름다워서 아주 만족스러웠어요.\n기린생맥주가 더욱 맛있게 느껴졌습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "사시미&스시정식",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "제철 차완무시, 카케우동, 미니튀김, 스시, 사시미가\n있는 사시미&스시정식입니다.\n특을 선택하시면 인절미 아이스크림도 나오고\n피스도 더 많이나오지만, 충분히 만족스러웠어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사시미, 스시 하나하나가 다 예술\n특히 어떤 스시집 보다 맛있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "우동의 면발은 정말 찰랑거리고\n식감이 좋았습니다.\n맛있는 스시를 먹는 것처럼 국수 면 줄기줄기가\n입안에서 춤을 추는 것 같았어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "석화",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "진가와에서 석화먹으면 노로바이러스\n좀 안전하지 않을까 해서 시켜봤는데\n와우 비주얼",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "비주얼 뿐만 아니라 조합이 굉장히 기가막혀서\n한 점 한 점 기분 좋았어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "트러플 대방어 셰비체",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "겨울 특선 메뉴인 트러플 대방어 세비체는\n이번 시즌 놓칠 수 없는 별미였습니다.\n트러플의 고급스러운 향과 대방어의 고소함이\n절묘하게 어우러져 입안 가득 풍미가 퍼졌습니다\n이것도 아주 기가막힘\n와... 저 대방어로 유명한 가게있는 동네 사는데\n왜 거기 줄서나 모르겠어요.\n진가와 트러플 대방어 셰비체를 드시라...\n아주 즐거운 미식경험을 할 수 있음",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이렇듯 모든 메뉴가 흡족했습니다.\n역삼에 일있지 않는 이상 정말 잘 가지 않는\n동네인데 진가와 갈 일 만들어서 가야겠어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs13",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "GS아트센터 할인 가능",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "진가와의 가장 큰 매력은 GS아트센터 당일\n티켓 지참 시 10% 할인 혜택입니다.\n뮤지컬이나 공연 전후로 식사하기에 최적의\n위치와 조건을 갖췄죠. LG아트센터, GS타워와도\n인접해 있어 문화생활과 미식을 한 번에 즐길 수 있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "문화와 미식, 그리고 편안한 모임까지 한 번에 완성하는 진가와에서 특별한 연말을 준비해보세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "연말모임과 문화생활의 완벽한 조합_by링키\n역삼역가면 꼭 요기감\n'진가와 한국본점'\n\n역삼에 가면 제가 꼭 들리는 곳이 있습니다.\n이번에 겨울특선 메뉴가 나왔다고 해서\n다녀왔습니다. 몰랐던 GS아트센터 할인도\n알게되었으니 소개해볼게요.\n\n진가와는360년 전통을 자랑하는 일본 장인\n진가와 토시오의 면을 항공으로 직수입해\n현지 그대로의 맛을 선보이는 일본면\n요리 전문점으로 역삼점이 한국본점입니다.\n\n● 위치\n· 2호선 역삼역 7번출구로부터 도보 8분\n\n● 운영시간\n·월~금 11:30-22:00(휴게시간14:30-17:00)\n·토-일12:00-21:30 (휴게시간 15:00-17:00)\n마지막주문 평일14:00/21:00*주말14:30/20:30\n·0507-1421-8553\n● 그 외 사항\n·예약, 단체이용가능, 무선인터넷, 남녀화장실 구분, 콜키지 무료이용가능, GS아트센터 공연 10% 할인가능\n\n진가와 실내\n\n홀은 혼밥도 가능한 입구의 바 자리와\n테이블 좌석이 있고 룸도 마련되어있습니다.\n\n마침 비어있던 룸이 하나 있어서 찍어왔어요.\n완전 모임하기 좋겠죠?\n와인 콜키지 프리와 프라이빗 룸(최대 26인 수용)\n운영으로 연말 회식 장소로 손색이 없습니다.\n아늑하고 품격 있는 분위기의 독립 공간에서\n부담 없이 준비한 와인과 함께 특별한 모임을\n가질 수 있어, 상견례나 중요한 접대 자리에도\n제격입니다.\n\n역삼일식맛집 진가와 메뉴\n\n보통 코스메뉴를 많이 시키실 거예요.\n대표 코스메뉴 찍어왔습니다\n궁금하신 분들은 사진 속 내용확인하세요.\n\n링키징키 주문메뉴\n사시미&스시정식\n트러플 대방어 세비체\n석화\n진가와 도자기 기린 생맥주\n\n저희가 주문한 메뉴는 위와 같습니다.\n\n진가와 도자기 기린생맥주\n\n역시 맥주부터 빠르게 나왔습니다.\n모양만 도자기 인 것 이 아니라 맥주를 끝까지\n다 마실때까지 맥주의 온도가 유지되고\n잔도 아름다워서 아주 만족스러웠어요.\n기린생맥주가 더욱 맛있게 느껴졌습니다.\n\n사시미&스시정식\n\n제철 차완무시, 카케우동, 미니튀김, 스시, 사시미가\n있는 사시미&스시정식입니다.\n특을 선택하시면 인절미 아이스크림도 나오고\n피스도 더 많이나오지만, 충분히 만족스러웠어요.\n\n사시미, 스시 하나하나가 다 예술\n특히 어떤 스시집 보다 맛있어요.\n\n우동의 면발은 정말 찰랑거리고\n식감이 좋았습니다.\n맛있는 스시를 먹는 것처럼 국수 면 줄기줄기가\n입안에서 춤을 추는 것 같았어요.\n\n석화\n\n진가와에서 석화먹으면 노로바이러스\n좀 안전하지 않을까 해서 시켜봤는데\n와우 비주얼\n\n비주얼 뿐만 아니라 조합이 굉장히 기가막혀서\n한 점 한 점 기분 좋았어요.\n\n트러플 대방어 셰비체\n\n겨울 특선 메뉴인 트러플 대방어 세비체는\n이번 시즌 놓칠 수 없는 별미였습니다.\n트러플의 고급스러운 향과 대방어의 고소함이\n절묘하게 어우러져 입안 가득 풍미가 퍼졌습니다\n이것도 아주 기가막힘\n와... 저 대방어로 유명한 가게있는 동네 사는데\n왜 거기 줄서나 모르겠어요.\n진가와 트러플 대방어 셰비체를 드시라...\n아주 즐거운 미식경험을 할 수 있음\n\n이렇듯 모든 메뉴가 흡족했습니다.\n역삼에 일있지 않는 이상 정말 잘 가지 않는\n동네인데 진가와 갈 일 만들어서 가야겠어요.\n\nGS아트센터 할인 가능\n\n진가와의 가장 큰 매력은 GS아트센터 당일\n티켓 지참 시 10% 할인 혜택입니다.\n뮤지컬이나 공연 전후로 식사하기에 최적의\n위치와 조건을 갖췄죠. LG아트센터, GS타워와도\n인접해 있어 문화생활과 미식을 한 번에 즐길 수 있습니다.\n\n문화와 미식, 그리고 편안한 모임까지 한 번에 완성하는 진가와에서 특별한 연말을 준비해보세요!",
+  "char_count": 1742
+}

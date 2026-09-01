@@ -1,0 +1,411 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224046520456",
+  "url": "https://m.blog.naver.com/schumpgel/224046520456",
+  "title": "키 크는법! 매일 쓰는 종이컵, 비닐이 성장호르몬 망친다",
+  "category": "자연식물식 하는법",
+  "tags": [
+    "환경호르몬",
+    "가짜호르몬",
+    "성장호르몬",
+    "플라스틱위험",
+    "비닐봉지",
+    "종이컵",
+    "영수증잉크",
+    "자연식물식",
+    "해독식단",
+    "호르몬균형",
+    "생활습관개선",
+    "건강정보",
+    "몸속독소",
+    "키크는법",
+    "키크는음식"
+  ],
+  "component_count": 36,
+  "type_counts": {
+    "text": 15,
+    "image": 9,
+    "quotation": 4,
+    "sectionTitle": 2,
+    "horizontalLine": 2,
+    "imageStrip": 2,
+    "sticker": 1,
+    "oglink": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "성장호르몬 망치는 습관_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "성장호르몬 주사는",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "답이 아니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매일 사용하는 종이컵, 비닐, 플라스틱 용기,\n종이 영수증 속에 ‘가짜 호르몬’이\n숨어 있다는 사실, 알고 계셨나요?\n무심코 쓰는 일상 속 물건들이\n우리 몸의 호르몬 균형을 교란시키고,\n성장과 회복까지 방해하고 있어요.\n성장호르몬!\n일상 속에서 어떻게 지킬 수 있는지\n알아볼까요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "‘가짜 호르몬’의 정체",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "비닐, 플라스틱, 영수증 속에\n‘가짜 호르몬’이 있다는 사실, 알고 있나요?\n환경호르몬(내분비계 교란물질)은\n플라스틱 용기, 비닐봉지, 종이컵,\n심지어 영수증 잉크 속에도 숨어 있답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이 물질들이 체내로 들어오면,\n우리 몸의 ‘진짜 호르몬’처럼 행동하며\n성장호르몬, 생식호르몬, 갑상선호르몬 등과\n혼선을 일으킵니다.\n특히 비스페놀A, 프탈레이트, 비스페놀S 등이\n대표적인데, 이들은호르몬 수용체에\n달라붙어 신호 체계를 교란시킵니다.\n결과적으로 성장호르몬 분비 저하,\n면역력 약화, 피로감 증가 등이\n나타날 수 밖에 없죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "쉽고 재밌게 설명한 EBS 영상",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "Instagram의 최고다! 호기심 딱지님 : \"키 성장을 방해하는 호르몬이 여기서 등장했다고?! 💡최고다 호기심 딱지 시즌5 - 80화 〈가짜 호르몬 교란 작전〉 배달 음식 속에서 튀어나온 가짜 호르몬, 진짜 호르몬을 흉내 내며 교란 작전을 펼친다! 혼란에 빠진 흉선 T세포 훈련소, 성장판 체육관, 뇌하수체 호르몬 연구실! 호빵과 호떡이는 우리 몸을 위협하는 가짜 호르몬의 교란 작전을 막을 수 있을까? 1️⃣유튜브 <EBS 키즈> 채널 방문 혹은 2️⃣유튜브 검색창에 ’호기심딱지 시즌5‘를 검색해주세요! #최고다호기심딱지 #호기심딱지 #키즈 #유아 #초등과학\"",
+      "style": {
+        "classes": [
+          "se-l-vertical_image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "키 안 클 수 밖에 없는 이유",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "한 번 쓰고 버리는 종이컵의\n방수 코팅제, 배달음식 용기, 나무젓가락의\n플라스틱 성분, 비닐봉지까지!\n이 모든 것이 뜨거운 음식, 기름, 열에 닿을 때\n미세하게 녹아 나와 음식과 함께\n몸속으로 들어옵니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "특히뜨거운 음료를 종이컵에담아\n마시는 습관은환경호르몬 노출의\n지름길이에요.\n게다가 카드영수증을 맨손으로\n자주 만지는 것만으로도\n비스페놀A 흡수가 일어납니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "환경호르몬, 피할 수 없다면?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "너무 일상이 된 일회용품들.\n피할 수 없다면 줄이는 습관부터\n가져보면 좋겠죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 플라스틱 대신유리, 스테인리스, 도자기\n재질의 용기사용하기\n2. 종이컵 대신개인 텀블러활용하기\n3. 배달 음식은\n재포장보다집 그릇에옮겨 담기\n4.뜨거운 음식은\n플라스틱 용기에 바로 담지 않기",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "귀찮을 뿐,\n절대 어려운건 없다는 사실!\n이런 작은 습관만으로도\n환경호르몬 노출량을\n눈에 띄게 줄일 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "환경호르몬 해독 방법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "환경호르몬은 체내에 쌓이면\n해독하기 어렵지만,\n자연식물식은 이 과정을 도울 수 있습니다.\n채소, 과일, 통곡물, 해조류에 풍부한\n식이섬유, 폴리페놀, 항산화 물질이\n간과 장의 해독 기능을 활성화시키고,\n체내 염증을 낮추며 호르몬 균형을\n되돌려 줍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "즉, 몸속의독성물질을 ‘빼내는 시스템’을\n자연스럽게 작동시키는 식단이\n바로자연식물식이죠.\n매일 쓰는 물건 하나하나가\n몸의 균형을 무너뜨릴 수 있어요.\n하지만 그만큼, 작은 실천 하나로\n몸을 회복시킬 수도 있죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "일상 속 키 크는법은\n성장호르몬 주사 보다\n‘덜 쓰고, 바꾸고, 자연식물식으로 회복하는’\n일상을 채우는 우리의 습관이 아닐까요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "성장호르몬 망치는 습관_by징키\n\n성장호르몬 주사는\n\n답이 아니다!\n\n매일 사용하는 종이컵, 비닐, 플라스틱 용기,\n종이 영수증 속에 ‘가짜 호르몬’이\n숨어 있다는 사실, 알고 계셨나요?\n무심코 쓰는 일상 속 물건들이\n우리 몸의 호르몬 균형을 교란시키고,\n성장과 회복까지 방해하고 있어요.\n성장호르몬!\n일상 속에서 어떻게 지킬 수 있는지\n알아볼까요?\n\n‘가짜 호르몬’의 정체\n\n비닐, 플라스틱, 영수증 속에\n‘가짜 호르몬’이 있다는 사실, 알고 있나요?\n환경호르몬(내분비계 교란물질)은\n플라스틱 용기, 비닐봉지, 종이컵,\n심지어 영수증 잉크 속에도 숨어 있답니다.\n\n이 물질들이 체내로 들어오면,\n우리 몸의 ‘진짜 호르몬’처럼 행동하며\n성장호르몬, 생식호르몬, 갑상선호르몬 등과\n혼선을 일으킵니다.\n특히 비스페놀A, 프탈레이트, 비스페놀S 등이\n대표적인데, 이들은호르몬 수용체에\n달라붙어 신호 체계를 교란시킵니다.\n결과적으로 성장호르몬 분비 저하,\n면역력 약화, 피로감 증가 등이\n나타날 수 밖에 없죠.\n\n쉽고 재밌게 설명한 EBS 영상\n\n키 안 클 수 밖에 없는 이유\n\n한 번 쓰고 버리는 종이컵의\n방수 코팅제, 배달음식 용기, 나무젓가락의\n플라스틱 성분, 비닐봉지까지!\n이 모든 것이 뜨거운 음식, 기름, 열에 닿을 때\n미세하게 녹아 나와 음식과 함께\n몸속으로 들어옵니다.\n\n특히뜨거운 음료를 종이컵에담아\n마시는 습관은환경호르몬 노출의\n지름길이에요.\n게다가 카드영수증을 맨손으로\n자주 만지는 것만으로도\n비스페놀A 흡수가 일어납니다.\n\n환경호르몬, 피할 수 없다면?\n\n너무 일상이 된 일회용품들.\n피할 수 없다면 줄이는 습관부터\n가져보면 좋겠죠?\n\n1. 플라스틱 대신유리, 스테인리스, 도자기\n재질의 용기사용하기\n2. 종이컵 대신개인 텀블러활용하기\n3. 배달 음식은\n재포장보다집 그릇에옮겨 담기\n4.뜨거운 음식은\n플라스틱 용기에 바로 담지 않기\n\n귀찮을 뿐,\n절대 어려운건 없다는 사실!\n이런 작은 습관만으로도\n환경호르몬 노출량을\n눈에 띄게 줄일 수 있어요.\n\n환경호르몬 해독 방법?\n\n환경호르몬은 체내에 쌓이면\n해독하기 어렵지만,\n자연식물식은 이 과정을 도울 수 있습니다.\n채소, 과일, 통곡물, 해조류에 풍부한\n식이섬유, 폴리페놀, 항산화 물질이\n간과 장의 해독 기능을 활성화시키고,\n체내 염증을 낮추며 호르몬 균형을\n되돌려 줍니다.\n\n즉, 몸속의독성물질을 ‘빼내는 시스템’을\n자연스럽게 작동시키는 식단이\n바로자연식물식이죠.\n매일 쓰는 물건 하나하나가\n몸의 균형을 무너뜨릴 수 있어요.\n하지만 그만큼, 작은 실천 하나로\n몸을 회복시킬 수도 있죠.\n\n일상 속 키 크는법은\n성장호르몬 주사 보다\n‘덜 쓰고, 바꾸고, 자연식물식으로 회복하는’\n일상을 채우는 우리의 습관이 아닐까요?",
+  "char_count": 1333
+}

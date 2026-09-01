@@ -1,0 +1,424 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224326252695",
+  "url": "https://m.blog.naver.com/schumpgel/224326252695",
+  "title": "완두콩 효능 200% 높이는 법, 부작용 주의사항, 꿀팁 총정리!",
+  "category": "식생활 소식",
+  "tags": [
+    "완두콩삶기",
+    "완두콩",
+    "완두콩효능",
+    "완두콩보관방법",
+    "완두콩제철",
+    "완두콩밥",
+    "완두콩요리",
+    "완두콩부작용",
+    "완두콩효능및부작용",
+    "완두콩효능부작용",
+    "완두콩효능과먹는법",
+    "완두콩효능먹는법",
+    "완두콩효능칼로리"
+  ],
+  "component_count": 34,
+  "type_counts": {
+    "text": 13,
+    "image": 9,
+    "horizontalLine": 7,
+    "quotation": 4,
+    "sectionTitle": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "완두콩 효능과 부작용 총정리_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "완두콩, 그냥 먹지 마세요!\n효능, 부작용, 꿀팁까지",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "초록빛깔 동글동글 귀여운 '완두콩'!\n딱 요맘때 잠깐 제철로 만날 수 있는\n귀한 보약이라는 사실!\n맛은 달달~하지만\n의외로 당뇨에도 참 좋고\n두뇌 활동을 번쩍 깨워주는 완두콩!\n무심코 밥에 넣어 먹었던\n완두콩 효능을\n200% 끌어올리는 조리법부터\n부작용 주의사항까지\n자세하게 알아볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "완두콩 효능 TOP 4",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 달달하지만 당뇨 예방에 최고!\n완두콩은 단맛이 강해서\n혹시 \"혈당을 올리지 않을까?\"\n걱정하시는 분들이 많아요.\n하지만 전혀 걱정하실 필요 없답니다!\n완두콩은풍부한 단백질과\n식이섬유덕분에\n포만감을 오래 유지해주고,\n혈당이 급격히 상승하는 것을\n막아 완만하게 조절해 주거든요.\n췌장을 보호하고 혈당을 낮춰주는\n당뇨 맞춤형 채소랍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 두뇌 활동 증진 & 치매 예방\n완두콩에는 두뇌에 시동을 걸어주는\n'콜린' 성분과\n비타민 B군이 풍부하게 들어있어요.\n뇌 신경전달물질 합성을 도와서\n기억력을 높여주고,\n공부하는 사람들의 집중력 향상이나\n어르신들의 치매 예방에도\n훌륭한 파트너가 되어준답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 만성 염증 억제 & 강력한 항산화\n녹색 식재료답게 완두콩에는\n'플라보노이드'와\n다양한 항산화 성분이 가득해요.\n몸속 유해한 활성산소를 제거해\n세포 노화를 막아주고,\n체내 혈관 벽에 쌓인 염증을 억제해\n혈관을 깨끗하고 건강하게 유지하는 데\n큰 도움을 줍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4. 다이어트 & 변비 예방\n식물성 단백질과 식이섬유가 풍부한\n완두콩은\n장내 유익균의 먹이가 되어\n장 환경을 튼튼하게 만들어 줘요.\n식이섬유가 풍부해\n만성 변비를 해결해주고,\n적은 양으로도 포만감이 커서\n다이어트 식단에 제격이죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "완두콩 효능\n200% 끌어 올리는 꿀팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 구매 즉시 '냉동 보관'하기!\n의사들이 마트에서\n사자마자 냉동실로 직행하는\n의외의 음식이 바로 완두콩이에요!\n완두콩은 수확하는 순간부터\n당분이 전분으로 변하면서\n맛과 영양이 급격히\n떨어지기 시작하거든요.\n이때 바로 급속 냉동을 해주면\n영양소 손실을\n거의 완벽하게 막아두고\n일 년 내내 싱싱하게 즐길 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완두콩 데치는 Tip\n생으로 바로 얼리는 것 보다\n살짝 데친 후 냉동하는 것이 정석!\n껍질 벗긴 완두콩알맹이를\n소금물에 1분~1분 30초 정도데친 후,\n찬물에빠르게 식혀\n물기 제거하고얼려주세요.\n그러면, 초록빛 색감과 달콤한 식감,\n영양소를 오랫동안 보존할 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 쌀(탄수화물)과의 찰떡 궁합\n완두콩은 쌀과 만났을 때\n영양학적으로 완벽해지는데요.\n완두콩에 부족한\n아미노산(메티오닌 등)을\n쌀이 채워주고,쌀에 부족한\n아미노산(리신)을\n완두콩이 상호 보완해 주기 때문이에요.\n쌀밥에 완두콩을 넣어 주면\n맛도 식감도 영양도\n모두 100점이 되겠죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "신선한 완두콩 고르는 법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "완두콩 껍질(꼬투리)이\n마르지 않고,\n짙은 녹색을 띠는 것을 고르세요!\n만졌을 때 알이 중간에 끊기지 않고\n끝까지 포동포동하게\n꽉 차 있는 느낌이 드는 것이\n가장 맛있는 완두콩이랍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "완두콩 부작용 주의사항!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 요산 수치와 신장에 무리?\n완두콩에는'퓨린' 성분이\n소량 함유되어 있어요.\n체내 요산 수치를 높일 수 있기 때문에,\n평소 통풍 증상이 있거나\n신장 기능이 많이 약한 경우\n하루에 너무 많은 양을\n과다 섭취하지 않도록 조심하셔야 해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 생으로 먹는 것은 절대 금물!\n생완두콩에는 소량의\n천연 독성 물질(렉틴 등)이 있어서,\n익히지 않고 날것으로 먹으면\n소화 불량이나 속 더부룩함,\n복통을 유발할 수 있어요.\n꼭 끓는 물에 삶거나\n밥에 넣어 충분히 익혀서\n안전하게 드세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "초록색 동글동글 귀여운 매력 속에\n놀라운 면역 영양분을\n품고 있는 완두콩!\n오늘은 따끈하고 포슬포슬한\n완두콩 밥 한 그릇으로\n건강한 제철 밥상을\n준비해 보는 건 어떨까요?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "완두콩 효능과 부작용 총정리_by징키\n\n완두콩, 그냥 먹지 마세요!\n효능, 부작용, 꿀팁까지\n\n초록빛깔 동글동글 귀여운 '완두콩'!\n딱 요맘때 잠깐 제철로 만날 수 있는\n귀한 보약이라는 사실!\n맛은 달달~하지만\n의외로 당뇨에도 참 좋고\n두뇌 활동을 번쩍 깨워주는 완두콩!\n무심코 밥에 넣어 먹었던\n완두콩 효능을\n200% 끌어올리는 조리법부터\n부작용 주의사항까지\n자세하게 알아볼게요.\n\n완두콩 효능 TOP 4\n\n1. 달달하지만 당뇨 예방에 최고!\n완두콩은 단맛이 강해서\n혹시 \"혈당을 올리지 않을까?\"\n걱정하시는 분들이 많아요.\n하지만 전혀 걱정하실 필요 없답니다!\n완두콩은풍부한 단백질과\n식이섬유덕분에\n포만감을 오래 유지해주고,\n혈당이 급격히 상승하는 것을\n막아 완만하게 조절해 주거든요.\n췌장을 보호하고 혈당을 낮춰주는\n당뇨 맞춤형 채소랍니다.\n\n2. 두뇌 활동 증진 & 치매 예방\n완두콩에는 두뇌에 시동을 걸어주는\n'콜린' 성분과\n비타민 B군이 풍부하게 들어있어요.\n뇌 신경전달물질 합성을 도와서\n기억력을 높여주고,\n공부하는 사람들의 집중력 향상이나\n어르신들의 치매 예방에도\n훌륭한 파트너가 되어준답니다.\n\n3. 만성 염증 억제 & 강력한 항산화\n녹색 식재료답게 완두콩에는\n'플라보노이드'와\n다양한 항산화 성분이 가득해요.\n몸속 유해한 활성산소를 제거해\n세포 노화를 막아주고,\n체내 혈관 벽에 쌓인 염증을 억제해\n혈관을 깨끗하고 건강하게 유지하는 데\n큰 도움을 줍니다.\n\n4. 다이어트 & 변비 예방\n식물성 단백질과 식이섬유가 풍부한\n완두콩은\n장내 유익균의 먹이가 되어\n장 환경을 튼튼하게 만들어 줘요.\n식이섬유가 풍부해\n만성 변비를 해결해주고,\n적은 양으로도 포만감이 커서\n다이어트 식단에 제격이죠.\n\n완두콩 효능\n200% 끌어 올리는 꿀팁\n\n1. 구매 즉시 '냉동 보관'하기!\n의사들이 마트에서\n사자마자 냉동실로 직행하는\n의외의 음식이 바로 완두콩이에요!\n완두콩은 수확하는 순간부터\n당분이 전분으로 변하면서\n맛과 영양이 급격히\n떨어지기 시작하거든요.\n이때 바로 급속 냉동을 해주면\n영양소 손실을\n거의 완벽하게 막아두고\n일 년 내내 싱싱하게 즐길 수 있어요.\n\n완두콩 데치는 Tip\n생으로 바로 얼리는 것 보다\n살짝 데친 후 냉동하는 것이 정석!\n껍질 벗긴 완두콩알맹이를\n소금물에 1분~1분 30초 정도데친 후,\n찬물에빠르게 식혀\n물기 제거하고얼려주세요.\n그러면, 초록빛 색감과 달콤한 식감,\n영양소를 오랫동안 보존할 수 있어요.\n\n2. 쌀(탄수화물)과의 찰떡 궁합\n완두콩은 쌀과 만났을 때\n영양학적으로 완벽해지는데요.\n완두콩에 부족한\n아미노산(메티오닌 등)을\n쌀이 채워주고,쌀에 부족한\n아미노산(리신)을\n완두콩이 상호 보완해 주기 때문이에요.\n쌀밥에 완두콩을 넣어 주면\n맛도 식감도 영양도\n모두 100점이 되겠죠?\n\n신선한 완두콩 고르는 법?\n\n완두콩 껍질(꼬투리)이\n마르지 않고,\n짙은 녹색을 띠는 것을 고르세요!\n만졌을 때 알이 중간에 끊기지 않고\n끝까지 포동포동하게\n꽉 차 있는 느낌이 드는 것이\n가장 맛있는 완두콩이랍니다.\n\n완두콩 부작용 주의사항!\n\n1. 요산 수치와 신장에 무리?\n완두콩에는'퓨린' 성분이\n소량 함유되어 있어요.\n체내 요산 수치를 높일 수 있기 때문에,\n평소 통풍 증상이 있거나\n신장 기능이 많이 약한 경우\n하루에 너무 많은 양을\n과다 섭취하지 않도록 조심하셔야 해요.\n\n2. 생으로 먹는 것은 절대 금물!\n생완두콩에는 소량의\n천연 독성 물질(렉틴 등)이 있어서,\n익히지 않고 날것으로 먹으면\n소화 불량이나 속 더부룩함,\n복통을 유발할 수 있어요.\n꼭 끓는 물에 삶거나\n밥에 넣어 충분히 익혀서\n안전하게 드세요!\n\n초록색 동글동글 귀여운 매력 속에\n놀라운 면역 영양분을\n품고 있는 완두콩!\n오늘은 따끈하고 포슬포슬한\n완두콩 밥 한 그릇으로\n건강한 제철 밥상을\n준비해 보는 건 어떨까요?",
+  "char_count": 1858
+}

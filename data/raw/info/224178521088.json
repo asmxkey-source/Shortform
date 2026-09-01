@@ -1,0 +1,694 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224178521088",
+  "url": "https://m.blog.naver.com/schumpgel/224178521088",
+  "title": "토스뱅크 계좌개설 확인증, 통장사본 PDF 출력, 이메일, 카톡 전송 방법까지!",
+  "category": "꿀팁, 체험기",
+  "tags": [
+    "토스뱅크",
+    "토스뱅크계좌확인방법",
+    "토스뱅크통장사본",
+    "토스뱅크통장사본모바일",
+    "토스뱅크통장사본출력",
+    "토스뱅크통장사본제출용",
+    "토스뱅크통장사본보는법",
+    "토스뱅크통장사본만들기",
+    "토스뱅크통장사본출력방법",
+    "토스뱅크통장사본PDF저장방법",
+    "토스뱅크통장사본카톡",
+    "토스뱅크통장사본카톡전달방법"
+  ],
+  "component_count": 56,
+  "type_counts": {
+    "text": 25,
+    "image": 15,
+    "imageGroup": 6,
+    "quotation": 5,
+    "sectionTitle": 2,
+    "horizontalLine": 2,
+    "sticker": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "토스뱅크 통장사본 발급하기_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "토스뱅크 통장사본",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "PDF로 출력하기!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "회사나 기관에서\n통장사본을 제출해 달라는\n요청을 받고",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "나는\n토스뱅크 이용하는데...",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "통장사본을 PDF로 어떻게 발급하는지\n고민되셨나요?\n오늘은 토스뱅크\n계좌개설 확인증(통장사본)을\n앱에서 PDF로 출력하는 법,\n메일로 전송하는 방법까지\n쉽게 정리해 볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "토스뱅크 통장사본이란?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "토스뱅크 통장사본의\n공식 명칭은 '계좌개설 확인증'예요.\n본인 명의 계좌가 정상적으로\n개설되었음을 증명하는 서류로,\n회사 제출이나 기관 서류,\n각종 행정 업무에서\n통장사본 용도로 사용되죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "토스뱅크 통장사본 PDF 출력법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n토스 앱 실행 후, 로그인 해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "imageGroup",
+      "count": 2,
+      "style": {
+        "classes": [
+          "se-l-collage"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n오른쪽 하단의'전체'클릭\n→ 다음 화면에서 오른쪽 상단의\n'돋보기'클릭",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "imageGroup",
+      "count": 2,
+      "style": {
+        "classes": [
+          "se-l-collage"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n오른쪽 상의 '키워드 입력' 란에\n'통장사본'을 입력하면,\n→ 입력창 하단에 리스트가 보이고\n'통장사본(계좌개설 확인증)'이\n보여요. 이걸 선택!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "imageGroup",
+      "count": 2,
+      "style": {
+        "classes": [
+          "se-l-collage"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4.\n토스 통장사본(계좌개설확인증) 발급\n안내 창이 나오는데,\n하단의'다음'선택\n→'원하는 발급 방법'을 선택\n이번엔'PDF로 저장하기'선택해 볼게요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "imageGroup",
+      "count": 2,
+      "style": {
+        "classes": [
+          "se-l-collage"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5.\n발급받을 토스 통장사본계좌를 선택하고\n하단의'다음'선택\n→ 다음 페이지에서'발급하기'선택",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "6.\n토스 통장사본 PDF 발급 끝!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "토스통장사본 카톡으로 보내는 법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "토스 통장사본을 모바일 발급 후,\n프린트로 출력해야 하거나\n카톡으로 전달하는\n상황이 있을 수도 있겠죠?\n이때는 위에서\n토스 통장사본 PDF 발급 받는\n화면에서 하나만 눌러주면 끝!!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "발급받은 통장사본 페이지의\n오른쪽 상단있는'내보내기'를 선택해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "짠~\n카톡으로 보낼 수 있는 창이 나옵니다.\n카톡창 누르면 카톡으로\n토스뱅크 통장사본을 바로\n전송할 수 있어요.\n연동된 메일, 구글 드라이버 등으로도\n보낼 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "토스통장사본 메일로 발급 받는법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "발급받는 방법은\nPDF 출력할 때와 동일하고,\n전송 방법만 달라요.\n[PDF 발급과 동일한 프로세스]\n토스 앱 실행 → 로그인 →\n하단의 '전체' 선택 →\n상단의 검색창에서 '통장사본' 검색\n→ 입력창 하단 리스트 중에서\n'통장사본(계좌개설 확인증)'선택!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "자, 이제 부터 달라져요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1.\n원하는 방법 선택할 때\n'이메일로 받기'선택",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "imageGroup",
+      "count": 2,
+      "style": {
+        "classes": [
+          "se-l-collage"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2.\n토스뱅크 통장사본을 받을\n메일 주소 입력후, 하단의'다음'선택\n→ 다음 페이지에서 통장사본이 필요한\n계좌 선택후, 하단의'다음'선택",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "imageGroup",
+      "count": 2,
+      "style": {
+        "classes": [
+          "se-l-collage"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3.\n입력한 이메일 주소 확인 후\n하단의'발급하기'선택 →\n다음 페이지에서'확인했어요'선택",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4.\n입력한 이메일 계정으로 로그인하고,\n토스뱅크에서 온 메일을 클릭",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5.\n메일 하단에 있는'첨부파일'클릭",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "6.\n'다른 이름으로 저장' 또는 '열기' 선택",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "7.\n미리 비번을 받은 경우가 아니라면,\n개인은생년월일 6자리,\n법인은사업자번호 10자리입력하고\n'확인'클릭\n→ 다운로드 가능한 페이지가 나타남\n상단의'첨부파일 다운로드'클릭",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "8.\n토스뱅크 계좌개설 확인증\n이메일로 발급받기 끝!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "토스뱅크 통장사본(계좌개설 확인증)은\n모바일 앱만 있으면\nPDF 저장부터 카톡 전송, 이메일 전송,\n출력까지 모두 간편하게 할 수 있어요.\n회사나 기관 제출용으로 급하게 필요할 때\n유용하게 활용해 보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "토스뱅크 통장사본 발급하기_by징키\n\n토스뱅크 통장사본\n\nPDF로 출력하기!\n\n회사나 기관에서\n통장사본을 제출해 달라는\n요청을 받고\n\n나는\n토스뱅크 이용하는데...\n\n통장사본을 PDF로 어떻게 발급하는지\n고민되셨나요?\n오늘은 토스뱅크\n계좌개설 확인증(통장사본)을\n앱에서 PDF로 출력하는 법,\n메일로 전송하는 방법까지\n쉽게 정리해 볼게요.\n\n토스뱅크 통장사본이란?\n\n토스뱅크 통장사본의\n공식 명칭은 '계좌개설 확인증'예요.\n본인 명의 계좌가 정상적으로\n개설되었음을 증명하는 서류로,\n회사 제출이나 기관 서류,\n각종 행정 업무에서\n통장사본 용도로 사용되죠.\n\n토스뱅크 통장사본 PDF 출력법?\n\n1.\n토스 앱 실행 후, 로그인 해요.\n\n2.\n오른쪽 하단의'전체'클릭\n→ 다음 화면에서 오른쪽 상단의\n'돋보기'클릭\n\n3.\n오른쪽 상의 '키워드 입력' 란에\n'통장사본'을 입력하면,\n→ 입력창 하단에 리스트가 보이고\n'통장사본(계좌개설 확인증)'이\n보여요. 이걸 선택!\n\n4.\n토스 통장사본(계좌개설확인증) 발급\n안내 창이 나오는데,\n하단의'다음'선택\n→'원하는 발급 방법'을 선택\n이번엔'PDF로 저장하기'선택해 볼게요!\n\n5.\n발급받을 토스 통장사본계좌를 선택하고\n하단의'다음'선택\n→ 다음 페이지에서'발급하기'선택\n\n6.\n토스 통장사본 PDF 발급 끝!\n\n토스통장사본 카톡으로 보내는 법?\n\n토스 통장사본을 모바일 발급 후,\n프린트로 출력해야 하거나\n카톡으로 전달하는\n상황이 있을 수도 있겠죠?\n이때는 위에서\n토스 통장사본 PDF 발급 받는\n화면에서 하나만 눌러주면 끝!!\n\n발급받은 통장사본 페이지의\n오른쪽 상단있는'내보내기'를 선택해요.\n\n짠~\n카톡으로 보낼 수 있는 창이 나옵니다.\n카톡창 누르면 카톡으로\n토스뱅크 통장사본을 바로\n전송할 수 있어요.\n연동된 메일, 구글 드라이버 등으로도\n보낼 수 있어요.\n\n토스통장사본 메일로 발급 받는법?\n\n발급받는 방법은\nPDF 출력할 때와 동일하고,\n전송 방법만 달라요.\n[PDF 발급과 동일한 프로세스]\n토스 앱 실행 → 로그인 →\n하단의 '전체' 선택 →\n상단의 검색창에서 '통장사본' 검색\n→ 입력창 하단 리스트 중에서\n'통장사본(계좌개설 확인증)'선택!\n\n자, 이제 부터 달라져요.\n\n1.\n원하는 방법 선택할 때\n'이메일로 받기'선택\n\n2.\n토스뱅크 통장사본을 받을\n메일 주소 입력후, 하단의'다음'선택\n→ 다음 페이지에서 통장사본이 필요한\n계좌 선택후, 하단의'다음'선택\n\n3.\n입력한 이메일 주소 확인 후\n하단의'발급하기'선택 →\n다음 페이지에서'확인했어요'선택\n\n4.\n입력한 이메일 계정으로 로그인하고,\n토스뱅크에서 온 메일을 클릭\n\n5.\n메일 하단에 있는'첨부파일'클릭\n\n6.\n'다른 이름으로 저장' 또는 '열기' 선택\n\n7.\n미리 비번을 받은 경우가 아니라면,\n개인은생년월일 6자리,\n법인은사업자번호 10자리입력하고\n'확인'클릭\n→ 다운로드 가능한 페이지가 나타남\n상단의'첨부파일 다운로드'클릭\n\n8.\n토스뱅크 계좌개설 확인증\n이메일로 발급받기 끝!\n\n토스뱅크 통장사본(계좌개설 확인증)은\n모바일 앱만 있으면\nPDF 저장부터 카톡 전송, 이메일 전송,\n출력까지 모두 간편하게 할 수 있어요.\n회사나 기관 제출용으로 급하게 필요할 때\n유용하게 활용해 보세요.",
+  "char_count": 1577
+}

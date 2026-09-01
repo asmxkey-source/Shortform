@@ -1,0 +1,512 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224370170129",
+  "url": "https://m.blog.naver.com/schumpgel/224370170129",
+  "title": "CU편의점 8월 아이스크림 행사, 라라스윗 1+1 신상부터 하겐다즈 2+1까지 초특가 할인 총정리!",
+  "category": "식생활 소식",
+  "tags": [
+    "편의점아이스크림행사",
+    "gs편의점아이스크림",
+    "편의점아이스크림가격",
+    "cu편의점아이스크림",
+    "편의점아이스크림할인",
+    "편의점아이스크림추천",
+    "하겐다즈할인",
+    "하겐다즈할인편의점",
+    "하겐다즈할인8월",
+    "하겐다즈할인gs25",
+    "하겐다즈할인점",
+    "하겐다즈할인편의점8월",
+    "하겐다즈할인gs",
+    "하겐다즈할인편의점7월",
+    "하겐다즈할인cu"
+  ],
+  "component_count": 42,
+  "type_counts": {
+    "text": 17,
+    "image": 11,
+    "horizontalLine": 6,
+    "quotation": 5,
+    "sectionTitle": 2,
+    "sticker": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "CU 8월 아이스크림 할인행사_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "8월 CU에서 놓치면",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "손해 볼 아이스크림 할인?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "푹푹찌는 무더위 때문에\n달달하고 시원한 아이스크림이\n자주 생각나는 8월이네요.\nCU 편의점에서 꼭 챙겨야할\n8월 아이스크림 할인 행사들 알려드릴게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "CU 단독!\n라라스윗 저당 듬뿍바 신상",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "다이어터 분들의 영혼의 짝꿍\n라라스윗에서 야심 차게 선보인\n과육 가득 저당 듬뿍바 시리즈가 행사 중예요.\n라라스윗 듬뿍바, 1+1 행사\n피치망고 / 골드키위 / 더블베리 / 딸기\n정가 각 3,000원 →\n1+1 적용 시 2개 3,000원 (개당 1,500원)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: 인스타그램lalasweet_icecream"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "진짜 생과육이 입안에서 톡톡 씹히는데\n당류 걱정 없이 즐길 수 있다니 좋은데요?\n상큼 달콤한 과일 향이 쫙 퍼지면서\n다이어트 죄책감 없이\n시원하게 베어 물기 딱일 거 같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "다이어터 위한 파인트 1+1 행사",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: 인스타그램lalasweet_icecream"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "꾸덕한 파인트를 통째로 퍼먹어도\n부담 없는 저칼로리 파인트 라인업이\n은혜로운 원플러스원으로 찾아왔어요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 라라스윗 파인트\n말차 / 복숭아요거 / 생우유 / 저당요거 / 초콜릿\n정가 각 11,900원 →\n1+1 적용, 2개 11,900원 (개당 5,950원)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 매일 프로즌그릭 파인트\n플레인 / 허니유자\n정가 각 12,900원 →\n1+1 적용, 2개 12,900원 (개당 6,450원)\n달콤 쌉싸름한 라라스윗 말차부터\n꾸덕하고 고급스러운 프로즌그릭까지\n냉동실 한 칸 채워두면\n마음까지 시원해질 것 같네요.\n시원한 곳에서 영화 보면서\n한 통을 푹푹 퍼먹어도 좋겠죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "가성비 혜자! 1+1 아이스크림 할인",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "가벼운 간식으로 쟁여두기 참 좋은\n인기 아이스크림 1+1리스트예요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 라라스윗 요거트바 & 제로바\n딸기요거트 / 복숭아요거트 / 애플망고요거트\n/ 제주감귤제로 / 골드파인제로\n정가 각 2,500원 →\n2개 2,500원 (개당 1,250원)\n2. 빙그레 뽕따소다\n정가 1,800원 →\n2개 1,800원 (개당 900원)\n3. 따옴바 샤인머스캣\n정가 2,000원 →\n2개 2,000원 (개당 1,000원)\n4. 더위사냥 액티브\n정가 2,200원 →\n2개 2,200원 (개당 1,100원)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5. 베어스 홈런배트아이스\n2개 단돈 500원! (개당 250원)\n눈을 의심하게 만든\n초특가 가성비 아이스크림였어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "상큼함이 터지는 0kcal 제로바부터\n여름철 스테디셀러 더위사냥, 뽕따까지\n1+1으로 푸짐하게 챙겨 가세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "드디어, 하겐다즈 전상품 2+1",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "고급 아이스크림의 끝판왕 하겐다즈를\n교차 구매로 알뜰하게 득템하는 기회예요!\n1. 하겐다즈 파인트\n정가 각 17,900원 →\n2+1 적용 시 3개 35,800원 (개당 11,933원)\n2. 하겐다즈 바 / 컵 / 샌드\n정가 각 6,900원 →\n2+1 적용 시 3개 13,800원 (개당 4,600원)\n동일 가격대 내에서 취향껏 교차 가능해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "하겐다즈는\nGS25에서도 할인행사 중이예요.\n어디서 사는 게 더 좋을 지 궁금하시다면\n아래 내용 확인해 보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "https://blog.naver.com/schumpgel/224366624311\n진하고 부드러운 하겐다즈 한 입이면\n무더위로 지친 하루의 피로가\n싹 녹아내릴 것 같은 기분이네요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "벤앤제리스 파인트 파격 특가",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "벤앤제리스 파인트\n피넛버터 / 청키몽키 / 쿠키도우\n정가 16,900원 →\n7,000원 할인 적용 (개당 9,900원 특가!)\n벤앤제리스의 진한 토핑을 좋아하신다면\n미국 1위 벤앤제리스 파인트 9,900원\n할인 행사 중일 때 겟 하세요~\n벤앤제리스는 할인은\n8월 GS25편의점이랑\n동일하게 진행하고 있네요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오늘 소개해 드린 CU 편의점의\n시원하고 알찬 8월 행사가 유익하셨나요?\n인기 많은 라라스윗 1+1이나,\n하겐다즈 2+1 할인 행사는\n금방 품절될 수 있으니\n오늘 저녁엔 가까운 CU 편의점으로\n밤 산책 다녀오세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "CU 8월 아이스크림 할인행사_by징키\n\n8월 CU에서 놓치면\n\n손해 볼 아이스크림 할인?\n\n푹푹찌는 무더위 때문에\n달달하고 시원한 아이스크림이\n자주 생각나는 8월이네요.\nCU 편의점에서 꼭 챙겨야할\n8월 아이스크림 할인 행사들 알려드릴게요.\n\nCU 단독!\n라라스윗 저당 듬뿍바 신상\n\n다이어터 분들의 영혼의 짝꿍\n라라스윗에서 야심 차게 선보인\n과육 가득 저당 듬뿍바 시리즈가 행사 중예요.\n라라스윗 듬뿍바, 1+1 행사\n피치망고 / 골드키위 / 더블베리 / 딸기\n정가 각 3,000원 →\n1+1 적용 시 2개 3,000원 (개당 1,500원)\n\n진짜 생과육이 입안에서 톡톡 씹히는데\n당류 걱정 없이 즐길 수 있다니 좋은데요?\n상큼 달콤한 과일 향이 쫙 퍼지면서\n다이어트 죄책감 없이\n시원하게 베어 물기 딱일 거 같아요.\n\n다이어터 위한 파인트 1+1 행사\n\n꾸덕한 파인트를 통째로 퍼먹어도\n부담 없는 저칼로리 파인트 라인업이\n은혜로운 원플러스원으로 찾아왔어요!\n\n1. 라라스윗 파인트\n말차 / 복숭아요거 / 생우유 / 저당요거 / 초콜릿\n정가 각 11,900원 →\n1+1 적용, 2개 11,900원 (개당 5,950원)\n\n2. 매일 프로즌그릭 파인트\n플레인 / 허니유자\n정가 각 12,900원 →\n1+1 적용, 2개 12,900원 (개당 6,450원)\n달콤 쌉싸름한 라라스윗 말차부터\n꾸덕하고 고급스러운 프로즌그릭까지\n냉동실 한 칸 채워두면\n마음까지 시원해질 것 같네요.\n시원한 곳에서 영화 보면서\n한 통을 푹푹 퍼먹어도 좋겠죠?\n\n가성비 혜자! 1+1 아이스크림 할인\n\n가벼운 간식으로 쟁여두기 참 좋은\n인기 아이스크림 1+1리스트예요!\n\n1. 라라스윗 요거트바 & 제로바\n딸기요거트 / 복숭아요거트 / 애플망고요거트\n/ 제주감귤제로 / 골드파인제로\n정가 각 2,500원 →\n2개 2,500원 (개당 1,250원)\n2. 빙그레 뽕따소다\n정가 1,800원 →\n2개 1,800원 (개당 900원)\n3. 따옴바 샤인머스캣\n정가 2,000원 →\n2개 2,000원 (개당 1,000원)\n4. 더위사냥 액티브\n정가 2,200원 →\n2개 2,200원 (개당 1,100원)\n\n5. 베어스 홈런배트아이스\n2개 단돈 500원! (개당 250원)\n눈을 의심하게 만든\n초특가 가성비 아이스크림였어요.\n\n상큼함이 터지는 0kcal 제로바부터\n여름철 스테디셀러 더위사냥, 뽕따까지\n1+1으로 푸짐하게 챙겨 가세요.\n\n드디어, 하겐다즈 전상품 2+1\n\n고급 아이스크림의 끝판왕 하겐다즈를\n교차 구매로 알뜰하게 득템하는 기회예요!\n1. 하겐다즈 파인트\n정가 각 17,900원 →\n2+1 적용 시 3개 35,800원 (개당 11,933원)\n2. 하겐다즈 바 / 컵 / 샌드\n정가 각 6,900원 →\n2+1 적용 시 3개 13,800원 (개당 4,600원)\n동일 가격대 내에서 취향껏 교차 가능해요.\n\n하겐다즈는\nGS25에서도 할인행사 중이예요.\n어디서 사는 게 더 좋을 지 궁금하시다면\n아래 내용 확인해 보세요.\n\nhttps://blog.naver.com/schumpgel/224366624311\n진하고 부드러운 하겐다즈 한 입이면\n무더위로 지친 하루의 피로가\n싹 녹아내릴 것 같은 기분이네요.\n\n벤앤제리스 파인트 파격 특가\n\n벤앤제리스 파인트\n피넛버터 / 청키몽키 / 쿠키도우\n정가 16,900원 →\n7,000원 할인 적용 (개당 9,900원 특가!)\n벤앤제리스의 진한 토핑을 좋아하신다면\n미국 1위 벤앤제리스 파인트 9,900원\n할인 행사 중일 때 겟 하세요~\n벤앤제리스는 할인은\n8월 GS25편의점이랑\n동일하게 진행하고 있네요.\n\n오늘 소개해 드린 CU 편의점의\n시원하고 알찬 8월 행사가 유익하셨나요?\n인기 많은 라라스윗 1+1이나,\n하겐다즈 2+1 할인 행사는\n금방 품절될 수 있으니\n오늘 저녁엔 가까운 CU 편의점으로\n밤 산책 다녀오세요!",
+  "char_count": 1860
+}

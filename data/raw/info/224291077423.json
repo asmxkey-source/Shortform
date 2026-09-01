@@ -1,0 +1,717 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224291077423",
+  "url": "https://m.blog.naver.com/schumpgel/224291077423",
+  "title": "대부분 모르는 2026 고유가 지원금 2차 신청 뜻, 기준, 탈락 이유 총정리!",
+  "category": "경제정보",
+  "tags": [
+    "고유가지원금",
+    "고유가지원금2차",
+    "고유가피해지원금",
+    "건강보험료기준",
+    "소득하위70",
+    "지역가입자탈락",
+    "직장가입자형평성",
+    "주유소사용가능",
+    "행정안전부이의신청",
+    "소상공인지원금",
+    "자영업자혜택",
+    "고유가지원금대상",
+    "고유가지원금신청",
+    "고유가지원금사용처",
+    "고유가지원금기준",
+    "고유가지원금신청일",
+    "고유가지원금신청방법",
+    "고유가지원금조회",
+    "2차고유가지원금",
+    "2차유가지원금",
+    "2차지원금",
+    "2차고유가",
+    "2차피해지원금"
+  ],
+  "component_count": 56,
+  "type_counts": {
+    "text": 24,
+    "horizontalLine": 15,
+    "image": 11,
+    "quotation": 5,
+    "sticker": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "2차 고유가피해지원금 불만 논란_by징키\n전국 들썩이는 고유가지원금\n2차 지급, 나는 왜 탈락?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "소득 하위 70%에게 다 준다던\n'2차 고유가 지원금'을 조회해 보고\n탈락해서 속상하셨던 분들 많으시죠?\n내가 왜 대상에서 제외되었는지\n구체적인 선정 기준,\n대형 주유소 사용 꿀팁까지\n핵심만 쏙쏙 정리해 드릴게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "지원 기준 용어 변경 논란?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: KBS뉴스 2026.05.18"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이번 2차 고유가 피해지원금이 시행되면서\n가장 먼저 도마 위에 오른 건\n정부의 '말 바꾸기' 논란입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "올해 초 추경 예산안 공식 문구\n\"소득 하위 70% 이하\n국민에게 지급\"",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "최근 배포된 집행 공문 문구\n\"국민 70%를\n대상으로 지급\"",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "언뜻 보면 비슷해 보이지만\n행정학적으로는 꽤 차이가 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: KBS뉴스 2026.05.18"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "'소득 하위 70%'는\n순수 소득만 기준으로 필터되지만,\n'국민 70%'는\n지급 대상 전체 규모를\n고려한 기준에 가까워요.\n결국 이 용어 정의 차이 때문에\n실질 소득은 낮지만\n행정적인 건보료 기준선에서\n제외되는 사례가 발생하게 되었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "직장인, 자영업자 분통 터진다?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: SBS뉴스 2026.05.19"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "정부는 신속한 행정 처리를 위해\n전 국민의 데이터가 반영된\n건강보험료(건보료) 산정 방식을 기준으로\n가구 소득을 파악했어요.\n하지만\n직장 가입자와 지역 가입자 사이에\n산정 방식의 차이가 있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "직장 가입자\n1인 가구 기준\n월 건보료 13만원 이하가 기준선",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "연봉 세전 약 4,300만 원 선으로,\n매일 자차로 출퇴근하는 평범한 직장인들이\n이번 대상에서 대거 제외되었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "지역 가입자 (자영업자·소상공인)\n1인 가구 기준\n월 건보료 8만원 이하가 기준선",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: KBS뉴스 2026.05.11"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "지역 가입자는 소득뿐 아니라\n보유 중인 자동차와 부동산 점수가\n건보료에 그대로 합산돼요.\n월 소득이 적은 영세 소상공인이라도\n배달용 차량을 소유하고 있거나\n집 한 채 가지고 있으면,\n건보료가 8만 원을 넘기기 쉬워\n대상에서 제외되는 현상이 나타났어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "자산가와 직장인 역차별?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: SBS뉴스 2026.05.19"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "온라인을 가장 뜨겁게 달군 부분은\n바로 '금수저·자산가 무임승차' 논란이에요.\n정부는 고액 자산가를 제외하기 위해\n아래 기준을 내세웠죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1) 재산세 과세 표준 합계액\n12억원 초과자 제외\n2) 금융소득 2,000만원\n초과자 제외",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: KBS뉴스 2026.05.11"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "문제는 '재산세 과세 표준 12억원'을\n실제 부동산 시세로 환산하면\n약 30억~40억원대 주택 보유자까지도\n포함될 수 있다는 점!\n이로 인해 수십억대 집을 소유하고 있어도\n근로 소득이 없어서\n건보료가 낮게 책정된 가구는\n지원 대상에 포함되고,\n매달 유류비를 부담하며 건보료를 납부하는\n연봉 4,000만원대 직장인은\n제외되는 결과가 생기면서\n형평성 차이가 대두되고 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "고유가지원금 2차 지급 개선 점?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: SBS뉴스 2026.05.19"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이번 2차 지급에서 눈에 띄게\n개선된 점도 있어요.\n바로'사용처 확대'와\n'지방 우대 차등 지급'이랍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "거주 지역별 차등 지급액\n수도권: 1인당 10만 원\n비수도권: 1인당 15만 원\n인구 감소 우대지역: 1인당 20만 원\n특별 지원 지역: 1인당 최대 25만 원",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "대중교통 인프라가 열악하고\n자차 의존도가 높은\n에너지 취약 지역 주민들을 배려했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "주유소 전면 허용\n원래 연 매출 30억 원 이하\n소상공인 매장으로 제한했던 기준을 완화해\n이번2차 지원금에 한해서\n대형 브랜드 주유소 결제도 전면 허용해요.\n단,\n배달 앱이나 키오스크 결제는 불가능하고\n대면 결제만 유효해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사용 기한\n이번 고유가 지원금은\n8월 31일까지 모두 사용해야 하고,\n기한이 지나면 잔액은 전부 소멸해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "시니어 대란과 이의신청?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: MBC뉴스 2026.05.19"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "시니어 대란\n또 다른 문제점은\n신청 당일주민등록상\n출생 연도 요일제 조회 시스템을 거쳐야만\n대상 여부를 확인할 수 있다는 점!\n스마트폰 조작과 알림 확인이 어려운\n고령층의 경우, 사전 확인 없이\n행정복지센터를 직접 방문했다가\n대상자가 아니라는 안내를 받고\n발길을 돌리는 사례가 많았어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: SBS뉴스 2026.05.19"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이의신청 하겠다!\n현재 직장인과 자영업 단체 등에서는\n건보료 산정 방식의 기준을\n더 명확하게 제공해 달라는 의견을\n제시하고 있답니다.\n과거 지원금 집행 시기에도\n건의와 공론화를 거쳐 세부 기준이\n보완된 선례가 있으니,\n제외되신 분들은 정부가 마련한\n공식 이의신청 절차를\n확인해 보시는 것을 추천해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: KBS뉴스 2026.05.11"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이번 고유가 지원금 2차 지급은\n서민 경제 부담을 덜어주기 위해\n마련되었으나, 가입 방식에 따른\n세부 기준에서 아쉽다는 목소리가 나오고 있어요.\n이의신청 제도가 마련되어 있으니\n적극 활용해 보시고,\n선정되신 분들은 8월 31일 기한 내에\n혜택을 꼭 챙기시길 바랄게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "2차 고유가피해지원금 불만 논란_by징키\n전국 들썩이는 고유가지원금\n2차 지급, 나는 왜 탈락?\n\n소득 하위 70%에게 다 준다던\n'2차 고유가 지원금'을 조회해 보고\n탈락해서 속상하셨던 분들 많으시죠?\n내가 왜 대상에서 제외되었는지\n구체적인 선정 기준,\n대형 주유소 사용 꿀팁까지\n핵심만 쏙쏙 정리해 드릴게요.\n\n지원 기준 용어 변경 논란?\n\n이번 2차 고유가 피해지원금이 시행되면서\n가장 먼저 도마 위에 오른 건\n정부의 '말 바꾸기' 논란입니다.\n\n올해 초 추경 예산안 공식 문구\n\"소득 하위 70% 이하\n국민에게 지급\"\n\n최근 배포된 집행 공문 문구\n\"국민 70%를\n대상으로 지급\"\n\n언뜻 보면 비슷해 보이지만\n행정학적으로는 꽤 차이가 있어요.\n\n'소득 하위 70%'는\n순수 소득만 기준으로 필터되지만,\n'국민 70%'는\n지급 대상 전체 규모를\n고려한 기준에 가까워요.\n결국 이 용어 정의 차이 때문에\n실질 소득은 낮지만\n행정적인 건보료 기준선에서\n제외되는 사례가 발생하게 되었어요.\n\n직장인, 자영업자 분통 터진다?\n\n정부는 신속한 행정 처리를 위해\n전 국민의 데이터가 반영된\n건강보험료(건보료) 산정 방식을 기준으로\n가구 소득을 파악했어요.\n하지만\n직장 가입자와 지역 가입자 사이에\n산정 방식의 차이가 있습니다.\n\n직장 가입자\n1인 가구 기준\n월 건보료 13만원 이하가 기준선\n\n연봉 세전 약 4,300만 원 선으로,\n매일 자차로 출퇴근하는 평범한 직장인들이\n이번 대상에서 대거 제외되었어요.\n\n지역 가입자 (자영업자·소상공인)\n1인 가구 기준\n월 건보료 8만원 이하가 기준선\n\n지역 가입자는 소득뿐 아니라\n보유 중인 자동차와 부동산 점수가\n건보료에 그대로 합산돼요.\n월 소득이 적은 영세 소상공인이라도\n배달용 차량을 소유하고 있거나\n집 한 채 가지고 있으면,\n건보료가 8만 원을 넘기기 쉬워\n대상에서 제외되는 현상이 나타났어요.\n\n자산가와 직장인 역차별?\n\n온라인을 가장 뜨겁게 달군 부분은\n바로 '금수저·자산가 무임승차' 논란이에요.\n정부는 고액 자산가를 제외하기 위해\n아래 기준을 내세웠죠.\n\n1) 재산세 과세 표준 합계액\n12억원 초과자 제외\n2) 금융소득 2,000만원\n초과자 제외\n\n문제는 '재산세 과세 표준 12억원'을\n실제 부동산 시세로 환산하면\n약 30억~40억원대 주택 보유자까지도\n포함될 수 있다는 점!\n이로 인해 수십억대 집을 소유하고 있어도\n근로 소득이 없어서\n건보료가 낮게 책정된 가구는\n지원 대상에 포함되고,\n매달 유류비를 부담하며 건보료를 납부하는\n연봉 4,000만원대 직장인은\n제외되는 결과가 생기면서\n형평성 차이가 대두되고 있어요.\n\n고유가지원금 2차 지급 개선 점?\n\n이번 2차 지급에서 눈에 띄게\n개선된 점도 있어요.\n바로'사용처 확대'와\n'지방 우대 차등 지급'이랍니다.\n\n거주 지역별 차등 지급액\n수도권: 1인당 10만 원\n비수도권: 1인당 15만 원\n인구 감소 우대지역: 1인당 20만 원\n특별 지원 지역: 1인당 최대 25만 원\n\n대중교통 인프라가 열악하고\n자차 의존도가 높은\n에너지 취약 지역 주민들을 배려했어요.\n\n주유소 전면 허용\n원래 연 매출 30억 원 이하\n소상공인 매장으로 제한했던 기준을 완화해\n이번2차 지원금에 한해서\n대형 브랜드 주유소 결제도 전면 허용해요.\n단,\n배달 앱이나 키오스크 결제는 불가능하고\n대면 결제만 유효해요.\n\n사용 기한\n이번 고유가 지원금은\n8월 31일까지 모두 사용해야 하고,\n기한이 지나면 잔액은 전부 소멸해요.\n\n시니어 대란과 이의신청?\n\n시니어 대란\n또 다른 문제점은\n신청 당일주민등록상\n출생 연도 요일제 조회 시스템을 거쳐야만\n대상 여부를 확인할 수 있다는 점!\n스마트폰 조작과 알림 확인이 어려운\n고령층의 경우, 사전 확인 없이\n행정복지센터를 직접 방문했다가\n대상자가 아니라는 안내를 받고\n발길을 돌리는 사례가 많았어요.\n\n이의신청 하겠다!\n현재 직장인과 자영업 단체 등에서는\n건보료 산정 방식의 기준을\n더 명확하게 제공해 달라는 의견을\n제시하고 있답니다.\n과거 지원금 집행 시기에도\n건의와 공론화를 거쳐 세부 기준이\n보완된 선례가 있으니,\n제외되신 분들은 정부가 마련한\n공식 이의신청 절차를\n확인해 보시는 것을 추천해요.\n\n이번 고유가 지원금 2차 지급은\n서민 경제 부담을 덜어주기 위해\n마련되었으나, 가입 방식에 따른\n세부 기준에서 아쉽다는 목소리가 나오고 있어요.\n이의신청 제도가 마련되어 있으니\n적극 활용해 보시고,\n선정되신 분들은 8월 31일 기한 내에\n혜택을 꼭 챙기시길 바랄게요.",
+  "char_count": 2178
+}

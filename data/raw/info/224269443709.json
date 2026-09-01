@@ -1,0 +1,612 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224269443709",
+  "url": "https://m.blog.naver.com/schumpgel/224269443709",
+  "title": "고유가 피해지원금 신청방법 총정리! 최대 60만원 대상 조회하기",
+  "category": "경제정보",
+  "tags": [
+    "고유가피해지원금",
+    "민생지원금",
+    "민생회복지원금",
+    "정부지원금",
+    "지원금신청방법",
+    "지원금대상조회",
+    "지원금사용처",
+    "기초생활수급자",
+    "차상위계층",
+    "2026정부지원금",
+    "경제정보",
+    "놓치면손해",
+    "고유가지원금",
+    "고유가피해지원금대상",
+    "고유가지원금기준",
+    "고유가지원금대상",
+    "고유가지원금신청",
+    "고유가지원금사용처",
+    "고유가지원금신청일",
+    "고유가지원금신청방법",
+    "고유가지원금2차",
+    "고유가지원금조회",
+    "고유가지원금미성년자",
+    "고유가지원금소득기준",
+    "고유가민생지원금"
+  ],
+  "component_count": 49,
+  "type_counts": {
+    "text": 22,
+    "horizontalLine": 13,
+    "image": 8,
+    "quotation": 5,
+    "sticker": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "고유가 지원금 어디서 신청하지?_by징키\n고유가 피해지원금\n대상, 신청방법, 사용법 총정리",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "기름값은 오르고 장바구니 물가는 무섭고\n정부에서 주는 지원금 있다는데\n나는 대상인지,\n어떻게 받는지 헷갈리시죠?\n막상 신청하려니\n1차, 2차가 나뉘어 있고\n요일제까지 있어서\n복잡하게 느껴질 수 있어요.\n오늘은 대상자 확인부터 신청 방법,\n그리고 가장 유리하게 받는 꿀팁까지\n쉽고 빠르게 알려드릴게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "나는 대상일까? 지급 금액 확인하기",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이번 지원금은\n국민의 약 70%를 대상으로하고,\n시급성에 따라 두 단계로 나뉩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1차 신청 (4/27 ~ 5/8, 09:00~18:00)\n기초생활수급자, 차상위계층,\n한부모 가족 등 취약계층",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "기초수급자\n1인당 55~60만 원\n차상위, 한부모\n1인당 45~50만 원",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2차 신청 (5/18 ~ 7/3, 09:00~18:00)\n소득하위 70% 일반 국민\n1인당 10~25만 원 내외\n(가구별 차등 지원)\n1차 신청 기간에 신청하지 못한 경우",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "지역별 추가 혜택!\n인구 감소 지역이나 비수도권 거주자는\n5만원이 추가되기도 해요.\n(예: 인천은 자체적으로 5만 원 추가 지원)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "미성년자는 어떻게 신청하죠?\n먼저1차, 2차 대상인지 확인합니다.\n해당 기간에미성년자의 주민등록 세대주가\n신청/수령할 수 있어요.\n주민등록표에성인 구성원이 없는\n'미성년 세대주'는\n직접 신청하시면 됩니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "신청 기간 및 '요일제' 주의사항",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "첫 주에 신청자가 몰리는 것을\n방지하기 위해 출생연도 끝자리에 따른\n요일제를 운영해요.\n헛걸음하지 않도록 꼭 체크하세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4/27 월요일\n끝자리 1, 6\n4/28 화요일\n끝자리 2, 7\n4/29 수요일\n끝자리 3, 8\n4/30 목요일\n끝자리 4, 9, 5, 0\n(노동절 휴무 등으로 조정될 수 있음)\n5/1(금) ~5/8(금)\n누구나 신청 가능",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "어디서 신청하나요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "온라인이든 오프라인이든\n본인이 편한 방법을 선택할 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 온라인 신청\n(1) 카드사 앱/홈페이지에서 신청\n신한, 삼성, 현대 등 본인이 사용하는\n카드사에서 포인트 충전 방식으로\n신청할 수 있어요.\n가장 빠르기 때문에 추천 드림\n(2) 지역사랑상품권 앱\n모바일 상품권으로 받길 원할 때는\n지역사랑상품권 앱에서 신청하시면 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 오프라인 신청\n주소지 행정복지센터(동사무소)\n신분증 지참 필수!\n선불카드나 종이 상품권으로\n수령 가능합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 거동이 불편하시다면?\n주민센터에'찾아가는 신청'을 요청하세요.\n공무원이 직접 방문해 주실거예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "어디서 쓸 수 있나요? (사용처 및 기한)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "지원금은 받고 나서\n2026년 8월 31일 24시까지\n안 쓰면 사라져요!\n사용은지급 받은 다음날부터 가능해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사용 가능한 곳?\n연 매출 30억 이하 소상공인 매장\n(동네 마트, 식당, 약국, 주유소, 미용실 등)\n카맵, 네이버맵에서\n'고유가 피해지원금' 검색하시면\n매장이 지도에 뜹니다.\n검색 됐지만2차 확인이 필요해요!\n매장 선택 후,\n해당 매장 정보에 '고유가피해지원금'이\n있는지 꼭 확인후 방문하세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#00a84b;",
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사용 제한 업종?\n백화점, 대형마트, 온라인 쇼핑몰,\n유흥업소, 프랜차이즈 직영점",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "체크 포인트!\n소상공인 매장이라도 키오스크 결제 시\n'온라인 결제'로 인식되어\n지원금 사용이 안 될 수 있으니\n가급적 카운터 결제를 권장드려요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "팁! 어떻게 받는게 가장 좋을까?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 신용/체크카드\n기존 카드 혜택(포인트 적립 등)을\n그대로 받으면서\n지원금부터 먼저 차감되기 때문에\n가장 편리해요.\n민생회복소비쿠폰과 동일한 방식이라\n생각하면 됩니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 지역사랑상품권\n전통시장을 자주 이용하신다면 추천!\n하지만사용처가 카드보다 적을 수있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 선불카드\n돈 관리를 따로 하고 싶을 때 유용하지만,\n분실 시 재발급이\n어려울 수있으니 주의하세요.\n고유가 피해지원금은 신청하지 않으면\n받을 수 없는'신청주의' 원칙을 따라요.\n날짜 잘 체크하셔서\n여러분의 소중한 혜택, 알차게 챙기시길 바랍니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;",
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "고유가 지원금 어디서 신청하지?_by징키\n고유가 피해지원금\n대상, 신청방법, 사용법 총정리\n\n기름값은 오르고 장바구니 물가는 무섭고\n정부에서 주는 지원금 있다는데\n나는 대상인지,\n어떻게 받는지 헷갈리시죠?\n막상 신청하려니\n1차, 2차가 나뉘어 있고\n요일제까지 있어서\n복잡하게 느껴질 수 있어요.\n오늘은 대상자 확인부터 신청 방법,\n그리고 가장 유리하게 받는 꿀팁까지\n쉽고 빠르게 알려드릴게요.\n\n나는 대상일까? 지급 금액 확인하기\n\n이번 지원금은\n국민의 약 70%를 대상으로하고,\n시급성에 따라 두 단계로 나뉩니다.\n\n1차 신청 (4/27 ~ 5/8, 09:00~18:00)\n기초생활수급자, 차상위계층,\n한부모 가족 등 취약계층\n\n기초수급자\n1인당 55~60만 원\n차상위, 한부모\n1인당 45~50만 원\n\n2차 신청 (5/18 ~ 7/3, 09:00~18:00)\n소득하위 70% 일반 국민\n1인당 10~25만 원 내외\n(가구별 차등 지원)\n1차 신청 기간에 신청하지 못한 경우\n\n지역별 추가 혜택!\n인구 감소 지역이나 비수도권 거주자는\n5만원이 추가되기도 해요.\n(예: 인천은 자체적으로 5만 원 추가 지원)\n\n미성년자는 어떻게 신청하죠?\n먼저1차, 2차 대상인지 확인합니다.\n해당 기간에미성년자의 주민등록 세대주가\n신청/수령할 수 있어요.\n주민등록표에성인 구성원이 없는\n'미성년 세대주'는\n직접 신청하시면 됩니다!\n\n신청 기간 및 '요일제' 주의사항\n\n첫 주에 신청자가 몰리는 것을\n방지하기 위해 출생연도 끝자리에 따른\n요일제를 운영해요.\n헛걸음하지 않도록 꼭 체크하세요!\n\n4/27 월요일\n끝자리 1, 6\n4/28 화요일\n끝자리 2, 7\n4/29 수요일\n끝자리 3, 8\n4/30 목요일\n끝자리 4, 9, 5, 0\n(노동절 휴무 등으로 조정될 수 있음)\n5/1(금) ~5/8(금)\n누구나 신청 가능\n\n어디서 신청하나요?\n\n온라인이든 오프라인이든\n본인이 편한 방법을 선택할 수 있어요.\n\n1. 온라인 신청\n(1) 카드사 앱/홈페이지에서 신청\n신한, 삼성, 현대 등 본인이 사용하는\n카드사에서 포인트 충전 방식으로\n신청할 수 있어요.\n가장 빠르기 때문에 추천 드림\n(2) 지역사랑상품권 앱\n모바일 상품권으로 받길 원할 때는\n지역사랑상품권 앱에서 신청하시면 됩니다.\n\n2. 오프라인 신청\n주소지 행정복지센터(동사무소)\n신분증 지참 필수!\n선불카드나 종이 상품권으로\n수령 가능합니다.\n\n3. 거동이 불편하시다면?\n주민센터에'찾아가는 신청'을 요청하세요.\n공무원이 직접 방문해 주실거예요.\n\n어디서 쓸 수 있나요? (사용처 및 기한)\n\n지원금은 받고 나서\n2026년 8월 31일 24시까지\n안 쓰면 사라져요!\n사용은지급 받은 다음날부터 가능해요.\n\n사용 가능한 곳?\n연 매출 30억 이하 소상공인 매장\n(동네 마트, 식당, 약국, 주유소, 미용실 등)\n카맵, 네이버맵에서\n'고유가 피해지원금' 검색하시면\n매장이 지도에 뜹니다.\n검색 됐지만2차 확인이 필요해요!\n매장 선택 후,\n해당 매장 정보에 '고유가피해지원금'이\n있는지 꼭 확인후 방문하세요.\n\n사용 제한 업종?\n백화점, 대형마트, 온라인 쇼핑몰,\n유흥업소, 프랜차이즈 직영점\n\n체크 포인트!\n소상공인 매장이라도 키오스크 결제 시\n'온라인 결제'로 인식되어\n지원금 사용이 안 될 수 있으니\n가급적 카운터 결제를 권장드려요.\n\n팁! 어떻게 받는게 가장 좋을까?\n\n1. 신용/체크카드\n기존 카드 혜택(포인트 적립 등)을\n그대로 받으면서\n지원금부터 먼저 차감되기 때문에\n가장 편리해요.\n민생회복소비쿠폰과 동일한 방식이라\n생각하면 됩니다!\n\n2. 지역사랑상품권\n전통시장을 자주 이용하신다면 추천!\n하지만사용처가 카드보다 적을 수있어요.\n\n3. 선불카드\n돈 관리를 따로 하고 싶을 때 유용하지만,\n분실 시 재발급이\n어려울 수있으니 주의하세요.\n고유가 피해지원금은 신청하지 않으면\n받을 수 없는'신청주의' 원칙을 따라요.\n날짜 잘 체크하셔서\n여러분의 소중한 혜택, 알차게 챙기시길 바랍니다!",
+  "char_count": 1918
+}

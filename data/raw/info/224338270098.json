@@ -1,0 +1,428 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224338270098",
+  "url": "https://m.blog.naver.com/schumpgel/224338270098",
+  "title": "아직도 밀가루면? 코스트코신상 삶지 않고 바로 먹는 0칼로리 마이노멀두부면",
+  "category": "식생활 소식",
+  "tags": [
+    "두부면",
+    "두부면요리",
+    "두부면먹는법",
+    "마이노멀두부면",
+    "마이노멀알룰로스",
+    "코스트코마이노멀두부면",
+    "마이노멀두부면레시피",
+    "마이노멀두부면요리",
+    "마이노멀두부면코스트코",
+    "코스트코추천상품",
+    "코스트코신상",
+    "코스트코두부면",
+    "코스트코두부면위치"
+  ],
+  "component_count": 36,
+  "type_counts": {
+    "text": 14,
+    "image": 10,
+    "horizontalLine": 5,
+    "quotation": 5,
+    "sectionTitle": 2
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "국산콩 두부면 내돈내산 찐후기_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "코스트코 신상 다이어",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "두부면 찐후기",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "날씨가 더워지니,\n후루룩 넘어가는 면 요리가 생각나지만\n칼로리 폭탄에\n속까지 더부룩하게 만드는\n밀가루면은 선뜻 먹기가 망설여지네요.\n그런데\n코스트코에 출시되자마자 품절 대란 일어난\n밀가루 제로, 당류 0g, 칼로리 25kcal로\n유명한 신상 '마이노멀 두부면' 등장!\n솔직 내돈내산 맛 평가 전해드릴게요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "코스트코 두부면 팩트 체크!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "다이어트하는 사람뿐 아니라.\n다들 왜 이렇게 좋아할까요?\n'코스트코 판매 130g 한 팩 기준'으로\n설명할게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 칼로리\n단 25kcal!\n야식으로 먹어 부담 없는 칼로리\n2. 당류\n0g\n알룰로스 명가 마이노멀다운 무당 스펙!\n3. 순탄수화물\n탄수화물 3g 중 식이섬유가 3g이라,\n순탄수 0g에 수렴!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4. 소화력\n밀가루가 단 1g도 안 들어간\n완벽한 글루텐프리!\n5. 성분\n시중의 일반적인 두부면들과 달리,\n'마이노멀 두부면'은\n엄선된100% 국산\nNON-GMO(비유전자변형) 콩을\n맷돌 방식으로 부드럽게 갈아 만들어\n착한 성분으로 승부를 걸었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "평소 밀가루 소화가 안 되서\n면을 멀리하셨거나,\n엄격한 키토제닉(저탄고지) 식단\n하시는 분들께는\n그야말로 희소식일 수 밖에 없어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "코스트코에서 두부면 가격?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "코스트코 면 코너 둘러보다가\n저도 바로 카트에 담아버렸네요.\n마이노멀 100% 국산콩 두부면은\n코스트코에서\n한 박스(130g × 12개입) 기준\n19,990원에 판매 중이예요.\n한 팩당 대략 1,660원 꼴이라\n성분 대비 가격도 꽤나 합리적입니다.\n왠만한 편의점 음료보다도 싼듯하네요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "마이노멀두부면 보관법, 유통기한?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "가장 마음에 들었던 반전 꿀팁!\n마이노멀두부면은\n냉장고 공간을 차지하지 않는\n실온 보관제품예요.\n서늘한 펜트리에\n쟁여두고 필요할 때마다\n쏙쏙 꺼내 쓰면 되니\n보관 부담이 제로입니다.\n코스트코에서 찾으실 때도\n냉장 냉동쪽이 아니라,\n면, 설탕, 소금 있는 코너로 가셔야해요.\n단,절대 냉동 보관 하시면 안 돼요!\n면 식감이 다 망가집니다.\n유통기한은 약 1년으로 여유 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "마이노멀두부면 조리법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "스파게티, 비빔국수, 소바, 분짜 등\n면이 들어가는 레시피에\n모두 활용가능해요.\n그리고\n\"삶을 필요\" 전혀 없어요!\n불 쓰기 힘든 여름철 딱인 것 같아요.\n소스만 준비하시고,\n두부면 넣어서 비벼만 먹으면 끝~",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저는 나초 찍먹하는\n칠리소스에 넣어서 비벼 먹었는데,\n일반 두부면처럼 툭툭 끊기고\n뻣뻣하지 않고,\n소면처럼 부드럽고 소스가 면과\n어울려서 기분 좋게 먹을 수 있었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "이런 분들께 무조건 추천!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이런 분들이라면,\n코스트코 가시면 마이노멀두부면\n한 번 츄라이 해보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "늦은 밤,\n야식 먹고 싶을 때\n밀가루만 먹으면\n속에 가스 차고 소화가 안 되는분\n식단 관리 중인데\n닭가슴살과 샐러드가 지겨워진 분\n번거로운 요리 과정 없이\n초간편하지만, 맛있는 식사를 원할 때",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "코스트코 방문하실 때\n이 기특한 다이어트 꿀템으로\n가볍고 영양 가득한\n면 요리를 즐겨보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "국산콩 두부면 내돈내산 찐후기_by징키\n\n코스트코 신상 다이어\n\n두부면 찐후기\n\n날씨가 더워지니,\n후루룩 넘어가는 면 요리가 생각나지만\n칼로리 폭탄에\n속까지 더부룩하게 만드는\n밀가루면은 선뜻 먹기가 망설여지네요.\n그런데\n코스트코에 출시되자마자 품절 대란 일어난\n밀가루 제로, 당류 0g, 칼로리 25kcal로\n유명한 신상 '마이노멀 두부면' 등장!\n솔직 내돈내산 맛 평가 전해드릴게요!\n\n코스트코 두부면 팩트 체크!\n\n다이어트하는 사람뿐 아니라.\n다들 왜 이렇게 좋아할까요?\n'코스트코 판매 130g 한 팩 기준'으로\n설명할게요.\n\n1. 칼로리\n단 25kcal!\n야식으로 먹어 부담 없는 칼로리\n2. 당류\n0g\n알룰로스 명가 마이노멀다운 무당 스펙!\n3. 순탄수화물\n탄수화물 3g 중 식이섬유가 3g이라,\n순탄수 0g에 수렴!\n\n4. 소화력\n밀가루가 단 1g도 안 들어간\n완벽한 글루텐프리!\n5. 성분\n시중의 일반적인 두부면들과 달리,\n'마이노멀 두부면'은\n엄선된100% 국산\nNON-GMO(비유전자변형) 콩을\n맷돌 방식으로 부드럽게 갈아 만들어\n착한 성분으로 승부를 걸었어요.\n\n평소 밀가루 소화가 안 되서\n면을 멀리하셨거나,\n엄격한 키토제닉(저탄고지) 식단\n하시는 분들께는\n그야말로 희소식일 수 밖에 없어요.\n\n코스트코에서 두부면 가격?\n\n코스트코 면 코너 둘러보다가\n저도 바로 카트에 담아버렸네요.\n마이노멀 100% 국산콩 두부면은\n코스트코에서\n한 박스(130g × 12개입) 기준\n19,990원에 판매 중이예요.\n한 팩당 대략 1,660원 꼴이라\n성분 대비 가격도 꽤나 합리적입니다.\n왠만한 편의점 음료보다도 싼듯하네요.\n\n마이노멀두부면 보관법, 유통기한?\n\n가장 마음에 들었던 반전 꿀팁!\n마이노멀두부면은\n냉장고 공간을 차지하지 않는\n실온 보관제품예요.\n서늘한 펜트리에\n쟁여두고 필요할 때마다\n쏙쏙 꺼내 쓰면 되니\n보관 부담이 제로입니다.\n코스트코에서 찾으실 때도\n냉장 냉동쪽이 아니라,\n면, 설탕, 소금 있는 코너로 가셔야해요.\n단,절대 냉동 보관 하시면 안 돼요!\n면 식감이 다 망가집니다.\n유통기한은 약 1년으로 여유 있어요.\n\n마이노멀두부면 조리법?\n\n스파게티, 비빔국수, 소바, 분짜 등\n면이 들어가는 레시피에\n모두 활용가능해요.\n그리고\n\"삶을 필요\" 전혀 없어요!\n불 쓰기 힘든 여름철 딱인 것 같아요.\n소스만 준비하시고,\n두부면 넣어서 비벼만 먹으면 끝~\n\n저는 나초 찍먹하는\n칠리소스에 넣어서 비벼 먹었는데,\n일반 두부면처럼 툭툭 끊기고\n뻣뻣하지 않고,\n소면처럼 부드럽고 소스가 면과\n어울려서 기분 좋게 먹을 수 있었어요.\n\n이런 분들께 무조건 추천!\n\n이런 분들이라면,\n코스트코 가시면 마이노멀두부면\n한 번 츄라이 해보세요.\n\n늦은 밤,\n야식 먹고 싶을 때\n밀가루만 먹으면\n속에 가스 차고 소화가 안 되는분\n식단 관리 중인데\n닭가슴살과 샐러드가 지겨워진 분\n번거로운 요리 과정 없이\n초간편하지만, 맛있는 식사를 원할 때\n\n코스트코 방문하실 때\n이 기특한 다이어트 꿀템으로\n가볍고 영양 가득한\n면 요리를 즐겨보세요.",
+  "char_count": 1477
+}

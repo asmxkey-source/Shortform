@@ -1,0 +1,279 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224044151391",
+  "url": "https://m.blog.naver.com/schumpgel/224044151391",
+  "title": "술 마신 다음날, 몸이 붓는 이유 ‘이것’ 때문! 숙취해소 붓기빠지는 음식",
+  "category": "자연식물식 하는법",
+  "tags": [
+    "폭음주의",
+    "음주위험",
+    "여성건강",
+    "간해독식단",
+    "자연식물식",
+    "항염식단",
+    "해독루틴",
+    "숙취회복",
+    "건강습관",
+    "피로회복",
+    "숙취해소",
+    "숙취해소음식",
+    "붓기빠지는음식"
+  ],
+  "component_count": 23,
+  "type_counts": {
+    "text": 9,
+    "image": 9,
+    "quotation": 3,
+    "sectionTitle": 1,
+    "horizontalLine": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "자연식물식=숙취해소 음식_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "숙취해소 붓기빠지는\n음식? 자연식물식이 답!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "어젯밤 술자리, 분명 즐거웠는데\n아침에 눈 뜨니 얼굴이 퉁퉁 부어 있죠?\n폭음은 단순한 숙취를 넘어서\n특히 여성의 경우 간과 호르몬 밸런스에\n큰 영향을 줍니다.\n오늘은 술이 만든 염증을 낮추고\n몸을 회복시키는\n자연식물식 루틴을 소개할게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "음주, 여성에게 더 치명적?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "술을 많이 마시면 우리 몸은\n‘해독 모드’로 들어갑니다.\n간은 알코올을 분해하느라\n평소보다 두세 배 더 바쁘게 움직이고,\n그 과정에서 활성산소와 염증물질이\n다량 생성돼요.\n특히 여성은체지방 비율이 높고\n수분량이 적어서 같은 양을 마셔도\n간 손상 속도가 더 빠르답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "폭음의 또 다른 위험?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "문제는 폭음 후 ‘붓기’로 끝나는 게\n아니라는 점이에요.\n지속적인 폭음은간세포 염증을 유발하고,\n해독 효소의 균형을 무너뜨립니다.\n그 결과피부 트러블, 생리불순,\n피로 누적같은 신호가 나타나죠.\n몸이 보내는 경고등을 무시하면,\n간 기능 저하나지방간으로\n이어질 수도 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "폭음 후 회복하는 꿀팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이럴 때 필요한 건‘절식’이 아니라\n‘회복을 돕는 식사’입니다.\n자연식물식은 알코올 대사로 발생한\n염증을 진정시키는 데 효과적이죠.\n대표적인 숙취해소와 붓기 빠지는데\n도움이 되는 음식으로는\n브로콜리, 양배추, 비트, 미나리,\n레몬, 강황, 아마씨등이 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이것들은 간 해독 효소의\n활성을 높여 독소 배출을 도와줍니다.\n폭음 다음날엔 커피 대신\n따뜻한 보리차나 레몬수,\n기름진 해장국 대신통곡물죽이나\n채소수프로 간을 쉬게 해주세요.\n하루 한 끼라도 신선한 채소 위주의\n자연식물식을 실천하면\n몸의 붓기가 빠지고,\n피로감도 훨씬 덜 느껴집니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ff9300;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "회식, 잦은 모임 등으로 폭음을 완전히\n피하기 어려울 수도 있어요.\n그렇다면, 그다음 날 ‘회복 루틴’이라도\n꼭 만들어보세요.\n작은 습관이 간을 살리고,\n피부와 기분까지 바꿉니다.\n오늘 저녁엔 한 잔 덜 마시고,\n내일 아침엔 한 끼 더 자연식물식 한다면\n우리 몸이 바로 반응할 거예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "자연식물식=숙취해소 음식_by징키\n\n숙취해소 붓기빠지는\n음식? 자연식물식이 답!\n\n어젯밤 술자리, 분명 즐거웠는데\n아침에 눈 뜨니 얼굴이 퉁퉁 부어 있죠?\n폭음은 단순한 숙취를 넘어서\n특히 여성의 경우 간과 호르몬 밸런스에\n큰 영향을 줍니다.\n오늘은 술이 만든 염증을 낮추고\n몸을 회복시키는\n자연식물식 루틴을 소개할게요.\n\n음주, 여성에게 더 치명적?\n\n술을 많이 마시면 우리 몸은\n‘해독 모드’로 들어갑니다.\n간은 알코올을 분해하느라\n평소보다 두세 배 더 바쁘게 움직이고,\n그 과정에서 활성산소와 염증물질이\n다량 생성돼요.\n특히 여성은체지방 비율이 높고\n수분량이 적어서 같은 양을 마셔도\n간 손상 속도가 더 빠르답니다.\n\n폭음의 또 다른 위험?\n\n문제는 폭음 후 ‘붓기’로 끝나는 게\n아니라는 점이에요.\n지속적인 폭음은간세포 염증을 유발하고,\n해독 효소의 균형을 무너뜨립니다.\n그 결과피부 트러블, 생리불순,\n피로 누적같은 신호가 나타나죠.\n몸이 보내는 경고등을 무시하면,\n간 기능 저하나지방간으로\n이어질 수도 있어요.\n\n폭음 후 회복하는 꿀팁\n\n이럴 때 필요한 건‘절식’이 아니라\n‘회복을 돕는 식사’입니다.\n자연식물식은 알코올 대사로 발생한\n염증을 진정시키는 데 효과적이죠.\n대표적인 숙취해소와 붓기 빠지는데\n도움이 되는 음식으로는\n브로콜리, 양배추, 비트, 미나리,\n레몬, 강황, 아마씨등이 있어요.\n\n이것들은 간 해독 효소의\n활성을 높여 독소 배출을 도와줍니다.\n폭음 다음날엔 커피 대신\n따뜻한 보리차나 레몬수,\n기름진 해장국 대신통곡물죽이나\n채소수프로 간을 쉬게 해주세요.\n하루 한 끼라도 신선한 채소 위주의\n자연식물식을 실천하면\n몸의 붓기가 빠지고,\n피로감도 훨씬 덜 느껴집니다.\n\n회식, 잦은 모임 등으로 폭음을 완전히\n피하기 어려울 수도 있어요.\n그렇다면, 그다음 날 ‘회복 루틴’이라도\n꼭 만들어보세요.\n작은 습관이 간을 살리고,\n피부와 기분까지 바꿉니다.\n오늘 저녁엔 한 잔 덜 마시고,\n내일 아침엔 한 끼 더 자연식물식 한다면\n우리 몸이 바로 반응할 거예요.",
+  "char_count": 996
+}

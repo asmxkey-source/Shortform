@@ -1,0 +1,629 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223648202489",
+  "url": "https://m.blog.naver.com/schumpgel/223648202489",
+  "title": "즉흥과일클럽 벗밭, 함께하는 채소과일식 @알파라운드 (추황배, 돌배, 로망, 태추단감, 청도반시)",
+  "category": "소개, 행사안내",
+  "tags": [
+    "즉흥과일클럽",
+    "벗밭",
+    "채소과일식",
+    "알파라운드",
+    "채소과일식식단",
+    "추황배",
+    "태추단감",
+    "로망단감",
+    "청도반시",
+    "돌배",
+    "슈퍼골드배"
+  ],
+  "component_count": 50,
+  "type_counts": {
+    "text": 24,
+    "image": 20,
+    "sticker": 3,
+    "horizontalLine": 1,
+    "map": 1,
+    "oglink": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "드디어 참여해 본 벗밭의 즉흥과일클럽_by링키\n큐레이션 된 제철과일맛보기\n'즉흥과일클럽'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "퇴근후 마르쉐를 경험하며 알게 된 벗밭의\n프로그램들에 관심을 가지고 있다가\n제철채소, 과일을 함께 맛보는\n'즉흥과일클럽' 에 다녀왔습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "알파라운드",
+      "address": "서울특별시 종로구 창경궁로35길 40",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "이번엔 알파라운드!\n저번에 매실청 담근 곳이라 친숙했어요.\n장소는 행사 때마다 달라질 수 있으니\n벗밭 인스타그램 계정 참고해 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "벗밭(@butground) • Instagram 사진 및 동영상",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "멋진 알파라운드 공간에 테이블이 길게\n놓여 있고 네 명 자리에 하나씩 상이 차려져\n있었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "벗밭의 상징과도 같은 나무식기들\n벗밭의 자연스러운 친환경적인 느낌과\n너무 잘 어울려요.\n안내 종이이자 테이블 매트로 사용 가능한\n점이 좋았습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오늘의 주인공 과일들과\n곁들여먹을 소스와 야채들",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오늘의 주제는 바로\n'감놔라 배놔라'입니다.\n주인공인 감과 배\n추석이 생각나는 대표적인 과일이죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "행사를 진행해주신 벗밭의 대표 가영님이\n과일을 하나하나 소개해 주셨어요.\n느긋하고 편안하게 일상과 거리를 두면서도\n호기심 가득하게 상 앞에 앉게 하는 목소리",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오늘의 주인공들입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "배 - 돌배, 추황배, 슈퍼골드\n감 - 로망단감, 대추단감, 청도반시",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이렇게 각각 세 종류가 준비되어 있었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오픈 샌드위치로 먹을 수 있게\n곁들여진 사워도우, 빵과 두가지 크림, 치즈,\n비건그릭요거트\n너무나 섬세하죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "자기소개를 마친 뒤\n같이 놀아가며 한 문장씩 안내문을 읽고\n과일을 깎아먹어 보기로 했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "즉흥과일클럽 엄청나게 푸짐하죠?\n팀원들의 배려로 껍질까지 같이 먹어보기로\n했습니다. 정말 감사했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "과일과 곁들이고 싶은 소스, 가루를 가직 옵니다.\n사과 농축 식초, 누룩소금, 후추, 시나몬가루\n등등을 샐러드 야채와 함께 가지고 왔어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "먼저 제일 낯설었던 돌배부터 먹어보고요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "로망단감으로 오픈샌드위치도 만들어봅니다.\n샐러리와 과일들의 조화가 생각 외로\n꽤 근사했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "특히 돌배와 샐러리!\n저의 최애 조합이었습니다.\n요리를 맛보는 듯한 기분",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "징키는 우리집 장금이 답게\n테이스팅 노트를 열심히 적습니다.\n각 과일 별 당도와 식감별로 정리하는 것 같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "6가지 종류의 감과 배를 다양한 페어링으로\n맛보며 한 시간 반 정도의 행복한 시간을\n가졌습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "행사 끝나고 가영님이 챙겨주셔서\n가지고 온 귀한 과일들\n슈퍼골드, 돌배, 로망단감이에요.\n아껴가며 다 먹었답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "채소과일식을 이렇게도 경험할 수 있네요!\n귀한 시간 마련해준 벗밭, 알파라운드 감사해요\n다음 즉흥과일클럽도 참여하고 싶습니다!!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    }
+  ],
+  "body_text": "드디어 참여해 본 벗밭의 즉흥과일클럽_by링키\n큐레이션 된 제철과일맛보기\n'즉흥과일클럽'\n\n퇴근후 마르쉐를 경험하며 알게 된 벗밭의\n프로그램들에 관심을 가지고 있다가\n제철채소, 과일을 함께 맛보는\n'즉흥과일클럽' 에 다녀왔습니다.\n\n이번엔 알파라운드!\n저번에 매실청 담근 곳이라 친숙했어요.\n장소는 행사 때마다 달라질 수 있으니\n벗밭 인스타그램 계정 참고해 주세요.\n\n멋진 알파라운드 공간에 테이블이 길게\n놓여 있고 네 명 자리에 하나씩 상이 차려져\n있었습니다.\n\n벗밭의 상징과도 같은 나무식기들\n벗밭의 자연스러운 친환경적인 느낌과\n너무 잘 어울려요.\n안내 종이이자 테이블 매트로 사용 가능한\n점이 좋았습니다.\n\n오늘의 주인공 과일들과\n곁들여먹을 소스와 야채들\n\n오늘의 주제는 바로\n'감놔라 배놔라'입니다.\n주인공인 감과 배\n추석이 생각나는 대표적인 과일이죠?\n\n행사를 진행해주신 벗밭의 대표 가영님이\n과일을 하나하나 소개해 주셨어요.\n느긋하고 편안하게 일상과 거리를 두면서도\n호기심 가득하게 상 앞에 앉게 하는 목소리\n\n오늘의 주인공들입니다.\n\n배 - 돌배, 추황배, 슈퍼골드\n감 - 로망단감, 대추단감, 청도반시\n\n이렇게 각각 세 종류가 준비되어 있었어요.\n\n오픈 샌드위치로 먹을 수 있게\n곁들여진 사워도우, 빵과 두가지 크림, 치즈,\n비건그릭요거트\n너무나 섬세하죠?\n\n자기소개를 마친 뒤\n같이 놀아가며 한 문장씩 안내문을 읽고\n과일을 깎아먹어 보기로 했어요.\n\n즉흥과일클럽 엄청나게 푸짐하죠?\n팀원들의 배려로 껍질까지 같이 먹어보기로\n했습니다. 정말 감사했어요.\n\n과일과 곁들이고 싶은 소스, 가루를 가직 옵니다.\n사과 농축 식초, 누룩소금, 후추, 시나몬가루\n등등을 샐러드 야채와 함께 가지고 왔어요.\n\n먼저 제일 낯설었던 돌배부터 먹어보고요\n\n로망단감으로 오픈샌드위치도 만들어봅니다.\n샐러리와 과일들의 조화가 생각 외로\n꽤 근사했어요.\n\n특히 돌배와 샐러리!\n저의 최애 조합이었습니다.\n요리를 맛보는 듯한 기분\n\n징키는 우리집 장금이 답게\n테이스팅 노트를 열심히 적습니다.\n각 과일 별 당도와 식감별로 정리하는 것 같아요.\n\n6가지 종류의 감과 배를 다양한 페어링으로\n맛보며 한 시간 반 정도의 행복한 시간을\n가졌습니다.\n\n행사 끝나고 가영님이 챙겨주셔서\n가지고 온 귀한 과일들\n슈퍼골드, 돌배, 로망단감이에요.\n아껴가며 다 먹었답니다.\n\n채소과일식을 이렇게도 경험할 수 있네요!\n귀한 시간 마련해준 벗밭, 알파라운드 감사해요\n다음 즉흥과일클럽도 참여하고 싶습니다!!",
+  "char_count": 1218
+}

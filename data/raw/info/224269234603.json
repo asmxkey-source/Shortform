@@ -1,0 +1,379 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224269234603",
+  "url": "https://m.blog.naver.com/schumpgel/224269234603",
+  "title": "참외 껍질, 버리셨나요? 의사들이 추천하는 반전 효능 200% 활용법",
+  "category": "식생활 소식",
+  "tags": [
+    "5월제철음식",
+    "참외효능",
+    "참외부작용",
+    "임산부엽산과일",
+    "참외고르는법",
+    "참외보관법",
+    "제철과일",
+    "건강식단",
+    "피로회복음식",
+    "붓기차",
+    "디톡스식단",
+    "간헐적단식",
+    "단식",
+    "참외제철",
+    "성주참외",
+    "참외샐러드",
+    "참외"
+  ],
+  "component_count": 29,
+  "type_counts": {
+    "text": 12,
+    "image": 11,
+    "quotation": 5,
+    "horizontalLine": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "참외 효능과 부작용 총정리_by징키\n참외, 그냥 깎아 드세요?\n효능, 부작용, 꿀팁까지",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "달콤한 향기\n풍기며 유혹하는 '참외'\n갈증 해소는 물론~\n'금싸라기보약'이라 불릴 만큼\n영양이 풍부하다는\n사실 알고 계셨나요?\n* 1980년대에 개발되서\n한국 참외 표준이 된 가장 유명한\n품종 이름이 바로 '금싸라기 참외'\n그냥 깎아 먹었던 참외 효능을\n200% 폭발시키는 반전 섭취법부터,\n부작용 주의사항까지\n꼼꼼하게 알아볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#9c9c9c;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "의외의 참외 효능 TOP 4",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 엽산의 제왕 (임산부에게 도움)\n참외는과일 중 엽산 함량이 독보적이에요.\n100g당 약 132μg의 엽산이 들어있어\n태아의 신경관 발달을 돕고\n빈혈 예방에 탁월하기 때문에\n임산부와 가임기 여성분들께\n최고의 천연 영양제랍니다.\n2. 천연 피로회복제\n참외 속비타민 C와 포도당은\n체내 흡수가 빨라요.\n나른해지기 쉬운 날,\n춘곤증으로 무기력할 때\n참외 한 조각이면\n에너지가 즉각 충전되는\n효과가 있답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#e3fdc8;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 수분 보충 & 부종 제거\n참외는90%가 수분으로 이루어져 있고,\n칼륨 성분이 풍부해요.\n땀을 많이 흘리는 더운 날씨에\n갈증을 빠르게 해소해 주고,\n체내 나트륨을 배출시켜\n아침마다 붓는 얼굴과 몸을\n가볍게 만드는 데 도움을 준답니다.\n4. 항암 & 간 해독 효과\n참외껍질 아래에 풍부한\n'쿠쿠르비타신'성분은\n암세포의 증식을 억제하는\n강력한 항암 작용을 해요.\n또 간 기능을 도와\n체내 독소를 배출에 도움을 주기 때문에\n술 마신 다음 날\n숙취 해소에도 좋죠!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#e3fdc8;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "참외 효능 200% 끌어 올리는 꿀팁",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 깎지 말고 '껍질째' 드세요!\n참외의핵심 영양소인 쿠쿠르비타신은\n속살보다 껍질에 5배나 더 많아요.\n베이킹소다나 식초물에 깨끗이 씻어\n얇게 채 썰어 샐러드로 즐기면\n영양 흡수율이 훨씬 높아진답니다.\n2. 씨와 태좌(속 부분) 버리지 마세요\n참외 씨가 설사를 유발한다는 오해!\n사실씨가 붙어 있는 하얀 부분에\n엽산과 비타민 C가 집중되어 있어요.\n상한 참외가 아니라면\n달콤한 속 부분까지 꼭 다 챙겨 보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;",
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 오이, 루콜라, 올리브유와 찰떡궁합\n참외의 달콤함은\n쌉싸름한 채소와 만났을 때\n최고의 시너지를 내요.\n참외 샐러드에 올리브유를 곁들이면\n지용성 영양소의 흡수까지 도와줘서\n한 끼 식사로도 손색없는\n건강 식단이 된답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff8b2;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "신선한 참외 고르는 법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "참외는색이 선명한 노란색을 띠고,\n흰색 줄 수가 많고,\n흰색 골이 깊고 선명한 것게\n당도가 높아요!\n향이 너무 진한 것은\n속이 상했을 수있으니\n은은한 달콤함이 느껴지는 것을 고르세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a350;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "흰 줄 부분에 검은 반점있는 참외,\n꼭지 색이 검은참외는\n피하세요.\n크기는 성인 남성 주먹 정도가\n식감 좋고 맛있답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0076c8;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "참외 신선 보관법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "참외는 수분이 생명!\n참외를 가볍게 씻어\n물기를 완전히 닦아주세요.\n다회용 면보, 키친타월, 신문지를 활용해\n하나씩 감싸주세요.\n밀폐 용기에 담아 냉장 보관(5~7도)하면\n2~3주 동안 아삭함이 그대로 유지됩니다.\n가급적 일주일 안에 드시는 것이\n참외의 향긋함을 가장 온전히\n즐길 수 있다는 거 아시죠?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;",
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "참외 부작용 주의사항!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 평소 몸이 차고 장이 예민한 경우\n한의학적으로 참외는\n'차가운 성질'을 가졌어요.\n때문에 평소 배가 자주 아프거나\n설사를 자주 하는 분이 과하게 드시면\n복통을 유발할 수 있으니\n적당량만 즐겨주세요.\n2. 신장 기능이 약한 경우 (중요!)\n참외는 칼륨 배출을 돕지만,\n신장 질환으로\n칼륨 조절이 어려운 분들께는\n오히려 독이 될 수 있어요.\n고칼륨혈증 위험이 있으니\n섭취 전\n꼭 전문의와 상담이 필요합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#e3fdc8;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "올바른 참외 섭취법으로\n제철의 달콤한 활력을 느껴보세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "참외 효능과 부작용 총정리_by징키\n참외, 그냥 깎아 드세요?\n효능, 부작용, 꿀팁까지\n\n달콤한 향기\n풍기며 유혹하는 '참외'\n갈증 해소는 물론~\n'금싸라기보약'이라 불릴 만큼\n영양이 풍부하다는\n사실 알고 계셨나요?\n* 1980년대에 개발되서\n한국 참외 표준이 된 가장 유명한\n품종 이름이 바로 '금싸라기 참외'\n그냥 깎아 먹었던 참외 효능을\n200% 폭발시키는 반전 섭취법부터,\n부작용 주의사항까지\n꼼꼼하게 알아볼게요.\n\n의외의 참외 효능 TOP 4\n\n1. 엽산의 제왕 (임산부에게 도움)\n참외는과일 중 엽산 함량이 독보적이에요.\n100g당 약 132μg의 엽산이 들어있어\n태아의 신경관 발달을 돕고\n빈혈 예방에 탁월하기 때문에\n임산부와 가임기 여성분들께\n최고의 천연 영양제랍니다.\n2. 천연 피로회복제\n참외 속비타민 C와 포도당은\n체내 흡수가 빨라요.\n나른해지기 쉬운 날,\n춘곤증으로 무기력할 때\n참외 한 조각이면\n에너지가 즉각 충전되는\n효과가 있답니다.\n\n3. 수분 보충 & 부종 제거\n참외는90%가 수분으로 이루어져 있고,\n칼륨 성분이 풍부해요.\n땀을 많이 흘리는 더운 날씨에\n갈증을 빠르게 해소해 주고,\n체내 나트륨을 배출시켜\n아침마다 붓는 얼굴과 몸을\n가볍게 만드는 데 도움을 준답니다.\n4. 항암 & 간 해독 효과\n참외껍질 아래에 풍부한\n'쿠쿠르비타신'성분은\n암세포의 증식을 억제하는\n강력한 항암 작용을 해요.\n또 간 기능을 도와\n체내 독소를 배출에 도움을 주기 때문에\n술 마신 다음 날\n숙취 해소에도 좋죠!\n\n참외 효능 200% 끌어 올리는 꿀팁\n\n1. 깎지 말고 '껍질째' 드세요!\n참외의핵심 영양소인 쿠쿠르비타신은\n속살보다 껍질에 5배나 더 많아요.\n베이킹소다나 식초물에 깨끗이 씻어\n얇게 채 썰어 샐러드로 즐기면\n영양 흡수율이 훨씬 높아진답니다.\n2. 씨와 태좌(속 부분) 버리지 마세요\n참외 씨가 설사를 유발한다는 오해!\n사실씨가 붙어 있는 하얀 부분에\n엽산과 비타민 C가 집중되어 있어요.\n상한 참외가 아니라면\n달콤한 속 부분까지 꼭 다 챙겨 보세요.\n\n3. 오이, 루콜라, 올리브유와 찰떡궁합\n참외의 달콤함은\n쌉싸름한 채소와 만났을 때\n최고의 시너지를 내요.\n참외 샐러드에 올리브유를 곁들이면\n지용성 영양소의 흡수까지 도와줘서\n한 끼 식사로도 손색없는\n건강 식단이 된답니다.\n\n신선한 참외 고르는 법?\n\n참외는색이 선명한 노란색을 띠고,\n흰색 줄 수가 많고,\n흰색 골이 깊고 선명한 것게\n당도가 높아요!\n향이 너무 진한 것은\n속이 상했을 수있으니\n은은한 달콤함이 느껴지는 것을 고르세요.\n\n흰 줄 부분에 검은 반점있는 참외,\n꼭지 색이 검은참외는\n피하세요.\n크기는 성인 남성 주먹 정도가\n식감 좋고 맛있답니다.\n\n참외 신선 보관법?\n\n참외는 수분이 생명!\n참외를 가볍게 씻어\n물기를 완전히 닦아주세요.\n다회용 면보, 키친타월, 신문지를 활용해\n하나씩 감싸주세요.\n밀폐 용기에 담아 냉장 보관(5~7도)하면\n2~3주 동안 아삭함이 그대로 유지됩니다.\n가급적 일주일 안에 드시는 것이\n참외의 향긋함을 가장 온전히\n즐길 수 있다는 거 아시죠?\n\n참외 부작용 주의사항!\n\n1. 평소 몸이 차고 장이 예민한 경우\n한의학적으로 참외는\n'차가운 성질'을 가졌어요.\n때문에 평소 배가 자주 아프거나\n설사를 자주 하는 분이 과하게 드시면\n복통을 유발할 수 있으니\n적당량만 즐겨주세요.\n2. 신장 기능이 약한 경우 (중요!)\n참외는 칼륨 배출을 돕지만,\n신장 질환으로\n칼륨 조절이 어려운 분들께는\n오히려 독이 될 수 있어요.\n고칼륨혈증 위험이 있으니\n섭취 전\n꼭 전문의와 상담이 필요합니다.\n\n올바른 참외 섭취법으로\n제철의 달콤한 활력을 느껴보세요!",
+  "char_count": 1767
+}

@@ -1,0 +1,805 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223799449142",
+  "url": "https://m.blog.naver.com/schumpgel/223799449142",
+  "title": "2025 정월대보름맞이 나물 오곡밥 귀밝이술 달맞이 퇴근후마르쉐 벗밭 식구모임 후기",
+  "category": "소개, 행사안내",
+  "tags": [
+    "자연식물식",
+    "정월대보름",
+    "정월대보름행사",
+    "정월대보름부럼",
+    "오곡밥",
+    "정월대보름나물",
+    "정월대보름비빔밥",
+    "귀밝이술",
+    "부럼깨기",
+    "정월대보름달맞이"
+  ],
+  "component_count": 66,
+  "type_counts": {
+    "text": 31,
+    "image": 22,
+    "sticker": 6,
+    "quotation": 5,
+    "horizontalLine": 1,
+    "imageStrip": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "식구들과 함께 나눈 전통의 맛과 정 _by링키\n퇴근후마르쉐 식구들과 함께\n'2025 정월대보름 맞이'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2025 정월대보름,\n'퇴근 후 마르쉐' 2024년 봄, 여름, 가을 모임의\n식구들이 모여 뜻깊은 시간을 보냈습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "퇴근 후 마르쉐 ?!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이 모임은 '농부시장 마르쉐'와 '벗밭'의\n콜라보레이션으로 프로그램으로\n평일 낮에 열리는 마르쉐에 참가하지 못하는\n직장생활인들을 대신해서벗밭이 마르쉐에서\n장을 봐서 저녁에 모여 같이 제철 식재료 이야기도\n전해 듣고 같이 식사도 차려먹는 모임입니다.\n저희는 작년 퇴근후마르쉐 여름편에 참가했었는데\n계절이 바뀌어도 우리의 인연은 계속되었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그때의 기억이 너무 좋아서\n벗밭팀이나 마르쉐팀이 뭐만 한다 하면\n눈여겨보곤 하는데, 정월대보름 모임 한다 해서\n당장 신청했지요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "정월대보름, 함께 나누는 풍요로운 시간",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "정월대보름은 예로부터 한 해의 건강과 풍요를\n기원하는 중요한 명절이었다고 해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "정월대보름 식구 모임에서는 이 의미 있는 날을\n맞아 '정월대보름맞이'라는 이름으로 특별한\n포틀럭 파티를 기획해 초대해 주셨어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "마르쉐 X 벗밭 측에서 오곡밥, 나물, 부럼을 준비해\n주셨고, 참가자들이 각자 정성껏 준비한 반찬이나\n간식들을 가지고 왔어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "요기는 간식테이블!"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "음식들이 테이블 위에 놓이자 그 풍경만으로도\n마음이 따뜻해졌습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "같이 밥을 먹기에 앞서서 에피타이저로\n같이 건가죽나물을 다듬어서\n부각을 만들어 먹었어요!\n가죽나물을 좀 어려워하는데 이렇게 먹으니\n괜찮더라고요? 오?!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "오곡밥과 나물, 그리고 정성이 담긴 손맛",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "정월대보름 하면 빼놓을 수 없는 것이 바로\n오곡밥과 나물입니다. 쌀, 찹쌀, 조, 수수, 팥 등\n다양한 곡식으로 지은 오곡밥은 그 향만으로도\n건강한 기운이 전해졌습니다.\n(이날은 하나의 곡식이 더해져 6곡이었다고 해요.)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이렇게 밥과 나물로 예쁜 리스를 만든 분도\n계셨어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "여기에 가지나물과 한 가지 나물이 더 있어서\n총 8가지의 나물을 맛봤습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "특히 이날 준비된 나물 반찬들은 다정님이\n직접 배워오신 방법으로 만든 나물로, 획일화\n된 맛이 아니라 나물 자체의 향취가 잘 살아있는\n비법이 담겨 있어 더욱 특별했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "고춧잎나물, 삼잎국화나물, 부지깽이나물\n취나물, 곤드레나물, 장록나물, 가지나물 등 다양한 나물들이 어우러져 입안 가득 봄의 맛을 느낄 수\n있었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "나물 자체가 너무 풍미가 좋아서\n고추장이 있었지만 요렇게 김에 싸서\n먹었습니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "부럼 깨기와 귀밝이술의 재미",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "식사 후에는 전통 풍습인 부럼 깨기 시간을\n가졌습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "호두, 밤, 땅콩 등 단단한 견과류를\n이로 깨물며 한 해 액운을 물리친다는 의미를\n되새겼습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "물론 이를 보호하기 위해서\n각종 도구들로 견과류를 손질했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "서로의 부럼을 깨는 모습을 보며 웃음꽃이 피었고, 이어서 맑은 술을 마시는 귀밝이술도 잊지\n않았습니다. \"올 한 해 좋은 소식만 듣자\"는 의미로\n잔을 기울이며 서로에게 건강과 행운을\n기원했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이 자리에도 귀한 술을 맛볼 수 있어서 좋았어요.\n올해 정말 귀가 더 밝아질 것 같아요",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "달맞이, 함께 빌었던 소원",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "즐겁게 식사하며 날이 어두워지자, 우리는\n모두 함께 옥상에 올라가 동그랗게 뜬 달을\n조용히 구경했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "예부터 정월대보름 달에게 소원을 빌면\n이루어진다는 이야기가 있지요.\n하늘이 맑아서 같이 달맞이 할 수 있어\n럭키비키한 기분",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "정월대보름맞이 모임을 통해 우리는 바쁜 일상\n속에서 잊고 살았던 전통의 의미를 되새기고,\n함께 식사하는 즐거움을 나눌 수 있었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사진을 다시 봐도 너무 좋네요.\n언제나 마음 다해 초대해 주셔서 감사할 따름입니다.\n앞으로도 계절의 변화와 함께 이어질 모임이\n더욱 기대됩니다. 다음은 어떤 계절, 어떤 명절에\n함께 모여 추억을 쌓게 될까요?\n그 기대감만으로도 일상이 더욱 풍요로워집니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그날 저녁 인스타그램 스토리로 올렸던\n2025 정월대보름맞이 퇴근후마르쉐 벗밭\n식구모임 후기 마칠게요.\n모두들 건강하고 행복한 2025년 되시길 바라요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    }
+  ],
+  "body_text": "식구들과 함께 나눈 전통의 맛과 정 _by링키\n퇴근후마르쉐 식구들과 함께\n'2025 정월대보름 맞이'\n\n2025 정월대보름,\n'퇴근 후 마르쉐' 2024년 봄, 여름, 가을 모임의\n식구들이 모여 뜻깊은 시간을 보냈습니다.\n\n퇴근 후 마르쉐 ?!\n\n이 모임은 '농부시장 마르쉐'와 '벗밭'의\n콜라보레이션으로 프로그램으로\n평일 낮에 열리는 마르쉐에 참가하지 못하는\n직장생활인들을 대신해서벗밭이 마르쉐에서\n장을 봐서 저녁에 모여 같이 제철 식재료 이야기도\n전해 듣고 같이 식사도 차려먹는 모임입니다.\n저희는 작년 퇴근후마르쉐 여름편에 참가했었는데\n계절이 바뀌어도 우리의 인연은 계속되었습니다.\n\n그때의 기억이 너무 좋아서\n벗밭팀이나 마르쉐팀이 뭐만 한다 하면\n눈여겨보곤 하는데, 정월대보름 모임 한다 해서\n당장 신청했지요\n\n정월대보름, 함께 나누는 풍요로운 시간\n\n정월대보름은 예로부터 한 해의 건강과 풍요를\n기원하는 중요한 명절이었다고 해요.\n\n정월대보름 식구 모임에서는 이 의미 있는 날을\n맞아 '정월대보름맞이'라는 이름으로 특별한\n포틀럭 파티를 기획해 초대해 주셨어요.\n\n마르쉐 X 벗밭 측에서 오곡밥, 나물, 부럼을 준비해\n주셨고, 참가자들이 각자 정성껏 준비한 반찬이나\n간식들을 가지고 왔어요.\n\n음식들이 테이블 위에 놓이자 그 풍경만으로도\n마음이 따뜻해졌습니다.\n\n같이 밥을 먹기에 앞서서 에피타이저로\n같이 건가죽나물을 다듬어서\n부각을 만들어 먹었어요!\n가죽나물을 좀 어려워하는데 이렇게 먹으니\n괜찮더라고요? 오?!\n\n오곡밥과 나물, 그리고 정성이 담긴 손맛\n\n정월대보름 하면 빼놓을 수 없는 것이 바로\n오곡밥과 나물입니다. 쌀, 찹쌀, 조, 수수, 팥 등\n다양한 곡식으로 지은 오곡밥은 그 향만으로도\n건강한 기운이 전해졌습니다.\n(이날은 하나의 곡식이 더해져 6곡이었다고 해요.)\n\n이렇게 밥과 나물로 예쁜 리스를 만든 분도\n계셨어요.\n\n여기에 가지나물과 한 가지 나물이 더 있어서\n총 8가지의 나물을 맛봤습니다.\n\n특히 이날 준비된 나물 반찬들은 다정님이\n직접 배워오신 방법으로 만든 나물로, 획일화\n된 맛이 아니라 나물 자체의 향취가 잘 살아있는\n비법이 담겨 있어 더욱 특별했습니다.\n\n고춧잎나물, 삼잎국화나물, 부지깽이나물\n취나물, 곤드레나물, 장록나물, 가지나물 등 다양한 나물들이 어우러져 입안 가득 봄의 맛을 느낄 수\n있었습니다.\n\n나물 자체가 너무 풍미가 좋아서\n고추장이 있었지만 요렇게 김에 싸서\n먹었습니다!\n\n부럼 깨기와 귀밝이술의 재미\n\n식사 후에는 전통 풍습인 부럼 깨기 시간을\n가졌습니다.\n\n호두, 밤, 땅콩 등 단단한 견과류를\n이로 깨물며 한 해 액운을 물리친다는 의미를\n되새겼습니다.\n\n물론 이를 보호하기 위해서\n각종 도구들로 견과류를 손질했어요.\n\n서로의 부럼을 깨는 모습을 보며 웃음꽃이 피었고, 이어서 맑은 술을 마시는 귀밝이술도 잊지\n않았습니다. \"올 한 해 좋은 소식만 듣자\"는 의미로\n잔을 기울이며 서로에게 건강과 행운을\n기원했습니다.\n\n이 자리에도 귀한 술을 맛볼 수 있어서 좋았어요.\n올해 정말 귀가 더 밝아질 것 같아요\n\n달맞이, 함께 빌었던 소원\n\n즐겁게 식사하며 날이 어두워지자, 우리는\n모두 함께 옥상에 올라가 동그랗게 뜬 달을\n조용히 구경했습니다.\n\n예부터 정월대보름 달에게 소원을 빌면\n이루어진다는 이야기가 있지요.\n하늘이 맑아서 같이 달맞이 할 수 있어\n럭키비키한 기분\n\n정월대보름맞이 모임을 통해 우리는 바쁜 일상\n속에서 잊고 살았던 전통의 의미를 되새기고,\n함께 식사하는 즐거움을 나눌 수 있었습니다.\n\n사진을 다시 봐도 너무 좋네요.\n언제나 마음 다해 초대해 주셔서 감사할 따름입니다.\n앞으로도 계절의 변화와 함께 이어질 모임이\n더욱 기대됩니다. 다음은 어떤 계절, 어떤 명절에\n함께 모여 추억을 쌓게 될까요?\n그 기대감만으로도 일상이 더욱 풍요로워집니다.\n\n그날 저녁 인스타그램 스토리로 올렸던\n2025 정월대보름맞이 퇴근후마르쉐 벗밭\n식구모임 후기 마칠게요.\n모두들 건강하고 행복한 2025년 되시길 바라요!",
+  "char_count": 1946
+}

@@ -1,0 +1,654 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224179859163",
+  "url": "https://m.blog.naver.com/schumpgel/224179859163",
+  "title": "대부분 모르는 미국 ICE OUT 시위 뜻, 배경, 진짜 의미 총정리!",
+  "category": "경제정보",
+  "tags": [
+    "ice미국",
+    "ice뜻",
+    "ice",
+    "ice요원",
+    "ice총격",
+    "iceout뜻",
+    "iceout",
+    "미국ice",
+    "iceout시위뜻",
+    "iceout시위",
+    "iceoutof뜻",
+    "iceoutof",
+    "iceoutofla",
+    "미국ice뜻",
+    "미국ICE총격",
+    "미국ICE요원뜻",
+    "미국ice요원",
+    "미국ice시위",
+    "미국iceout뜻",
+    "미국ice단속",
+    "미국ice아웃뜻",
+    "미국ice신고방법"
+  ],
+  "component_count": 53,
+  "type_counts": {
+    "text": 22,
+    "image": 13,
+    "quotation": 13,
+    "sectionTitle": 2,
+    "horizontalLine": 1,
+    "imageGroup": 1,
+    "sticker": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "미국 ICE OUT 시위 진짜 의미_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "미국에서 확산되는",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "ICE OUT 시위 ?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "요즘 뉴스나 SNS를 보다 보면\nICE OUT이라는 문구를 자주 보게 돼요.\n단순한 시위 구호처럼 보이지만,\n그 안에는 총격 사건과 이민 단속을 둘러싼\n깊은 갈등이 담겨 있어요.\n지금 미국에서 왜 ICE OUT 시위가\n확산되고 있는지\n그 의미를 알아볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "ICE OUT  뜻?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "원래 의미와 지금의 의미는 달라요.\n원래'Ice out'은\n호수나 강의 얼음이 완전히 녹아서\n배가 다닐 수 있게 된 상태를\n뜻하는 표현이죠.\n하지만지금미국에서 외쳐지는\n'ICE OUT'은전혀 다른 의미로\n사용되고 있어요.\n이슈되는ICE는\n미국 이민세관단속국\n(Immigration and Customs Enforcement)을\n의미해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "이민 단속 기관 ICE를\n일상과 지역사회에서 몰아내자!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "는항의 구호예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "ICE 기관이 논란이된 이유?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "ICE는\n미국 국토안보부(DHS)\n산하 기관예요.\n- 불법 체류자 단속\n- 이민자 체포, 구금, 추방\n업무를 담당하고 있구요.\n하지만 단속 과정에서",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "영장 없는 체포 논란,\n민간인 오인 체포,\n과잉 무력 사용",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "같은 사건이 반복되면서\nICE는 단순한 행정기관이 아니라\n공포와 감시의 상징으로\n인식되기 시작했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "ICE OUT 시위의 결정적 계기?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "ICE OUT 시위가 본격적으로\n확산된 계기는\n미네소타주 미니애폴리스에서\n발생한총격 사건이에요.\n이민 단속 과정에서",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "불법 체류자가 아닌\n미국 시민권자(37세 여성)가\nICE 요원 총격으로 사망",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이 사건 이후\n\"이게정당한 법 집행이 맞는가?\"\n\"왜 시민이이민 단속 과정에서\n목숨을 잃어야하는가?\"\n라는 질문이 미국 사회 전반으로 퍼졌고,\n강추위 속에서도 시민들이 거리로 나와\nICE OUT 시위를 이어가고 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "ICE OUT과 ICE OUT\nFOR GOOD의 차이?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "imageGroup",
+      "count": 2,
+      "style": {
+        "classes": [
+          "se-l-collage"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "최근에는 ICE OUT과 함께\n\"ICE OUT FOR GOOD\"이라는\n표현도 자주 등장해요.\n[ICE OUT]\nICE에 대한 즉각적인\n반대와 항의의 의미\n[ICE OUT FOR GOOD]\nICE를 잠시 멈추는 것이 아니라,\n완전히 퇴출하고 책임을 묻자는 의미",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "여기서'For Good'은\n'영원히'라는 뜻과 함께\nICE 단속 과정에서 숨진 시민의\n이름을 기억하자는 상징적인\n의미도 담고 있어요.\nICE OUT FOR GOOD은\n단순한 분노를 넘어\n제도와 구조의 변화를 요구하는\n내용으 볼 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "ICE는 게슈타포다?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "왜 이런 표현까지 나올까요?\n시위 현장에서는 ICE를\n나치 독일의 비밀경찰\n'게슈타포'에 비유한 피켓도 등장했어요.\n이유는 ICE가",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "얼굴 인식 기술,\n차량 번호판 자동 인식,\n위치 추적 데이터,\n민간 데이터베이스",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "등을 활용하면서,\n이민 단속을 넘어 일상 전반을 감시하는\n조직처럼 보이고 있기 때문이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "시민들은",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "범죄자를 단속하는 것이 아니라,\n일상을 위협하고 있다!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "고 말하고 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "할리우드도 ICE OUT 외친다?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "할리우드도 ICE OUT을 외치고 있어요.\nICE OUT은 이제 거리 시위를 넘어\n문화, 예술계의 공개적인 메시지로도\n확산되고 있어요.\n그래미 시상식과 선댄스 영화제 등에서\n여러 할리우드 배우와 아티스트들이\n'ICE OUT 배지를 착용하거나\n발언을 통해 이민 단속 정책을 비판했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이들은 정치적 구호보다는",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "이민자는 범죄자가 아니다.\n공포가 아니라존엄이 필요하다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "는 메시지를 강조하면서\nICE OUT\n인권과 시민 안전 문제로\n이야기하고 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ff008c;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "미국 여론은 어떤가?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "여론조사에 따르면\n미국인의 절반 이상이\n이민 단속 강화가도시 안전에\n도움 되지 않는다고 답했어요.\n총격 사건에서의무력 사용역시\n부적절했다는 의견이 많았어요.\n그럼에도 불구하고\n연방정부는 단속 강화를\n예고하고 있어서\n주정부와 도시 정부 간의 갈등은\n더 깊어지고 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "ICE OUT 시위는\n이민 문제를 넘어서\n국가 권력과 감시, 시민의 안전과\n존엄을 묻고 있어요.\n지금 미국에서 벌어지고 있는\nICE OUT 시위를 이해하는 것은\n우리가 살아가는 사회가\n어디로 가고 있는지를 살펴보는\n하나의 단서가 될 거예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "미국 ICE OUT 시위 진짜 의미_by징키\n\n미국에서 확산되는\n\nICE OUT 시위 ?\n\n요즘 뉴스나 SNS를 보다 보면\nICE OUT이라는 문구를 자주 보게 돼요.\n단순한 시위 구호처럼 보이지만,\n그 안에는 총격 사건과 이민 단속을 둘러싼\n깊은 갈등이 담겨 있어요.\n지금 미국에서 왜 ICE OUT 시위가\n확산되고 있는지\n그 의미를 알아볼게요.\n\nICE OUT  뜻?\n\n원래 의미와 지금의 의미는 달라요.\n원래'Ice out'은\n호수나 강의 얼음이 완전히 녹아서\n배가 다닐 수 있게 된 상태를\n뜻하는 표현이죠.\n하지만지금미국에서 외쳐지는\n'ICE OUT'은전혀 다른 의미로\n사용되고 있어요.\n이슈되는ICE는\n미국 이민세관단속국\n(Immigration and Customs Enforcement)을\n의미해요.\n\n이민 단속 기관 ICE를\n일상과 지역사회에서 몰아내자!\n\n는항의 구호예요.\n\nICE 기관이 논란이된 이유?\n\nICE는\n미국 국토안보부(DHS)\n산하 기관예요.\n- 불법 체류자 단속\n- 이민자 체포, 구금, 추방\n업무를 담당하고 있구요.\n하지만 단속 과정에서\n\n영장 없는 체포 논란,\n민간인 오인 체포,\n과잉 무력 사용\n\n같은 사건이 반복되면서\nICE는 단순한 행정기관이 아니라\n공포와 감시의 상징으로\n인식되기 시작했어요.\n\nICE OUT 시위의 결정적 계기?\n\nICE OUT 시위가 본격적으로\n확산된 계기는\n미네소타주 미니애폴리스에서\n발생한총격 사건이에요.\n이민 단속 과정에서\n\n불법 체류자가 아닌\n미국 시민권자(37세 여성)가\nICE 요원 총격으로 사망\n\n이 사건 이후\n\"이게정당한 법 집행이 맞는가?\"\n\"왜 시민이이민 단속 과정에서\n목숨을 잃어야하는가?\"\n라는 질문이 미국 사회 전반으로 퍼졌고,\n강추위 속에서도 시민들이 거리로 나와\nICE OUT 시위를 이어가고 있어요.\n\nICE OUT과 ICE OUT\nFOR GOOD의 차이?\n\n최근에는 ICE OUT과 함께\n\"ICE OUT FOR GOOD\"이라는\n표현도 자주 등장해요.\n[ICE OUT]\nICE에 대한 즉각적인\n반대와 항의의 의미\n[ICE OUT FOR GOOD]\nICE를 잠시 멈추는 것이 아니라,\n완전히 퇴출하고 책임을 묻자는 의미\n\n여기서'For Good'은\n'영원히'라는 뜻과 함께\nICE 단속 과정에서 숨진 시민의\n이름을 기억하자는 상징적인\n의미도 담고 있어요.\nICE OUT FOR GOOD은\n단순한 분노를 넘어\n제도와 구조의 변화를 요구하는\n내용으 볼 수 있어요.\n\nICE는 게슈타포다?\n\n왜 이런 표현까지 나올까요?\n시위 현장에서는 ICE를\n나치 독일의 비밀경찰\n'게슈타포'에 비유한 피켓도 등장했어요.\n이유는 ICE가\n\n얼굴 인식 기술,\n차량 번호판 자동 인식,\n위치 추적 데이터,\n민간 데이터베이스\n\n등을 활용하면서,\n이민 단속을 넘어 일상 전반을 감시하는\n조직처럼 보이고 있기 때문이에요.\n\n시민들은\n\n범죄자를 단속하는 것이 아니라,\n일상을 위협하고 있다!\n\n고 말하고 있어요.\n\n할리우드도 ICE OUT 외친다?\n\n할리우드도 ICE OUT을 외치고 있어요.\nICE OUT은 이제 거리 시위를 넘어\n문화, 예술계의 공개적인 메시지로도\n확산되고 있어요.\n그래미 시상식과 선댄스 영화제 등에서\n여러 할리우드 배우와 아티스트들이\n'ICE OUT 배지를 착용하거나\n발언을 통해 이민 단속 정책을 비판했어요.\n\n이들은 정치적 구호보다는\n\n이민자는 범죄자가 아니다.\n공포가 아니라존엄이 필요하다.\n\n는 메시지를 강조하면서\nICE OUT\n인권과 시민 안전 문제로\n이야기하고 있어요.\n\n미국 여론은 어떤가?\n\n여론조사에 따르면\n미국인의 절반 이상이\n이민 단속 강화가도시 안전에\n도움 되지 않는다고 답했어요.\n총격 사건에서의무력 사용역시\n부적절했다는 의견이 많았어요.\n그럼에도 불구하고\n연방정부는 단속 강화를\n예고하고 있어서\n주정부와 도시 정부 간의 갈등은\n더 깊어지고 있어요.\n\nICE OUT 시위는\n이민 문제를 넘어서\n국가 권력과 감시, 시민의 안전과\n존엄을 묻고 있어요.\n지금 미국에서 벌어지고 있는\nICE OUT 시위를 이해하는 것은\n우리가 살아가는 사회가\n어디로 가고 있는지를 살펴보는\n하나의 단서가 될 거예요.",
+  "char_count": 2013
+}

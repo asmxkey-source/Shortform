@@ -1,0 +1,438 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224347102219",
+  "url": "https://m.blog.naver.com/schumpgel/224347102219",
+  "title": "나만 몰랐던 옥수수의 배신! 혈당 폭탄 안 맞는 3가지 비법?",
+  "category": "식생활 소식",
+  "tags": [
+    "옥수수혈당",
+    "찐옥수수혈당",
+    "옥수수혈당지수",
+    "초당옥수수혈당",
+    "삶은옥수수혈당",
+    "옥수수혈당스파이크",
+    "옥수수혈당수치",
+    "옥수수삶는법",
+    "옥수수삶는시간",
+    "옥수수삶기",
+    "옥수수삶을때넣는것",
+    "초당옥수수삶는법",
+    "옥수수삶는법뉴슈가",
+    "옥수수삶는방법",
+    "옥수수칼로리",
+    "옥수수효능",
+    "옥수수찌는법",
+    "옥수수찌는시간",
+    "옥수수철",
+    "옥수수부작용"
+  ],
+  "component_count": 34,
+  "type_counts": {
+    "text": 13,
+    "image": 10,
+    "horizontalLine": 5,
+    "quotation": 5,
+    "sectionTitle": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "옥수수 효능, 부작용 총정리_by징키\n옥수수, 그냥 먹지 마세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "먹는법, 황금레시피까지",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "무더위가 찾아오면\n어디선가 구수한 김을 풍기며\n침샘 자극하는 노란 옥수수가\n떠오르는데요.\n달콤한 옥수수가 우리 몸에서\n무시무시한 혈당 스파이크 일으키는\n주범이 될 수도 있다는 사실\n알고 계셨나요?\n남들은 벌써 '이 방법'으로\n혈당 걱정 없이 먹고 있는데,\n나만 모르고 있던\n옥수수의 반전 효능과\n안전한 섭취 방법, 조리법까지\n싹 정리해 드릴게요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "옥수수의 반전 효능?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 씨눈 속 '리놀레산'의\n혈관 청소 효과\n옥수수는 단순한\n탄수화물 덩어리가 아니에요.\n옥수수씨눈에는 필수 지방산인\n'리놀레산'이 가득 들어있답니다.\n이 성분이\n혈중 나쁜 LDL 콜레스테롤 수치를\n안정적으로 낮춰주고,\n혈관을 깨끗하게 청소해 동맥경화를 막는 데\n뛰어난 효능을 발휘해요.\n심장의 탄력을 유지하고 혈압 조절하는\n마그네슘과 페놀산도 풍부하답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 알갱이 속 '루테인·제아잔틴'의\n눈 보호막\n옥수수 알갱이에 풍부한\n루테인과 제아잔틴 성분은\n강력한항산화 성분이에요.\n종일 스마트폰과\n뜨거운 여름 자외선에 노출되어\n침침해진 시력을 보호하는 데 특효약인데요.\n눈의황반 변성을 예방하고\n안구 건조증을 완화하는 데 탁월해,\n꾸준히 섭취하면 값비싼 영양제 부럽지 않은\n천연 안구 보호제 역할을 톡톡히 해내요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "옥수수의 치명적 부작용?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 식후에 바로 터지는\n'혈당 스파이크'\n옥수수는당질 함량이 매우 높은 편이에요.\n삶은 옥수수의 혈당지수(GI)는\n약 70~75로 비교적 높아요.\n그렇다 보니\n식후에 아무 생각 없이\n디저트처럼 입가심으로 먹었다가는,\n췌장에 큰 무리를 주고\n순식간에 혈당을 수직 상승시키는\n치명적인 문제를 일으키기 쉬워요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;",
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 원푸드 섭취가 부르는\n'영양 불균형'\n옥수수에는 필수 아미노산인\n라이신과 트립토판이 현저히 부족해요.\n옥수수만 과다하게 먹는\n원푸드 식단을 고집하다가는\n장기적으로심각한 영양 결핍이 올 수 있어요.\n게다가한 번에 여러 개를 폭식하는 식습관은\n인슐린 저항성을 극대화하기 때문에\n각별한 주의가 필요해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;",
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "안전한 옥수수 섭취 공식?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "혈당 방패막, 단백질 먼저 먹기!\n옥수수의 치명적인 부작용을\n보완하기 위해 똑똑한 사람들은\n이미달걀, 우유, 두유같은\n단백질 식품을 옥수수보다 먼저\n먹고 있었어요.\n옥수수에 부족한\n필수 아미노산(라이신, 트립토판)을\n계란의 단백질이\n채워 영양 균형을 맞춰주거든요.\n단백질을 먼저 먹으면\n소화 속도가 느려지고\n탄수화물이 흡수되는 속도를 지연시켜\n혈당이 완만하게 오르도록\n방어해 주기 때문예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0076c8;",
+          "color:#0095e9;",
+          "color:#ff9c23;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "옥수수 황금 조리법?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 껍찔 째 삷아?\n건강하고 맛있게 삶는 비결은\n바로'속껍질'을 1~2장 남겨둔 채\n찌는 것이랍니다.\n속껍질이 수분 증발을 막아줘서\n다 쪄진 후에도 알갱이가\n쪼글쪼글해지지 않고 촉촉하게 유지돼요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 소금만 넣어? 뉴슈가 넣어 말아?\n팬에 옥수수가 자작하게 잠길 정도로\n물 부은 뒤, 옥수수 4~5개 기준으로\n천일염 1큰술(약 10~15g)을 넣어주세요.\n옥수수마다 당도가 다를 수 있겠죠?\n테스트로 먼 삶아보고\n밍밍하면, 뉴슈가를 0.3T정도 넣어보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 삶는 시간\n뚜껑을 꼭 닫은 상태에서 센 불 20~30분\n→ 중약불 10~15분\n→ 불 끄고 뜸 들이기 5~10분\n수분이 골고루 스며들어\n찰지고 쫀득쫀득한 식감을 맛볼 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "옥수수 보관 꿀팁?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "옥수수는 수확하자마자\n당분이 전분으로 빠르게 변해요.\n생옥수수 상태로 방치하면\n단맛이 금세 빠지고\n껍질만 단단하게 질겨요.\n가장 좋은 보관법은\n구매한 첫날에\n즉시 옥수수를 전부 삶는거예요.\n잘 삶아진 옥수수를 한 김 식힌 뒤,\n다회용 실리콘 백에 꼼꼼히 밀봉하여\n냉동실에 얼려보관해 주세요.\n먹고 싶을 때 꺼내서 찜기에 15분정도\n다시 찌면 쫀득한 식감을\n느끼실 수 있을거예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffad98;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "여러분도 이번 여름에는\n든든한 단백질 메이트\n달걀, 두유 등을 먼저 챙긴 후\n혈당 스파이크 걱정 없이\n옥수수를 즐겨보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "옥수수 효능, 부작용 총정리_by징키\n옥수수, 그냥 먹지 마세요!\n\n먹는법, 황금레시피까지\n\n무더위가 찾아오면\n어디선가 구수한 김을 풍기며\n침샘 자극하는 노란 옥수수가\n떠오르는데요.\n달콤한 옥수수가 우리 몸에서\n무시무시한 혈당 스파이크 일으키는\n주범이 될 수도 있다는 사실\n알고 계셨나요?\n남들은 벌써 '이 방법'으로\n혈당 걱정 없이 먹고 있는데,\n나만 모르고 있던\n옥수수의 반전 효능과\n안전한 섭취 방법, 조리법까지\n싹 정리해 드릴게요!\n\n옥수수의 반전 효능?\n\n1. 씨눈 속 '리놀레산'의\n혈관 청소 효과\n옥수수는 단순한\n탄수화물 덩어리가 아니에요.\n옥수수씨눈에는 필수 지방산인\n'리놀레산'이 가득 들어있답니다.\n이 성분이\n혈중 나쁜 LDL 콜레스테롤 수치를\n안정적으로 낮춰주고,\n혈관을 깨끗하게 청소해 동맥경화를 막는 데\n뛰어난 효능을 발휘해요.\n심장의 탄력을 유지하고 혈압 조절하는\n마그네슘과 페놀산도 풍부하답니다.\n\n2. 알갱이 속 '루테인·제아잔틴'의\n눈 보호막\n옥수수 알갱이에 풍부한\n루테인과 제아잔틴 성분은\n강력한항산화 성분이에요.\n종일 스마트폰과\n뜨거운 여름 자외선에 노출되어\n침침해진 시력을 보호하는 데 특효약인데요.\n눈의황반 변성을 예방하고\n안구 건조증을 완화하는 데 탁월해,\n꾸준히 섭취하면 값비싼 영양제 부럽지 않은\n천연 안구 보호제 역할을 톡톡히 해내요.\n\n옥수수의 치명적 부작용?\n\n1. 식후에 바로 터지는\n'혈당 스파이크'\n옥수수는당질 함량이 매우 높은 편이에요.\n삶은 옥수수의 혈당지수(GI)는\n약 70~75로 비교적 높아요.\n그렇다 보니\n식후에 아무 생각 없이\n디저트처럼 입가심으로 먹었다가는,\n췌장에 큰 무리를 주고\n순식간에 혈당을 수직 상승시키는\n치명적인 문제를 일으키기 쉬워요.\n\n2. 원푸드 섭취가 부르는\n'영양 불균형'\n옥수수에는 필수 아미노산인\n라이신과 트립토판이 현저히 부족해요.\n옥수수만 과다하게 먹는\n원푸드 식단을 고집하다가는\n장기적으로심각한 영양 결핍이 올 수 있어요.\n게다가한 번에 여러 개를 폭식하는 식습관은\n인슐린 저항성을 극대화하기 때문에\n각별한 주의가 필요해요.\n\n안전한 옥수수 섭취 공식?\n\n혈당 방패막, 단백질 먼저 먹기!\n옥수수의 치명적인 부작용을\n보완하기 위해 똑똑한 사람들은\n이미달걀, 우유, 두유같은\n단백질 식품을 옥수수보다 먼저\n먹고 있었어요.\n옥수수에 부족한\n필수 아미노산(라이신, 트립토판)을\n계란의 단백질이\n채워 영양 균형을 맞춰주거든요.\n단백질을 먼저 먹으면\n소화 속도가 느려지고\n탄수화물이 흡수되는 속도를 지연시켜\n혈당이 완만하게 오르도록\n방어해 주기 때문예요.\n\n옥수수 황금 조리법?\n\n1. 껍찔 째 삷아?\n건강하고 맛있게 삶는 비결은\n바로'속껍질'을 1~2장 남겨둔 채\n찌는 것이랍니다.\n속껍질이 수분 증발을 막아줘서\n다 쪄진 후에도 알갱이가\n쪼글쪼글해지지 않고 촉촉하게 유지돼요.\n\n2. 소금만 넣어? 뉴슈가 넣어 말아?\n팬에 옥수수가 자작하게 잠길 정도로\n물 부은 뒤, 옥수수 4~5개 기준으로\n천일염 1큰술(약 10~15g)을 넣어주세요.\n옥수수마다 당도가 다를 수 있겠죠?\n테스트로 먼 삶아보고\n밍밍하면, 뉴슈가를 0.3T정도 넣어보세요.\n\n2. 삶는 시간\n뚜껑을 꼭 닫은 상태에서 센 불 20~30분\n→ 중약불 10~15분\n→ 불 끄고 뜸 들이기 5~10분\n수분이 골고루 스며들어\n찰지고 쫀득쫀득한 식감을 맛볼 수 있어요.\n\n옥수수 보관 꿀팁?\n\n옥수수는 수확하자마자\n당분이 전분으로 빠르게 변해요.\n생옥수수 상태로 방치하면\n단맛이 금세 빠지고\n껍질만 단단하게 질겨요.\n가장 좋은 보관법은\n구매한 첫날에\n즉시 옥수수를 전부 삶는거예요.\n잘 삶아진 옥수수를 한 김 식힌 뒤,\n다회용 실리콘 백에 꼼꼼히 밀봉하여\n냉동실에 얼려보관해 주세요.\n먹고 싶을 때 꺼내서 찜기에 15분정도\n다시 찌면 쫀득한 식감을\n느끼실 수 있을거예요.\n\n여러분도 이번 여름에는\n든든한 단백질 메이트\n달걀, 두유 등을 먼저 챙긴 후\n혈당 스파이크 걱정 없이\n옥수수를 즐겨보세요.",
+  "char_count": 1927
+}

@@ -1,0 +1,742 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224389477748",
+  "url": "https://m.blog.naver.com/schumpgel/224389477748",
+  "title": "클로드코드 AI 딸깍 실패 이유? 왜 나만 이상한 답이 나올까 (ft. 프롬프트 해결 공식 3가지)",
+  "category": "꿀팁, 체험기",
+  "tags": [
+    "클로드ai",
+    "클로드코드잘쓰는법",
+    "클로드코드사용방법",
+    "클로드코드",
+    "클로드자동화",
+    "클로드자동화세팅방법",
+    "클로트자동화방법",
+    "클로드자동화활용방법"
+  ],
+  "component_count": 64,
+  "type_counts": {
+    "text": 27,
+    "image": 13,
+    "horizontalLine": 11,
+    "quotation": 6,
+    "file": 3,
+    "sectionTitle": 2,
+    "video": 2
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "AI 딸깍 실패 이유_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "클로드로 주간회의 폴더",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "자동생성하기",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "안녕하세요 이웃님들!\nAI '딸깍' 한 번에 칼퇴한다는\n말 믿고 썼다가 속 터진 적 없으신가요?\n몇 번의 삽질 끝에 건져 올린\nAI 딸깍 실패 이유와 실전 프롬프트\n해결 경험 3가지를 풀어볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "바쁜 분들을 위한 3줄 핵심 요약",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. '딸깍'은 무슨\nAI는 만능 요술봉이 아니라,\n일을 하나씩 가르쳐야 하는\n'눈치 없는 신입사원'이에요.\n2. 실패 원인\n날짜, 주차 계산 같은 연속 연산이나\n복합적인 수정이 필요할 땐\n앞선 코드를 덮어쓰는 오류가 발생해요.\n3. 해결 방법\n한 번에 하나만 지시하고,\n잘 작동한 코드를 고정하면(기억해라라고 하면)\n실패율을 확 줄일 수 있어요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "10분 아끼려다 망한 사연?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "SNS에선\n'프롬프트 한 줄로 3초 컷'이라지만,\n막상 써보면 차라리 손으로 하는 게\n낫겠다 싶을 때가 많죠.\n이번에 AI를 통해 해 시도 해 본 건\n주간회의 폴더·양식 셋팅하기 였는데요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1) 월요일 회의가 끝나면\n다음 주 회의 일자에 맞춰\n새 폴더를 만들어요.\n2) 그 폴더에팀별 폴더,\n취합 폴더를 각각만들고,\n3)팀별 폴더에\n새로운 날짜의 파일명의 파일 생성하고,\n내용 작성 할 수 있도록\n주간회의 PPT 양식을 세팅해요.\n4)취합 폴더도\n새로운 날짜의 파일명의 파일 생성하고,\n다음주 월요일에 새로운 내용 복붙할 수 있게\n간지만 셋팅해 둬야해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "직접 하면 10분 남짓이지만\n머리 쓸 일도 아니고\n매주 반복하려니 번거로워서\nAI에게 자동 생성 배치 파일(.bat)을\n부탁해 봤어요.\n그런데 여기서부터 예상치 못한\n고난이 시작됐습니다...",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "왜 2주차를 1주차라 우길까?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2026년 6월 8일회의 자료라면\n상식적으로 '6월 2주차'로\n자동 변경되어야 하잖아요?\n그런데 AI는\n꿋꿋하게 '6월 1주차'를 고집하더라고요.\n3번째 요청\n주차 수정해 달라고 했더니,\n날짜만 바꾸고 다 됐다고 우김...",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4번째 요청\n이전 버전은 날짜라도 맞았는데,\n업데이트하더니 날짜까지\n다시 엉망진창!\n(김부장님이 AI를 조종하나 싶었네요.)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "5번째 요청\n표지는 고쳤다는데, 삭제되어야 할\n본문 슬라이드 26장이 그대로\n남아있는 마법?!\n\"죄송해요,\n제가 여전히 너무 뭉뚱그렸습니다\"라며\n당당하게 사과하는 AI를 보며\n'그냥 하던 대로 내가 손으로 만들까...'\n수십 번 고민했답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#00a84b;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "왜 하나 고치면 또 터질까?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "직접 부딪혀보며 느낀\nAI가 '딸깍'에 실패하는\n진짜 이유는 이런 거 같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 날짜와 주차 계산(달력 추론)의 맹점\nAI는 문장을 매끄럽게 쓰는 데는 천재지만,\n달력 기준의 주차 계산이나\n날짜 연산 같은 논리 작업에서는\n생각보다 자주 헛갈려 해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 하나 고치면 다른 게 터지는 풍선 효과\n주차를 고쳐달라고 하면\n날짜 코드를 건드리고,\n날짜를 잡으면\n슬라이드 삭제 로직을 빼먹는 식이죠.\n전체 맥락을 통제하지 못하면\n이런 도돌이표 문제가 생겨요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. '뭉뚱그린 지시'의 함정\n\"알아서 센스 있게 수정해줘\"는\nAI에게 최악의 주문이에요.\n어디서부터 어디까지 손대야 하는지\n콕 집어주지 않으면\n엉뚱한 곳을 건드려 버린답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "프롬프트 해결 공식 3가지?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "포기하고 싶은 마음을 누르고\n참을 인(忍) 자를 세 번 새기며\n계속 돌린 결과,\n드디어 6번째 시도 만에\n6월 2주차 (2026.06.08) 자동 생성 성공!\nAI와 씨름하며 건져 올린\n실전 프롬프트 해결 공식 3가지를\n정리해 봤어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 한 번에 딱 한 가지 문제만\n쪼개서 지시하기\n날짜, 주차, 슬라이드 삭제를\n한꺼번에 시키면 과부하가 걸려요.\n\"주차 계산 로직 먼저 잡고,\n그다음 슬라이드 삭제하자\"처럼\n단계를 나눠주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 잘 작동하던 이전 내용을\n기준점으로 제시하기\n\"이전 코드에서 날짜 변경은 완벽했어.\n그 부분은 건드리지 말고,\n오직 '주차 텍스트'만 수정해 줘\"라고\n명확한 가이드라인을 쳐주는 게 중요해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 구체적인 오류 화면과\n에러 텍스트(로그) 그대로 던져주기\n\"안 되잖아!\" 대신 \"실행했을 때\n표지 날짜는 06.08로 뜨는데\n주차가 여전히 1주차로 찍혀\"처럼\n현상을 있는 그대로 묘사해 주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "주간회의 자동 생성 자료 공유!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매주 반복되는 주간회의 폴더 생성과\n취합 PPT 자동 수정을 도와주는\n자료 공유드려요.\n테스트 해봤는데,\n위 영상처럼 잘 생성되네요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사용 전 셋팅 사항\n1.사용할 PPT 양식이\n있어야 해요.\n2. 파일 저장 폴더 환경 셋팅\n처음 한 번은 상위 폴더 안에\n\"이전 주\" 폴더가\n손으로 만들어져 있어야해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "> 예: `01_2026-01-05` 같은\n첫 회의 폴더를 만들고,",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그 안에 `01_팀별 자료`, `02_취합`\n두개의 하위 폴더 하나씩 만들어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "'01_팀별 자료' 폴더"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "'02_취합' 폴더"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그 다음,\n각 폴더에 'PPT 원본' 하나를 넣어두시면,\n이후로는 스크립트가 계속 이어갑니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "다운로드 파일 ▼",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "file",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "file",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "file",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "위 3개 파일 다운로드 한 다음\n'클로드에-붙여넣으세요.md' 파일을\n우클릭해서 메모장으로 열고,\n전체 복사한 다음 클로드한테 넣어주세요.\n이 때, '_create_next_folder.ps1' 파일도\n같이 넣어주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그 다음부터는 클로드와 대화하면서\n진행하시면 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "오늘도 AI와 씨름하느라\n고생 많으셨어요!\n내일은 조금 더 편안하게\n칼퇴하시길 바랄게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "AI 딸깍 실패 이유_by징키\n\n클로드로 주간회의 폴더\n\n자동생성하기\n\n안녕하세요 이웃님들!\nAI '딸깍' 한 번에 칼퇴한다는\n말 믿고 썼다가 속 터진 적 없으신가요?\n몇 번의 삽질 끝에 건져 올린\nAI 딸깍 실패 이유와 실전 프롬프트\n해결 경험 3가지를 풀어볼게요.\n\n바쁜 분들을 위한 3줄 핵심 요약\n\n1. '딸깍'은 무슨\nAI는 만능 요술봉이 아니라,\n일을 하나씩 가르쳐야 하는\n'눈치 없는 신입사원'이에요.\n2. 실패 원인\n날짜, 주차 계산 같은 연속 연산이나\n복합적인 수정이 필요할 땐\n앞선 코드를 덮어쓰는 오류가 발생해요.\n3. 해결 방법\n한 번에 하나만 지시하고,\n잘 작동한 코드를 고정하면(기억해라라고 하면)\n실패율을 확 줄일 수 있어요!\n\n10분 아끼려다 망한 사연?\n\nSNS에선\n'프롬프트 한 줄로 3초 컷'이라지만,\n막상 써보면 차라리 손으로 하는 게\n낫겠다 싶을 때가 많죠.\n이번에 AI를 통해 해 시도 해 본 건\n주간회의 폴더·양식 셋팅하기 였는데요.\n\n1) 월요일 회의가 끝나면\n다음 주 회의 일자에 맞춰\n새 폴더를 만들어요.\n2) 그 폴더에팀별 폴더,\n취합 폴더를 각각만들고,\n3)팀별 폴더에\n새로운 날짜의 파일명의 파일 생성하고,\n내용 작성 할 수 있도록\n주간회의 PPT 양식을 세팅해요.\n4)취합 폴더도\n새로운 날짜의 파일명의 파일 생성하고,\n다음주 월요일에 새로운 내용 복붙할 수 있게\n간지만 셋팅해 둬야해요.\n\n직접 하면 10분 남짓이지만\n머리 쓸 일도 아니고\n매주 반복하려니 번거로워서\nAI에게 자동 생성 배치 파일(.bat)을\n부탁해 봤어요.\n그런데 여기서부터 예상치 못한\n고난이 시작됐습니다...\n\n왜 2주차를 1주차라 우길까?\n\n2026년 6월 8일회의 자료라면\n상식적으로 '6월 2주차'로\n자동 변경되어야 하잖아요?\n그런데 AI는\n꿋꿋하게 '6월 1주차'를 고집하더라고요.\n3번째 요청\n주차 수정해 달라고 했더니,\n날짜만 바꾸고 다 됐다고 우김...\n\n4번째 요청\n이전 버전은 날짜라도 맞았는데,\n업데이트하더니 날짜까지\n다시 엉망진창!\n(김부장님이 AI를 조종하나 싶었네요.)\n\n5번째 요청\n표지는 고쳤다는데, 삭제되어야 할\n본문 슬라이드 26장이 그대로\n남아있는 마법?!\n\"죄송해요,\n제가 여전히 너무 뭉뚱그렸습니다\"라며\n당당하게 사과하는 AI를 보며\n'그냥 하던 대로 내가 손으로 만들까...'\n수십 번 고민했답니다.\n\n왜 하나 고치면 또 터질까?\n\n직접 부딪혀보며 느낀\nAI가 '딸깍'에 실패하는\n진짜 이유는 이런 거 같아요.\n\n1. 날짜와 주차 계산(달력 추론)의 맹점\nAI는 문장을 매끄럽게 쓰는 데는 천재지만,\n달력 기준의 주차 계산이나\n날짜 연산 같은 논리 작업에서는\n생각보다 자주 헛갈려 해요.\n\n2. 하나 고치면 다른 게 터지는 풍선 효과\n주차를 고쳐달라고 하면\n날짜 코드를 건드리고,\n날짜를 잡으면\n슬라이드 삭제 로직을 빼먹는 식이죠.\n전체 맥락을 통제하지 못하면\n이런 도돌이표 문제가 생겨요.\n\n3. '뭉뚱그린 지시'의 함정\n\"알아서 센스 있게 수정해줘\"는\nAI에게 최악의 주문이에요.\n어디서부터 어디까지 손대야 하는지\n콕 집어주지 않으면\n엉뚱한 곳을 건드려 버린답니다.\n\n프롬프트 해결 공식 3가지?\n\n포기하고 싶은 마음을 누르고\n참을 인(忍) 자를 세 번 새기며\n계속 돌린 결과,\n드디어 6번째 시도 만에\n6월 2주차 (2026.06.08) 자동 생성 성공!\nAI와 씨름하며 건져 올린\n실전 프롬프트 해결 공식 3가지를\n정리해 봤어요.\n\n1. 한 번에 딱 한 가지 문제만\n쪼개서 지시하기\n날짜, 주차, 슬라이드 삭제를\n한꺼번에 시키면 과부하가 걸려요.\n\"주차 계산 로직 먼저 잡고,\n그다음 슬라이드 삭제하자\"처럼\n단계를 나눠주세요.\n\n2. 잘 작동하던 이전 내용을\n기준점으로 제시하기\n\"이전 코드에서 날짜 변경은 완벽했어.\n그 부분은 건드리지 말고,\n오직 '주차 텍스트'만 수정해 줘\"라고\n명확한 가이드라인을 쳐주는 게 중요해요.\n\n3. 구체적인 오류 화면과\n에러 텍스트(로그) 그대로 던져주기\n\"안 되잖아!\" 대신 \"실행했을 때\n표지 날짜는 06.08로 뜨는데\n주차가 여전히 1주차로 찍혀\"처럼\n현상을 있는 그대로 묘사해 주세요.\n\n주간회의 자동 생성 자료 공유!\n\n매주 반복되는 주간회의 폴더 생성과\n취합 PPT 자동 수정을 도와주는\n자료 공유드려요.\n테스트 해봤는데,\n위 영상처럼 잘 생성되네요!\n\n사용 전 셋팅 사항\n1.사용할 PPT 양식이\n있어야 해요.\n2. 파일 저장 폴더 환경 셋팅\n처음 한 번은 상위 폴더 안에\n\"이전 주\" 폴더가\n손으로 만들어져 있어야해요.\n\n> 예: `01_2026-01-05` 같은\n첫 회의 폴더를 만들고,\n\n그 안에 `01_팀별 자료`, `02_취합`\n두개의 하위 폴더 하나씩 만들어요.\n\n그 다음,\n각 폴더에 'PPT 원본' 하나를 넣어두시면,\n이후로는 스크립트가 계속 이어갑니다.\n\n다운로드 파일 ▼\n\n위 3개 파일 다운로드 한 다음\n'클로드에-붙여넣으세요.md' 파일을\n우클릭해서 메모장으로 열고,\n전체 복사한 다음 클로드한테 넣어주세요.\n이 때, '_create_next_folder.ps1' 파일도\n같이 넣어주세요.\n\n그 다음부터는 클로드와 대화하면서\n진행하시면 됩니다.\n\n오늘도 AI와 씨름하느라\n고생 많으셨어요!\n내일은 조금 더 편안하게\n칼퇴하시길 바랄게요.",
+  "char_count": 2561
+}

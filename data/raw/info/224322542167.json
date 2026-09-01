@@ -1,0 +1,385 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224322542167",
+  "url": "https://m.blog.naver.com/schumpgel/224322542167",
+  "title": "하겐다즈 2+1 할인! 놓치면 손해 6월 GS편의점 아이스크림 할인 총정리. 나뚜루 신상까지",
+  "category": "식생활 소식",
+  "tags": [
+    "하겐다즈파인트",
+    "하겐다즈아이스크림",
+    "하겐다즈행사",
+    "하겐다즈가격",
+    "하겐다즈미니컵",
+    "gs25아이스크림행사",
+    "아이스크림행사",
+    "편의점아이스크림행사",
+    "gs편의점아이스크림행사",
+    "gs25아이스크림행사6월",
+    "편의점저당아이스크림",
+    "편의점아이스크림",
+    "편의점아이스크림가격",
+    "gs편의점아이스크림",
+    "편의점아이스크림추천"
+  ],
+  "component_count": 31,
+  "type_counts": {
+    "text": 12,
+    "image": 11,
+    "quotation": 5,
+    "sectionTitle": 2,
+    "horizontalLine": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "GS25 6월 아이스크림 할인정보_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "GS편의점 6월 아이스크림",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "할인행사 챙기세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "시원한 바람이 그리워지는\n본격적인 여름의 시작,\n6월이 찾아왔어요!\n보기만 해도 마음까지 시원해지는\nGS편의점 6월 아이스크림 할인 정보들\n정리해 볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "무조건 쟁여, 벤앤제리스 1+1",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "진하고 꾸덕한 맛으로\n사랑받는 세계적인 프리미엄 아이스크림,\n벤앤제리스 파인트가\n무려 전상품 1+1 행사 중이에요!\n벤앤제리스 파인트 전상품\n각 16,900원 (교차 가능!)\n-> 행사 적용 시 개당 8,450원 꼴\n초콜릿 칩 쿠키도우, 초콜릿 퍼지 브라우니, 피스타치오 등\n묵직하고 깊은 미국의 달콤함을\n반값에 즐길 찬스랍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "고소함 가득! 프리미엄 1+1",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "서울우유와 매일유업의\n명품 원유 라인업이 돋보이는\n6월 GS편의점 아이스크림 1+1!\n모두 동일 가격끼리 교차가 가능해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 매일 상하그릭파인트\n각 12,900원 (허니유자 / 플레인)\n상큼달달한 요거트 맛이 고급스러워요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2. 서울우유 저지밀크 파인트\n각 14,900원\n저지우유 특유의\n진하고 깊은 풍미가 좋답니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "3. 피프레도 젤라또 파인트\n각 16,500원 (생초코 / 생요거트딸기)\n이탈리아 프리미엄 젤라또를\n편의점에서 맛볼 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "하겐다즈 2+1 할인행사",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "아이스크림의 진수를 보여주는\n하겐다즈는\n언제 먹어도 힐링 그 자체!\n1. 하겐다즈 미니컵/바/샌드 전상품\n2 + 1 = 13,800원\n(개당 4,600원 꼴)\n2. 하겐다즈 파인트\n2 + 1 = 35,800원\n(개당 11,930원 꼴)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "나뚜루 전상품 40% 할인행사",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "자연주의 아이스크림 나뚜루는\n여러 개 살 필요 없이 딱 하나만 사도\n무조건 40% 파격 할인을 해줘요!\n1. 나뚜루 미니컵 / 바\n정가 5,900원 -> 할인가 3,540원!\n2. 나뚜루 파인트\n정가 15,900원 -> 할인가 9,540원!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffe3c8;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "한눈에 보는 GS25 가성비 1+1",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "가성비 폭발 1+1 패키지들도\n금액대별로 보기 쉽게 모아봤어요!\n동일 가격대 제품들은\n교차 선택이 가능하답니다.\n1. 9,900원 라인\n넷플릭스 초코칩파인트\n2. 4,500원 ~ 5,500원 라인\n아사이볼 오리지널, 리얼레몬샤베트,\n아이스벅 등\n3. 3,500원 ~ 4,000원 라인\n말차모찌아이스빙수,\n바나나킥 헤이즐넛라떼파르페 등\n4. 3,000원 ~ 3,300원 라인\n프리미엄가나 초코 / 말차 크럼블바,\n골든파인애플아이스,\n저당 프로틴 멜론/초코바,\n라라스윗 파스타치오 젤라또바,\n미니멜츠 구슬아이스, 왕땅콩바 등\n5. 1,500원 ~ 2,200원 라인\n빵빠레 소프트바 스트로베리,\n피치/파인 퐁당, 뽕따 등",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "햇살이 뜨거워질 때 참지 말고\n가까운 GS25로 시원하게\n기분 좋은 산책 다녀오세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "GS25 6월 아이스크림 할인정보_by징키\n\nGS편의점 6월 아이스크림\n\n할인행사 챙기세요!\n\n시원한 바람이 그리워지는\n본격적인 여름의 시작,\n6월이 찾아왔어요!\n보기만 해도 마음까지 시원해지는\nGS편의점 6월 아이스크림 할인 정보들\n정리해 볼게요.\n\n무조건 쟁여, 벤앤제리스 1+1\n\n진하고 꾸덕한 맛으로\n사랑받는 세계적인 프리미엄 아이스크림,\n벤앤제리스 파인트가\n무려 전상품 1+1 행사 중이에요!\n벤앤제리스 파인트 전상품\n각 16,900원 (교차 가능!)\n-> 행사 적용 시 개당 8,450원 꼴\n초콜릿 칩 쿠키도우, 초콜릿 퍼지 브라우니, 피스타치오 등\n묵직하고 깊은 미국의 달콤함을\n반값에 즐길 찬스랍니다.\n\n고소함 가득! 프리미엄 1+1\n\n서울우유와 매일유업의\n명품 원유 라인업이 돋보이는\n6월 GS편의점 아이스크림 1+1!\n모두 동일 가격끼리 교차가 가능해요.\n\n1. 매일 상하그릭파인트\n각 12,900원 (허니유자 / 플레인)\n상큼달달한 요거트 맛이 고급스러워요!\n\n2. 서울우유 저지밀크 파인트\n각 14,900원\n저지우유 특유의\n진하고 깊은 풍미가 좋답니다.\n\n3. 피프레도 젤라또 파인트\n각 16,500원 (생초코 / 생요거트딸기)\n이탈리아 프리미엄 젤라또를\n편의점에서 맛볼 수 있어요.\n\n하겐다즈 2+1 할인행사\n\n아이스크림의 진수를 보여주는\n하겐다즈는\n언제 먹어도 힐링 그 자체!\n1. 하겐다즈 미니컵/바/샌드 전상품\n2 + 1 = 13,800원\n(개당 4,600원 꼴)\n2. 하겐다즈 파인트\n2 + 1 = 35,800원\n(개당 11,930원 꼴)\n\n나뚜루 전상품 40% 할인행사\n\n자연주의 아이스크림 나뚜루는\n여러 개 살 필요 없이 딱 하나만 사도\n무조건 40% 파격 할인을 해줘요!\n1. 나뚜루 미니컵 / 바\n정가 5,900원 -> 할인가 3,540원!\n2. 나뚜루 파인트\n정가 15,900원 -> 할인가 9,540원!\n\n한눈에 보는 GS25 가성비 1+1\n\n가성비 폭발 1+1 패키지들도\n금액대별로 보기 쉽게 모아봤어요!\n동일 가격대 제품들은\n교차 선택이 가능하답니다.\n1. 9,900원 라인\n넷플릭스 초코칩파인트\n2. 4,500원 ~ 5,500원 라인\n아사이볼 오리지널, 리얼레몬샤베트,\n아이스벅 등\n3. 3,500원 ~ 4,000원 라인\n말차모찌아이스빙수,\n바나나킥 헤이즐넛라떼파르페 등\n4. 3,000원 ~ 3,300원 라인\n프리미엄가나 초코 / 말차 크럼블바,\n골든파인애플아이스,\n저당 프로틴 멜론/초코바,\n라라스윗 파스타치오 젤라또바,\n미니멜츠 구슬아이스, 왕땅콩바 등\n5. 1,500원 ~ 2,200원 라인\n빵빠레 소프트바 스트로베리,\n피치/파인 퐁당, 뽕따 등\n\n햇살이 뜨거워질 때 참지 말고\n가까운 GS25로 시원하게\n기분 좋은 산책 다녀오세요!",
+  "char_count": 1336
+}

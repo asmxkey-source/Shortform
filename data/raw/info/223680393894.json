@@ -1,0 +1,476 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223680393894",
+  "url": "https://m.blog.naver.com/schumpgel/223680393894",
+  "title": "세븐일레븐 생드래프트비어 편의점생맥주? 가격 솔직후기",
+  "category": "간식 리뷰",
+  "tags": [
+    "세븐일레븐생맥주",
+    "세븐일레븐신상",
+    "세븐일레븐생드래프트비어",
+    "생드래프트비어",
+    "세븐생드래프트비어",
+    "신상맥주"
+  ],
+  "component_count": 38,
+  "type_counts": {
+    "text": 18,
+    "image": 10,
+    "sticker": 5,
+    "quotation": 2,
+    "horizontalLine": 1,
+    "imageStrip": 1,
+    "video": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "세븐일레븐 편의점 신상 생맥주_by링키\n세븐일레븐에서 생맥을?\n'생드래프트비어'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저희집엔 생맥주를 좋아하는 분이 계십니다.\n그냥 동네 술집에가서 생맥주만 몇잔을\n먹고 나오기도 할 정도로 갓 내린 맥주를\n좋아하는데요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "11월 28일부터 세븐일레븐에서 생맥주캔인\n'생드래프트비어'를 전국점포에서 판매한다고해서\n두근두근한 마음으로 다녀왔습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "크크크 다행히 바로 찾을 수 있었어요.\n정식명칙은\n슈퍼프래시 드레프트비어 입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "생드래프트비어 가격",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "용량은 500ml에가격은 5,000원입니다.\n3캔에 12,000원 행사를 하고 있으나\n일단 맛보고 추가 구매를 생각하자는 마음으로\n1캔만 구매했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "맥주 색이 보이는 포장이 마치\n주변 음식점에서 맥주 포장해서 가는\n그런 기분이 드네요?!\n자외선 차단코팅을 적용하면서도\n투명한 포장을 사용한 데에는\n이걸 노리지 않았을까 싶어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "국내 최고 효모를 사멸하지 않은 상태의\n제품을 그대로 캔에 담은 진짜 캔 생맥주인\n생드래프트비어! 과연 생맥의 역할을\n톡톡히 해줄까요?\n두근두근한 마음으로 귀가!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "세븐일레븐 생드래프트비어 시음",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "imageStrip",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "마시기에 앞서서 마시기 30분 전에\n냉동해서 먹으면 더 맛있다는 안내가\n써져있어서 그대로 해보았습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "작년에 한참 유행한 거품캔맥주는\n실온에 살짝 꺼내서, 심지어 손으로 열기를\n주어 먹으면 맥주 거품이 더 잘 난다고 했었죠.\n각자 추구하는 부분을 살리기 위해 어떻게\n먹으면 좋을지 정확하게 알려주는 부분이 좋아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "출동 준비 완료\n세븐일레븐 생드래프트비어\n캔생맥주 어서 먹어보겠습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "video",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "일단 퐁퐁 올라오는 홉향은 꽤나\n그럴싸해요~ 이곳이 호프집?\n색을 이미 보고 샀지만\n따랐을 때의 진짜 색도 아주 좋습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "호프집이다 생각하고 500잔으로 생맥\n받아들었을 때처럼 벌컥벌컥 마셔봤어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "일단 입안에 센 파도처럼 닿고\n까슬하게 올라오는 촉감과 향은\n정말 생맥주를 잘 구현한 듯싶었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그런데 목 넘김에서 그 센파도와 까슬함이\n굉장히 턱턱 걸리더라고요.. ㅜ\n그 부분에선 생맥주의 느낌이 다소 깨지는 느낌.\n물로, 생맥주도 한 번에 서너모금 한 번에 마시면\n느껴지는 까슬함이 있지만\n무게감 측면에서 좀 달랐어요.\n진짜 생맥은 묵직한 감이 이 까슬함을\n살짝 커버해주는 반면,\n세븐일레븐 생맥주 생드래프트비어는\n까슬함을 훑어줄 무언가가 아쉬운 감이 있었어요.\n세게 입안에 들어온 것과 이어져서\n거세게 목구멍을 통과하면 그 이후에는\n갑자기 싹 뭔가 사라지는 듯한 느낌이 듭니다.\n뒷 맛은 깔끔한 편예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "초반에 몰아치는 그 생맥의 향과 질감은\n충분히 잘 구현되었으므로 그 이후 목넘김에서\n호불호가 많이 갈릴 것 같아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "세븐일레븐 생맥주 생드래프트비어 가격과 솔직후기\n잘 보셨나요? 맥주 좋아하시는 분들은\n츄라이츄라이",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    }
+  ],
+  "body_text": "세븐일레븐 편의점 신상 생맥주_by링키\n세븐일레븐에서 생맥을?\n'생드래프트비어'\n\n저희집엔 생맥주를 좋아하는 분이 계십니다.\n그냥 동네 술집에가서 생맥주만 몇잔을\n먹고 나오기도 할 정도로 갓 내린 맥주를\n좋아하는데요.\n\n11월 28일부터 세븐일레븐에서 생맥주캔인\n'생드래프트비어'를 전국점포에서 판매한다고해서\n두근두근한 마음으로 다녀왔습니다.\n\n크크크 다행히 바로 찾을 수 있었어요.\n정식명칙은\n슈퍼프래시 드레프트비어 입니다.\n\n생드래프트비어 가격\n\n용량은 500ml에가격은 5,000원입니다.\n3캔에 12,000원 행사를 하고 있으나\n일단 맛보고 추가 구매를 생각하자는 마음으로\n1캔만 구매했습니다.\n\n맥주 색이 보이는 포장이 마치\n주변 음식점에서 맥주 포장해서 가는\n그런 기분이 드네요?!\n자외선 차단코팅을 적용하면서도\n투명한 포장을 사용한 데에는\n이걸 노리지 않았을까 싶어요.\n\n국내 최고 효모를 사멸하지 않은 상태의\n제품을 그대로 캔에 담은 진짜 캔 생맥주인\n생드래프트비어! 과연 생맥의 역할을\n톡톡히 해줄까요?\n두근두근한 마음으로 귀가!\n\n세븐일레븐 생드래프트비어 시음\n\n마시기에 앞서서 마시기 30분 전에\n냉동해서 먹으면 더 맛있다는 안내가\n써져있어서 그대로 해보았습니다.\n\n작년에 한참 유행한 거품캔맥주는\n실온에 살짝 꺼내서, 심지어 손으로 열기를\n주어 먹으면 맥주 거품이 더 잘 난다고 했었죠.\n각자 추구하는 부분을 살리기 위해 어떻게\n먹으면 좋을지 정확하게 알려주는 부분이 좋아요.\n\n출동 준비 완료\n세븐일레븐 생드래프트비어\n캔생맥주 어서 먹어보겠습니다.\n\n일단 퐁퐁 올라오는 홉향은 꽤나\n그럴싸해요~ 이곳이 호프집?\n색을 이미 보고 샀지만\n따랐을 때의 진짜 색도 아주 좋습니다.\n\n호프집이다 생각하고 500잔으로 생맥\n받아들었을 때처럼 벌컥벌컥 마셔봤어요.\n\n일단 입안에 센 파도처럼 닿고\n까슬하게 올라오는 촉감과 향은\n정말 생맥주를 잘 구현한 듯싶었습니다.\n\n그런데 목 넘김에서 그 센파도와 까슬함이\n굉장히 턱턱 걸리더라고요.. ㅜ\n그 부분에선 생맥주의 느낌이 다소 깨지는 느낌.\n물로, 생맥주도 한 번에 서너모금 한 번에 마시면\n느껴지는 까슬함이 있지만\n무게감 측면에서 좀 달랐어요.\n진짜 생맥은 묵직한 감이 이 까슬함을\n살짝 커버해주는 반면,\n세븐일레븐 생맥주 생드래프트비어는\n까슬함을 훑어줄 무언가가 아쉬운 감이 있었어요.\n세게 입안에 들어온 것과 이어져서\n거세게 목구멍을 통과하면 그 이후에는\n갑자기 싹 뭔가 사라지는 듯한 느낌이 듭니다.\n뒷 맛은 깔끔한 편예요.\n\n초반에 몰아치는 그 생맥의 향과 질감은\n충분히 잘 구현되었으므로 그 이후 목넘김에서\n호불호가 많이 갈릴 것 같아요.\n\n세븐일레븐 생맥주 생드래프트비어 가격과 솔직후기\n잘 보셨나요? 맥주 좋아하시는 분들은\n츄라이츄라이",
+  "char_count": 1348
+}

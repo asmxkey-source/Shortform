@@ -1,0 +1,482 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224152801011",
+  "url": "https://m.blog.naver.com/schumpgel/224152801011",
+  "title": "연남카페 비뮤티커피 홍대느좋카소개. 애견동반카페추천",
+  "category": "간식 리뷰",
+  "tags": [
+    "비뮤티커피",
+    "비뮤티연남",
+    "연남카페",
+    "느좋카",
+    "홍대느좋카",
+    "애견동반카페주천",
+    "애견동반카페"
+  ],
+  "component_count": 38,
+  "type_counts": {
+    "text": 16,
+    "image": 12,
+    "quotation": 5,
+    "horizontalLine": 2,
+    "sticker": 2,
+    "map": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "연남동 숨은보석 비뮤티커피_by링키\n'비뮤티커피' 에서 만나는\n특별한 커피한잔",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "연남동 골목 사이로 들어서면 마치 작은 보물을\n견한 듯한 기분이 드는 카페가 있습니다.\n바로 비뮤티커피(Vimutti Coffee)입니다.\n서울 마포구 연남동에 자리한\n이곳은 미니멀한 분위기와 정성스러운 커피로\n조용히 입소문을 타고 있는 신상 카페입니다.\n저는 동네친구의 추천으로 한번 갔다가\n만족스러워서 매주 다녀오게 되었습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "비뮤티커피",
+      "address": "서울특별시 마포구 연남로5길 9 1층 102호",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n· 홍대입구역 3번출구로부터 도보 10분\n· 경의선 숲길공원 입구와 인접함\n● 운영시간\n· 월수목금 08:00-18:00\n· 토일 08:00-19:00\n· 화요일 정기휴무\n·0507-1435-7440\n● 그 외 사항\n·와이파이, 주차불가, 애견동반가능\n·방문 전 인스타그램(@vimutti.seoul)을 통해 최신 영업 정보를 확인하시면 더욱 좋습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs13",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "감각적인 빈티지 공간, 편안한 시간",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "카페 내부로 들어서면 화이트 톤 배경에 빈티지\n원목 가구가 조화를 이루는 따뜻하고 친근한\n인테리어가 눈에 들어옵니다.\n특히 주방이 가정집 주방 같은 느낌이라\n정말 친구네 산장에 놀러 온 것 같은 느낌",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "빈티지한 소품들과 따뜻한 조명이 더해져\n아늑하면서도 세련된 분위기를 자아냅니다.\n은은하게 흐르는 재즈 음악은 공간의 감성을\n한층 더 높여줍니다.\n2인용 테이블 위주로 구성되어 있어 혼자\n조용히 책을 읽거나 친구와 도란도란 이야기를\n나누기에 딱 좋은 구조입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "테이블 수가 많지 않아 주말에는 대기가 발생할\n수 있지만, 그만큼 붐비지 않고 여유로운 시간을\n보낼 수 있다는 장점이 있습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "비뮤티커피 메뉴",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저희는 주로시나몬라떼와크림보리를 주문합니다.\n아인슈페너와 플랫화이트도 시켜봤는데 맛있었어요.\n그래도 제일 많이 시키는 메뉴는 시나몬라떼와 크림보리입니다. 이 두 메뉴는 비뮤티에서만 경험할 수 있는 커피의 맛이 나기 때문이에요.\n디저트와 식사 메뉴도 평이 좋던데\n항상 집에서 식사 마친 후에 산책하다 가서\n아직 먹어보진 못했습니다.\n언젠가 꼭 도전할 생각입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "테이크 아웃 할인은 없으나\n텀블러 할인이 있으니 텀블러 할인 1,000원\n놓치지 마세요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "커피 후기",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "왼쪽이 시나몬라떼, 오른쪽이 크림보리입니다.\n시나몬라떼는 징키가 좋아하던 차이라떼의 상위호환\n버전이고, 크림보리는 보리가 들어가 고소한데,\n크림커피의 특유의 첫입만 맛있고 그 다음부터는\n느끼하고 아쉬운 그런 느낌이 없이\n끝까지 맛있게 먹을 수 있는 커피에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "위 사진은 같은 자리 다른 날에 시킨\n시나몬라떼와 아인슈페너 같네요.\n커피가 맛있다 싶었는데 포스팅하려고보니\n사장님이 바리스타 챔피언?이라는 정보가\n보이는데 카페 실내나 계정에 써있는정보는\n아니라서 사실 여부는 잘 모르겠습니다.\n카페 인스타 계정의 사진 이미지가\n아름답고 메뉴 설명이 친절하니 계정을 꼭 팔로우~",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "반려견과 함께하는 카페 타임",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "연남카페 비뮤티커피는 팻프렌들리카페로\n애견동반가능 카페입니다.\n강아지와 함께사는 이웃이 저에게 알려준\n카페인데 운이 좋으면 이렇게 카페에서\n이웃과 강아지를 모두 만날 수 있답니다.\n동네 사랑방",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "화장실 안내",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "화장실은 내부에 있지 않으며\n카페 밖으로 나가 오른쪽으로 건물을 끼고 돌면\n건물 화장실을 사용할 수 있어요.\n(비번 눌러야 함)\n화장실은 깔끔한 편입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "작년 2월에 오픈한 비뮤티커피는 신생카페이면서도\n음료가 넘 맛있고, 내부 인테리어와 소품이\n따뜻해서 오래 그곳에 있었던 것 같은\n내공이 가득한 공간이에요.\n정성스럽게 내린 커피 한 잔, 신선한 재료로\n만든 디저트, 그리고 감각적이면서도\n편안한 공간이 어우러진 시간을 가지고 싶은\n분들에게 추천합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저는 밥먹구 공원에서 러닝하고 종종 들립니다.\n적다보니 저두 금새 다시 가고싶네요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사심담은 내돈내산 연남카페\n애견동반카페 느좋카~ 비뮤니커피 소개 끝!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "연남동 숨은보석 비뮤티커피_by링키\n'비뮤티커피' 에서 만나는\n특별한 커피한잔\n\n연남동 골목 사이로 들어서면 마치 작은 보물을\n견한 듯한 기분이 드는 카페가 있습니다.\n바로 비뮤티커피(Vimutti Coffee)입니다.\n서울 마포구 연남동에 자리한\n이곳은 미니멀한 분위기와 정성스러운 커피로\n조용히 입소문을 타고 있는 신상 카페입니다.\n저는 동네친구의 추천으로 한번 갔다가\n만족스러워서 매주 다녀오게 되었습니다.\n\n● 위치\n· 홍대입구역 3번출구로부터 도보 10분\n· 경의선 숲길공원 입구와 인접함\n● 운영시간\n· 월수목금 08:00-18:00\n· 토일 08:00-19:00\n· 화요일 정기휴무\n·0507-1435-7440\n● 그 외 사항\n·와이파이, 주차불가, 애견동반가능\n·방문 전 인스타그램(@vimutti.seoul)을 통해 최신 영업 정보를 확인하시면 더욱 좋습니다.\n\n감각적인 빈티지 공간, 편안한 시간\n\n카페 내부로 들어서면 화이트 톤 배경에 빈티지\n원목 가구가 조화를 이루는 따뜻하고 친근한\n인테리어가 눈에 들어옵니다.\n특히 주방이 가정집 주방 같은 느낌이라\n정말 친구네 산장에 놀러 온 것 같은 느낌\n\n빈티지한 소품들과 따뜻한 조명이 더해져\n아늑하면서도 세련된 분위기를 자아냅니다.\n은은하게 흐르는 재즈 음악은 공간의 감성을\n한층 더 높여줍니다.\n2인용 테이블 위주로 구성되어 있어 혼자\n조용히 책을 읽거나 친구와 도란도란 이야기를\n나누기에 딱 좋은 구조입니다.\n\n테이블 수가 많지 않아 주말에는 대기가 발생할\n수 있지만, 그만큼 붐비지 않고 여유로운 시간을\n보낼 수 있다는 장점이 있습니다.\n\n비뮤티커피 메뉴\n\n저희는 주로시나몬라떼와크림보리를 주문합니다.\n아인슈페너와 플랫화이트도 시켜봤는데 맛있었어요.\n그래도 제일 많이 시키는 메뉴는 시나몬라떼와 크림보리입니다. 이 두 메뉴는 비뮤티에서만 경험할 수 있는 커피의 맛이 나기 때문이에요.\n디저트와 식사 메뉴도 평이 좋던데\n항상 집에서 식사 마친 후에 산책하다 가서\n아직 먹어보진 못했습니다.\n언젠가 꼭 도전할 생각입니다.\n\n테이크 아웃 할인은 없으나\n텀블러 할인이 있으니 텀블러 할인 1,000원\n놓치지 마세요!\n\n커피 후기\n\n왼쪽이 시나몬라떼, 오른쪽이 크림보리입니다.\n시나몬라떼는 징키가 좋아하던 차이라떼의 상위호환\n버전이고, 크림보리는 보리가 들어가 고소한데,\n크림커피의 특유의 첫입만 맛있고 그 다음부터는\n느끼하고 아쉬운 그런 느낌이 없이\n끝까지 맛있게 먹을 수 있는 커피에요.\n\n위 사진은 같은 자리 다른 날에 시킨\n시나몬라떼와 아인슈페너 같네요.\n커피가 맛있다 싶었는데 포스팅하려고보니\n사장님이 바리스타 챔피언?이라는 정보가\n보이는데 카페 실내나 계정에 써있는정보는\n아니라서 사실 여부는 잘 모르겠습니다.\n카페 인스타 계정의 사진 이미지가\n아름답고 메뉴 설명이 친절하니 계정을 꼭 팔로우~\n\n반려견과 함께하는 카페 타임\n\n연남카페 비뮤티커피는 팻프렌들리카페로\n애견동반가능 카페입니다.\n강아지와 함께사는 이웃이 저에게 알려준\n카페인데 운이 좋으면 이렇게 카페에서\n이웃과 강아지를 모두 만날 수 있답니다.\n동네 사랑방\n\n화장실 안내\n\n화장실은 내부에 있지 않으며\n카페 밖으로 나가 오른쪽으로 건물을 끼고 돌면\n건물 화장실을 사용할 수 있어요.\n(비번 눌러야 함)\n화장실은 깔끔한 편입니다.\n\n작년 2월에 오픈한 비뮤티커피는 신생카페이면서도\n음료가 넘 맛있고, 내부 인테리어와 소품이\n따뜻해서 오래 그곳에 있었던 것 같은\n내공이 가득한 공간이에요.\n정성스럽게 내린 커피 한 잔, 신선한 재료로\n만든 디저트, 그리고 감각적이면서도\n편안한 공간이 어우러진 시간을 가지고 싶은\n분들에게 추천합니다.\n\n저는 밥먹구 공원에서 러닝하고 종종 들립니다.\n적다보니 저두 금새 다시 가고싶네요!\n\n사심담은 내돈내산 연남카페\n애견동반카페 느좋카~ 비뮤니커피 소개 끝!",
+  "char_count": 1860
+}

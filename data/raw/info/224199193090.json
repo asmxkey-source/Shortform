@@ -1,0 +1,522 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224199193090",
+  "url": "https://m.blog.naver.com/schumpgel/224199193090",
+  "title": "늦게 볼수록 손해! 다이어트 우유 선택 기준? 저지방, 무지방, 바리스타 차이 완벽정리!",
+  "category": "식생활 소식",
+  "tags": [
+    "다이어트우유",
+    "저지방우유칼로리",
+    "무지방우유차이",
+    "우유칼로리200ml",
+    "우유고르는법",
+    "우유당류",
+    "다이어트식단",
+    "고단백우유",
+    "귀리우유칼로리",
+    "식물성우유주의",
+    "우유칼로리",
+    "우유효능",
+    "멸균우유",
+    "귀리우유",
+    "귀리우유효능",
+    "귀리우유성분",
+    "귀리우유추천",
+    "저지방우유",
+    "다이어트우유두유",
+    "다이어트우유섭취",
+    "다이어트우유대체",
+    "다이어트우유한잔",
+    "다이어트우유종류",
+    "무지방우유",
+    "무지방우유칼로리",
+    "무지방우유칼로리차이"
+  ],
+  "component_count": 43,
+  "type_counts": {
+    "text": 19,
+    "image": 9,
+    "horizontalLine": 7,
+    "quotation": 6,
+    "sectionTitle": 1,
+    "imageGroup": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "저지방 무지방 귀리우유?_by징키",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "sectionTitle",
+      "text": "다이어트 건강을 위한\n우유 선택 기준?",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "다이어트 중인데 우유,\n그냥 무지방으로 바꾸면 끝일까요?\n사실 우유는 '지방'보다\n더 중요한 숫자가 있어요.\n오늘은 꼭 확인해야 할\n진짜 우유 선택 기준을 정리해 볼게요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "우유는 무조건 무지방이 답?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "많은 분들이\n다이어트할 때, 건강 생각해서\n우유를 선택할 때\n전지우유 대신 무지방우유부터 고르세요.\n확실히 열량은 낮죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "200ml 기준\n일반 전지우유는약 130~150kcal,\n저지방은약 90~110kcal,\n무지방은70~80kcal수준이거든요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "하지만 다이어트, 건강 때문에\n우유를 마시는 이유는\n대부분 단백질 보충이나\n영양 관리 때문이죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그래서 단순히\n'지방이 낮은가'보다\n'단백질 함량이 충분한지'도\n함께 보는 게 중요해요.\n특히 운동을 병행하거나\n근육량을 유지해야 하는 경우라면\n칼로리만 낮은 제품보다\n단백질이 강화된 제품이\n더 효율적일 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#bc61ab;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "우유 선택 시, 꼭 봐야 할 것?\n칼로리, 당류, 포화지",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "imageGroup",
+      "count": 3,
+      "captions": [
+        "출처: SSG.COM"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-collage"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "우유를 고를 때는 앞면 문구보다\n뒷면 영양성분표를 확인이 중요해요!\n다음3가지를 꼭 보세요.\n(200ml 기준)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1) 칼로리\n2) 당류\n3) 포화지방",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "전지우유는\n포화지방 함량이 상대적으로 높아요.\n심혈관 건강이나 콜레스테롤을\n신경 쓰는 분이라면\n포화지방 수치를 확인하는 게 중요해요.\n또 한 가지!\n가공유는 당류가 확 올라가요.\n초코우유, 딸기우유는\n단백질은 비슷해도 당이 크게 증가해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "다이어트 중이거나 건강을 위해\n우유를 드신다면\n'당류 10g 이상' 제품은\n'간식' 개념으로 생각하는 게 좋아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "우유는 브랜드보다\n성분표가 기준",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "식물성 귀리우유,\n무조건 좋을까?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "식물성이니까\n더 건강하겠지?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "라고 생각하기 쉬운데요.\n귀리우유는 가공 과정에서\n전분이 당으로 분해되면서\n제품에 따라 당 함량이\n높아질 수 있어요.\n성분표에서'당 함량'\n체크 필수!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs19",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "출처: SSG.COM"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "또 바리스타용 제품은\n거품 형성을 위해서\n해바라기유, 카놀라유 등\n식물성 오일이 추가되는 경우도 있어요.\n이 경우 칼로리도 높아지고\n소화에 부담을 줄 수도 있어요.\n'식물성'이라는 단어보다\n가공 정도와 첨가 성분을\n보는 게 더 중요해요.\n무가당인지, 오일이 추가됐는지\n반드시 확인하세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "목적별 우유 선택 기준?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "목적별로 우유를 선택하는\n간단한 기준을 살펴볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "체지방 감량이 목표라면?\n→ 저지방 + 당류 낮은 제품\n근육 유지, 운동 중이라면?\n→ 고단백 우유 + 당류 낮은 제품\n혈당 관리가 중요하다면?\n→ 무가당 제품 + 당류 최소 제품\n식물성 우유를 마시고 싶다면?\n→ 무가당 + 오일 무첨가 제품 선택",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "결국\n\"무지방이냐 아니냐?보다\n\"목적에 맞는 성분 구성\"이\n더 중요해요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#bc61ab;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "건강 챙길 때, 다이어트할 때\n우유는 끊는 게 아니라\n'제대로 고르는 것'이 중요해요.\n칼로리, 당류, 포화지방만\n살펴봐도 선택이\n완전히 달라질 수 있어요.\n다음 장바구니에 담기 전,\n꼭 한 번 더 성분표를\n확인해보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "저지방 무지방 귀리우유?_by징키\n\n다이어트 건강을 위한\n우유 선택 기준?\n\n다이어트 중인데 우유,\n그냥 무지방으로 바꾸면 끝일까요?\n사실 우유는 '지방'보다\n더 중요한 숫자가 있어요.\n오늘은 꼭 확인해야 할\n진짜 우유 선택 기준을 정리해 볼게요!\n\n우유는 무조건 무지방이 답?\n\n많은 분들이\n다이어트할 때, 건강 생각해서\n우유를 선택할 때\n전지우유 대신 무지방우유부터 고르세요.\n확실히 열량은 낮죠.\n\n200ml 기준\n일반 전지우유는약 130~150kcal,\n저지방은약 90~110kcal,\n무지방은70~80kcal수준이거든요.\n\n하지만 다이어트, 건강 때문에\n우유를 마시는 이유는\n대부분 단백질 보충이나\n영양 관리 때문이죠.\n\n그래서 단순히\n'지방이 낮은가'보다\n'단백질 함량이 충분한지'도\n함께 보는 게 중요해요.\n특히 운동을 병행하거나\n근육량을 유지해야 하는 경우라면\n칼로리만 낮은 제품보다\n단백질이 강화된 제품이\n더 효율적일 수 있어요.\n\n우유 선택 시, 꼭 봐야 할 것?\n칼로리, 당류, 포화지\n\n우유를 고를 때는 앞면 문구보다\n뒷면 영양성분표를 확인이 중요해요!\n다음3가지를 꼭 보세요.\n(200ml 기준)\n\n1) 칼로리\n2) 당류\n3) 포화지방\n\n전지우유는\n포화지방 함량이 상대적으로 높아요.\n심혈관 건강이나 콜레스테롤을\n신경 쓰는 분이라면\n포화지방 수치를 확인하는 게 중요해요.\n또 한 가지!\n가공유는 당류가 확 올라가요.\n초코우유, 딸기우유는\n단백질은 비슷해도 당이 크게 증가해요.\n\n다이어트 중이거나 건강을 위해\n우유를 드신다면\n'당류 10g 이상' 제품은\n'간식' 개념으로 생각하는 게 좋아요.\n\n우유는 브랜드보다\n성분표가 기준\n\n식물성 귀리우유,\n무조건 좋을까?\n\n식물성이니까\n더 건강하겠지?\n\n라고 생각하기 쉬운데요.\n귀리우유는 가공 과정에서\n전분이 당으로 분해되면서\n제품에 따라 당 함량이\n높아질 수 있어요.\n성분표에서'당 함량'\n체크 필수!\n\n또 바리스타용 제품은\n거품 형성을 위해서\n해바라기유, 카놀라유 등\n식물성 오일이 추가되는 경우도 있어요.\n이 경우 칼로리도 높아지고\n소화에 부담을 줄 수도 있어요.\n'식물성'이라는 단어보다\n가공 정도와 첨가 성분을\n보는 게 더 중요해요.\n무가당인지, 오일이 추가됐는지\n반드시 확인하세요.\n\n목적별 우유 선택 기준?\n\n목적별로 우유를 선택하는\n간단한 기준을 살펴볼게요.\n\n체지방 감량이 목표라면?\n→ 저지방 + 당류 낮은 제품\n근육 유지, 운동 중이라면?\n→ 고단백 우유 + 당류 낮은 제품\n혈당 관리가 중요하다면?\n→ 무가당 제품 + 당류 최소 제품\n식물성 우유를 마시고 싶다면?\n→ 무가당 + 오일 무첨가 제품 선택\n\n결국\n\"무지방이냐 아니냐?보다\n\"목적에 맞는 성분 구성\"이\n더 중요해요.\n\n건강 챙길 때, 다이어트할 때\n우유는 끊는 게 아니라\n'제대로 고르는 것'이 중요해요.\n칼로리, 당류, 포화지방만\n살펴봐도 선택이\n완전히 달라질 수 있어요.\n다음 장바구니에 담기 전,\n꼭 한 번 더 성분표를\n확인해보세요.",
+  "char_count": 1448
+}
