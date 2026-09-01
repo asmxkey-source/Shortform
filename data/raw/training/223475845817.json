@@ -1,0 +1,576 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223475845817",
+  "url": "https://m.blog.naver.com/schumpgel/223475845817",
+  "title": "셀프요가수련 마음챙김 100일 도전성공 / 91-100일 기록",
+  "published": "2024. 6. 12. 8:00",
+  "category": "개인수련 일지",
+  "category_no": "",
+  "tags": [
+    "요가효과",
+    "요가수련",
+    "요가강사"
+  ],
+  "component_count": 45,
+  "type_counts": {
+    "text": 17,
+    "quotation": 12,
+    "image": 12,
+    "horizontalLine": 2,
+    "oglink": 1,
+    "sticker": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "셀프요가수련 100일 모두 다 했다 _by링키\n'홈요가수련'\n100일까지의 여정",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "100일 수련은 3월 중순경에 마쳤는데\n그 경험들을 소화하면서 시간을 보냈습니다.\n제가 왜 이런 시간을 지내며 보내게\n되었나 궁금하신 분들은 아래 포스팅\n참고해 주세요. 감사합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "RYT200수료생의 홈요가수련 리추얼 100일 챌린지",
+      "style": {
+        "classes": [
+          "se-l-large_image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "매일 인스타그램 계정에 수련 영상 타임랩스와\n함께 개인 수련일지를 올렸습니다.\n그것을 바탕으로 기록합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "91일차 (24년 3월 6일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+91\n뭔지 모를 것을 기도하는 마음이 생기는 시간",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "92일차 (24년 3월 7일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+92\n어떤 동작이나 무슨 움직임 너머에 태도라는 것이 있고 그것이 삶을 너르게 이끄는 것을 느낍니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "93일차 (24년 3월 8일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+93\n퇴근하고 점심먹기 전에 틈새수련 이번주는 계속 늦게자서 아침 수련이 어려웠다. 아침, 점심, 밤 모두 수련의 느낌이 다르고 효용도 디테일도 다른데 공통점은 움직여보면 느낀다. '움직임이 필요한 순간이었구나!'\n행복한 동물이 되어 남은 하루를 만끽해볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "94일차 (24년 3월 9일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+94\n쪼랩이어서 줌미팅 전에는 매트를 못폈다. 입으로 꺼내기 전에 혼자 펼쳐봐야 할 것들이 많기 때문이다. 마치고 서있으니 그렇게 좋네. 말을 많이 하고 나니 심리적으로 좀 헛헛한 느낌이 들었다. 중언부언한 부분은 없었을까? 물론 있었겠지. 진리는 간단한데, 잘 설명해보고자 하는 마음과 현실은 복잡하다. 그래도 충실하게 다 겪어보겠습니다.\n새싹 호스트의 무게를 덜어내는 수리야",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "95일차 (24년 3월 10일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+95\n주말에 읽지못한 책, 보지 못한 영화 잔뜩. 마감을 코앞에 두고 급히 올린 협찬 포스팅, 쉽지 않을 것으로 예상되는 다음주 출근일정이 있지만\n즐겁다! 행복하다!는 생각이 자꾸만 듭니다. 그래서 사실 오늘 수련 틈틈이 막춤을 췄습니다.\n이유를 잘 모르겠습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "96일차 (24년 3월 11일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+96\n사실 어제 아침에 악몽에서 깨며 일어났었다는 걸 깨달은 건 다시 자려고 누워서다. 꿈이 기분에 거의 영향이 없다니. 파워 N으로서 머쓱했다.\n상당히 기분좋은 날이 있으면, 그 이후에 잘 침잠하는 패턴을 알기에 오늘 아침은 차분하게 시작해봤다. 몸에 익숙한 긴장과 낯선 긴장을 감지하고 미세하게 움직이며 변화를 봤다. 변화가 읽힌다는게 매번 신기하다. 뭐든 느껴지나면 앞으로 괜찮을 것 같다는 안도감도 든다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "97일차 (24년 3월 12일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+97\n어제 웨이트가 힘들긴 했나보다. 오늘 살살보며 컨디션을 살폈다. 수리야 한번하고 내려오려고 했는데 움직이니 좋네. 그냥 매일 차리고 펴고 기록하면서 매일의 차이를 읽는 것, 그러다 어느날은 발견하는 것. 깨달음 비슷한 것에 가까워졌다 멀어졌다 하면서 지내고 있다.\n오늘은 무언갈 보고 순간 화가 우르르 났는데, 내가 이래서 이따금 찾아오는 이너피스에 놀라고 기뻐하는가 싶었다. 목마른자가 우물을 파자",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "98일차 (24년 3월 13일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+98\n아침에 간신히 일어났는데, 몸이 너무 뻑적지근해서 살짝 고민했다. 어젯밤 수련하고 펴둔 매트가 팔벌려 환영하니 설 수 있었다. 매트처럼 '배윤정의 메일요가'도 매일의 수련을 도와준다. 누군가 준비해두고 기다리고 있다는 마음이 기대하게 해준다. 적다보니 기대와 부담은 한끗 차이 같기도하다.\n그래도 자주 기대하는 마음으로 보내고 싶다.\n의외로 좋은, 신나는 일들이야 열린마음엔 자주 찾아와 주니까!\n오늘은 오전엔 혼자 고군분투하다가 캐틀벨 수업을 갈 예정이다. 아으 신나\n(아! 목어깨 아프단 소리 안 한지 꽤 된 것 발견함)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "99일차 (24년 3월 14일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+99\n이제 선명하게 이야기 할 수 있을 것 같다. 움직이면 행복하다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "100일차 (24년 3월 15일)",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "D+100\n아직 아침엔 춥다. 하지만 낮엔 완연한 봄이다. 덕분에 즐거운 마음으로 봄을 기다릴 수 있었다. 무슨 시간이 지나갔는지는 차차로 정리해봐야겠다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "100일 수련 정리하며 인상에 남는 점",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "움직이면 행복하다.\n나는 동물이다.\n그냥 매일 차리고 펴고 기록하면서 매일의\n차이를 읽는 것, 그러다 어느날은 발견하는 것.\n미세한 차이라도 감지 할 수 있다면 앞으로 뭐든\n괜찮을 것 같다는 생각이 든다.\n일상에서 뭔가 다 못다한 일들이 있어도 행복함,\n즐거움 속에서 머무르는 경험을 했다.\n어떤 동작, 움직임 보다 우선되는 것은 태도",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "번외 - 100일이 되던 날",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "사실, 어젯 저녁 오늘 아침에 징키에게\n100일 셀프수련 성공 축하인사를 엄청 받아서\n몸에 힘이 바짝 들어갔다.\n'오전 일하고 와서 공중제비 두번 돌고 벽탈거야!'\n(못함) 라는 생각을 하며 음양탕을 마셨는데 그 이후에 나도 모르게 바닥 밀고 매트펴고 있었다.\n(매트 다 펴지는 순간 깨달음)\n덕분에 늘 하던대로 했다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "100일째 되던날 아침에 수련을 마치고\n출근하는 길에 본 매화.\n나무에 딱 한 송이 펴있었는데\n그 모습에 좀 눈물이 찔끔났다.\n나무에 매화가 한 송이만 피는 순간은\n아마 금새 지나갈 것이다.\n3시간 뒤에 이 나무를 지날 때만해도\n다섯송이가 더 피었었으니까!\n하지만 나는 이 순간을 기억하려고\n노력할 것이다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "여기까지가 당시에 써둔 것이고\n그 즈음 일기에 써둔 것을 추가해볼게요.\n느낀 게 너무 많아 정리가 필요 할 것 같다.\n100일 수련기간 동안 아프지 않았다.\n수련기간동안 여행이 딱히 필요하지도 않았다.\n바닥청소에 취미를 붙였다.\n요가에 두었던 의미가 좀 가벼워 졌다.\n나의 배경 자아를 마주하는 순간이었다.\n매트에 서고나면 고민하던 것들이 선명해져서 내려올 즈음 그것들이 결정되어 있었다.\n100일 수련덕분에 그 이후에 건강밥상챌린지도하고\n다양한 운동들도하고 수련도 40여일 더 이어갔어요.\n지금은 뭔가 모를 신경통으로 인해 다른 방법을\n찾고 있습니다.\n앞으로 종종 움직임 일지 올려볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#ffffff;",
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "셀프요가수련 100일 모두 다 했다 _by링키\n'홈요가수련'\n100일까지의 여정\n\n100일 수련은 3월 중순경에 마쳤는데\n그 경험들을 소화하면서 시간을 보냈습니다.\n제가 왜 이런 시간을 지내며 보내게\n되었나 궁금하신 분들은 아래 포스팅\n참고해 주세요. 감사합니다.\n\n매일 인스타그램 계정에 수련 영상 타임랩스와\n함께 개인 수련일지를 올렸습니다.\n그것을 바탕으로 기록합니다.\n\n91일차 (24년 3월 6일)\n\nD+91\n뭔지 모를 것을 기도하는 마음이 생기는 시간\n\n92일차 (24년 3월 7일)\n\nD+92\n어떤 동작이나 무슨 움직임 너머에 태도라는 것이 있고 그것이 삶을 너르게 이끄는 것을 느낍니다.\n\n93일차 (24년 3월 8일)\n\nD+93\n퇴근하고 점심먹기 전에 틈새수련 이번주는 계속 늦게자서 아침 수련이 어려웠다. 아침, 점심, 밤 모두 수련의 느낌이 다르고 효용도 디테일도 다른데 공통점은 움직여보면 느낀다. '움직임이 필요한 순간이었구나!'\n행복한 동물이 되어 남은 하루를 만끽해볼게요.\n\n94일차 (24년 3월 9일)\n\nD+94\n쪼랩이어서 줌미팅 전에는 매트를 못폈다. 입으로 꺼내기 전에 혼자 펼쳐봐야 할 것들이 많기 때문이다. 마치고 서있으니 그렇게 좋네. 말을 많이 하고 나니 심리적으로 좀 헛헛한 느낌이 들었다. 중언부언한 부분은 없었을까? 물론 있었겠지. 진리는 간단한데, 잘 설명해보고자 하는 마음과 현실은 복잡하다. 그래도 충실하게 다 겪어보겠습니다.\n새싹 호스트의 무게를 덜어내는 수리야\n\n95일차 (24년 3월 10일)\n\nD+95\n주말에 읽지못한 책, 보지 못한 영화 잔뜩. 마감을 코앞에 두고 급히 올린 협찬 포스팅, 쉽지 않을 것으로 예상되는 다음주 출근일정이 있지만\n즐겁다! 행복하다!는 생각이 자꾸만 듭니다. 그래서 사실 오늘 수련 틈틈이 막춤을 췄습니다.\n이유를 잘 모르겠습니다.\n\n96일차 (24년 3월 11일)\n\nD+96\n사실 어제 아침에 악몽에서 깨며 일어났었다는 걸 깨달은 건 다시 자려고 누워서다. 꿈이 기분에 거의 영향이 없다니. 파워 N으로서 머쓱했다.\n상당히 기분좋은 날이 있으면, 그 이후에 잘 침잠하는 패턴을 알기에 오늘 아침은 차분하게 시작해봤다. 몸에 익숙한 긴장과 낯선 긴장을 감지하고 미세하게 움직이며 변화를 봤다. 변화가 읽힌다는게 매번 신기하다. 뭐든 느껴지나면 앞으로 괜찮을 것 같다는 안도감도 든다.\n\n97일차 (24년 3월 12일)\n\nD+97\n어제 웨이트가 힘들긴 했나보다. 오늘 살살보며 컨디션을 살폈다. 수리야 한번하고 내려오려고 했는데 움직이니 좋네. 그냥 매일 차리고 펴고 기록하면서 매일의 차이를 읽는 것, 그러다 어느날은 발견하는 것. 깨달음 비슷한 것에 가까워졌다 멀어졌다 하면서 지내고 있다.\n오늘은 무언갈 보고 순간 화가 우르르 났는데, 내가 이래서 이따금 찾아오는 이너피스에 놀라고 기뻐하는가 싶었다. 목마른자가 우물을 파자\n\n98일차 (24년 3월 13일)\n\nD+98\n아침에 간신히 일어났는데, 몸이 너무 뻑적지근해서 살짝 고민했다. 어젯밤 수련하고 펴둔 매트가 팔벌려 환영하니 설 수 있었다. 매트처럼 '배윤정의 메일요가'도 매일의 수련을 도와준다. 누군가 준비해두고 기다리고 있다는 마음이 기대하게 해준다. 적다보니 기대와 부담은 한끗 차이 같기도하다.\n그래도 자주 기대하는 마음으로 보내고 싶다.\n의외로 좋은, 신나는 일들이야 열린마음엔 자주 찾아와 주니까!\n오늘은 오전엔 혼자 고군분투하다가 캐틀벨 수업을 갈 예정이다. 아으 신나\n(아! 목어깨 아프단 소리 안 한지 꽤 된 것 발견함)\n\n99일차 (24년 3월 14일)\n\nD+99\n이제 선명하게 이야기 할 수 있을 것 같다. 움직이면 행복하다.\n\n100일차 (24년 3월 15일)\n\nD+100\n아직 아침엔 춥다. 하지만 낮엔 완연한 봄이다. 덕분에 즐거운 마음으로 봄을 기다릴 수 있었다. 무슨 시간이 지나갔는지는 차차로 정리해봐야겠다.\n\n100일 수련 정리하며 인상에 남는 점\n\n움직이면 행복하다.\n나는 동물이다.\n그냥 매일 차리고 펴고 기록하면서 매일의\n차이를 읽는 것, 그러다 어느날은 발견하는 것.\n미세한 차이라도 감지 할 수 있다면 앞으로 뭐든\n괜찮을 것 같다는 생각이 든다.\n일상에서 뭔가 다 못다한 일들이 있어도 행복함,\n즐거움 속에서 머무르는 경험을 했다.\n어떤 동작, 움직임 보다 우선되는 것은 태도\n\n번외 - 100일이 되던 날\n\n사실, 어젯 저녁 오늘 아침에 징키에게\n100일 셀프수련 성공 축하인사를 엄청 받아서\n몸에 힘이 바짝 들어갔다.\n'오전 일하고 와서 공중제비 두번 돌고 벽탈거야!'\n(못함) 라는 생각을 하며 음양탕을 마셨는데 그 이후에 나도 모르게 바닥 밀고 매트펴고 있었다.\n(매트 다 펴지는 순간 깨달음)\n덕분에 늘 하던대로 했다.\n\n100일째 되던날 아침에 수련을 마치고\n출근하는 길에 본 매화.\n나무에 딱 한 송이 펴있었는데\n그 모습에 좀 눈물이 찔끔났다.\n나무에 매화가 한 송이만 피는 순간은\n아마 금새 지나갈 것이다.\n3시간 뒤에 이 나무를 지날 때만해도\n다섯송이가 더 피었었으니까!\n하지만 나는 이 순간을 기억하려고\n노력할 것이다.\n\n여기까지가 당시에 써둔 것이고\n그 즈음 일기에 써둔 것을 추가해볼게요.\n느낀 게 너무 많아 정리가 필요 할 것 같다.\n100일 수련기간 동안 아프지 않았다.\n수련기간동안 여행이 딱히 필요하지도 않았다.\n바닥청소에 취미를 붙였다.\n요가에 두었던 의미가 좀 가벼워 졌다.\n나의 배경 자아를 마주하는 순간이었다.\n매트에 서고나면 고민하던 것들이 선명해져서 내려올 즈음 그것들이 결정되어 있었다.\n100일 수련덕분에 그 이후에 건강밥상챌린지도하고\n다양한 운동들도하고 수련도 40여일 더 이어갔어요.\n지금은 뭔가 모를 신경통으로 인해 다른 방법을\n찾고 있습니다.\n앞으로 종종 움직임 일지 올려볼게요.",
+  "char_count": 2809
+}

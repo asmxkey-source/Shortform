@@ -1,0 +1,413 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223292660106",
+  "url": "https://m.blog.naver.com/schumpgel/223292660106",
+  "title": "RYT200수료생의 홈요가수련 리추얼 100일 챌린지",
+  "published": "2023. 12. 14. 16:42",
+  "category": "개인수련 일지",
+  "category_no": "",
+  "tags": [
+    "ryt200수료생",
+    "갓생사는법",
+    "홈요가",
+    "요가수련",
+    "리추얼",
+    "100일챌린지",
+    "미라클모닝"
+  ],
+  "component_count": 31,
+  "type_counts": {
+    "text": 15,
+    "image": 8,
+    "sticker": 3,
+    "horizontalLine": 2,
+    "quotation": 2,
+    "oglink": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "같이할래 갓생사는법 ? _by링키\n막막할땐 그냥 하는거다\n'홈요가수련 리추얼'\n100일 시작",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "12월 첫째 월요일\n줌으로 한시간 수업을 안내하며\nRYT200(국제요가지도자과정)의\n모든 과제를 마쳤다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "코로나로 나만 줌발표로 진행했다."
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "100일 동안 치열하게 달려왔던\n요가지도자과정을 마치니 몸은 편했지만\n스멀스멀 두려움이 올라온다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "이제 나 혼자 어떻게 하지?\n이렇게 갚진 경험을 어디다 쓰지..?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "요가 안내자로서의 선명한 비전이나\n목표보다 개인적 필요로 시작한일이기에\n더 그랬던 것 같다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "나의 처음 목표는\n'내 의지로 혼자 잘 움직이고 싶다'는\n것이었고, 이제 한시간 이상 혼자 움직임이\n가능했으므로 이것에 대해선 꽤나 성과를\n이루었다고 생각했다. 그렇지만 과정이 끝나니\n일상 속에서 매트를 좀처럼 펼 수 없었다.\n매일 움직이면 좋은거 아는데\n안타깝게도 그것만으론 동기가 되지 않았다.\n왜 몸에 좋은건 특히나 자발적으로 하기\n어려운걸까?\nRYT200 과정 수료증은\n묵히긴 아까운데 그렇다고 차고다니기는\n부담스러운 24k 금목걸이 같았다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "과정 중엔 여행가도 매트 가지고 갔었는데.."
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그래서 과정 끝난지 삼일째 되는 날\n그런 마음과 마주하기로 했다.\n매트를 펴고 그 위에 서면 몸과 마음이\n알려줄 것 같았다. 앞으로 어쩌면 좋을지\n현재에 집중에서 척추를 하나하나 움직이고\n어깨가 가동할 수 있는 모든 움직임을 해주니\n미래에서 온 두려움이 방문할 틈이 없었다.\n잘난 사람이 머리에 왕왕 울릴 틈도 없었다.\n원래 그랬던 것처럼 살짝 굳은 몸과\n구름같이 떠다니는 마음 뿐이다.\n그간 굳었던 척추를 가볍게 풀어주며\n머릿속이 시원해지는 이 순간에 자주 머물고\n싶어서인스타그램에 호기롭게 선언했다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "셀프 홈요가수련 100일 챌린지를 하겠다.",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "귀한 경험과 능력을 창고에 짐처럼 방치하지\n않겠다는 선언이었다. 그날 밤에 웨이트를하느라\n100일 챌린지 둘째날부터 고비가 닥쳤지만\n아이고 내가 미쳤지를 읊조리면 다시 매트를 폈다.\n단 1분이라도 숨쉬고 내려올 참이었다.\n하지만 몸이 선생이다.\n알아서 컨디션을 고려해\n너그럽고 부드럽게 나를 인도해준다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그래서 지금은 8일째\n아침에 움직이고 떠오른 마음들을 기록한다.\n매일 스스로 움직이는 사람이 정체성이되어서\n앞으로의 숙제를 풀어보려고한다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "블로그에 마지막 에세이를 올린게\n개인수련을 시작하는데 많은 동기부여가\n되었습니다.\n10일째 되는 날 수련 일지도 공유해볼게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저의 100일 리추얼을 응원해주세요.\n함께 해주신다면 더욱 좋고요!\n참고로 징키는 4일차에 합류했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "(함께하고 싶은 분들은 비댓달아주시면\n제가 방법을 생각해 볼게요)",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#9c9c9c;",
+          "color:#9c9c9c;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "https://blog.naver.com/schumpgel/223284813236",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "합정요가일상 RYT200 국제요가지도자과정을 통과하며 발견한 것들",
+      "style": {
+        "classes": [
+          "se-l-large_image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "저와 요가의 만남에 대한 이야기가\n궁금하신 분들은 위에 글 참고해주세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "일상이 휘몰아치는 가운데에서도\n자주 평정심으로 돌아오실 수 있기를 바라며\n요가링키 요링키 드림",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#b85c00;",
+          "color:#b85c00;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    }
+  ],
+  "body_text": "같이할래 갓생사는법 ? _by링키\n막막할땐 그냥 하는거다\n'홈요가수련 리추얼'\n100일 시작\n\n12월 첫째 월요일\n줌으로 한시간 수업을 안내하며\nRYT200(국제요가지도자과정)의\n모든 과제를 마쳤다.\n\n100일 동안 치열하게 달려왔던\n요가지도자과정을 마치니 몸은 편했지만\n스멀스멀 두려움이 올라온다.\n\n이제 나 혼자 어떻게 하지?\n이렇게 갚진 경험을 어디다 쓰지..?\n\n요가 안내자로서의 선명한 비전이나\n목표보다 개인적 필요로 시작한일이기에\n더 그랬던 것 같다.\n\n나의 처음 목표는\n'내 의지로 혼자 잘 움직이고 싶다'는\n것이었고, 이제 한시간 이상 혼자 움직임이\n가능했으므로 이것에 대해선 꽤나 성과를\n이루었다고 생각했다. 그렇지만 과정이 끝나니\n일상 속에서 매트를 좀처럼 펼 수 없었다.\n매일 움직이면 좋은거 아는데\n안타깝게도 그것만으론 동기가 되지 않았다.\n왜 몸에 좋은건 특히나 자발적으로 하기\n어려운걸까?\nRYT200 과정 수료증은\n묵히긴 아까운데 그렇다고 차고다니기는\n부담스러운 24k 금목걸이 같았다.\n\n그래서 과정 끝난지 삼일째 되는 날\n그런 마음과 마주하기로 했다.\n매트를 펴고 그 위에 서면 몸과 마음이\n알려줄 것 같았다. 앞으로 어쩌면 좋을지\n현재에 집중에서 척추를 하나하나 움직이고\n어깨가 가동할 수 있는 모든 움직임을 해주니\n미래에서 온 두려움이 방문할 틈이 없었다.\n잘난 사람이 머리에 왕왕 울릴 틈도 없었다.\n원래 그랬던 것처럼 살짝 굳은 몸과\n구름같이 떠다니는 마음 뿐이다.\n그간 굳었던 척추를 가볍게 풀어주며\n머릿속이 시원해지는 이 순간에 자주 머물고\n싶어서인스타그램에 호기롭게 선언했다.\n\n셀프 홈요가수련 100일 챌린지를 하겠다.\n\n귀한 경험과 능력을 창고에 짐처럼 방치하지\n않겠다는 선언이었다. 그날 밤에 웨이트를하느라\n100일 챌린지 둘째날부터 고비가 닥쳤지만\n아이고 내가 미쳤지를 읊조리면 다시 매트를 폈다.\n단 1분이라도 숨쉬고 내려올 참이었다.\n하지만 몸이 선생이다.\n알아서 컨디션을 고려해\n너그럽고 부드럽게 나를 인도해준다.\n\n그래서 지금은 8일째\n아침에 움직이고 떠오른 마음들을 기록한다.\n매일 스스로 움직이는 사람이 정체성이되어서\n앞으로의 숙제를 풀어보려고한다.\n\n블로그에 마지막 에세이를 올린게\n개인수련을 시작하는데 많은 동기부여가\n되었습니다.\n10일째 되는 날 수련 일지도 공유해볼게요.\n\n저의 100일 리추얼을 응원해주세요.\n함께 해주신다면 더욱 좋고요!\n참고로 징키는 4일차에 합류했어요.\n\n(함께하고 싶은 분들은 비댓달아주시면\n제가 방법을 생각해 볼게요)\n\nhttps://blog.naver.com/schumpgel/223284813236\n\n저와 요가의 만남에 대한 이야기가\n궁금하신 분들은 위에 글 참고해주세요.\n\n일상이 휘몰아치는 가운데에서도\n자주 평정심으로 돌아오실 수 있기를 바라며\n요가링키 요링키 드림",
+  "char_count": 1381
+}

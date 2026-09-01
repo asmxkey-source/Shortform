@@ -1,0 +1,544 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223908079639",
+  "url": "https://m.blog.naver.com/schumpgel/223908079639",
+  "title": "허리디스크 재활에 효과 본 운동수업, 코어밸런스 무브먼트 링키T 소개",
+  "published": "2025. 6. 22. 23:38",
+  "category": "소개, 수업안내",
+  "category_no": "",
+  "tags": [
+    "DNS",
+    "디앤에스",
+    "허리디스크",
+    "허리디스크재활운동",
+    "허리디스크재활",
+    "코어운동",
+    "코어밸런스",
+    "코어밸런스운동",
+    "링키",
+    "링키T",
+    "합정pt",
+    "홍대PT",
+    "상수PT"
+  ],
+  "component_count": 40,
+  "type_counts": {
+    "text": 20,
+    "image": 9,
+    "quotation": 7,
+    "horizontalLine": 2,
+    "oglink": 1,
+    "sticker": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "허리 아플 때 어떤 운동이 도움될까_by링키\n내 몸을 바꾼 DNS와\n코어밸런스무브먼트",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "허리 통증, DNS로 방법을 찾다",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "작년 이맘때, 허리디스크로\n일상생활이 힘들었던 저에게\nDNS(Dynamic Neuromuscular Stabilization)는\n기적 같은 전환점이 됐습니다.\n단순히 통증을 줄이는 데 그치지 않고,\n건강한 몸과 운동에 대한 관점을\n완전히 바꿔준 운동법이 되었기 때문이죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "DNS에서 코어밸런스무브먼트로",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "DNS 운동 효과를 직접 경험한 후,\n더 많은 분들이 쉽게\n접근할 수 없을까 고민했어요.\n이건 배워두면 무조건\n도움이 될 거란 확신이 있었기 때문이죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그래서 탄생한'코어밸런스무브먼트'!\nDNS의 핵심 원리를 바탕으로\n요가와맨몸운동을 접목시켜서,\n일상에서 누구나 쉽게 활용할 수 있는\n운동 장르를 만들어 더 많은 분들에게\n이 기쁨을 전하고 있습니다.\n오늘은 그 여정을 여러분과 나누고,\n왜 코어밸런스무브먼트가 일상에서 꼭 필요한지\n알려드릴게요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "DNS란? 아기 움직임에서 찾은 해답",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "코어밸런스무브먼트의 핵심 원리라고 말한\nDNS를 먼저 소개해 드릴게요.\nDNS는 아기가 뒤집고, 기고, 앉고, 서는\n자연스러운 움직임에서 영감을 받은 운동법이예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "아기의 움직임에는 우리 몸이 본래 알고 있던\n완벽한 움직임 패턴이 담겨 있죠.\nDNS는 이 패턴을 성인의 신경계에 다시 가르쳐,\n몸의 중심(코어)을 강화하고\n잘못된 움직임 습관을 교정합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "중심이 튼튼해야\n팔다리도 자유롭게 움직인다!",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "DNS의 핵심은\n코어 근육(척추, 횡격막, 골반)을\n안정화하는 데 있어요.\n저도 이 원리를 통해 코어 근육을\n제대로 사용하면서 허리 통증이 줄고,\n몸 전체의 움직임이 자연스러워지는\n변화를 느꼈어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "코어밸런스무브먼트: 일상 건강 챙기기",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "DNS의 효과를 경험한 후,\n저는 이를 더 쉽게 접할 수 있도록\n코어밸런스무브먼트를 만들었어요.\nDNS 원리에 요가와 매트운동을 접목해\n누구나 일상에서 실천할 수 있는\n운동법으로 재해석했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "코어밸런스무브먼트의 매력\n1. 언제 어디서나 가능\n집, 사무실, 여행지에서도 장비 없이 OK!\n집에서도, 사무실에서도, 여행 중에도\n언제든 할 수 있어요.\n계단 오르기, 물건 들기, 의자에서 일어나기 같은\n일상 동작이 더 편해집니다.\n2. 호흡의 힘\n횡격막 호흡으로 코어를 깨우면\n척추가 안정되고 동작이 가벼워져요.\n3. 누구나 시작 가능\n시니어, 직장인, 운동 초보까지\n모두 자신의 몸에 맞춰 시작할 수 있어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "내 몸이 달라진 순간: 실제 변화 스토리",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "코어밸런스무브먼트를 시작한 뒤,\n제 몸부터 놀랍게 변했어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 골반 전방경사 교정\n오랫동안 고치지 못했던 골반이\n제자리를 찾았습니다.\n2. 허리 통증 완화\n디스크로 인한 통증이 줄고,\n체형도 균형 잡혔어요.\n3. 운동 효율 UP\n웨이트 트레이닝에서 들 수 있는 무게가\n자연스럽게 늘어났죠.\n함께 운동한 분들의 변화도 놀라웠습니다.\n지금 다양한 분들과 1:1로 만나고 있는데요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#e3fdc8;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "40대 직장인은\n“몸이 가볍고 피로가 덜하다”고 했고,\n디스크와 협착으로 30여 년 고생하신\n60대 시니어는 “계단 오르기가 두렵지 않다”며\n미소 지으셨어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "코어밸런스무브먼트는 단순한 운동이 아니라,\n일상을 더 편하고 건강하게 만드는\n변화의 시작이었어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "함께 건강한 몸을 만들어가요",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "이런 변화를 경험하고 나니\n더 많은 분들과 이 즐거움을 나누고 싶어졌어요.\n특히 저처럼 만성 통증으로 힘드신 분들,\n운동하고 싶은데 다칠까 봐 걱정되는 분들,\n바쁜 일상 속에서도 건강 챙기고 싶은\n모든 분들께 도움이 되었으면 좋겠어요.\n여러분의 몸이 이미 알고 있는\n그 자연스러운 움직임, 함께 되찾아보아요!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "합정 홍대pt 달리운동장 링키T 소개",
+      "style": {
+        "classes": [
+          "se-l-large_image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "달리회현, 달리운동장, 은평요가에서\n그룹수업, 1:1 세션으로 만나요.\n수업문의는 카카오톡 아이디 cutieleee\n블로그 댓글로 문의주시면 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "sticker",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "매일 일상  수련은 인스타계정\n@cutie._.lee에서 확인 가능합니다!",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "허리 아플 때 어떤 운동이 도움될까_by링키\n내 몸을 바꾼 DNS와\n코어밸런스무브먼트\n\n허리 통증, DNS로 방법을 찾다\n\n작년 이맘때, 허리디스크로\n일상생활이 힘들었던 저에게\nDNS(Dynamic Neuromuscular Stabilization)는\n기적 같은 전환점이 됐습니다.\n단순히 통증을 줄이는 데 그치지 않고,\n건강한 몸과 운동에 대한 관점을\n완전히 바꿔준 운동법이 되었기 때문이죠.\n\nDNS에서 코어밸런스무브먼트로\n\nDNS 운동 효과를 직접 경험한 후,\n더 많은 분들이 쉽게\n접근할 수 없을까 고민했어요.\n이건 배워두면 무조건\n도움이 될 거란 확신이 있었기 때문이죠.\n\n그래서 탄생한'코어밸런스무브먼트'!\nDNS의 핵심 원리를 바탕으로\n요가와맨몸운동을 접목시켜서,\n일상에서 누구나 쉽게 활용할 수 있는\n운동 장르를 만들어 더 많은 분들에게\n이 기쁨을 전하고 있습니다.\n오늘은 그 여정을 여러분과 나누고,\n왜 코어밸런스무브먼트가 일상에서 꼭 필요한지\n알려드릴게요.\n\nDNS란? 아기 움직임에서 찾은 해답\n\n코어밸런스무브먼트의 핵심 원리라고 말한\nDNS를 먼저 소개해 드릴게요.\nDNS는 아기가 뒤집고, 기고, 앉고, 서는\n자연스러운 움직임에서 영감을 받은 운동법이예요.\n\n아기의 움직임에는 우리 몸이 본래 알고 있던\n완벽한 움직임 패턴이 담겨 있죠.\nDNS는 이 패턴을 성인의 신경계에 다시 가르쳐,\n몸의 중심(코어)을 강화하고\n잘못된 움직임 습관을 교정합니다.\n\n중심이 튼튼해야\n팔다리도 자유롭게 움직인다!\n\nDNS의 핵심은\n코어 근육(척추, 횡격막, 골반)을\n안정화하는 데 있어요.\n저도 이 원리를 통해 코어 근육을\n제대로 사용하면서 허리 통증이 줄고,\n몸 전체의 움직임이 자연스러워지는\n변화를 느꼈어요.\n\n코어밸런스무브먼트: 일상 건강 챙기기\n\nDNS의 효과를 경험한 후,\n저는 이를 더 쉽게 접할 수 있도록\n코어밸런스무브먼트를 만들었어요.\nDNS 원리에 요가와 매트운동을 접목해\n누구나 일상에서 실천할 수 있는\n운동법으로 재해석했어요.\n\n코어밸런스무브먼트의 매력\n1. 언제 어디서나 가능\n집, 사무실, 여행지에서도 장비 없이 OK!\n집에서도, 사무실에서도, 여행 중에도\n언제든 할 수 있어요.\n계단 오르기, 물건 들기, 의자에서 일어나기 같은\n일상 동작이 더 편해집니다.\n2. 호흡의 힘\n횡격막 호흡으로 코어를 깨우면\n척추가 안정되고 동작이 가벼워져요.\n3. 누구나 시작 가능\n시니어, 직장인, 운동 초보까지\n모두 자신의 몸에 맞춰 시작할 수 있어요.\n\n내 몸이 달라진 순간: 실제 변화 스토리\n\n코어밸런스무브먼트를 시작한 뒤,\n제 몸부터 놀랍게 변했어요.\n\n1. 골반 전방경사 교정\n오랫동안 고치지 못했던 골반이\n제자리를 찾았습니다.\n2. 허리 통증 완화\n디스크로 인한 통증이 줄고,\n체형도 균형 잡혔어요.\n3. 운동 효율 UP\n웨이트 트레이닝에서 들 수 있는 무게가\n자연스럽게 늘어났죠.\n함께 운동한 분들의 변화도 놀라웠습니다.\n지금 다양한 분들과 1:1로 만나고 있는데요.\n\n40대 직장인은\n“몸이 가볍고 피로가 덜하다”고 했고,\n디스크와 협착으로 30여 년 고생하신\n60대 시니어는 “계단 오르기가 두렵지 않다”며\n미소 지으셨어요.\n\n코어밸런스무브먼트는 단순한 운동이 아니라,\n일상을 더 편하고 건강하게 만드는\n변화의 시작이었어요.\n\n함께 건강한 몸을 만들어가요\n\n이런 변화를 경험하고 나니\n더 많은 분들과 이 즐거움을 나누고 싶어졌어요.\n특히 저처럼 만성 통증으로 힘드신 분들,\n운동하고 싶은데 다칠까 봐 걱정되는 분들,\n바쁜 일상 속에서도 건강 챙기고 싶은\n모든 분들께 도움이 되었으면 좋겠어요.\n여러분의 몸이 이미 알고 있는\n그 자연스러운 움직임, 함께 되찾아보아요!\n\n달리회현, 달리운동장, 은평요가에서\n그룹수업, 1:1 세션으로 만나요.\n수업문의는 카카오톡 아이디 cutieleee\n블로그 댓글로 문의주시면 됩니다.\n\n매일 일상  수련은 인스타계정\n@cutie._.lee에서 확인 가능합니다!",
+  "char_count": 1918
+}

@@ -1,0 +1,512 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "223915974973",
+  "url": "https://m.blog.naver.com/schumpgel/223915974973",
+  "title": "허리통증 완화부터 체형교정까지, DNS 기반 코어밸런스무브먼트 수업 완벽 가이드",
+  "published": "2025. 6. 29. 23:56",
+  "category": "소개, 수업안내",
+  "category_no": "",
+  "tags": [
+    "코어운동",
+    "코어밸런스",
+    "체형교정",
+    "체형교정센터",
+    "체형교정일대일",
+    "재활운동",
+    "합정",
+    "합정pt",
+    "홍대",
+    "홍대pt"
+  ],
+  "component_count": 36,
+  "type_counts": {
+    "text": 18,
+    "quotation": 7,
+    "image": 6,
+    "map": 2,
+    "oglink": 2,
+    "horizontalLine": 1
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "운동은 잘 하지만 허리가 자꾸 아프다면? _by링키\n편안하게 강한 몸이 되는\n'코어밸런스 무브먼트'",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#0095e9;background-color:#ffffff;",
+          "color:#444444;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#444444;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "DNS가 바꾼 나의 운동인생",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "허리디스크로 고생하던 시기, DNS\n(Dynamic Neuromuscular Stabilization)를\n만나면서 제 운동 인생이 완전히 바뀌었습니다.\n단순한 통증 완화를 넘어 몸 전체의\n움직임 패턴이 달라지는 놀라운 경험을 했죠.\nDNS는 아기의 자연스러운 발달 과정에서 영감을\n받은 운동법입니다. 뒤집기, 기기, 앉기, 서기 등\n인간 본연의 움직임 패턴을 성인의 몸에 다시\n학습시켜 코어 안정성을 회복하는 것이 핵심입니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "코어밸런스무브먼트 탄생 스토리",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "DNS의 효과를 직접 체험한 후,\n\"이런 좋은 운동법을 더 많은 분들이 쉽게\n접할 수는 없을까?\" 하는 고민에서\n코어밸런스무브먼트가 탄생했습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "DNS의 핵심 원리에 요가와 맨몸운동을 접목시켜,\n일상생활에서 누구나 실천할 수 있는\n운동 프로그램으로 재탄생시켰습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "주요 운동 내용",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1단계: 호흡 세팅- 신경계 안정 및 코어 활성화의 시작\n360도 호흡법: 호흡으로 인한 갈비뼈 확장과 골반저근 활성화\nIAP(복강내압) 조절 훈련: 코어 심부 근육의 협응성 향상\n호흡이 바뀌면 자율신경계가 안정되고, 이는 모든 움직임의 기초가 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "2단계: 시상면(앞뒤) 움직임 -굽힘과 펼침의 조화\n앞뒤 방향의 움직임 패턴을 재학습하여 일상의 구부리고 펴는 동작을 개선합니다.\n3단계: 관상면(좌우) 움직임 -측면 안정성 구축\n좌우 균형을 맞추고 측면 안정성을 확보하여 보행과 회전 동작을 개선합니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "4단계: 복합적 움직임 - 기능적 몸의 완성\n베어크롤: 전신 협응과 대각선 패턴의 통합\n터키시 겟업 변형: 눕기에서 서기까지의 복합 움직임\n3D 스쿼트 패턴: 다방향 움직임이 결합된 기능적 스쿼트\n모든 움직임 패턴이 통합되어 일상생활과\n스포츠에서 최적의 퍼포먼스를 발휘할 수 있도록\n돕습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "수업의 3가지 핵심효과",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "체형 교정\n골반 전후방경사, 라운드숄더 등\n한쪽으로 치우쳐 통증을 쉽게 가져오는\n체형을 편안하게 만듭니다.\n통증 완화\n허리, 목, 어깨 등 만성 통증을\n근본적으로 해결합니다.\n일상 움직임 개선\n계단 오르기, 물건 들기 등\n일상 동작이 더욱 편해집니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#fff8b2;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "실제 변화 사례",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "제가 직접 경험한 변화부터 말씀드리면,\n골반 전방경사가 교정되고 오랫동안 고생했던\n허리 통증이 현저히 줄어들었습니다.\n웨이트 트레이닝에서도 더 무거운 중량을\n안전하게 들 수 있게 되었죠.\n40대 직장인 A님은\"수업 이후에 아랫배가 들어간\n느낌이 들며 몸이 가벼워지고 하루 종일\n앉아 있어도 피로감이 덜하다\"고 말씀하셨고,\n30년간 허리통증 (디스크&협착)으로\n고생하신 70대 B님은\n\"수업 이후 허리 약을 하나도 먹지 않았다.\n자발적인 움직임으로 통증이 경감되니\n미래가 기대된다.\"고 하셨습니다.\n특히\"이 운동 자체가 즐거워서 혼자 복습하면서도\n즐거운 기분이 든다\"며 환한 미소를 지으셨습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "코어밸런스무브먼트를\n선택해야 하는 이유",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "운동 장비 없이 언제 어디서나 가능하며,\n연령대와 운동 경험에 관계없이 누구나\n시작할 수 있습니다.\n특히 만성 통증으로 고생하는 분들이나\n운동이 처음인 분들, 또는 운동을 오래 했지만\n자꾸 아픈 곳만 늘어가는 것 같은 분들에게\n안전하면서도 효과적인 대안이 됩니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "수업 장소 및 이용 방법",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_line"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "달리회현",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;background-color:#e3fdc8;"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "달리회현",
+      "address": "서울특별시 중구 퇴계로2길 9 로컬스티치 E동 1층",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n· 4호선 회현역 4번출구로부터 도보 1분\n· 로컬스티치 회현 건물 1\n● 수업시간\n· 매주 월요일 19:00(50분 수업)및 1:1 개인세션 가능\n● 센터안내 및 수업예약\nhttps://naver.me/GdymBV4Q",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-ff-system",
+          "se-fs-",
+          "se-fs-fs13",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#2196f3;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "네이버 지도",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "달리 회현은 달리운동장의 회현점으로 1가지 수강권으로 다양한 운동종목 및 다양한 센터 이용이 가능합니다.\n은평요가",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#e3fdc8;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "map",
+      "name": "은평요가",
+      "address": "서울특별시 은평구 응암로 275 3층",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "● 위치\n· 6호선 응암역 4번출구로부터 도보 8분\n· SK뷰아이파크 정문 앞, 프롬하츠 커피숍 맞은편 건물 3\n● 수업시간\n· 매주 월요일 19:00(50분 수업)\n● 센터안내 및 수업예약\nhttps://naver.me/5YFsOwL0",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-ff-system",
+          "se-fs-fs13",
+          "se-fs-fs15",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;",
+          "color:#2196f3;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "oglink",
+      "title": "네이버 지도",
+      "style": {
+        "classes": [
+          "se-l-image"
+        ],
+        "has_bold": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "은평요가는 깊이있는 자연치유학박사 모녀가 안전하게 기능하는 몸, 마음 숨을 안내하는 공간으로 월테라피, 테라피요가가 특장점 입니다.\n개인세션\n1:1 또는 2:1로 방문 수업 가능합니다.\n홍대 스튜디오에서 수업 가능",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-fs15",
+          "se-fs-fs24",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#e3fdc8;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "captions": [
+        "사진을 누르면 카카오톡 대화로 연결됩니다"
+      ],
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "카카오톡 상담: cutieleee\n개인 맞춤 수업 상담 및 수업일정 조율\n체험수업 예약 가능\n인스타그램@cutie._.lee\n매일 수련 일상 및 식단 운동 팁 공유\nDM으로 실시간 Q&A가\n단순한 운동이 아닌, 일상을 더 편하고 건강하게\n만드는 변화의 시작점이 되어드립니다.\n여러분 몸이 이미 알고 있는\n자연스러운 움직임을\n함께 되찾아보세요!\n체험 수업 문의는 언제든 환영합니다",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs15",
+          "se-fs-fs16",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#000000;",
+          "color:#000000;background-color:#ffffff;"
+        ]
+      }
+    }
+  ],
+  "body_text": "운동은 잘 하지만 허리가 자꾸 아프다면? _by링키\n편안하게 강한 몸이 되는\n'코어밸런스 무브먼트'\n\nDNS가 바꾼 나의 운동인생\n\n허리디스크로 고생하던 시기, DNS\n(Dynamic Neuromuscular Stabilization)를\n만나면서 제 운동 인생이 완전히 바뀌었습니다.\n단순한 통증 완화를 넘어 몸 전체의\n움직임 패턴이 달라지는 놀라운 경험을 했죠.\nDNS는 아기의 자연스러운 발달 과정에서 영감을\n받은 운동법입니다. 뒤집기, 기기, 앉기, 서기 등\n인간 본연의 움직임 패턴을 성인의 몸에 다시\n학습시켜 코어 안정성을 회복하는 것이 핵심입니다.\n\n코어밸런스무브먼트 탄생 스토리\n\nDNS의 효과를 직접 체험한 후,\n\"이런 좋은 운동법을 더 많은 분들이 쉽게\n접할 수는 없을까?\" 하는 고민에서\n코어밸런스무브먼트가 탄생했습니다.\n\nDNS의 핵심 원리에 요가와 맨몸운동을 접목시켜,\n일상생활에서 누구나 실천할 수 있는\n운동 프로그램으로 재탄생시켰습니다.\n\n주요 운동 내용\n\n1단계: 호흡 세팅- 신경계 안정 및 코어 활성화의 시작\n360도 호흡법: 호흡으로 인한 갈비뼈 확장과 골반저근 활성화\nIAP(복강내압) 조절 훈련: 코어 심부 근육의 협응성 향상\n호흡이 바뀌면 자율신경계가 안정되고, 이는 모든 움직임의 기초가 됩니다.\n\n2단계: 시상면(앞뒤) 움직임 -굽힘과 펼침의 조화\n앞뒤 방향의 움직임 패턴을 재학습하여 일상의 구부리고 펴는 동작을 개선합니다.\n3단계: 관상면(좌우) 움직임 -측면 안정성 구축\n좌우 균형을 맞추고 측면 안정성을 확보하여 보행과 회전 동작을 개선합니다.\n\n4단계: 복합적 움직임 - 기능적 몸의 완성\n베어크롤: 전신 협응과 대각선 패턴의 통합\n터키시 겟업 변형: 눕기에서 서기까지의 복합 움직임\n3D 스쿼트 패턴: 다방향 움직임이 결합된 기능적 스쿼트\n모든 움직임 패턴이 통합되어 일상생활과\n스포츠에서 최적의 퍼포먼스를 발휘할 수 있도록\n돕습니다.\n\n수업의 3가지 핵심효과\n\n체형 교정\n골반 전후방경사, 라운드숄더 등\n한쪽으로 치우쳐 통증을 쉽게 가져오는\n체형을 편안하게 만듭니다.\n통증 완화\n허리, 목, 어깨 등 만성 통증을\n근본적으로 해결합니다.\n일상 움직임 개선\n계단 오르기, 물건 들기 등\n일상 동작이 더욱 편해집니다.\n\n실제 변화 사례\n\n제가 직접 경험한 변화부터 말씀드리면,\n골반 전방경사가 교정되고 오랫동안 고생했던\n허리 통증이 현저히 줄어들었습니다.\n웨이트 트레이닝에서도 더 무거운 중량을\n안전하게 들 수 있게 되었죠.\n40대 직장인 A님은\"수업 이후에 아랫배가 들어간\n느낌이 들며 몸이 가벼워지고 하루 종일\n앉아 있어도 피로감이 덜하다\"고 말씀하셨고,\n30년간 허리통증 (디스크&협착)으로\n고생하신 70대 B님은\n\"수업 이후 허리 약을 하나도 먹지 않았다.\n자발적인 움직임으로 통증이 경감되니\n미래가 기대된다.\"고 하셨습니다.\n특히\"이 운동 자체가 즐거워서 혼자 복습하면서도\n즐거운 기분이 든다\"며 환한 미소를 지으셨습니다.\n\n코어밸런스무브먼트를\n선택해야 하는 이유\n\n운동 장비 없이 언제 어디서나 가능하며,\n연령대와 운동 경험에 관계없이 누구나\n시작할 수 있습니다.\n특히 만성 통증으로 고생하는 분들이나\n운동이 처음인 분들, 또는 운동을 오래 했지만\n자꾸 아픈 곳만 늘어가는 것 같은 분들에게\n안전하면서도 효과적인 대안이 됩니다.\n\n수업 장소 및 이용 방법\n\n달리회현\n\n● 위치\n· 4호선 회현역 4번출구로부터 도보 1분\n· 로컬스티치 회현 건물 1\n● 수업시간\n· 매주 월요일 19:00(50분 수업)및 1:1 개인세션 가능\n● 센터안내 및 수업예약\nhttps://naver.me/GdymBV4Q\n\n달리 회현은 달리운동장의 회현점으로 1가지 수강권으로 다양한 운동종목 및 다양한 센터 이용이 가능합니다.\n은평요가\n\n● 위치\n· 6호선 응암역 4번출구로부터 도보 8분\n· SK뷰아이파크 정문 앞, 프롬하츠 커피숍 맞은편 건물 3\n● 수업시간\n· 매주 월요일 19:00(50분 수업)\n● 센터안내 및 수업예약\nhttps://naver.me/5YFsOwL0\n\n은평요가는 깊이있는 자연치유학박사 모녀가 안전하게 기능하는 몸, 마음 숨을 안내하는 공간으로 월테라피, 테라피요가가 특장점 입니다.\n개인세션\n1:1 또는 2:1로 방문 수업 가능합니다.\n홍대 스튜디오에서 수업 가능\n\n카카오톡 상담: cutieleee\n개인 맞춤 수업 상담 및 수업일정 조율\n체험수업 예약 가능\n인스타그램@cutie._.lee\n매일 수련 일상 및 식단 운동 팁 공유\nDM으로 실시간 Q&A가\n단순한 운동이 아닌, 일상을 더 편하고 건강하게\n만드는 변화의 시작점이 되어드립니다.\n여러분 몸이 이미 알고 있는\n자연스러운 움직임을\n함께 되찾아보세요!\n체험 수업 문의는 언제든 환영합니다",
+  "char_count": 2299
+}
