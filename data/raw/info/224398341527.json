@@ -1,0 +1,522 @@
+{
+  "blog_id": "schumpgel",
+  "log_no": "224398341527",
+  "url": "https://m.blog.naver.com/schumpgel/224398341527",
+  "title": "홍로사과 맛은? 9월 제철, 신맛이 거의 없어요",
+  "published": "1시간 전",
+  "category": "제철 식재료",
+  "category_no": "",
+  "tags": [
+    "홍로사과",
+    "홍로사과맛",
+    "홍로사과특징",
+    "홍로수확시기",
+    "홍로사과수확시기",
+    "홍로사과뜻",
+    "홍로",
+    "홍로사과색깔",
+    "햇홍로사과",
+    "사과품종",
+    "사과품종종류",
+    "가을사과품종",
+    "9월사과품종",
+    "가을사과",
+    "햇사과",
+    "사과고르는법",
+    "사과보관법",
+    "사과냉장보관",
+    "추석사과",
+    "사과밀증상"
+  ],
+  "component_count": 42,
+  "type_counts": {
+    "text": 17,
+    "image": 11,
+    "quotation": 8,
+    "horizontalLine": 6
+  },
+  "components": [
+    {
+      "type": "text",
+      "text": "홍로사과 언제가 제철 인가요_by징키\n시장에서 만난\n낯선 사과, 홍로",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-fs-fs34",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-line4"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "추석시즌이면 홍로사과가\n보이지 않나요?\n시장에서 못 보던 사과를 보고\n사장님께 물었더니\n'홍로'라고 하셨다면,\n살까 말까 망설이실 때\n알면 좋을 것들을 정리해 봤어요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "홍로. 어떤 사과죠?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "국내에서 육성된\n최초의 사과 품종이에요.\n원예연구소가 1980년에\n'스퍼어리브레이즈'와\n'스퍼골든데리셔스'를 교배했어요.\n'원교 가-1'이라는 이름으로\n1차 선발을 거쳐,\n1988년에 최종 선발되면서\n'홍로'라는 이름을 얻었습니다.\n그전까지 우리가 먹던 사과는\n전부 밖에서 들여온 품종이었어요.\n홍로가 그 흐름을 처음 끊은\n품종인 셈이에요.\n이름의 '홍(紅)'은 붉다는 뜻인데,\n실제로 이 품종의 가장 큰 특징도\n진한 붉은색이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;",
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "홍로는 어쩌다 추석 사과가 됐을까?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "수확기가 명절과 맞고\n색이 잘 들기 때문이에요.\n시기만 맞아서는 아니에요.\n홍로는 명절 물량을 소화하기에\n좋은 조건을 갖췄거든요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "1. 빨리 열매 맺고, 양도 많아\n홍로는 나무를 심으면 열매가 일찍 열리고,\n한 그루에서도 많이 열리는 품종이에요.\n2. 수확 전 낙과가 거의 없는 편\n익는 동안 잘 안 떨어져요\n그래서 제때 한 번에 딸 수 있어요.\n3. 착색이 좋은 편\n사과는 보통 일교차가 커야\n색이 잘 드는데, 홍로는\n해발이 낮고 온도가 높은 곳에서도\n착색이 양호한 편이죠.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#bdfbfa;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "명절 선물용 사과는\n맛만큼 겉모습도 중요하죠.\n수확기가 추석과 겹치는데\n수량도 많고 색도 예쁘니,\n이만한 품종이 없었던 거예요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "지금 '홍로'를 사도 될까요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "네,지금이 제철이에요.\n8월 하순부터 딸 수 있고\n본격적인 수확기는\n9월 상·중순이에요.\n추석 무렵 마트와 시장에 쌓이는\n빨간 사과가 대부분 홍로인 이유예요.\n시장에서 처음 보셨다면\n못 보던 사과가 아니라\n지금 막 나오기 시작한 사과일\n가능성이 큽니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "어떤게 홍로를 고르면 좋을까요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "색이 고르게 든 것을 고르세요.\n홍로는껍질이 짙은 빨간색이고\n줄무늬가 거의 없는 품종이에요.\n전면이 고르게 붉은 것이\n좋은 상태예요.\n색이 얼룩덜룩하다면\n햇빛을 덜 받았을 수 있어요.\n혹시꿀 든 사과(밀증상)를 좋아하시나요?\n그렇다면,큰 알을 고르시면 돼요.\n사과알이 클수록 속에 꿀(밀증상)이\n생길 확률이 높아져요.\n실제로 큰 사과일수록 밀증상이\n더 잘 나타난다는 농진청 자료도 있거든요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "밀증상이 정확히 뭔가요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "과육 일부가 투명해지는 현상이에요.\n흔히꿀이 들었다고 부르는\n그 부분이 밀(蜜)이에요.\n먹는 사람에겐 반가운 일이지만\n농가 입장은 조금 달라요.\n밀이 든 과실은\n저장에 불리하기 때문이에요.\n그래서 밀이 든 홍로를\n만나셨다면 오래 두지 마시고\n빨리 드시는 게 좋아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "몇 kg이나 사면 좋을까요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "저장성은 보통\n상온에서 30일이 기준이에요.\n가을에 한 상자 들여놓고\n겨우내 꺼내 먹는 사과가 있죠.\n홍로는 그런 품종이 아니에요.\n그러니 한 달 안에\n드실 수 있는 양인지\n먼저 헤아려 보시는 게 좋아요.\n두 분이 드신다면\n5kg 한 상자가 적당한 편이에요.\n오래 두고 드실 생각이면\n저장성이 긴 다른 품종을\n고르시는 편이 낫습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "홍로사과 맛은 어떤가요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "단맛 위주이고 신맛이 적어요.\n당도가 14~15%,\n산도는 0.25~0.31% 수준이에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "숫자만 보면 감이 안 오시죠?\n사과의 신맛은 산도가 좌우하는데,\n0.3% 아래로 내려가면\n신맛이 거의 느껴지지 않아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#ffa94f;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그래서 새콤한 사과를 좋아하시면\n심심하게 느끼실 수 있어요.\n반대로 신맛을 싫어하는\n아이들이 좋아하는 편이에요.\n육질은 단단하고\n식감은 양호하지만\n과즙은 적은 편이예요.\n아삭하게 씹히는 편이지\n즙이 흐르는 편은 아니에요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "quotation",
+      "text": "사과는 어떻게 보관하나요?",
+      "style": {
+        "classes": [
+          "se-ff-",
+          "se-fs-",
+          "se-l-quotation_bubble"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "냉장실 말고 김치냉장고예요.\n농촌진흥청 자료에 따르면\n사과는 온도 0도,\n상대습도 90~95%가 가장 좋아요.\n그런데 가정용 냉장고 냉장실은\n보통 4~5도예요.\n김치냉장고가 0~15도라\n사과에는 이쪽이 더 맞습니다.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "horizontalLine",
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "그리고 하나 더 중요한 게 있어요.\n사과는 야채들과는 따로 보관하세요.\n사과는노화 호르몬인 에틸렌을\n많이 내뿜는 과일이에요.\n같이 둔 과일과 채소의 품질을\n떨어뜨립니다.\n특히 브로콜리, 상추, 오이,\n수박, 당근은 에틸렌에 민감해서\n누렇게 변하거나 반점이 생겨요.\n한 상자 사오셨다면\n채소칸에 같이 보관하는 게 아니라\n따로 두시는 게 좋아요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ],
+        "has_bold": true,
+        "inline_styles": [
+          "background-color:#fff593;",
+          "color:#0095e9;"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": "홍로는 짧게 왔다 가는 사과예요.\n제철도 한 달 남짓,\n상온 보관도 한 달이니\n지금이 딱 그때입니다.\n시장에서 낯선 빨간 사과를\n또 만나시면, 한 번 츄라이 해보세요.",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "image",
+      "count": 1,
+      "style": {
+        "classes": [
+          "se-l-default"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "classes": [
+          "se-ff-nanummaruburi",
+          "se-fs-",
+          "se-l-default"
+        ]
+      }
+    }
+  ],
+  "body_text": "홍로사과 언제가 제철 인가요_by징키\n시장에서 만난\n낯선 사과, 홍로\n\n추석시즌이면 홍로사과가\n보이지 않나요?\n시장에서 못 보던 사과를 보고\n사장님께 물었더니\n'홍로'라고 하셨다면,\n살까 말까 망설이실 때\n알면 좋을 것들을 정리해 봤어요.\n\n홍로. 어떤 사과죠?\n\n국내에서 육성된\n최초의 사과 품종이에요.\n원예연구소가 1980년에\n'스퍼어리브레이즈'와\n'스퍼골든데리셔스'를 교배했어요.\n'원교 가-1'이라는 이름으로\n1차 선발을 거쳐,\n1988년에 최종 선발되면서\n'홍로'라는 이름을 얻었습니다.\n그전까지 우리가 먹던 사과는\n전부 밖에서 들여온 품종이었어요.\n홍로가 그 흐름을 처음 끊은\n품종인 셈이에요.\n이름의 '홍(紅)'은 붉다는 뜻인데,\n실제로 이 품종의 가장 큰 특징도\n진한 붉은색이에요.\n\n홍로는 어쩌다 추석 사과가 됐을까?\n\n수확기가 명절과 맞고\n색이 잘 들기 때문이에요.\n시기만 맞아서는 아니에요.\n홍로는 명절 물량을 소화하기에\n좋은 조건을 갖췄거든요.\n\n1. 빨리 열매 맺고, 양도 많아\n홍로는 나무를 심으면 열매가 일찍 열리고,\n한 그루에서도 많이 열리는 품종이에요.\n2. 수확 전 낙과가 거의 없는 편\n익는 동안 잘 안 떨어져요\n그래서 제때 한 번에 딸 수 있어요.\n3. 착색이 좋은 편\n사과는 보통 일교차가 커야\n색이 잘 드는데, 홍로는\n해발이 낮고 온도가 높은 곳에서도\n착색이 양호한 편이죠.\n\n명절 선물용 사과는\n맛만큼 겉모습도 중요하죠.\n수확기가 추석과 겹치는데\n수량도 많고 색도 예쁘니,\n이만한 품종이 없었던 거예요.\n\n지금 '홍로'를 사도 될까요?\n\n네,지금이 제철이에요.\n8월 하순부터 딸 수 있고\n본격적인 수확기는\n9월 상·중순이에요.\n추석 무렵 마트와 시장에 쌓이는\n빨간 사과가 대부분 홍로인 이유예요.\n시장에서 처음 보셨다면\n못 보던 사과가 아니라\n지금 막 나오기 시작한 사과일\n가능성이 큽니다.\n\n어떤게 홍로를 고르면 좋을까요?\n\n색이 고르게 든 것을 고르세요.\n홍로는껍질이 짙은 빨간색이고\n줄무늬가 거의 없는 품종이에요.\n전면이 고르게 붉은 것이\n좋은 상태예요.\n색이 얼룩덜룩하다면\n햇빛을 덜 받았을 수 있어요.\n혹시꿀 든 사과(밀증상)를 좋아하시나요?\n그렇다면,큰 알을 고르시면 돼요.\n사과알이 클수록 속에 꿀(밀증상)이\n생길 확률이 높아져요.\n실제로 큰 사과일수록 밀증상이\n더 잘 나타난다는 농진청 자료도 있거든요.\n\n밀증상이 정확히 뭔가요?\n\n과육 일부가 투명해지는 현상이에요.\n흔히꿀이 들었다고 부르는\n그 부분이 밀(蜜)이에요.\n먹는 사람에겐 반가운 일이지만\n농가 입장은 조금 달라요.\n밀이 든 과실은\n저장에 불리하기 때문이에요.\n그래서 밀이 든 홍로를\n만나셨다면 오래 두지 마시고\n빨리 드시는 게 좋아요.\n\n몇 kg이나 사면 좋을까요?\n\n저장성은 보통\n상온에서 30일이 기준이에요.\n가을에 한 상자 들여놓고\n겨우내 꺼내 먹는 사과가 있죠.\n홍로는 그런 품종이 아니에요.\n그러니 한 달 안에\n드실 수 있는 양인지\n먼저 헤아려 보시는 게 좋아요.\n두 분이 드신다면\n5kg 한 상자가 적당한 편이에요.\n오래 두고 드실 생각이면\n저장성이 긴 다른 품종을\n고르시는 편이 낫습니다.\n\n홍로사과 맛은 어떤가요?\n\n단맛 위주이고 신맛이 적어요.\n당도가 14~15%,\n산도는 0.25~0.31% 수준이에요.\n\n숫자만 보면 감이 안 오시죠?\n사과의 신맛은 산도가 좌우하는데,\n0.3% 아래로 내려가면\n신맛이 거의 느껴지지 않아요.\n\n그래서 새콤한 사과를 좋아하시면\n심심하게 느끼실 수 있어요.\n반대로 신맛을 싫어하는\n아이들이 좋아하는 편이에요.\n육질은 단단하고\n식감은 양호하지만\n과즙은 적은 편이예요.\n아삭하게 씹히는 편이지\n즙이 흐르는 편은 아니에요.\n\n사과는 어떻게 보관하나요?\n\n냉장실 말고 김치냉장고예요.\n농촌진흥청 자료에 따르면\n사과는 온도 0도,\n상대습도 90~95%가 가장 좋아요.\n그런데 가정용 냉장고 냉장실은\n보통 4~5도예요.\n김치냉장고가 0~15도라\n사과에는 이쪽이 더 맞습니다.\n\n그리고 하나 더 중요한 게 있어요.\n사과는 야채들과는 따로 보관하세요.\n사과는노화 호르몬인 에틸렌을\n많이 내뿜는 과일이에요.\n같이 둔 과일과 채소의 품질을\n떨어뜨립니다.\n특히 브로콜리, 상추, 오이,\n수박, 당근은 에틸렌에 민감해서\n누렇게 변하거나 반점이 생겨요.\n한 상자 사오셨다면\n채소칸에 같이 보관하는 게 아니라\n따로 두시는 게 좋아요.\n\n홍로는 짧게 왔다 가는 사과예요.\n제철도 한 달 남짓,\n상온 보관도 한 달이니\n지금이 딱 그때입니다.\n시장에서 낯선 빨간 사과를\n또 만나시면, 한 번 츄라이 해보세요.",
+  "char_count": 2208
+}
