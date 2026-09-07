@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  html,body{margin:0;padding:0;}
+  .banner{
+    width:700px; height:210px;
+    display:flex; font-family:"Malgun Gothic","Apple SD Gothic Neo",sans-serif;
+    overflow:hidden;
+  }
+  .left{
+    width:250px; height:210px; background:#ffffff;
+    display:flex; align-items:center; justify-content:center; gap:6px;
+    position:relative;
+  }
+  .veg{position:relative;}
+  .pumpkin{
+    width:78px; height:70px; border-radius:50% 50% 46% 46%;
+    background:radial-gradient(circle at 35% 30%, #ff9a3c, #f9740b 70%, #e05e00);
+    position:relative;
+  }
+  .pumpkin::before{ /* stem */
+    content:""; position:absolute; top:-14px; left:50%; transform:translateX(-50%) rotate(-6deg);
+    width:14px; height:20px; background:#7a4a1e; border-radius:4px 4px 2px 2px;
+  }
+  .squash{
+    width:62px; height:132px;
+    background:linear-gradient(180deg,#f8e8c4,#eecb82 55%,#e2b563);
+    border-radius: 45% 45% 62% 62% / 20% 20% 60% 60%;
+    position:relative;
+  }
+  .squash::before{ /* stem */
+    content:""; position:absolute; top:-16px; left:50%; transform:translateX(-50%) rotate(4deg);
+    width:14px; height:22px; background:#7a4a1e; border-radius:4px 4px 2px 2px;
+  }
+  .eyes{
+    position:absolute; display:flex; gap:6px; z-index:5;
+  }
+  .eye{
+    width:16px; height:16px; border-radius:50%; background:#fff;
+    border:1px solid #d8d8d8; display:flex; align-items:center; justify-content:center;
+    box-shadow:0 1px 2px rgba(0,0,0,.2);
+  }
+  .pupil{ width:7px; height:7px; border-radius:50%; background:#222; }
+  .right{
+    flex:1; height:210px;
+    background:linear-gradient(115deg,#ff6f91 0%, #ff8a5c 45%, #ffb154 100%);
+    display:flex; flex-direction:column; justify-content:center;
+    padding:0 40px; color:#ffffff; box-sizing:border-box;
+  }
+  .kicker{
+    font-size:19px; font-weight:700; margin-bottom:16px; letter-spacing:-0.3px;
+  }
+  .badge{
+    display:inline-flex; align-items:center; gap:10px;
+    border:2px solid #ffffff; border-radius:6px;
+    padding:8px 16px; width:fit-content; margin-bottom:14px;
+  }
+  .nlogo{
+    width:22px; height:22px; border-radius:50%; background:#ffffff;
+    color:#ff7a45; font-weight:900; font-size:14px;
+    display:flex; align-items:center; justify-content:center;
+  }
+  .sep{ opacity:.6; }
+  .account{ font-size:20px; font-weight:700; }
+  .footer{ font-size:14px; opacity:.95; }
+</style>
+</head>
+<body>
+  <div class="banner">
+    <div class="left">
+      <div class="veg" style="margin-top:14px;">
+        <div class="eyes" style="top:20px; left:14px;">
+          <div class="eye"><div class="pupil"></div></div>
+          <div class="eye"><div class="pupil"></div></div>
+        </div>
+        <div class="pumpkin"></div>
+      </div>
+      <div class="veg" style="margin-top:-24px;">
+        <div class="eyes" style="top:44px; left:12px;">
+          <div class="eye"><div class="pupil"></div></div>
+          <div class="eye"><div class="pupil"></div></div>
+        </div>
+        <div class="squash"></div>
+      </div>
+    </div>
+    <div class="right">
+      <div class="kicker">푸드 전문블로거</div>
+      <div class="badge">
+        <div class="nlogo">N</div>
+        <span class="sep">|</span>
+        <span class="account">@ 링키징키</span>
+      </div>
+      <div class="footer">네이버에서 검색하고 🙂 팬하기</div>
+    </div>
+  </div>
+</body>
+</html>
