@@ -11,79 +11,91 @@
   }
   .left{
     width:250px; height:210px; background:#ffffff;
-    display:flex; align-items:center; justify-content:center; gap:6px;
-    position:relative;
+    display:flex; align-items:center; justify-content:center;
   }
-  .veg{position:relative;}
-  .pumpkin{
-    width:78px; height:70px; border-radius:50% 50% 46% 46%;
-    background:radial-gradient(circle at 35% 30%, #ff9a3c, #f9740b 70%, #e05e00);
-    position:relative;
-  }
-  .pumpkin::before{ /* stem */
-    content:""; position:absolute; top:-14px; left:50%; transform:translateX(-50%) rotate(-6deg);
-    width:14px; height:20px; background:#7a4a1e; border-radius:4px 4px 2px 2px;
-  }
-  .squash{
-    width:62px; height:132px;
-    background:linear-gradient(180deg,#f8e8c4,#eecb82 55%,#e2b563);
-    border-radius: 45% 45% 62% 62% / 20% 20% 60% 60%;
-    position:relative;
-  }
-  .squash::before{ /* stem */
-    content:""; position:absolute; top:-16px; left:50%; transform:translateX(-50%) rotate(4deg);
-    width:14px; height:22px; background:#7a4a1e; border-radius:4px 4px 2px 2px;
-  }
-  .eyes{
-    position:absolute; display:flex; gap:6px; z-index:5;
-  }
-  .eye{
-    width:16px; height:16px; border-radius:50%; background:#fff;
-    border:1px solid #d8d8d8; display:flex; align-items:center; justify-content:center;
-    box-shadow:0 1px 2px rgba(0,0,0,.2);
-  }
-  .pupil{ width:7px; height:7px; border-radius:50%; background:#222; }
   .right{
     flex:1; height:210px;
-    background:linear-gradient(115deg,#ff6f91 0%, #ff8a5c 45%, #ffb154 100%);
+    background:linear-gradient(100deg,#ff6a8f 0%, #ff7f6b 40%, #ffa652 75%, #ffbb5c 100%);
     display:flex; flex-direction:column; justify-content:center;
     padding:0 40px; color:#ffffff; box-sizing:border-box;
   }
-  .kicker{
-    font-size:19px; font-weight:700; margin-bottom:16px; letter-spacing:-0.3px;
-  }
+  .kicker{ font-size:19px; font-weight:700; margin-bottom:16px; letter-spacing:-0.3px; }
   .badge{
     display:inline-flex; align-items:center; gap:10px;
     border:2px solid #ffffff; border-radius:6px;
-    padding:8px 16px; width:fit-content; margin-bottom:14px;
+    padding:7px 16px; width:fit-content; margin-bottom:14px;
   }
   .nlogo{
-    width:22px; height:22px; border-radius:50%; background:#ffffff;
-    color:#ff7a45; font-weight:900; font-size:14px;
+    width:20px; height:20px; border-radius:50%; background:#ffffff;
+    color:#ff7a45; font-weight:900; font-size:13px;
     display:flex; align-items:center; justify-content:center;
   }
   .sep{ opacity:.6; }
-  .account{ font-size:20px; font-weight:700; }
+  .account{ font-size:19px; font-weight:700; }
   .footer{ font-size:14px; opacity:.95; }
 </style>
 </head>
 <body>
   <div class="banner">
     <div class="left">
-      <div class="veg" style="margin-top:14px;">
-        <div class="eyes" style="top:20px; left:14px;">
-          <div class="eye"><div class="pupil"></div></div>
-          <div class="eye"><div class="pupil"></div></div>
-        </div>
-        <div class="pumpkin"></div>
-      </div>
-      <div class="veg" style="margin-top:-24px;">
-        <div class="eyes" style="top:44px; left:12px;">
-          <div class="eye"><div class="pupil"></div></div>
-          <div class="eye"><div class="pupil"></div></div>
-        </div>
-        <div class="squash"></div>
-      </div>
+      <svg width="240" height="210" viewBox="0 8 230 178" preserveAspectRatio="xMidYMid slice">
+        <!-- pumpkin stem -->
+        <path d="M62,18 C60,8 66,2 72,4 C78,6 76,16 74,22 Z" fill="#7c5a35"/>
+        <!-- pumpkin body -->
+        <ellipse cx="65" cy="110" rx="58" ry="56" fill="#f9800e"/>
+        <ellipse cx="65" cy="110" rx="58" ry="56" fill="url(#pumpkinShade)"/>
+        <!-- pumpkin eyes -->
+        <g transform="translate(38,104)">
+          <circle r="15" fill="#ffffff" stroke="#dcdcdc" stroke-width="1"/>
+          <circle cx="4" cy="3" r="7" fill="#222"/>
+        </g>
+        <g transform="translate(72,106)">
+          <circle r="15" fill="#ffffff" stroke="#dcdcdc" stroke-width="1"/>
+          <circle cx="-3" cy="4" r="7" fill="#222"/>
+        </g>
+
+        <!-- squash stem -->
+        <path d="M156,10 C154,2 162,-3 168,1 C173,5 170,16 166,20 Z" fill="#7c5a35" transform="translate(0,6)"/>
+        <!-- butternut squash body: narrow neck, bulbous bottom -->
+        <path d="M160,20
+                 C148,20 142,34 145,48
+                 C126,62 116,88 116,116
+                 C116,152 138,178 168,178
+                 C198,178 216,152 214,118
+                 C213,90 202,64 184,48
+                 C186,34 172,20 160,20 Z"
+              fill="#f2dfae"/>
+        <path d="M160,20
+                 C148,20 142,34 145,48
+                 C126,62 116,88 116,116
+                 C116,152 138,178 168,178
+                 C198,178 216,152 214,118
+                 C213,90 202,64 184,48
+                 C186,34 172,20 160,20 Z"
+              fill="url(#squashShade)"/>
+        <!-- squash eyes -->
+        <g transform="translate(148,108)">
+          <circle r="14" fill="#ffffff" stroke="#dcdcdc" stroke-width="1"/>
+          <circle cx="4" cy="3" r="6.5" fill="#222"/>
+        </g>
+        <g transform="translate(178,110)">
+          <circle r="14" fill="#ffffff" stroke="#dcdcdc" stroke-width="1"/>
+          <circle cx="-3" cy="4" r="6.5" fill="#222"/>
+        </g>
+
+        <defs>
+          <radialGradient id="pumpkinShade" cx="35%" cy="30%" r="75%">
+            <stop offset="0%" stop-color="#ffb35c" stop-opacity="0.9"/>
+            <stop offset="55%" stop-color="#f9800e" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#d9600a" stop-opacity="0.35"/>
+          </radialGradient>
+          <radialGradient id="squashShade" cx="38%" cy="20%" r="80%">
+            <stop offset="0%" stop-color="#fbf1d8" stop-opacity="0.9"/>
+            <stop offset="55%" stop-color="#f2dfae" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#dcb977" stop-opacity="0.35"/>
+          </radialGradient>
+        </defs>
+      </svg>
     </div>
     <div class="right">
       <div class="kicker">푸드 전문블로거</div>
