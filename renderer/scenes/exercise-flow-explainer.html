@@ -1,0 +1,272 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Pretendard;font-weight:900;src:url(../node_modules/pretendard/dist/web/static/woff2/Pretendard-Black.woff2)}
+@font-face{font-family:Pretendard;font-weight:700;src:url(../node_modules/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2)}
+@font-face{font-family:Pretendard;font-weight:500;src:url(../node_modules/pretendard/dist/web/static/woff2/Pretendard-Medium.woff2)}
+html,body{margin:0;background:#F3EEE6}
+canvas{display:block}
+</style></head>
+<body><canvas id="c" width="1080" height="1920"></canvas>
+<script src="../common.js"></script>
+<script>
+// ── 템플릿 A (설명형) · 22초 ──
+// 훅(0~2) → 문제: 효과 체감 곡선(2~7) → 관점 전환(7~9.5)
+// → ★인터럽트 ① 알아차리기(9.5~12) → ② 벗어나 보기 → ③ 쉬기 → 순환 정리 → CTA(19.5~22)
+const ctx = document.getElementById('c').getContext('2d');
+const W = 1080, H = 1920, CX = 540;
+const PAPER = '#F3EEE6', INK = '#1D1B19', MUTE = '#8A837A', ACC = '#D9623B', SAGE = '#5F8A6B', LINE = '#D8D0C4';
+
+function rr(x, y, w, h, r) {
+  ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
+  ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath();
+}
+// 샷 단위 진입/퇴장 (중앙 비주얼용)
+function shotAlpha(t, s, e) { return ease.out(prog(t, s, 0.3)) * (1 - prog(t, e - 0.2, 0.2)); }
+function txt(text, x, y, size, color, weight = 700, align = 'center') {
+  ctx.font = `${weight} ${size}px Pretendard`; ctx.fillStyle = color; ctx.textAlign = align; ctx.fillText(text, x, y); ctx.textAlign = 'left';
+}
+function arrowHead(x, y, ang, s, color) {
+  ctx.save(); ctx.translate(x, y); ctx.rotate(ang); ctx.fillStyle = color;
+  ctx.beginPath(); ctx.moveTo(0, 0); ctx.lineTo(-s, -s * 0.6); ctx.lineTo(-s, s * 0.6); ctx.closePath(); ctx.fill(); ctx.restore();
+}
+function badge(n, x, y, color, a) {
+  ctx.save(); ctx.globalAlpha = a; ctx.fillStyle = color;
+  ctx.beginPath(); ctx.arc(x, y, 44, 0, Math.PI * 2); ctx.fill();
+  ctx.textBaseline = 'middle'; txt(String(n), x, y + 3, 48, '#FFFFFF', 900); ctx.textBaseline = 'alphabetic'; ctx.restore();
+}
+
+// ── 본문 자막 (lower_safe, 하단 기준선 y=1540) ──
+const DARK_BG = [9.5, 12.0];
+const BODY = [
+  { s: 1.0, e: 2.0, l: ['왜 처음에만 효과가 좋을까?'] },
+  { s: 2.0, e: 4.5, l: ['처음엔 안 써본 움직임이라', '변화가 잘 느껴진다'] },
+  { s: 4.5, e: 7.0, l: ['익숙해지면', '원래 쓰던 방식으로 돌아간다'] },
+  { s: 7.0, e: 9.5, l: ['새 운동을 찾기보다', '다르게 움직일 기회를 준다'] },
+  { s: 9.5, e: 12.0, l: ['내 몸의 패턴부터 본다'] },
+  { s: 12.0, e: 14.5, l: ['한 번씩, 익숙한 패턴 밖으로'] },
+  { s: 14.5, e: 17.0, l: ['매일 한다고', '항상 좋은 건 아니다'] },
+  { s: 17.0, e: 19.5, l: ['정답도, 완성 지점도 없다'] },
+];
+function drawBody(t) {
+  const dark = t >= DARK_BG[0] && t < DARK_BG[1];
+  for (const b of BODY) {
+    if (!visible(t, b.s, b.e)) continue;
+    const n = b.l.length;
+    b.l.forEach((line, i) => {
+      const last = i === n - 1;
+      drawLine(ctx, [{ text: line, color: dark ? (last ? '#FFFFFF' : '#CFC7BC') : (last ? INK : '#5A544D') }], CX, 1540 - (n - 1 - i) * 78,
+        { t, start: b.s + 0.05 + i * 0.1, end: b.e, size: last ? 58 : 50, weight: last ? 900 : 700, shadow: false, rise: 24 });
+    });
+  }
+}
+
+// ── 장면별 중앙 비주얼 ──
+function sceneHook(t) {
+  // 0~1: "정답" 위에 취소선 / 1~2: 곡선 차트가 바로 이어짐(첫 3초 시각 변화)
+  const a = shotAlpha(t, 0, 1.0);
+  ctx.save(); ctx.globalAlpha = a;
+  const sc = lerp(1.15, 1, ease.out(prog(t, 0, 0.5)));
+  ctx.translate(CX, 930); ctx.scale(sc, sc);
+  txt('정답', 0, 70, 230, INK, 900);
+  const k = ease.inOut(prog(t, 0.35, 0.35));
+  ctx.strokeStyle = ACC; ctx.lineWidth = 22; ctx.lineCap = 'round';
+  ctx.beginPath(); ctx.moveTo(-270, 0); ctx.lineTo(-270 + 540 * k, -10 * k); ctx.stroke();
+  ctx.restore();
+}
+const CH = { x0: 170, x1: 930, y0: 1110, y1: 640 };
+const curve = s => 1 - Math.exp(-s * 5.2);
+function sceneChart(t) {
+  if (!visible(t, 1.0, 7.0)) return;
+  const a = shotAlpha(t, 1.0, 7.0);
+  ctx.save(); ctx.globalAlpha = a;
+  // 축
+  ctx.strokeStyle = INK; ctx.lineWidth = 4; ctx.lineCap = 'round';
+  ctx.beginPath(); ctx.moveTo(CH.x0, CH.y1 - 20); ctx.lineTo(CH.x0, CH.y0); ctx.lineTo(CH.x1 + 20, CH.y0); ctx.stroke();
+  txt('변화 체감', CH.x0, CH.y1 - 50, 36, MUTE, 700, 'left');
+  txt('시간 →', CH.x1, CH.y0 + 60, 36, MUTE, 700, 'right');
+  // 곡선 진행: 2~4.5 상승 구간, 4.5~7 정체 구간
+  const p = t < 2 ? 0 : t < 4.5 ? lerp(0, 0.38, ease.inOut(prog(t, 2.1, 2.0))) : lerp(0.38, 1, ease.inOut(prog(t, 4.6, 1.8)));
+  // 정체 구간 음영
+  const pa = prog(t, 5.2, 0.5);
+  if (pa > 0) {
+    const xs = lerp(CH.x0, CH.x1, 0.45);
+    ctx.fillStyle = `rgba(217,98,59,${0.10 * pa})`; ctx.fillRect(xs, CH.y1 - 10, CH.x1 - xs, CH.y0 - CH.y1 + 10);
+    ctx.setLineDash([12, 12]); ctx.strokeStyle = `rgba(217,98,59,${0.7 * pa})`; ctx.lineWidth = 3;
+    ctx.beginPath(); ctx.moveTo(xs, CH.y1 - 10); ctx.lineTo(xs, CH.y0); ctx.stroke(); ctx.setLineDash([]);
+    ctx.globalAlpha = a * pa; txt('익숙함', lerp(xs, CH.x1, 0.5), CH.y0 - 330, 44, ACC, 900); txt('= 원래 쓰던 패턴', lerp(xs, CH.x1, 0.5), CH.y0 - 275, 34, ACC, 700);
+    ctx.globalAlpha = a;
+  }
+  if (p > 0) {
+    ctx.strokeStyle = INK; ctx.lineWidth = 9;
+    ctx.beginPath();
+    const steps = Math.max(2, Math.round(120 * p));
+    let ex = 0, ey = 0;
+    for (let i = 0; i <= steps; i++) {
+      const s = (i / steps) * p;
+      ex = lerp(CH.x0, CH.x1, s); ey = lerp(CH.y0, CH.y1 + 60, curve(s));
+      i === 0 ? ctx.moveTo(ex, ey) : ctx.lineTo(ex, ey);
+    }
+    ctx.stroke();
+    ctx.fillStyle = ACC; ctx.beginPath(); ctx.arc(ex, ey, 16, 0, Math.PI * 2); ctx.fill();
+    const la = prog(t, 2.6, 0.4) * (1 - prog(t, 4.5, 0.3));
+    if (la > 0) { ctx.globalAlpha = a * la; txt('새로운 움직임 ↑', lerp(CH.x0, CH.x1, 0.2) + 30, CH.y0 - 120, 40, INK, 900, 'left'); }
+  }
+  ctx.restore();
+}
+function sceneShift(t) {
+  if (!visible(t, 7.0, 9.5)) return;
+  const a = shotAlpha(t, 7.0, 9.5);
+  ctx.save(); ctx.globalAlpha = a;
+  // 위: 새 운동 찾기 (취소) / 아래: 다르게 움직일 기회 (강조)
+  const k1 = ease.out(prog(t, 7.05, 0.35)), k2 = ease.outBack(prog(t, 7.7, 0.45));
+  ctx.globalAlpha = a * k1;
+  rr(170, 660, 740, 150, 28); ctx.fillStyle = '#E7E0D5'; ctx.fill();
+  txt('새로운 운동 찾기', CX, 758, 52, MUTE, 700);
+  const sk = ease.inOut(prog(t, 7.45, 0.3));
+  ctx.strokeStyle = MUTE; ctx.lineWidth = 6; ctx.beginPath(); ctx.moveTo(320, 740); ctx.lineTo(320 + 440 * sk, 740); ctx.stroke();
+  ctx.globalAlpha = a * clamp(k2);
+  ctx.strokeStyle = ACC; ctx.lineWidth = 6; ctx.beginPath(); ctx.moveTo(CX, 830); ctx.lineTo(CX, 880); ctx.stroke(); arrowHead(CX, 900, Math.PI / 2, 22, ACC);
+  ctx.save(); ctx.translate(CX, 1000); const s2 = lerp(0.85, 1, k2); ctx.scale(s2, s2);
+  rr(-400, -85, 800, 170, 32); ctx.fillStyle = ACC; ctx.fill();
+  txt('다르게 움직여 볼 기회', 0, 22, 58, '#FFFFFF', 900);
+  ctx.restore();
+  ctx.restore();
+}
+function sceneAware(t) {
+  if (!visible(t, 9.5, 12.0)) return;
+  const a = shotAlpha(t, 9.5, 12.0);
+  ctx.save(); ctx.globalAlpha = a;
+  badge(1, 230, 700, ACC, a);
+  ctx.globalAlpha = a; txt('알아차리기', 300, 722, 76, '#FFFFFF', 900, 'left');
+  const items = [['어디에', '힘을 쓰는지'], ['어떤 방향으로만', '움직이는지'], ['어디에서 자꾸', '버티는지']];
+  items.forEach(([h, b], i) => {
+    const k = ease.out(prog(t, 9.9 + i * 0.35, 0.35));
+    ctx.globalAlpha = a * k;
+    const y = 830 + i * 120;
+    rr(170 + (1 - k) * 40, y, 740, 96, 22); ctx.fillStyle = 'rgba(255,255,255,0.08)'; ctx.fill();
+    ctx.fillStyle = ACC; ctx.beginPath(); ctx.arc(225 + (1 - k) * 40, y + 48, 10, 0, Math.PI * 2); ctx.fill();
+    ctx.font = '700 44px Pretendard'; ctx.fillStyle = '#CFC7BC'; ctx.fillText(h + ' ', 260 + (1 - k) * 40, y + 63);
+    const w = ctx.measureText(h + ' ').width;
+    ctx.font = '900 44px Pretendard'; ctx.fillStyle = '#FFFFFF'; ctx.fillText(b, 260 + (1 - k) * 40 + w, y + 63);
+  });
+  ctx.restore();
+}
+function sceneBreak(t) {
+  if (!visible(t, 12.0, 14.5)) return;
+  const a = shotAlpha(t, 12.0, 14.5);
+  ctx.save(); ctx.globalAlpha = a;
+  badge(2, 230, 700, ACC, a); ctx.globalAlpha = a; txt('벗어나 보기', 300, 722, 76, INK, 900, 'left');
+  // 같은 고리를 도는 점 → 한 번 바깥으로 빠져나감
+  const cx = 470, cy = 990, r = 150;
+  ctx.strokeStyle = LINE; ctx.lineWidth = 14; ctx.beginPath(); ctx.arc(cx, cy, r, 0, Math.PI * 2); ctx.stroke();
+  txt('늘 하던 방식', cx, cy + 14, 36, MUTE, 700);
+  const lap = prog(t, 12.2, 1.2);
+  const th = -Math.PI / 2 + lap * Math.PI * 2 * 1.25;
+  const out = ease.inOut(prog(t, 13.3, 0.8));
+  // 탈출 경로
+  const ex0 = cx + r * Math.cos(Math.PI * 0), ey0 = cy + r * Math.sin(0);
+  if (out > 0) {
+    ctx.strokeStyle = ACC; ctx.lineWidth = 8; ctx.lineCap = 'round';
+    ctx.beginPath(); ctx.moveTo(ex0, ey0);
+    const bx = (s) => ex0 + s * 290, by = (s) => ey0 - Math.sin(s * Math.PI * 0.9) * 170 - s * 40;
+    for (let i = 1; i <= 40; i++) { const s = (i / 40) * out; ctx.lineTo(bx(s), by(s)); }
+    ctx.stroke();
+    const s = out; const ang = Math.atan2(by(s) - by(s - 0.02), bx(s) - bx(s - 0.02));
+    arrowHead(bx(s) + 10 * Math.cos(ang), by(s) + 10 * Math.sin(ang), ang, 26, ACC);
+    ctx.globalAlpha = a * prog(t, 13.8, 0.3); txt('다른 방향', bx(1) - 10, by(1) + 90, 40, ACC, 900);
+    ctx.globalAlpha = a;
+  }
+  const dx = out > 0 ? ex0 + out * 290 : cx + r * Math.cos(th);
+  const dy = out > 0 ? ey0 - Math.sin(out * Math.PI * 0.9) * 170 - out * 40 : cy + r * Math.sin(th);
+  ctx.fillStyle = out > 0 ? ACC : INK; ctx.beginPath(); ctx.arc(dx, dy, 20, 0, Math.PI * 2); ctx.fill();
+  ctx.restore();
+}
+function sceneRest(t) {
+  if (!visible(t, 14.5, 17.0)) return;
+  const a = shotAlpha(t, 14.5, 17.0);
+  ctx.save(); ctx.globalAlpha = a;
+  badge(3, 230, 700, SAGE, a); ctx.globalAlpha = a; txt('쉬기', 300, 722, 76, INK, 900, 'left');
+  const days = ['월', '화', '수', '목', '금', '토', '일'];
+  const rest = new Set([2, 6]);
+  const cw = 104, gap = 12, x0 = CX - (cw * 7 + gap * 6) / 2;
+  days.forEach((d, i) => {
+    const k = ease.outBack(clamp(prog(t, 14.7 + i * 0.12, 0.35)));
+    const x = x0 + i * (cw + gap), y = 860;
+    ctx.save(); ctx.translate(x + cw / 2, y + 90); ctx.scale(k, k);
+    const isRest = rest.has(i), lit = isRest && t > 15.8;
+    rr(-cw / 2, -90, cw, 180, 22);
+    ctx.fillStyle = lit ? SAGE : isRest ? '#E7E0D5' : INK; ctx.fill();
+    txt(d, 0, -30, 36, lit || !isRest ? '#FFFFFF' : MUTE, 700);
+    if (isRest) txt(lit ? '쉼' : '·', 0, 50, 40, lit ? '#FFFFFF' : MUTE, 900);
+    else { ctx.fillStyle = ACC; ctx.beginPath(); ctx.arc(0, 38, 12, 0, Math.PI * 2); ctx.fill(); }
+    ctx.restore();
+  });
+  ctx.globalAlpha = a * prog(t, 15.9, 0.35);
+  txt('아무것도 하지 않는 시간도 운동의 일부', CX, 1150, 38, SAGE, 700);
+  ctx.restore();
+}
+function sceneCycle(t) {
+  if (!visible(t, 17.0, 19.5)) return;
+  const a = shotAlpha(t, 17.0, 19.5);
+  ctx.save(); ctx.globalAlpha = a;
+  const cx = CX, cy = 900, R = 250;
+  const nodes = [['알아차리고', -90, ACC], ['다르게 해보고', 0, INK], ['필요하면 쉬고', 90, SAGE], ['또 움직이기', 180, INK]];
+  ctx.strokeStyle = LINE; ctx.lineWidth = 6; ctx.beginPath(); ctx.arc(cx, cy, R, 0, Math.PI * 2); ctx.stroke();
+  // 회전하는 진행 호
+  const sp = (t - 17.0) * 1.6;
+  ctx.strokeStyle = ACC; ctx.lineWidth = 10; ctx.lineCap = 'round';
+  ctx.beginPath(); ctx.arc(cx, cy, R, -Math.PI / 2 + sp, -Math.PI / 2 + sp + 1.2); ctx.stroke();
+  arrowHead(cx + R * Math.cos(-Math.PI / 2 + sp + 1.25), cy + R * Math.sin(-Math.PI / 2 + sp + 1.25), -Math.PI / 2 + sp + 1.25 + Math.PI / 2, 24, ACC);
+  nodes.forEach(([label, deg, col], i) => {
+    const k = ease.outBack(clamp(prog(t, 17.1 + i * 0.18, 0.35)));
+    const th = deg * Math.PI / 180, x = cx + R * Math.cos(th), y = cy + R * Math.sin(th);
+    ctx.save(); ctx.translate(x, y); ctx.scale(k, k);
+    ctx.font = '900 40px Pretendard'; const w = ctx.measureText(label).width + 56;
+    rr(-w / 2, -40, w, 80, 40); ctx.fillStyle = col; ctx.fill();
+    ctx.textBaseline = 'middle'; txt(label, 0, 3, 40, '#FFFFFF', 900); ctx.textBaseline = 'alphabetic';
+    ctx.restore();
+  });
+  ctx.globalAlpha = a * prog(t, 17.6, 0.4);
+  txt('흐름', cx, cy + 30, 88, INK, 900);
+  ctx.restore();
+}
+function sceneCTA(t) {
+  if (t < 19.5) return;
+  const a = ease.out(prog(t, 19.5, 0.35));
+  ctx.save(); ctx.globalAlpha = a;
+  rr(90, 780, 900, 380, 40); ctx.fillStyle = INK; ctx.fill();
+  ctx.restore();
+  drawLine(ctx, [{ text: '운동은 완성된 몸이 아니라', color: '#CFC7BC' }], CX, 880, { t, start: 19.6, end: 23, size: 46, weight: 700, shadow: false });
+  drawLine(ctx, [{ text: '계속 흘러갈 수 있는 몸을', color: '#FFFFFF' }], CX, 975, { t, start: 19.8, end: 23, size: 64, shadow: false });
+  drawLine(ctx, [{ text: '만들어가는 과정', color: '#FF8A63' }], CX, 1055, { t, start: 20.05, end: 23, size: 64, shadow: false });
+  const pa = ease.out(prog(t, 20.5, 0.3));
+  ctx.save(); ctx.globalAlpha = pa;
+  rr(CX - 250, 1095, 500, 56, 28); ctx.fillStyle = 'rgba(255,255,255,0.12)'; ctx.fill();
+  ctx.textBaseline = 'middle'; txt('저장하고, 지칠 때 다시 보기', CX, 1125, 32, '#FFFFFF', 700); ctx.textBaseline = 'alphabetic';
+  ctx.restore();
+}
+
+window.renderFrame = function (t) {
+  ctx.setTransform(1, 0, 0, 1, 0, 0);
+  // ★ 패턴 인터럽트(9.5~12): 배경 반전 + 줌 펀치
+  const dark = t >= DARK_BG[0] && t < DARK_BG[1];
+  ctx.fillStyle = dark ? INK : PAPER; ctx.fillRect(0, 0, W, H);
+  // 종이 질감 점
+  ctx.fillStyle = dark ? 'rgba(255,255,255,0.025)' : 'rgba(0,0,0,0.025)';
+  for (let i = 0; i < 260; i++) { const x = (Math.sin(i * 12.9898) * 43758.5453 % 1 + 1) % 1 * W, y = (Math.sin(i * 78.233) * 12543.1 % 1 + 1) % 1 * H; ctx.fillRect(x, y, 3, 3); }
+  const punch = t >= 9.5 ? 1 + 0.14 * Math.exp(-(t - 9.5) * 6) : 1;
+  ctx.save(); ctx.translate(CX, 960); ctx.scale(punch, punch); ctx.translate(-CX, -960);
+  // 훅 (top_safe 260~560, 0~2초)
+  if (t < 2.0) {
+    drawLine(ctx, [{ text: '완벽한 운동은 ', color: INK }, { text: '없다', color: ACC }], CX, 440, { t, start: 0.05, end: 2.0, size: 86, shadow: false, stagger: 0.03 });
+  }
+  sceneHook(t); sceneChart(t); sceneShift(t); sceneAware(t); sceneBreak(t); sceneRest(t); sceneCycle(t); sceneCTA(t);
+  drawBody(t);
+  ctx.restore();
+  // 진행 바 (z1 그래픽, 상단 예약영역 아래)
+  ctx.fillStyle = dark ? 'rgba(255,255,255,0.12)' : 'rgba(0,0,0,0.08)'; ctx.fillRect(60, 262, 960, 6);
+  ctx.fillStyle = ACC; ctx.fillRect(60, 262, 960 * clamp(t / 22), 6);
+};
+(async () => { await Promise.all(['900 80px Pretendard', '700 50px Pretendard'].map(f => document.fonts.load(f))); window.renderFrame(0); window.__ready = true; })();
+</script></body></html>

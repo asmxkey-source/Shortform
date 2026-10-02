@@ -1,0 +1,6 @@
+{
+  "name": "shortform-renderer",
+  "private": true,
+  "type": "module",
+  "dependencies": { "playwright": "^1.63.0", "pretendard": "^1.3.9" }
+}
