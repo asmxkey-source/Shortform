@@ -3,6 +3,8 @@
 import { chromium } from 'playwright';
 import { spawn } from 'node:child_process';
 import path from 'node:path';
+import http from 'node:http';
+import fs from 'node:fs';
 
 const argv = process.argv.slice(2);
 const stillsIdx = argv.indexOf('--stills');
@@ -11,11 +13,25 @@ const [html, out, durArg, audio] = argv;
 const dur = Number(durArg);
 const FPS = 30;
 
-const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell' });
+// ES 모듈(three.js 등)은 file://에서 막히므로 작업 디렉터리를 로컬 HTTP로 서빙
+const MIME = { '.html': 'text/html', '.js': 'text/javascript', '.mjs': 'text/javascript', '.woff2': 'font/woff2', '.json': 'application/json', '.png': 'image/png' };
+const root = process.cwd();
+const server = http.createServer((req, res) => {
+  const f = path.join(root, decodeURIComponent(new URL(req.url, 'http://x').pathname));
+  if (!f.startsWith(root) || !fs.existsSync(f) || fs.statSync(f).isDirectory()) { res.writeHead(404); return res.end(); }
+  res.writeHead(200, { 'Content-Type': MIME[path.extname(f)] || 'application/octet-stream' });
+  fs.createReadStream(f).pipe(res);
+}).listen(0);
+const port = server.address().port;
+
+const browser = await chromium.launch({
+  executablePath: '/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell',
+  args: ['--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist'],
+});
 const page = await browser.newPage({ viewport: { width: 1080, height: 1920 }, deviceScaleFactor: 1 });
 page.on('console', m => console.log('[page]', m.text()));
 page.on('pageerror', e => { console.error('[pageerror]', e); process.exit(1); });
-await page.goto('file://' + path.resolve(html));
+await page.goto(`http://127.0.0.1:${port}/${path.relative(root, path.resolve(html))}`);
 await page.evaluate(() => document.fonts.ready);
 await page.waitForFunction(() => window.__ready === true);
 
@@ -25,6 +41,7 @@ if (stills.length) {
     await page.screenshot({ path: `${out.replace(/\.mp4$/, '')}_t${t}.jpg`, type: 'jpeg', quality: 85 });
   }
   await browser.close();
+  server.close();
   process.exit(0);
 }
 
@@ -45,4 +62,5 @@ for (let i = 0; i < N; i++) {
 ff.stdin.end();
 await new Promise(r => ff.on('close', r));
 await browser.close();
+server.close();
 console.log('done', out);

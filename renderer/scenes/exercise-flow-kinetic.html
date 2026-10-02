@@ -1,0 +1,162 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Pretendard;font-weight:900;src:url(../node_modules/pretendard/dist/web/static/woff2/Pretendard-Black.woff2)}
+@font-face{font-family:Pretendard;font-weight:700;src:url(../node_modules/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2)}
+html,body{margin:0;background:#141414}
+canvas{display:block}
+</style></head>
+<body><canvas id="c" width="1080" height="1920"></canvas>
+<script src="../common.js"></script>
+<script>
+// ── 키네틱 타이포 · 21초 · 글자 자체가 피사체 ──
+// 강하게 꽂히는 훅 → 흩어지는 새로움 → 같은 줄이 반복되는 패턴(마퀴)
+// → ★한 줄이 이탈 → 느린 쉼 → 취소선 → 세 동사 비트 → 물결 타는 엔딩(첫 장면으로 루프)
+const ctx = document.getElementById('c').getContext('2d');
+const W = 1080, H = 1920, CX = 540;
+const PAPER = '#F3EEE6', INK = '#141414', ORANGE = '#FF5B2E', TEAL = '#2BB3A3', PURPLE = '#8E6CF0', AMBER = '#F5A524', GREY = '#2A2D33', MUTE = '#8A837A';
+
+// 글자 단위 변형 렌더러. fx(i, n) → {dx, dy, rot, sc, a}
+function word(text, x, y, size, color, fx, weight = 900, align = 'center', spacing = 0) {
+  ctx.font = `${weight} ${size}px Pretendard`;
+  ctx.textBaseline = 'middle';
+  const chars = [...text];
+  const ws = chars.map(c => ctx.measureText(c).width);
+  const total = ws.reduce((a, b) => a + b, 0) + spacing * (chars.length - 1);
+  let cx = align === 'center' ? x - total / 2 : align === 'right' ? x - total : x;
+  chars.forEach((ch, i) => {
+    const f = Object.assign({ dx: 0, dy: 0, rot: 0, sc: 1, a: 1 }, fx ? fx(i, chars.length) : {});
+    if (f.a > 0.001 && ch !== ' ') {
+      ctx.save();
+      ctx.globalAlpha = clamp(f.a);
+      ctx.translate(cx + ws[i] / 2 + f.dx, y + f.dy);
+      ctx.rotate(f.rot); ctx.scale(f.sc, f.sc);
+      ctx.fillStyle = color; ctx.textAlign = 'center';
+      ctx.fillText(ch, 0, 0);
+      ctx.restore();
+    }
+    cx += ws[i] + spacing;
+  });
+  ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
+  return total;
+}
+// 자주 쓰는 진입 효과
+const slam = (lt, d = 0.05, from = 2.4) => (i) => { const k = prog(lt, i * d, 0.32); return { sc: lerp(from, 1, ease.outBack(k)), a: k * 3 }; };
+const rise = (lt, d = 0.04, h = 120) => (i) => { const k = ease.out(prog(lt, i * d, 0.4)); return { dy: (1 - k) * h, a: k }; };
+function strike(x0, x1, y, k, color, w = 22) {
+  if (k <= 0) return;
+  ctx.strokeStyle = color; ctx.lineWidth = w; ctx.lineCap = 'round';
+  ctx.beginPath(); ctx.moveTo(x0, y); ctx.lineTo(lerp(x0, x1, ease.inOut(clamp(k))), y + 8 * k); ctx.stroke();
+}
+// 마퀴 줄: 같은 문장이 같은 방향으로 끝없이 흐름 (= 익숙한 패턴)
+function marquee(text, y, size, color, offset) {
+  ctx.font = `900 ${size}px Pretendard`; ctx.textBaseline = 'middle'; ctx.fillStyle = color;
+  const unit = ctx.measureText(text).width;
+  let x = -((offset % unit) + unit) % unit;
+  for (; x < W; x += unit) ctx.fillText(text, x, y);
+  ctx.textBaseline = 'alphabetic';
+}
+
+const S = [
+  { s: 0, e: 1, bg: PAPER, draw: lt => {
+      word('완벽한', CX, 930, 240, INK, slam(lt, 0.07));
+  } },
+  { s: 1, e: 2, bg: ORANGE, draw: lt => {
+      const up = ease.out(prog(lt, 0, 0.25));
+      word('완벽한 운동은', CX, lerp(930, 760, up), lerp(160, 104, up), INK);
+      const k = prog(lt, 0.12, 0.3);
+      const shake = lt > 0.42 ? Math.sin(lt * 90) * 14 * Math.exp(-(lt - 0.42) * 10) : 0;
+      ctx.save(); ctx.translate(shake, 0);
+      word('없다', CX, 1080, 330, '#FFFFFF', i => ({ sc: lerp(3.2, 1, ease.out(k)), a: k * 2, dy: 0 }));
+      ctx.restore();
+  } },
+  { s: 2, e: 3.5, bg: INK, draw: lt => {
+      word('처음엔', 90, 620, 120, '#FFFFFF', rise(lt), 900, 'left');
+      const k1 = ease.outBack(prog(lt, 0.2, 0.45)), k2 = ease.outBack(prog(lt, 0.45, 0.45));
+      ctx.save(); ctx.translate(lerp(-700, 0, k1), 0); ctx.translate(500, 900); ctx.rotate(-0.13); ctx.translate(-500, -900);
+      word('새로운', 500, 900, 220, TEAL); ctx.restore();
+      ctx.save(); ctx.translate(lerp(800, 0, k2), 0); ctx.translate(580, 1150); ctx.rotate(0.09); ctx.translate(-580, -1150);
+      word('움직임', 580, 1150, 220, AMBER); ctx.restore();
+  } },
+  { s: 3.5, e: 5, bg: INK, draw: lt => {
+      word('변화가', CX, 780, 150, '#FFFFFF', rise(lt, 0.05));
+      word('잘 느껴진다', CX, 1010, 172, AMBER, (i, n) => {
+        const k = ease.out(prog(lt, 0.25 + i * 0.05, 0.35));
+        return { dy: (1 - k) * 140 + Math.sin(lt * 11 + i * 0.9) * 26 * k, rot: Math.sin(lt * 7 + i) * 0.08 * k, a: k };
+      });
+  } },
+  { s: 5, e: 7.5, bg: GREY, draw: lt => {
+      word('익숙해지면,', CX, 520, 92, '#9AA0A8', rise(lt, 0.04, 60));
+      const off = (lt + 0.0) * 260;
+      for (let r = 0; r < 7; r++) {
+        const k = prog(lt, 0.3 + r * 0.08, 0.3);
+        ctx.globalAlpha = k;
+        marquee('원래 방식으로  ', 700 + r * 128, 96, r === 3 ? '#FFFFFF' : '#5D626B', off + r * 0);
+        ctx.globalAlpha = 1;
+      }
+  } },
+  { s: 7.5, e: 9, bg: GREY, draw: lt => {
+      const off = 650 + 260 * 2.5 + lt * lerp(260, 900, lt / 1.5) ;
+      const rows = ['같은 힘  ', '같은 방향  ', '같은 버팀  '];
+      for (let r = 0; r < 9; r++) marquee(rows[r % 3], 520 + r * 128, 96, r === 4 ? '#FFFFFF' : '#5D626B', off * (1 + (r % 3) * 0.08));
+  } },
+  { s: 9, e: 11, bg: GREY, draw: lt => {
+      // ★ 패턴 인터럽트: 줄들이 멈추고 흐려짐, 한 줄만 주황으로 튀어나옴
+      const fade = 1 - ease.out(prog(lt, 0, 0.5)) * 0.75;
+      const rows = ['같은 힘  ', '같은 방향  ', '같은 버팀  '];
+      ctx.globalAlpha = fade;
+      for (let r = 0; r < 9; r++) if (r !== 4) marquee(rows[r % 3], 520 + r * 128, 96, '#5D626B', 2000 * (1 + (r % 3) * 0.08));
+      ctx.globalAlpha = 1;
+      const k = ease.outBack(prog(lt, 0.05, 0.6));
+      word('한 번씩,', CX, lerp(1032, 760, k), 80, '#FFFFFF', i => ({ a: prog(lt, 0.35, 0.3) }));
+      ctx.save(); ctx.translate(CX, lerp(1032, 960, k)); ctx.rotate(lerp(0, -0.12, k)); ctx.scale(lerp(0.75, 1.25, k), lerp(0.75, 1.25, k));
+      word('패턴 밖으로', 0, 0, 150, ORANGE); ctx.restore();
+  } },
+  { s: 11, e: 13.5, bg: '#0F1A17', draw: lt => {
+      const br = 1 + 0.06 * Math.sin(lt * 2.2);
+      ctx.fillStyle = 'rgba(95,138,107,0.22)'; ctx.beginPath(); ctx.arc(CX, 900, 300 * br * ease.out(prog(lt, 0, 0.8)), 0, Math.PI * 2); ctx.fill();
+      word('쉬기', CX, 905, 170, '#E8F0EA', i => ({ a: ease.out(prog(lt, 0.15 + i * 0.25, 0.8)) }), 900, 'center', lerp(40, 90, 0.5 + 0.5 * Math.sin(lt * 1.6)));
+      word('아무것도 하지 않는 시간도', CX, 1290, 54, '#9DB8A5', i => ({ a: ease.out(prog(lt, 0.9 + i * 0.02, 0.5)) }), 700);
+  } },
+  { s: 13.5, e: 16, bg: PAPER, draw: lt => {
+      const w1 = word('정답', CX, 800, 210, INK, rise(lt, 0.06));
+      const w2 = word('완성', CX, 1040, 210, INK, rise(lt, 0.06, 140));
+      strike(CX - w1 / 2 - 30, CX + w1 / 2 + 30, 800, prog(lt, 0.45, 0.3), ORANGE);
+      strike(CX - w2 / 2 - 30, CX + w2 / 2 + 30, 1040, prog(lt, 0.85, 0.3), ORANGE);
+      ctx.save(); ctx.translate(CX + 120, 1290); ctx.rotate(-0.1);
+      word('도 없다', 0, 0, 120, ORANGE, slam(lt - 1.3, 0.05, 2.0)); ctx.restore();
+  } },
+  { s: 16, e: 16.83, bg: TEAL, draw: lt => word('알아차리고', CX, 930, 172, '#FFFFFF', rise(lt, 0.035, 160)) },
+  { s: 16.83, e: 17.66, bg: PURPLE, draw: lt => word('다르게 해보고', CX, 930, 146, '#FFFFFF', rise(lt, 0.035, 160)) },
+  { s: 17.66, e: 18.5, bg: AMBER, draw: lt => word('쉬고', CX, 930, 280, INK, slam(lt, 0.08, 1.8)) },
+  { s: 18.5, e: 21.01, bg: PAPER, draw: lt => {
+      word('완성된 몸이 아니라', CX, 760, 62, MUTE, rise(lt, 0.03, 40), 700);
+      word('흘러가는 몸', CX, 950, 158, INK, (i) => {
+        const k = ease.out(prog(lt, 0.25 + i * 0.06, 0.45));
+        return { dy: (1 - k) * 120 + Math.sin(lt * 3.2 - i * 0.7) * 26, rot: Math.cos(lt * 3.2 - i * 0.7) * 0.06, a: k };
+      });
+      // 아래로 흐르는 물결선
+      const k = ease.inOut(prog(lt, 0.7, 0.8));
+      ctx.strokeStyle = ORANGE; ctx.lineWidth = 12; ctx.lineCap = 'round'; ctx.beginPath();
+      for (let j = 0; j <= 80; j++) {
+        const s = j / 80 * k, x = lerp(140, 940, s), y = 1110 + Math.sin(s * 12 - lt * 4) * 18;
+        j ? ctx.lineTo(x, y) : ctx.moveTo(x, y);
+      }
+      ctx.stroke();
+      word('그러다, 또 움직이기', CX, 1250, 52, ORANGE, i => ({ a: ease.out(prog(lt, 1.2 + i * 0.02, 0.4)) }), 700);
+  } },
+];
+
+window.renderFrame = function (t) {
+  ctx.setTransform(1, 0, 0, 1, 0, 0);
+  const sc = S.find(x => t >= x.s && t < x.e) || S[S.length - 1];
+  ctx.fillStyle = sc.bg; ctx.fillRect(0, 0, W, H);
+  const punch = t >= 9 && t < 11 ? 1 + 0.12 * Math.exp(-(t - 9) * 7) : 1;
+  ctx.save(); ctx.translate(CX, 960); ctx.scale(punch, punch); ctx.translate(-CX, -960);
+  sc.draw(t - sc.s);
+  ctx.restore();
+  const f = [[9, 0.5], [1, 0.25]].reduce((a, [s, v]) => a + (t >= s ? v * Math.exp(-(t - s) * 10) : 0), 0);
+  if (f > 0.003) { ctx.fillStyle = `rgba(255,255,255,${f})`; ctx.fillRect(0, 0, W, H); }
+};
+(async () => { await Promise.all(['900 80px Pretendard', '700 50px Pretendard'].map(f => document.fonts.load(f))); window.renderFrame(0); window.__ready = true; })();
+</script></body></html>

@@ -1,0 +1,197 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Pretendard;font-weight:900;src:url(../node_modules/pretendard/dist/web/static/woff2/Pretendard-Black.woff2)}
+@font-face{font-family:Pretendard;font-weight:700;src:url(../node_modules/pretendard/dist/web/static/woff2/Pretendard-Bold.woff2)}
+@font-face{font-family:Pretendard;font-weight:500;src:url(../node_modules/pretendard/dist/web/static/woff2/Pretendard-Medium.woff2)}
+html,body{margin:0;background:#0B0F14;width:1080px;height:1920px;overflow:hidden}
+canvas{display:block;position:absolute;left:0;top:0}
+</style>
+<script type="importmap">{"imports":{"three":"../node_modules/three/build/three.module.js","three/addons/":"../node_modules/three/examples/jsm/"}}</script>
+</head>
+<body>
+<canvas id="gl" width="1080" height="1920"></canvas>
+<canvas id="ui" width="1080" height="1920"></canvas>
+<script src="../common.js"></script>
+<script type="module">
+// ── 3D · 21초 · 컨셉: "흐르는 리본" ──
+// 공간을 흐르는 리본 다발 → 같은 도넛(토러스) 표면을 맴도는 패턴 → ★리본 하나가 이탈해 카메라 앞으로
+// → 수면처럼 평평하게 가라앉는 쉼 → 다시 흐름, 첫 구도로 루프
+import * as THREE from 'three';
+import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
+import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
+import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
+import { OutputPass } from 'three/addons/postprocessing/OutputPass.js';
+
+const W = 1080, H = 1920;
+const renderer = new THREE.WebGLRenderer({ canvas: document.getElementById('gl'), antialias: true, preserveDrawingBuffer: true });
+renderer.setPixelRatio(1); renderer.setSize(W, H, false);
+renderer.toneMapping = THREE.ACESFilmicToneMapping; renderer.toneMappingExposure = 1.05;
+const scene = new THREE.Scene();
+scene.background = new THREE.Color('#0B0F14');
+scene.fog = new THREE.Fog('#0B0F14', 10, 26);
+const camera = new THREE.PerspectiveCamera(35, W / H, 0.1, 100);
+
+scene.add(new THREE.HemisphereLight('#9FB8D0', '#1A1410', 0.9));
+const key = new THREE.DirectionalLight('#FFFFFF', 1.6); key.position.set(4, 6, 8); scene.add(key);
+const tealL = new THREE.PointLight('#4FD1C5', 30, 30); tealL.position.set(-5, 2, 4); scene.add(tealL);
+const coralL = new THREE.PointLight('#F56565', 30, 30); coralL.position.set(5, -3, 4); scene.add(coralL);
+
+const composer = new EffectComposer(renderer);
+composer.addPass(new RenderPass(scene, camera));
+const bloom = new UnrealBloomPass(new THREE.Vector2(W / 2, H / 2), 0.55, 0.5, 0.2);
+composer.addPass(bloom);
+composer.addPass(new OutputPass());
+
+const N = 14, P = 150;
+const PAL = ['#4FD1C5', '#63B3ED', '#B794F4', '#F6AD55', '#F56565'].map(c => new THREE.Color(c));
+const GREY = new THREE.Color('#7A8494'), ACC = new THREE.Color('#FF7A59');
+const palAt = u => { const x = u * (PAL.length - 1), i = Math.min(PAL.length - 2, Math.floor(x)); return PAL[i].clone().lerp(PAL[i + 1], x - i); };
+const kBrk = 7;
+
+const ribbons = [];
+for (let i = 0; i < N; i++) {
+  const mat = new THREE.MeshStandardMaterial({ color: palAt(i / (N - 1)), roughness: 0.35, metalness: 0.25, emissive: new THREE.Color(0), emissiveIntensity: 1 });
+  const mesh = new THREE.Mesh(new THREE.BufferGeometry(), mat);
+  scene.add(mesh); ribbons.push(mesh);
+}
+// 쉼 구간 먼지
+const dustGeo = new THREE.BufferGeometry();
+const dp = new Float32Array(600 * 3);
+for (let i = 0; i < 600; i++) { dp[i * 3] = (Math.sin(i * 91.7) * 0.5) * 16; dp[i * 3 + 1] = (Math.sin(i * 47.3) * 0.5) * 10; dp[i * 3 + 2] = (Math.sin(i * 13.1) * 0.5) * 12 - 2; }
+dustGeo.setAttribute('position', new THREE.BufferAttribute(dp, 3));
+const dustMat = new THREE.PointsMaterial({ color: '#FFE8CC', size: 0.05, transparent: true, opacity: 0.2, depthWrite: false });
+const dust = new THREE.Points(dustGeo, dustMat); scene.add(dust);
+
+const K = {
+  amp:    [[0,.55],[2,1.0],[3.5,1.15],[5,.8],[6.5,.3],[9,.3],[11,.15],[12.5,.03],[16,.03],[17,.6],[18.5,.65],[21,.55]],
+  spread: [[0,2.8],[2,3.6],[5,3.6],[7,2.8],[21,2.8]],
+  speed:  [[0,1.1],[1.9,1.4],[2.1,2.6],[5,1.6],[7.5,2.2],[9,2.8],[10.5,0.9],[12,0.04],[16,0.04],[16.8,1.5],[21,1.1]],
+  ring:   [[0,0],[5,0],[6.6,1],[9.4,1],[11.4,0]],
+  ringR:  [[5,1.9],[7.5,1.75],[9.2,1.4]],
+  ringr:  [[5,.8],[7.5,.55],[9.2,.34]],
+  brk:    [[9.0,0],[9.9,1],[11.4,1],[12,0]],
+  mono:   [[0,0],[5.2,0],[7.2,0.9],[9.6,0.9],[11.5,0.35],[16,0.5],[16.8,0],[21,0]],
+  flat:   [[0,0],[11,0],[12.6,1],[16,1],[17.2,0]],
+  rot:    [[0,0],[5,0],[9.2,3.4],[11.4,4.4]],
+  dust:   [[0,.15],[11,.15],[12.5,.8],[16,.8],[17,.15]],
+  // 카메라: 근접 키프레임(0.99→1.0, 1.99→2.0)은 하드컷
+  cx: [[0,1.5],[0.99,0.6],[1.0,-2.6],[1.99,-2.1],[2.0,0],[5,0],[9,0],[9.35,1.4],[11,2.4],[12.6,0],[16,0],[17.5,1.2],[21,1.5]],
+  cy: [[0,0.6],[0.99,0.3],[1.0,1.3],[1.99,1.0],[2.0,0],[5,0],[9,0],[9.35,0.4],[11,0.5],[12.6,4.2],[16,3.8],[17.5,0.7],[21,0.6]],
+  cz: [[0,15],[0.99,14],[1.0,11.5],[1.99,11],[2.0,15.5],[5,14],[7.5,12.8],[9,12.2],[9.35,8.6],[11,9.6],[12.6,9.5],[16,10],[17.5,15.2],[21,15]],
+  ly: [[0,0],[11,0],[12.6,-0.5],[16,-0.5],[17.5,0],[21,0]],
+};
+const DT = 1 / 240, PH = [0];
+for (let i = 1; i <= 22 / DT; i++) PH.push(PH[i - 1] + kf(K.speed, i * DT) * DT);
+const phaseAt = t => PH[Math.min(PH.length - 1, Math.round(t / DT))];
+
+function pathPoints(i, t) {
+  const u = i / (N - 1), isB = i === kBrk;
+  const amp = kf(K.amp, t), spread = kf(K.spread, t), ph = phaseAt(t);
+  const ring = kf(K.ring, t), R = kf(K.ringR, t), r = kf(K.ringr, t), brk = kf(K.brk, t);
+  const flat = kf(K.flat, t), rph = kf(K.rot, t, k => k);
+  let m = ease.inOut(clamp((ring - u * 0.35) / 0.65));
+  if (ring > 0.999) m = 1;
+  if (isB) m *= 1 - ease.inOut(brk);
+  const pts = [];
+  for (let j = 0; j < P; j++) {
+    const s = j / (P - 1);
+    const x = -5 + s * 10;
+    let y = (u - 0.5) * spread + amp * (0.62 * Math.sin(x * 0.75 + ph + u * 3.1) + 0.38 * Math.sin(x * 0.35 - ph * 0.7 + u * 5.3));
+    let z = 1.3 * Math.sin(x * 0.55 + ph * 0.8 + u * 2.0) * (amp / 0.8);
+    if (isB && brk > 0) { y += brk * 0.9 * Math.sin(s * 9 + ph * 2) * (1 - Math.abs(s - 0.5)); z += brk * 2.2 * Math.sin(s * Math.PI); }
+    // 쉼: 수면 같은 평면 위 평행선
+    const fy = -0.3 + 0.03 * Math.sin(x * 0.8 + ph + u * 4), fz = (u - 0.5) * 7;
+    y = lerp(y, fy, flat); z = lerp(z, fz, flat);
+    let px = x, py = y, pz = z;
+    if (m > 0) {
+      const th = s * Math.PI * 2 + rph + u * 0.4, phi = u * Math.PI * 2 + ph * 0.25;
+      const rr = R + r * Math.cos(phi) + 0.06 * Math.sin(3 * th + ph);
+      px = lerp(px, rr * Math.cos(th), m); py = lerp(py, rr * Math.sin(th), m); pz = lerp(pz, r * Math.sin(phi), m);
+    }
+    pts.push(new THREE.Vector3(px, py, pz));
+  }
+  return pts;
+}
+
+// ── 2D 자막 오버레이 (모션그래픽 편과 동일한 문구·밴드) ──
+const ui = document.getElementById('ui').getContext('2d');
+const CX = 540, WHITE = '#FFFFFF', DIM = '#C9D3DD', ACCs = '#FF7A59';
+const BODY = [
+  { s: 2.0, e: 3.5, lines: [[{ text: '처음엔, 모든 게 새롭다', color: WHITE }]] },
+  { s: 3.5, e: 5.0, lines: [[{ text: '변화가 ', color: WHITE }, { text: '잘 느껴진다', color: '#F6AD55' }]] },
+  { s: 5.0, e: 7.5, lines: [[{ text: '익숙해지면,', color: DIM }], [{ text: '원래 방식으로 돌아간다', color: WHITE }]] },
+  { s: 7.5, e: 9.0, lines: [[{ text: '같은 힘 · 같은 방향 · 같은 버팀', color: WHITE }]] },
+  { s: 9.0, e: 11.0, lines: [[{ text: '한 번씩, ', color: WHITE }, { text: '패턴 밖으로', color: ACCs }]] },
+  { s: 11.0, e: 13.5, lines: [[{ text: '그리고, 쉬기', color: WHITE }], [{ text: '아무것도 하지 않는 시간도', color: DIM }]] },
+  { s: 13.5, e: 16.0, lines: [[{ text: '정답도, 완성도 없다', color: WHITE }]] },
+];
+function scrim(top, bottom) {
+  if (top > 0) { const g = ui.createLinearGradient(0, 180, 0, 640); g.addColorStop(0, `rgba(11,15,20,${0.85 * top})`); g.addColorStop(1, 'rgba(11,15,20,0)'); ui.fillStyle = g; ui.fillRect(0, 180, W, 460); }
+  if (bottom > 0) { const g = ui.createLinearGradient(0, 1140, 0, 1680); g.addColorStop(0, 'rgba(11,15,20,0)'); g.addColorStop(0.45, `rgba(11,15,20,${0.8 * bottom})`); g.addColorStop(1, `rgba(11,15,20,${0.9 * bottom})`); ui.fillStyle = g; ui.fillRect(0, 1140, W, 540); }
+}
+function rrect(x, y, w, h, r) { ui.beginPath(); ui.moveTo(x + r, y); ui.arcTo(x + w, y, x + w, y + h, r); ui.arcTo(x + w, y + h, x, y + h, r); ui.arcTo(x, y + h, x, y, r); ui.arcTo(x, y, x + w, y, r); ui.closePath(); }
+function drawUI(t) {
+  ui.clearRect(0, 0, W, H);
+  const hookOn = t < 2.0;
+  const bodyOn = BODY.some(b => visible(t, b.s, b.e)) || visible(t, 16, 18.5);
+  scrim(hookOn ? 1 - prog(t, 1.75, 0.25) : 0, bodyOn ? 1 : 0);
+  if (hookOn) {
+    drawLine(ui, [{ text: '완벽한 운동은', color: WHITE }], CX, 390, { t, start: 0.05, end: 2.0, size: 86, stagger: 0.03 });
+    drawLine(ui, [{ text: '없다', color: ACCs }], CX, 500, { t, start: 1.0, end: 2.0, size: 96, stagger: 0.08, rise: 50 });
+  }
+  for (const b of BODY) {
+    if (!visible(t, b.s, b.e)) continue;
+    const n = b.lines.length;
+    b.lines.forEach((ln, i) => drawLine(ui, ln, CX, 1540 - (n - 1 - i) * 80, { t, start: b.s + 0.05 + i * 0.12, end: b.e, size: i === n - 1 ? 60 : 50, weight: i === n - 1 ? 900 : 700 }));
+  }
+  if (visible(t, 16, 18.5)) {
+    const words = [['알아차리고', '#4FD1C5', 16.05], ['다르게 해보고', '#B794F4', 16.75], ['쉬고', '#F6AD55', 17.45]];
+    const sep = '  ·  ';
+    ui.font = '900 58px Pretendard';
+    const sw = ui.measureText(sep).width;
+    const total = words.reduce((a, w) => a + ui.measureText(w[0]).width, 0) + sw * 2;
+    let x = CX - total / 2;
+    words.forEach(([w, c, s], i) => {
+      ui.font = '900 58px Pretendard'; const ww = ui.measureText(w).width;
+      drawLine(ui, [{ text: w, color: c }], x, 1540, { t, start: s, end: 18.5, size: 58, align: 'left' });
+      x += ww;
+      if (i < 2) { drawLine(ui, [{ text: sep, color: DIM }], x, 1540, { t, start: s + 0.3, end: 18.5, size: 58, align: 'left', weight: 500 }); x += sw; }
+    });
+  }
+  if (t >= 18.5) {
+    const a = ease.out(prog(t, 18.5, 0.4)) * (1 - prog(t, 20.75, 0.25));
+    ui.save(); ui.globalAlpha = a; ui.fillStyle = 'rgba(11,15,20,0.62)'; rrect(110, 770, 860, 380, 36); ui.fill();
+    ui.strokeStyle = 'rgba(255,255,255,0.14)'; ui.lineWidth = 2; ui.stroke(); ui.restore();
+    drawLine(ui, [{ text: '완성된 몸이 아니라', color: DIM }], CX, 900, { t, start: 18.6, end: 21, size: 52, weight: 700 });
+    drawLine(ui, [{ text: '흘러가는 몸', color: WHITE }], CX, 1000, { t, start: 18.85, end: 21, size: 72, stagger: 0.05 });
+    drawLine(ui, [{ text: '그러다, 또 움직이기', color: ACCs }], CX, 1086, { t, start: 19.4, end: 21, size: 40, weight: 700, shadow: false });
+  }
+  const f = [[1.0, 0.18], [2.0, 0.3], [9.2, 0.45], [16.8, 0.15]].reduce((a, [s, v]) => a + (t >= s ? v * Math.exp(-(t - s) * 9) : 0), 0);
+  if (f > 0.002) { ui.fillStyle = `rgba(255,245,235,${f})`; ui.fillRect(0, 0, W, H); }
+}
+
+window.renderFrame = function (t) {
+  const mono = kf(K.mono, t), brk = kf(K.brk, t), flat = kf(K.flat, t);
+  ribbons.forEach((mesh, i) => {
+    const isB = i === kBrk;
+    const curve = new THREE.CatmullRomCurve3(pathPoints(i, t));
+    mesh.geometry.dispose();
+    mesh.geometry = new THREE.TubeGeometry(curve, 240, isB ? lerp(0.035, 0.075, brk) : 0.035, 10, false);
+    const base = palAt(i / (N - 1));
+    const c = isB && brk > 0 ? base.clone().lerp(ACC, brk) : base.clone().lerp(GREY, mono);
+    mesh.material.color.copy(c);
+    mesh.material.emissive.copy(c).multiplyScalar(isB ? lerp(0.35, 1.6, brk) : lerp(0.35, 0.12, flat));
+  });
+  dustMat.opacity = kf(K.dust, t);
+  dust.rotation.y = t * 0.02;
+  camera.position.set(kf(K.cx, t), kf(K.cy, t), kf(K.cz, t));
+  camera.lookAt(0, kf(K.ly, t), 0);
+  bloom.strength = lerp(0.55, 0.3, flat);
+  composer.render();
+  drawUI(t);
+};
+await Promise.all(['900 80px Pretendard', '700 50px Pretendard', '500 50px Pretendard'].map(f => document.fonts.load(f)));
+window.renderFrame(0);
+window.__ready = true;
+</script></body></html>
