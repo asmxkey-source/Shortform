@@ -237,14 +237,9 @@ function sceneCTA(t) {
   ctx.save(); ctx.globalAlpha = a;
   rr(90, 780, 900, 380, 40); ctx.fillStyle = INK; ctx.fill();
   ctx.restore();
-  drawLine(ctx, [{ text: '운동은 완성된 몸이 아니라', color: '#CFC7BC' }], CX, 880, { t, start: 19.6, end: 23, size: 46, weight: 700, shadow: false });
-  drawLine(ctx, [{ text: '계속 흘러갈 수 있는 몸을', color: '#FFFFFF' }], CX, 975, { t, start: 19.8, end: 23, size: 64, shadow: false });
-  drawLine(ctx, [{ text: '만들어가는 과정', color: '#FF8A63' }], CX, 1055, { t, start: 20.05, end: 23, size: 64, shadow: false });
-  const pa = ease.out(prog(t, 20.5, 0.3));
-  ctx.save(); ctx.globalAlpha = pa;
-  rr(CX - 250, 1095, 500, 56, 28); ctx.fillStyle = 'rgba(255,255,255,0.12)'; ctx.fill();
-  ctx.textBaseline = 'middle'; txt('저장하고, 지칠 때 다시 보기', CX, 1125, 32, '#FFFFFF', 700); ctx.textBaseline = 'alphabetic';
-  ctx.restore();
+  drawLine(ctx, [{ text: '운동은 완성된 몸이 아니라', color: '#CFC7BC' }], CX, 905, { t, start: 19.6, end: 23, size: 46, weight: 700, shadow: false });
+  drawLine(ctx, [{ text: '계속 흘러갈 수 있는 몸을', color: '#FFFFFF' }], CX, 1000, { t, start: 19.8, end: 23, size: 64, shadow: false });
+  drawLine(ctx, [{ text: '만들어가는 과정', color: '#FF8A63' }], CX, 1080, { t, start: 20.05, end: 23, size: 64, shadow: false });
 }
 
 window.renderFrame = function (t) {
