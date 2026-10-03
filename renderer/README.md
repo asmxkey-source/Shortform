@@ -23,3 +23,20 @@ node render.mjs scenes/exercise-flow-motion.html out/motion.mp4 21 --stills 0.5,
 | `scenes/exercise-flow-explainer.html` | A 설명형 | 22초 | 훅 → 효과 체감 곡선 → 관점 전환 → ①알아차리기(★인터럽트 9.5초) ②벗어나 보기 ③쉬기 → 순환 → CTA |
 
 공통 규격: 1080×1920, 30fps, Pretendard. 텍스트는 `top_safe`, `lower_safe`(하단 기준선 1540), `cta_center` 밴드에만 둔다(`docs/shortform-screen-layout.md` §3).
+
+## DNS 코어 시퀀스 (설명형, 2버전)
+
+`scenes/dns/` — 동작 데이터(`dns-timeline.js`) 하나로 두 버전을 만든다. 인체는 옆모습 2D 리그(몸통 2분절: 허리/등 위쪽)로 그린다.
+
+| 파일 | 용도 | 길이 | 하단 문구 |
+|---|---|---|---|
+| `dns-review.html` (A) | 회원 복습용 | 약 2분 10초 | 큐잉 2줄, 단계당 2회 반복 |
+| `dns-record.html` (B) | 강사 시퀀스 기록용 | 약 1분 15초 | 기술 노트 1줄, 시퀀스 맵, 요약 카드 |
+
+```bash
+mkdir -p out && node scenes/dns/dns-audio.cjs          # 타임라인 → out/dns-A.json, dns-B.json
+node synth.mjs out/dns-A.json out/dns-A.wav
+node render.mjs scenes/dns/dns-review.html out/dns-A.mp4 129.6 out/dns-A.wav
+```
+
+좌우 규칙(머리가 화면 왼쪽): 바로 누운 자세는 화면 앞쪽 팔다리가 오른쪽, 엎드린 자세는 왼쪽.

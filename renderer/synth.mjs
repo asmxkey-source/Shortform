@@ -35,7 +35,7 @@ const CFG = {
     plucks: [[0.05, 'G4'], [0.4, 'C4'], [1.0, 'E4'], [2.0, 'G4'], [4.5, 'F4'], [7.0, 'D4'], [7.7, 'G4'], [9.5, 'A4'], [9.9, 'F4'], [10.25, 'G4'], [10.6, 'A4'], [12.0, 'G4'], [13.3, 'C4'], [14.5, 'E4'], [15.8, 'A4'], [17.0, 'G4'], [19.5, 'C4'], [20.05, 'G4']],
     rise: null,
   },
-}[kind];
+}[kind] || JSON.parse(fs.readFileSync(kind, 'utf8'));  // 또는 JSON 설정 파일
 
 const N = Math.round(CFG.dur * SR);
 const L = new Float32Array(N), R = new Float32Array(N);
@@ -83,7 +83,7 @@ for (const [at, amp] of CFG.whoosh) {
 }
 // 3) 플럭: 부드러운 마림바풍 (사인 + 4배음, 빠른 감쇠)
 for (const [at, n] of CFG.plucks) {
-  const f = note(F[n]) * 2;
+  const f = note(typeof n === 'number' ? n : F[n]) * 2;
   for (let i = Math.floor(at * SR); i < Math.min(N, (at + 1.2) * SR); i++) {
     const t = i / SR - at;
     const a = Math.min(1, t / 0.004) * Math.exp(-t * 5.5);
