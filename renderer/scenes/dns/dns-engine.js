@@ -7,7 +7,7 @@ const V = window.VERSION, TL = DNS.build(V), EX = DNS.EX;
 window.DURATION = TL.dur;
 
 // ── 리그 치수(px) ──
-const L = Object.fromEntries(Object.entries({ torso: 250, neck: 24, head: 44, up: 128, fore: 122, thigh: 168, shin: 160, foot: 46, tw: 62, lw: 30 }).map(([k, v]) => [k, Math.round(v * 1.1)]));
+const L = Object.fromEntries(Object.entries({ torso: 250, neck: 24, head: 44, up: 118, fore: 108, thigh: 205, shin: 172, foot: 46, tw: 62, lw: 30 }).map(([k, v]) => [k, Math.round(v * 1.1)]));
 const PI = Math.PI;
 const FLOOR = V === 'A' ? 1180 : 1200;
 
@@ -20,9 +20,10 @@ function basePose(post) {
     case 'tuck': return { torso: PI, upper: PI - 0.5, head: PI - 0.85, aN: [0.28, 0.28], aF: [0.28, 0.28], lN: [PI / 2 + 0.3, -0.05], lF: [PI / 2 + 0.3, -0.05], footRel: PI / 2, ground: 'pelvis' };
     case 'band': return { torso: PI, upper: PI - 0.42, head: PI - 0.75, aN: [1.05, 0.9], aF: [1.05, 0.9], lN: [PI / 2, 0], lF: [PI / 2, 0], footRel: PI / 2, ground: 'pelvis' };
     case 'quad': {
-      const dy = (L.up + L.fore + 8) - (L.thigh + 16);
-      const tor = PI - Math.asin(dy / L.torso);
-      return { torso: tor, head: tor + 0.1, aN: [-PI / 2, -PI / 2], aF: [-PI / 2, -PI / 2], lN: [-PI / 2, 0], lF: [-PI / 2, 0], footRel: 0, ground: 'knee' };
+      // 등(목~엉덩이) 수평, 머리도 일직선. 손이 어깨 바로 아래 바닥에 닿도록
+      // 어깨 관절을 척추선보다 armDrop만큼 아래(몸 앞쪽)에 둔다
+      const hipH = L.thigh + L.lw / 2, armH = L.up + L.fore + L.lw / 2;
+      return { torso: PI, head: PI, armDrop: hipH - armH, aN: [-PI / 2, -PI / 2], aF: [-PI / 2, -PI / 2], lN: [-PI / 2, 0], lF: [-PI / 2, 0], footRel: 0, ground: 'knee' };
     }
     case 'plank': {
       const th = Math.asin((L.up + L.fore) / (L.torso + L.thigh + L.shin));
@@ -69,9 +70,10 @@ function raw(pose) {
   const S = pt(M, pose.upper ?? pose.torso, L.torso / 2);
   const NK = pt(S, pose.head, L.neck), HD = pt(NK, pose.head, L.head);
   const limb = (root, a, l1, l2) => { const m = pt(root, a[0], l1); return [root, m, pt(m, a[1], l2)]; };
+  const SH = [S[0], S[1] + (pose.armDrop || 0)];
   const J = {
     S, M, NK, HD, P: P0,
-    aN: limb(S, pose.aN, L.up, L.fore), aF: limb(S, pose.aF, L.up, L.fore),
+    aN: limb(SH, pose.aN, L.up, L.fore), aF: limb(SH, pose.aF, L.up, L.fore),
     lN: limb(P0, pose.lN, L.thigh, L.shin), lF: limb(P0, pose.lF, L.thigh, L.shin),
   };
   J.fN = pt(J.lN[2], pose.lN[1] + pose.footRel, L.foot); J.fF = pt(J.lF[2], pose.lF[1] + pose.footRel, L.foot);
